@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    /*--color-white: var();*/
+    --color-dark: var(--base-200);
+    --color-base:var(--base-300);
+    --color-border: var(--base-300);
+    --color-base-100: var(--base-100);
+    --color-base-200: var(--base-200);
+    --color-base-300: var(--base-300);
+    --color-base-content: var(--base-content);
+    --color-primary: var(--primary);
+    --color-primary-content: var(--primary-content);
+    --color-secondary: var(--secondary);
+    --color-secondary-content: var(--secondary-content);
+    --color-accent: var(--accent) ;
+    --color-accent-content: var(--accent-content);
+    --color-neutral: var(--neutral);
+    --color-neutral-content: var(--neutral-content);
+    --color-info: var(--info);
+    --color-info-content: var(--info-content);
+    --color-success: var(--success);
+    --color-success-content: var(--success-content);
+    --color-warning: var(--warning);
+    --color-warning-content: var(--warning-content);
+    --color-error: var(--error);
+    --color-error-content: var(--error-content);
+    --radius-selector: 0rem;
+    --radius-field: 2rem;
+    --radius-box: 0.5rem;
+    --size-selector: 0.25rem;
+    --size-field: 0.25rem;
+    --border: 1.5px;
+    --depth: 0;
+    --noise: 0;
+}
+
+:root {
+    --base-100: oklch(98% 0.002 247.839);
+    --base-200: oklch(96% 0.003 264.542);
+    --base-300: oklch(92% 0.006 264.531);
+    --base-content: oklch(21% 0.034 264.665);
+    --primary: oklch(70% 0.01 56.259);
+    --primary-content: oklch(14% 0.004 49.25);
+    --secondary: oklch(70% 0.165 254.624);
+    --secondary-content: oklch(28% 0.091 267.935);
+    --accent: oklch(78% 0.154 211.53);
+    --accent-content: oklch(30% 0.056 229.695);
+    --neutral: oklch(44% 0.03 256.802);
+    --neutral-content: oklch(98% 0.002 247.839);
+    --info: oklch(62% 0.214 259.815);
+    --info-content: oklch(97% 0.014 254.604);
+    --success: oklch(70% 0.14 182.503);
+    --success-content: oklch(98% 0.014 180.72);
+    --warning: oklch(76% 0.188 70.08);
+    --warning-content: oklch(98% 0.022 95.277);
+    --error: oklch(63% 0.237 25.331);
+    --error-content: oklch(97% 0.013 17.38);
+}
+
+.dark {
+}
+
+@layer base {
+    html, body {
+        @apply relative w-full h-full ;
+    }
+
+    #__nuxt {
+        @apply relative h-full bg-dark text-base-content;
+    }
+}

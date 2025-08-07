@@ -48,6 +48,7 @@ const owners = ref([
     'ffgenius',
     'doyuli',
     'qianYuanJ',
+    'TAYUNG',
 ])
 
 const profileRef = useTemplateRef('profileRef')

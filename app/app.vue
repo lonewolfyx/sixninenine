@@ -38,7 +38,7 @@
 <script lang="ts" setup>
 const config = useRuntimeConfig()
 const owners = ref([
-    'Alfred-Skyblue',
+    // 'Alfred-Skyblue',
     'pkc918',
     'yuguaa',
     'ArthurDarkstone',

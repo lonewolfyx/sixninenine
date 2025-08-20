@@ -53,7 +53,8 @@
                 <span class="mx-0.5 size-0.5 bg-base-content/60 rounded-full" />
                 <span class="">{{ item.totalCommentsCount }} comments</span>
                 <span class="mx-0.5 size-0.5 bg-base-content/60 rounded-full" />
-                <span class="">{{ dayjs(item.createdAt).format('YYYY-MM-DD HH:mm:ss') }}</span>
+                <!-- <span class="">{{ dayjs(item.createdAt).format('YYYY-MM-DD HH:mm:ss') }}</span> -->
+                <span class="">{{ formatGitHubStyle(item.createdAt) }}</span>
             </div>
         </div>
     </div>
@@ -62,6 +63,7 @@
 <script lang="ts" setup>
 import type { IPullRequest } from '~/types'
 import dayjs from 'dayjs'
+import { formatGitHubStyle } from '~/lib/date-toolkit'
 
 defineOptions({
     name: 'PullRequestItems',

@@ -32,7 +32,6 @@ export default defineNuxtConfig({
 
     runtimeConfig: {
         public: {
-            githubToken: process.env.GITHUB_TOKEN,
             githubRepo: 'https://github.com/lonewolfyx/sixninenine',
         },
     },

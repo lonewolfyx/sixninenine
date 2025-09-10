@@ -1,15 +1,18 @@
 export const members = [
     // 'Alfred-Skyblue',
-    'pkc918',
-    'kovsu',
-    'ilyaliao',
-    'yuguaa',
+    'pkc918', // 肉丝哥
+    'kovsu', // antdv 团队成员
+    'ilyaliao', // vueuse 团队成员
+    'Bao0630', // ant-design-x-vue 团队成员
+    'yuguaa', // Element-Plus-X
     'lonewolfyx',
     'ArthurDarkstone', // 高手哥
-    'broBinChen',
-    'keeplearning66',
-    'ffgenius',
+    'broBinChen', // 木木哥
+    'ffgenius', // 粉红色的回忆
+    'heyrian', // 日安小姐姐
+    'LarryZhu-dev',
     'doyuli',
+    'keeplearning66',
     'qianYuanJ',
     'snowbitx',
     'TAYUN',
@@ -18,7 +21,4 @@ export const members = [
     'wan-kong',
     'penghangtao',
     'lbineau',
-    'LarryZhu-dev',
-    'Bao0630',
-    'heyrian', // 日安小姐姐
 ]

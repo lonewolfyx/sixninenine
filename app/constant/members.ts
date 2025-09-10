@@ -1,11 +1,12 @@
 export const members = [
     // 'Alfred-Skyblue',
     'pkc918',
-    'yuguaa',
-    'ArthurDarkstone', // 高手哥
-    'lonewolfyx',
-    'broBinChen',
+    'kovsu',
     'ilyaliao',
+    'yuguaa',
+    'lonewolfyx',
+    'ArthurDarkstone', // 高手哥
+    'broBinChen',
     'keeplearning66',
     'ffgenius',
     'doyuli',

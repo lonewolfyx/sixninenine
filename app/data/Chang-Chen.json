@@ -1,263 +1,107 @@
 {
     "userInfo": {
-        "login": "broBinChen",
-        "name": null,
-        "bio": "",
-        "url": "https://github.com/broBinChen",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/139344558?u=b2d68924f60c541644d1ea1d5af0df3a8bec692f&v=4",
+        "login": "Chang-Chen",
+        "name": "TheZhen",
+        "bio": "Do you wanna build a snowman?",
+        "url": "https://github.com/Chang-Chen",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37439847?u=34f08379157e3d2e192943ff8ccb9421a43595b6&v=4",
         "pronouns": "",
-        "followers": 0,
-        "following": 4
+        "followers": 2,
+        "following": 3
     },
-    "languages": [],
+    "languages": [
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 4307044,
+            "repoCount": 6,
+            "progress": "88.58"
+        },
+        {
+            "name": "CSS",
+            "color": "#663399",
+            "size": 501134,
+            "repoCount": 4,
+            "progress": "10.31"
+        },
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 28166,
+            "repoCount": 3,
+            "progress": "0.58"
+        },
+        {
+            "name": "Vue",
+            "color": "#41b883",
+            "size": 16411,
+            "repoCount": 2,
+            "progress": "0.34"
+        },
+        {
+            "name": "HTML",
+            "color": "#e34c26",
+            "size": 9685,
+            "repoCount": 6,
+            "progress": "0.20"
+        }
+    ],
     "organizations": {
         "nodes": [],
         "totalCount": 0
     },
     "pullRequest": [
         {
-            "number": 4980,
-            "title": "perf(usePointer): use shallowRef for better performance",
-            "url": "https://github.com/vueuse/vueuse/pull/4980",
-            "state": "MERGED",
-            "changedFiles": 1,
+            "number": 255,
+            "title": "Added FAQs for using the v-draggable directive",
+            "url": "https://github.com/Alfred-Skyblue/vue-draggable-plus/pull/255",
+            "state": "OPEN",
+            "changedFiles": 2,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 1,
-            "createdAt": "2025-08-22T09:11:32Z",
-            "mergedAt": "2025-08-22T17:03:26Z",
-            "closedAt": "2025-08-22T17:03:27Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 42,
-            "title": "feat(api): support custom OpenAI base URL via OPENAI_BASE_URL",
-            "url": "https://github.com/firecrawl/open-lovable/pull/42",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-13T01:42:17Z",
+            "createdAt": "2025-09-10T12:05:22Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "open-lovable",
-                "nameWithOwner": "firecrawl/open-lovable",
-                "homepageUrl": "",
-                "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+                "name": "vue-draggable-plus",
+                "nameWithOwner": "Alfred-Skyblue/vue-draggable-plus",
+                "homepageUrl": "https://vue-draggable-plus.pages.dev/en/",
+                "description": "Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2",
                 "owner": {
-                    "login": "firecrawl",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4"
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
                 },
-                "url": "https://github.com/firecrawl/open-lovable"
+                "url": "https://github.com/Alfred-Skyblue/vue-draggable-plus"
             }
         },
         {
-            "number": 4884,
-            "title": "docs: inline Key components in useMagicKeys and useKeyModifier demos",
-            "url": "https://github.com/vueuse/vueuse/pull/4884",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 40,
-            "deletions": 20,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-07-16T03:16:02Z",
-            "mergedAt": "2025-07-28T04:41:47Z",
-            "closedAt": "2025-07-28T04:41:47Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 278,
-            "title": "test: add unit tests for usePrevious hook",
-            "url": "https://github.com/InhiblabCore/vue-hooks-plus/pull/278",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 270,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-15T02:12:57Z",
-            "mergedAt": "2025-07-16T02:22:26Z",
-            "closedAt": "2025-07-16T02:22:26Z",
-            "repository": {
-                "name": "vue-hooks-plus",
-                "nameWithOwner": "InhiblabCore/vue-hooks-plus",
-                "homepageUrl": "https://inhiblabcore.github.io/vue-hooks-plus",
-                "description": "High performance  & Simplicity  🧲  Vue 3 Hooks library",
-                "owner": {
-                    "login": "InhiblabCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/101787716?v=4"
-                },
-                "url": "https://github.com/InhiblabCore/vue-hooks-plus"
-            }
-        },
-        {
-            "number": 4877,
-            "title": "test: add comprehensive tests for useStorageAsync",
-            "url": "https://github.com/vueuse/vueuse/pull/4877",
+            "number": 331,
+            "title": "fix: 输入框组件，增加字符最大数限制",
+            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/331",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 495,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-14T09:40:47Z",
+            "changedFiles": 13,
+            "additions": 119,
+            "deletions": 105,
+            "totalCommentsCount": 21,
+            "createdAt": "2025-09-04T12:19:26Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "name": "Element-Plus-X",
+                "nameWithOwner": "element-plus-x/Element-Plus-X",
+                "homepageUrl": "https://element-plus-x.com",
+                "description": "Enterprise-level AI component library front-end solution 🤖",
                 "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
                 },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4876,
-            "title": "test(useVModels): add missing test coverage",
-            "url": "https://github.com/vueuse/vueuse/pull/4876",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 305,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-14T07:58:57Z",
-            "mergedAt": "2025-07-14T10:01:37Z",
-            "closedAt": "2025-07-14T10:01:37Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 54384,
-            "title": "fix: resolve non-null assertion logic error in useLocale hook",
-            "url": "https://github.com/ant-design/ant-design/pull/54384",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-07-14T04:02:16Z",
-            "mergedAt": "2025-07-14T05:24:32Z",
-            "closedAt": "2025-07-14T05:24:32Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 54381,
-            "title": "fix: correct SiteState type property name in GlobalLayout",
-            "url": "https://github.com/ant-design/ant-design/pull/54381",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-07-14T02:52:25Z",
-            "mergedAt": "2025-07-14T03:29:40Z",
-            "closedAt": "2025-07-14T03:29:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 54356,
-            "title": "fix: fix toggle theme switch unable to turn off in docs",
-            "url": "https://github.com/ant-design/ant-design/pull/54356",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 11,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-07-11T03:59:11Z",
-            "mergedAt": "2025-07-11T06:24:40Z",
-            "closedAt": "2025-07-11T06:24:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 4864,
-            "title": "perf(useRafFn): optimize FPS limiting with intelligent scheduling",
-            "url": "https://github.com/vueuse/vueuse/pull/4864",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 17,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-07-09T07:13:02Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-15T12:17:58Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
+                "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
         }
     ],
     "contributions": {
-        "total": 32,
+        "total": 67,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -873,11 +717,11 @@
             },
             {
                 "date": "2025-06-03",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-06-04",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-06-05",
@@ -893,11 +737,11 @@
             },
             {
                 "date": "2025-06-08",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-06-09",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-06-10",
@@ -933,11 +777,11 @@
             },
             {
                 "date": "2025-06-18",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-06-19",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-06-20",
@@ -969,7 +813,7 @@
             },
             {
                 "date": "2025-06-27",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-06-28",
@@ -1013,11 +857,11 @@
             },
             {
                 "date": "2025-07-08",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-07-09",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-07-10",
@@ -1025,7 +869,7 @@
             },
             {
                 "date": "2025-07-11",
-                "count": 3
+                "count": 0
             },
             {
                 "date": "2025-07-12",
@@ -1037,15 +881,15 @@
             },
             {
                 "date": "2025-07-14",
-                "count": 8
+                "count": 0
             },
             {
                 "date": "2025-07-15",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-07-16",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-07-17",
@@ -1093,7 +937,7 @@
             },
             {
                 "date": "2025-07-28",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-07-29",
@@ -1149,7 +993,7 @@
             },
             {
                 "date": "2025-08-11",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-08-12",
@@ -1157,7 +1001,7 @@
             },
             {
                 "date": "2025-08-13",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-08-14",
@@ -1193,11 +1037,11 @@
             },
             {
                 "date": "2025-08-22",
-                "count": 1
+                "count": 53
             },
             {
                 "date": "2025-08-23",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-08-24",
@@ -1205,11 +1049,11 @@
             },
             {
                 "date": "2025-08-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-08-26",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-08-27",
@@ -1245,11 +1089,11 @@
             },
             {
                 "date": "2025-09-04",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-09-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-06",
@@ -1261,7 +1105,7 @@
             },
             {
                 "date": "2025-09-08",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-09-09",
@@ -1269,7 +1113,7 @@
             },
             {
                 "date": "2025-09-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-11",

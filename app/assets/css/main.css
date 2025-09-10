@@ -6,7 +6,7 @@
 @theme inline {
     /*--color-white: var();*/
     --color-dark: var(--base-200);
-    --color-base:var(--base-300);
+    --color-base: var(--base-300);
     --color-border: var(--base-300);
     --color-base-100: var(--base-100);
     --color-base-200: var(--base-200);
@@ -16,7 +16,7 @@
     --color-primary-content: var(--primary-content);
     --color-secondary: var(--secondary);
     --color-secondary-content: var(--secondary-content);
-    --color-accent: var(--accent) ;
+    --color-accent: var(--base-100) ;
     --color-accent-content: var(--accent-content);
     --color-neutral: var(--neutral);
     --color-neutral-content: var(--neutral-content);
@@ -39,6 +39,9 @@
 }
 
 :root {
+    --header-height: 50px;
+    --sidebar-width: 60px;
+
     --base-100: oklch(98% 0.002 247.839);
     --base-200: oklch(96% 0.003 264.542);
     --base-300: oklch(92% 0.006 264.531);
@@ -61,9 +64,6 @@
     --error-content: oklch(97% 0.013 17.38);
 }
 
-.dark {
-}
-
 @layer base {
     html, body {
         @apply relative w-full h-full ;
@@ -72,4 +72,8 @@
     #__nuxt {
         @apply relative h-full bg-dark text-base-content;
     }
+}
+
+::-webkit-scrollbar {
+    @apply w-0 h-0;
 }

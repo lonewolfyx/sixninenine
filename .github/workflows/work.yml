@@ -1,0 +1,56 @@
+name: Get User Data
+
+on:
+  push:
+    branches: [ 'master' ]
+  pull_request:
+    branches: [ 'master' ]
+
+  schedule:
+    - cron: '30 */6 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [ 22.x ]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10.15.1
+
+      - name: Set beijing TimeZone
+        uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区
+        with:
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: 'Asia/Singapore'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Generator Github User Data
+        run: GITHUB_API_TOKEN=${{secrets.GITHUB_API_TOKEN}} pnpm run build:data
+
+      - name: 'Commit'
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: lonewolfyx
+          author_email: olddrivero.king@qq.com
+          message: 'fix: update user data'
+          add: '.'
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

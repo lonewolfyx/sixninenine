@@ -1,4 +1,5 @@
 import tailwindcss from '@tailwindcss/vite'
+import { virtualMembers } from './plugins/virtual-members'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -41,6 +42,7 @@ export default defineNuxtConfig({
     vite: {
         plugins: [
             tailwindcss(),
+            virtualMembers(),
         ],
     },
 
@@ -62,7 +64,7 @@ export default defineNuxtConfig({
          * Directory that the component lives in.
          * @default "./components/ui"
          */
-        componentDir: './components/ui',
+        componentDir: './app/components/ui',
     },
 
 })

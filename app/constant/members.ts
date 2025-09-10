@@ -21,4 +21,5 @@ export const members = [
     'wan-kong',
     'penghangtao',
     'lbineau',
+    'Chang-Chen',
 ]

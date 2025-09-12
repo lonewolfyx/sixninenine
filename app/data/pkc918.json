@@ -289,6 +289,30 @@
     },
     "pullRequest": [
         {
+            "number": 395,
+            "title": "fix: standardize quote style in Nuxt.js example",
+            "url": "https://github.com/ueberdosis/tiptap-docs/pull/395",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-12T11:53:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tiptap-docs",
+                "nameWithOwner": "ueberdosis/tiptap-docs",
+                "homepageUrl": "https://tiptap.dev/docs",
+                "description": null,
+                "owner": {
+                    "login": "ueberdosis",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/16939337?v=4"
+                },
+                "url": "https://github.com/ueberdosis/tiptap-docs"
+            }
+        },
+        {
             "number": 4960,
             "title": "feat(useSpeechSynthesisOptions): add option `onBoundary`",
             "url": "https://github.com/vueuse/vueuse/pull/4960",
@@ -503,34 +527,10 @@
                 },
                 "url": "https://github.com/vitejs/devtools"
             }
-        },
-        {
-            "number": 17,
-            "title": "feat: install @types/splitpanes",
-            "url": "https://github.com/vitejs/devtools/pull/17",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 43,
-            "deletions": 21,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-13T02:16:34Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-13T02:45:31Z",
-            "repository": {
-                "name": "devtools",
-                "nameWithOwner": "vitejs/devtools",
-                "homepageUrl": "",
-                "description": "DevTools for Vite (Rolldown). Working in Progress",
-                "owner": {
-                    "login": "vitejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
-                },
-                "url": "https://github.com/vitejs/devtools"
-            }
         }
     ],
     "contributions": {
-        "total": 249,
+        "total": 251,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1550,7 +1550,7 @@
             },
             {
                 "date": "2025-09-12",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-09-13",

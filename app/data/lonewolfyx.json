@@ -6,7 +6,7 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4",
         "pronouns": "",
-        "followers": 49,
+        "followers": 50,
         "following": 58
     },
     "languages": [
@@ -396,6 +396,54 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "refactor: blocks and menus construction",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/10",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 130,
+            "deletions": 170,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-12T11:08:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
+            "number": 9,
+            "title": "fix: sort directory/file entries alphabetically",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/9",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-12T07:03:37Z",
+            "mergedAt": "2025-09-12T07:03:49Z",
+            "closedAt": "2025-09-12T07:03:49Z",
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
             "number": 8,
             "title": "fix: rename vitePluginMenus to virtualMenus",
             "url": "https://github.com/vue-blocks/vue-blocks/pull/8",
@@ -586,58 +634,10 @@
                 },
                 "url": "https://github.com/Auto-Plugin/milkup"
             }
-        },
-        {
-            "number": 56,
-            "title": "ci: add comment on PR merge workflow",
-            "url": "https://github.com/Auto-Plugin/milkup/pull/56",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 40,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-26T12:47:54Z",
-            "mergedAt": "2025-08-27T01:16:31Z",
-            "closedAt": "2025-08-27T01:16:31Z",
-            "repository": {
-                "name": "milkup",
-                "nameWithOwner": "Auto-Plugin/milkup",
-                "homepageUrl": "https://milkup.dev",
-                "description": "a free desktop markdown editor",
-                "owner": {
-                    "login": "Auto-Plugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
-                },
-                "url": "https://github.com/Auto-Plugin/milkup"
-            }
-        },
-        {
-            "number": 1,
-            "title": "Master",
-            "url": "https://github.com/lonewolfyx-template/nuxt-websocket-template/pull/1",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 15160,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-25T14:46:26Z",
-            "mergedAt": "2025-08-25T14:46:35Z",
-            "closedAt": "2025-08-25T14:46:35Z",
-            "repository": {
-                "name": "nuxt-websocket-template",
-                "nameWithOwner": "lonewolfyx-template/nuxt-websocket-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/nuxt-websocket-template"
-            }
         }
     ],
     "contributions": {
-        "total": 11976,
+        "total": 11992,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1657,7 +1657,7 @@
             },
             {
                 "date": "2025-09-12",
-                "count": 24
+                "count": 40
             },
             {
                 "date": "2025-09-13",

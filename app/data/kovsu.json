@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 17903,
+            "title": "Prevent matching mixin calls inside parameters",
+            "url": "https://github.com/prettier/prettier/pull/17903",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 69,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-12T02:24:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17902,
             "title": "Unify `require` and`import` formatting logic",
             "url": "https://github.com/prettier/prettier/pull/17902",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 8668,
-            "title": "`conflict-marker` - Remove feature for repo issue list",
-            "url": "https://github.com/refined-github/refined-github/pull/8668",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-08T01:03:12Z",
-            "mergedAt": "2025-09-09T03:51:57Z",
-            "closedAt": "2025-09-09T03:51:57Z",
-            "repository": {
-                "name": "refined-github",
-                "nameWithOwner": "refined-github/refined-github",
-                "homepageUrl": "",
-                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
-                "owner": {
-                    "login": "refined-github",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
-                },
-                "url": "https://github.com/refined-github/refined-github"
-            }
         }
     ],
     "contributions": {
-        "total": 654,
+        "total": 655,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1850,7 +1850,7 @@
             },
             {
                 "date": "2025-09-12",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-13",

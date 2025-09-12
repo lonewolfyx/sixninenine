@@ -396,6 +396,54 @@
     },
     "pullRequest": [
         {
+            "number": 8,
+            "title": "fix: rename vitePluginMenus to virtualMenus",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/8",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-12T06:34:58Z",
+            "mergedAt": "2025-09-12T06:36:54Z",
+            "closedAt": "2025-09-12T06:36:54Z",
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
+            "number": 7,
+            "title": "refactor: move common functions to share/utils",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/7",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-12T06:16:40Z",
+            "mergedAt": "2025-09-12T06:17:37Z",
+            "closedAt": "2025-09-12T06:17:37Z",
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
             "number": 6,
             "title": "feat: add `Team11` blocks",
             "url": "https://github.com/vue-blocks/vue-blocks/pull/6",
@@ -586,58 +634,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/nuxt-websocket-template"
             }
-        },
-        {
-            "number": 1,
-            "title": "Initial project",
-            "url": "https://github.com/lonewolfyx-template/ts-lib-template/pull/1",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 7540,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-24T12:23:06Z",
-            "mergedAt": "2025-08-24T12:23:12Z",
-            "closedAt": "2025-08-24T12:23:12Z",
-            "repository": {
-                "name": "ts-lib-template",
-                "nameWithOwner": "lonewolfyx-template/ts-lib-template",
-                "homepageUrl": null,
-                "description": "Typescript library template",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/ts-lib-template"
-            }
-        },
-        {
-            "number": 53,
-            "title": "fix: 优化 GIthub Actions 版本发布",
-            "url": "https://github.com/Auto-Plugin/milkup/pull/53",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 45,
-            "deletions": 19,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-20T13:45:42Z",
-            "mergedAt": "2025-08-21T03:16:40Z",
-            "closedAt": "2025-08-21T03:16:40Z",
-            "repository": {
-                "name": "milkup",
-                "nameWithOwner": "Auto-Plugin/milkup",
-                "homepageUrl": "https://milkup.dev",
-                "description": "a free desktop markdown editor",
-                "owner": {
-                    "login": "Auto-Plugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
-                },
-                "url": "https://github.com/Auto-Plugin/milkup"
-            }
         }
     ],
     "contributions": {
-        "total": 11960,
+        "total": 11976,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1657,7 +1657,7 @@
             },
             {
                 "date": "2025-09-12",
-                "count": 8
+                "count": 24
             },
             {
                 "date": "2025-09-13",

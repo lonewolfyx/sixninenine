@@ -94,6 +94,30 @@
     },
     "pullRequest": [
         {
+            "number": 1294,
+            "title": "feat(wd-keyboard): 增加车牌键盘语言切换功能，支持受控和非受控模式",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1294",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 3924,
+            "deletions": 3809,
+            "totalCommentsCount": 10,
+            "createdAt": "2025-09-12T16:59:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 1251,
             "title": "feat(wot-design-uni): 新增瀑布流组件",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1251",
@@ -308,34 +332,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 660,
-            "title": "feat(dialog): 优化全屏交互体验，实现全屏状态可控，并增大全屏按钮热区",
-            "url": "https://github.com/mineadmin/MineAdmin/pull/660",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 3,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-07-23T02:35:34Z",
-            "mergedAt": "2025-07-24T01:17:08Z",
-            "closedAt": "2025-07-24T01:17:08Z",
-            "repository": {
-                "name": "MineAdmin",
-                "nameWithOwner": "mineadmin/MineAdmin",
-                "homepageUrl": "https://www.mineadmin.com",
-                "description": "🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置",
-                "owner": {
-                    "login": "mineadmin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/154049510?v=4"
-                },
-                "url": "https://github.com/mineadmin/MineAdmin"
-            }
         }
     ],
     "contributions": {
-        "total": 228,
+        "total": 229,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1359,7 +1359,7 @@
             },
             {
                 "date": "2025-09-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-14",

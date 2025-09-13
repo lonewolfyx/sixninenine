@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 17908,
+            "title": "Prevent break long module path in more places",
+            "url": "https://github.com/prettier/prettier/pull/17908",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 64,
+            "deletions": 5,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-09-13T09:54:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17903,
             "title": "Prevent matching mixin calls inside parameters",
             "url": "https://github.com/prettier/prettier/pull/17903",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/trueadm/ripple"
             }
-        },
-        {
-            "number": 17856,
-            "title": "Preserve Handlebars `else-if` syntax for custom helpers",
-            "url": "https://github.com/prettier/prettier/pull/17856",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 157,
-            "deletions": 32,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-09-08T07:00:56Z",
-            "mergedAt": "2025-09-09T09:11:10Z",
-            "closedAt": "2025-09-09T09:11:10Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 656,
+        "total": 658,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1854,7 +1854,7 @@
             },
             {
                 "date": "2025-09-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-09-14",

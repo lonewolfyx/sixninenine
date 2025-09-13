@@ -422,6 +422,30 @@
     },
     "pullRequest": [
         {
+            "number": 5034,
+            "title": "feat: mark computedEager as deprecated",
+            "url": "https://github.com/vueuse/vueuse/pull/5034",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-13T04:53:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 588,
             "title": "fix: dirs hot reload without wildcards",
             "url": "https://github.com/unplugin/unplugin-auto-import/pull/588",
@@ -636,34 +660,10 @@
                 },
                 "url": "https://github.com/webfansplz/vite-plugin-vue-inspector"
             }
-        },
-        {
-            "number": 4898,
-            "title": "docs(refDebounce,refThrottled): add usage example with object ref",
-            "url": "https://github.com/vueuse/vueuse/pull/4898",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-21T14:07:54Z",
-            "mergedAt": "2025-07-22T07:07:24Z",
-            "closedAt": "2025-07-22T07:07:24Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 1316,
+        "total": 1317,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1687,7 +1687,7 @@
             },
             {
                 "date": "2025-09-13",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-14",

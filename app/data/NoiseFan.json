@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 5037,
+            "title": "fix(useMagicKeys): clearing of other keys after releasing alt",
+            "url": "https://github.com/vueuse/vueuse/pull/5037",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 54,
+            "deletions": 18,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-14T11:40:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5036,
             "title": "test(useMousePressed): add test to cover all features",
             "url": "https://github.com/vueuse/vueuse/pull/5036",
@@ -137,7 +161,7 @@
         }
     ],
     "contributions": {
-        "total": 287,
+        "total": 288,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1165,7 +1189,7 @@
             },
             {
                 "date": "2025-09-14",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-15",

@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 17909,
+            "title": "Support format html event attributes",
+            "url": "https://github.com/prettier/prettier/pull/17909",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 106,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-15T02:26:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17908,
             "title": "Prevent break long module path in more places",
             "url": "https://github.com/prettier/prettier/pull/17908",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/trueadm/ripple"
             }
-        },
-        {
-            "number": 110,
-            "title": "fix: handle single array argument in ripple array constructor",
-            "url": "https://github.com/trueadm/ripple/pull/110",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-09-08T07:47:41Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-08T11:11:51Z",
-            "repository": {
-                "name": "ripple",
-                "nameWithOwner": "trueadm/ripple",
-                "homepageUrl": "https://ripplejs.com",
-                "description": "the elegant TypeScript UI framework",
-                "owner": {
-                    "login": "trueadm",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/1519870?u=713d232f1b3ffe3b99f63ad949145caccf7cde8e&v=4"
-                },
-                "url": "https://github.com/trueadm/ripple"
-            }
         }
     ],
     "contributions": {
-        "total": 658,
+        "total": 659,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1862,7 +1862,7 @@
             },
             {
                 "date": "2025-09-15",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-16",

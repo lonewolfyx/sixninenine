@@ -94,6 +94,30 @@
     },
     "pullRequest": [
         {
+            "number": 1302,
+            "title": "feat(rate): 支持清空评分，评分支持滑动为0",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1302",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-09-15T14:29:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 1294,
             "title": "feat(wd-keyboard): 增加车牌键盘语言切换功能，支持受控和非受控模式",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1294",
@@ -101,7 +125,7 @@
             "changedFiles": 5,
             "additions": 46,
             "deletions": 13,
-            "totalCommentsCount": 18,
+            "totalCommentsCount": 21,
             "createdAt": "2025-09-12T16:59:18Z",
             "mergedAt": null,
             "closedAt": null,
@@ -308,34 +332,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 1189,
-            "title": "Docs/fix project wide",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1189",
-            "state": "CLOSED",
-            "changedFiles": 5,
-            "additions": 222,
-            "deletions": 4,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-07-29T12:59:49Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-29T13:01:25Z",
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
         }
     ],
     "contributions": {
-        "total": 232,
+        "total": 233,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1367,7 +1367,7 @@
             },
             {
                 "date": "2025-09-15",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-16",

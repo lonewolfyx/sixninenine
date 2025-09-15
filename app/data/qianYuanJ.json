@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 20,
+            "title": "chore(docs): 增加贡献者",
+            "url": "https://github.com/anyup/uView-Pro/pull/20",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-15T09:22:07Z",
+            "mergedAt": "2025-09-15T12:35:13Z",
+            "closedAt": "2025-09-15T12:35:14Z",
+            "repository": {
+                "name": "uView-Pro",
+                "nameWithOwner": "anyup/uView-Pro",
+                "homepageUrl": "https://uview-pro.anyup.cn/",
+                "description": "uView Pro，是全面支持Vue3.0、TypeScript的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 uView Pro 的基线版本基于 uView 1.8.8 修改，使用 TypeScript 重构，目前已全面支持 uni-app Vue3.0",
+                "owner": {
+                    "login": "anyup",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/85225562?u=cad74fb4a5398e4f256c4ab1a22e46f0e11d0ab8&v=4"
+                },
+                "url": "https://github.com/anyup/uView-Pro"
+            }
+        },
+        {
+            "number": 99,
+            "title": "fix(composables): 增强 useQuery",
+            "url": "https://github.com/uni-helper/vitesse-uni-app/pull/99",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 127,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-15T08:56:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitesse-uni-app",
+                "nameWithOwner": "uni-helper/vitesse-uni-app",
+                "homepageUrl": "https://uni-helper.js.org/vitesse-uni-app",
+                "description": "由 Vite & uni-app 驱动的跨端快速启动模板",
+                "owner": {
+                    "login": "uni-helper",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
+                },
+                "url": "https://github.com/uni-helper/vitesse-uni-app"
+            }
+        },
+        {
             "number": 6705,
             "title": "fix(@vben-core/shadcn-ui): 修复VbenPinInput组件在点击获取验证码和回车同时进行时会重复触发计时器的问题 #6704",
             "url": "https://github.com/vbenjs/vue-vben-admin/pull/6705",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/vbenjs/vue-vben-admin"
             }
-        },
-        {
-            "number": 136,
-            "title": "fix: change text-green5 to text-green-400",
-            "url": "https://github.com/antfu/vitesse-nuxt/pull/136",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-01T03:47:31Z",
-            "mergedAt": "2025-08-01T04:32:55Z",
-            "closedAt": "2025-08-01T04:32:55Z",
-            "repository": {
-                "name": "vitesse-nuxt",
-                "nameWithOwner": "antfu/vitesse-nuxt",
-                "homepageUrl": "https://vitesse-nuxt3.netlify.app/",
-                "description": "Vitesse for Nuxt 4 🏔💚⚡️",
-                "owner": {
-                    "login": "antfu",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=746eca82e375631967235dd01261428762bbcbf9&v=4"
-                },
-                "url": "https://github.com/antfu/vitesse-nuxt"
-            }
-        },
-        {
-            "number": 36982,
-            "title": "docs: 09 Modify the topic description",
-            "url": "https://github.com/type-challenges/type-challenges/pull/36982",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-31T08:57:19Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "type-challenges",
-                "nameWithOwner": "type-challenges/type-challenges",
-                "homepageUrl": "https://tsch.js.org/",
-                "description": "Collection of TypeScript type challenges with online judge",
-                "owner": {
-                    "login": "type-challenges",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68700335?v=4"
-                },
-                "url": "https://github.com/type-challenges/type-challenges"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 52,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1289,7 +1289,7 @@
             },
             {
                 "date": "2025-09-15",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2025-09-16",

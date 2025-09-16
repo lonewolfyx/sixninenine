@@ -338,14 +338,17 @@
                             "name": "Anthony Fu",
                             "bio": "A ship in harbor is safe, but that is not what ships are built for.",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=746eca82e375631967235dd01261428762bbcbf9&v=4",
-                            "company": "@Nuxt",
+                            "company": "@vercel / @nuxt",
                             "createdAt": "2015-02-28T16:55:50Z",
                             "email": "",
                             "location": "undefined",
                             "twitterUsername": null,
                             "url": "https://github.com/antfu",
                             "websiteUrl": "https://antfu.me",
-                            "status": null
+                            "status": {
+                                "emoji": ":us_outlying_islands:",
+                                "message": "SquiggleConf / Boston"
+                            }
                         },
                         {
                             "id": "MDQ6VXNlcjQ0NzQ5MTAw",
@@ -422,17 +425,89 @@
     },
     "pullRequest": [
         {
-            "number": 5034,
-            "title": "feat: mark computedEager as deprecated",
-            "url": "https://github.com/vueuse/vueuse/pull/5034",
+            "number": 5042,
+            "title": "feat!: drop watchPausable",
+            "url": "https://github.com/vueuse/vueuse/pull/5042",
             "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 19,
+            "deletions": 243,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-16T15:00:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5041,
+            "title": "docs: update info block background color",
+            "url": "https://github.com/vueuse/vueuse/pull/5041",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-16T14:38:49Z",
+            "mergedAt": "2025-09-16T14:40:07Z",
+            "closedAt": "2025-09-16T14:40:07Z",
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5040,
+            "title": "feat(watchPausable): deprecate `watchPausable`",
+            "url": "https://github.com/vueuse/vueuse/pull/5040",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-16T13:53:18Z",
+            "mergedAt": "2025-09-16T14:21:35Z",
+            "closedAt": "2025-09-16T14:21:35Z",
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5034,
+            "title": "feat(computedEager): deprecate `computedEager`",
+            "url": "https://github.com/vueuse/vueuse/pull/5034",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 7,
             "deletions": 0,
             "totalCommentsCount": 1,
             "createdAt": "2025-09-13T04:53:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-16T14:21:35Z",
+            "closedAt": "2025-09-16T14:21:35Z",
             "repository": {
                 "name": "vueuse",
                 "nameWithOwner": "vueuse/vueuse",
@@ -588,82 +663,10 @@
                 },
                 "url": "https://github.com/unplugin/unplugin-icons"
             }
-        },
-        {
-            "number": 871,
-            "title": "fix: correct prefixed component name",
-            "url": "https://github.com/unplugin/unplugin-vue-components/pull/871",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 66,
-            "deletions": 14,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-01T13:26:31Z",
-            "mergedAt": "2025-08-06T05:07:44Z",
-            "closedAt": "2025-08-06T05:07:44Z",
-            "repository": {
-                "name": "unplugin-vue-components",
-                "nameWithOwner": "unplugin/unplugin-vue-components",
-                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
-                "description": "📲 On-demand components auto importing for Vue",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-vue-components"
-            }
-        },
-        {
-            "number": 4912,
-            "title": "feat(components)!: refactor components and make them consistent",
-            "url": "https://github.com/vueuse/vueuse/pull/4912",
-            "state": "MERGED",
-            "changedFiles": 72,
-            "additions": 1260,
-            "deletions": 466,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-07-24T16:57:19Z",
-            "mergedAt": "2025-09-01T11:33:55Z",
-            "closedAt": "2025-09-01T11:33:55Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 129,
-            "title": "docs: fix dead link",
-            "url": "https://github.com/webfansplz/vite-plugin-vue-inspector/pull/129",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-21T17:26:16Z",
-            "mergedAt": "2025-07-23T13:52:19Z",
-            "closedAt": "2025-07-23T13:52:19Z",
-            "repository": {
-                "name": "vite-plugin-vue-inspector",
-                "nameWithOwner": "webfansplz/vite-plugin-vue-inspector",
-                "homepageUrl": "",
-                "description": "jump to editor source code while click the element of browser automatically.",
-                "owner": {
-                    "login": "webfansplz",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/22515951?u=8656c59d5eb297bcbd725c80ba6104f865ef2a51&v=4"
-                },
-                "url": "https://github.com/webfansplz/vite-plugin-vue-inspector"
-            }
         }
     ],
     "contributions": {
-        "total": 1321,
+        "total": 1328,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1699,7 +1702,7 @@
             },
             {
                 "date": "2025-09-16",
-                "count": 1
+                "count": 8
             },
             {
                 "date": "2025-09-17",

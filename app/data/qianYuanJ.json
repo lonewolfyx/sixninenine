@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 56,
+            "title": "chore(doc): add contributors for README",
+            "url": "https://github.com/uni-helper/uni-use/pull/56",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-09-16T13:44:23Z",
+            "mergedAt": "2025-09-16T14:09:21Z",
+            "closedAt": "2025-09-16T14:09:21Z",
+            "repository": {
+                "name": "uni-use",
+                "nameWithOwner": "uni-helper/uni-use",
+                "homepageUrl": "https://uni-helper.github.io/uni-use/",
+                "description": "uni-app (vue3) 组合式工具集",
+                "owner": {
+                    "login": "uni-helper",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
+                },
+                "url": "https://github.com/uni-helper/uni-use"
+            }
+        },
+        {
             "number": 55,
             "title": "feat(useQuery): add useQuery",
             "url": "https://github.com/uni-helper/uni-use/pull/55",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 489,
             "deletions": 0,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2025-09-16T07:03:36Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-16T13:08:40Z",
+            "closedAt": "2025-09-16T13:08:40Z",
             "repository": {
                 "name": "uni-use",
                 "nameWithOwner": "uni-helper/uni-use",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vbenjs/vue-vben-admin"
             }
-        },
-        {
-            "number": 6634,
-            "title": "fix(@vben/backend-mock): go back to the last modification",
-            "url": "https://github.com/vbenjs/vue-vben-admin/pull/6634",
-            "state": "MERGED",
-            "changedFiles": 0,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-08-14T03:42:38Z",
-            "mergedAt": "2025-08-14T04:06:41Z",
-            "closedAt": "2025-08-14T04:06:41Z",
-            "repository": {
-                "name": "vue-vben-admin",
-                "nameWithOwner": "vbenjs/vue-vben-admin",
-                "homepageUrl": "https://www.vben.pro",
-                "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
-                "owner": {
-                    "login": "vbenjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76995045?v=4"
-                },
-                "url": "https://github.com/vbenjs/vue-vben-admin"
-            }
         }
     ],
     "contributions": {
-        "total": 54,
+        "total": 58,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1293,7 +1293,7 @@
             },
             {
                 "date": "2025-09-16",
-                "count": 2
+                "count": 6
             },
             {
                 "date": "2025-09-17",

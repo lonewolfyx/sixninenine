@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 55,
+            "title": "feat(useQuery): add useQuery",
+            "url": "https://github.com/uni-helper/uni-use/pull/55",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 489,
+            "deletions": 0,
+            "totalCommentsCount": 7,
+            "createdAt": "2025-09-16T07:03:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "uni-use",
+                "nameWithOwner": "uni-helper/uni-use",
+                "homepageUrl": "https://uni-helper.github.io/uni-use/",
+                "description": "uni-app (vue3) 组合式工具集",
+                "owner": {
+                    "login": "uni-helper",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
+                },
+                "url": "https://github.com/uni-helper/uni-use"
+            }
+        },
+        {
             "number": 20,
             "title": "chore(docs): 增加贡献者",
             "url": "https://github.com/anyup/uView-Pro/pull/20",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vbenjs/vue-vben-admin"
             }
-        },
-        {
-            "number": 6613,
-            "title": "fix(@vben/backend-mock): fix all ts type errors in this module",
-            "url": "https://github.com/vbenjs/vue-vben-admin/pull/6613",
-            "state": "MERGED",
-            "changedFiles": 26,
-            "additions": 148,
-            "deletions": 31,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-08-07T02:32:00Z",
-            "mergedAt": "2025-08-12T09:23:39Z",
-            "closedAt": "2025-08-12T09:23:39Z",
-            "repository": {
-                "name": "vue-vben-admin",
-                "nameWithOwner": "vbenjs/vue-vben-admin",
-                "homepageUrl": "https://www.vben.pro",
-                "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
-                "owner": {
-                    "login": "vbenjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76995045?v=4"
-                },
-                "url": "https://github.com/vbenjs/vue-vben-admin"
-            }
         }
     ],
     "contributions": {
-        "total": 53,
+        "total": 54,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1293,7 +1293,7 @@
             },
             {
                 "date": "2025-09-16",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-17",

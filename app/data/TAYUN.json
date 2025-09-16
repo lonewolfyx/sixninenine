@@ -94,6 +94,30 @@
     },
     "pullRequest": [
         {
+            "number": 491,
+            "title": "fix(sku-header): 简化 skuheader.vue 中的 <image> 渲染逻辑，移除无效的 isH5 判断",
+            "url": "https://github.com/nutui-uniapp/nutui-uniapp/pull/491",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-16T03:08:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "nutui-uniapp",
+                "nameWithOwner": "nutui-uniapp/nutui-uniapp",
+                "homepageUrl": "https://nutui-uniapp.pages.dev",
+                "description": "京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发",
+                "owner": {
+                    "login": "nutui-uniapp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143571090?v=4"
+                },
+                "url": "https://github.com/nutui-uniapp/nutui-uniapp"
+            }
+        },
+        {
             "number": 1302,
             "title": "feat(rate): 支持清空评分，评分支持滑动为0",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1302",
@@ -308,34 +332,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 1190,
-            "title": "docs: 修复 Button/Icon/ConfigProvider/Popup 组件文档不一致问题",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1190",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 181,
-            "deletions": 116,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-07-29T13:50:01Z",
-            "mergedAt": "2025-08-09T07:12:24Z",
-            "closedAt": "2025-08-09T07:12:24Z",
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
         }
     ],
     "contributions": {
-        "total": 234,
+        "total": 236,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1371,7 +1371,7 @@
             },
             {
                 "date": "2025-09-16",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2025-09-17",

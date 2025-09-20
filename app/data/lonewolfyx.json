@@ -396,6 +396,30 @@
     },
     "pullRequest": [
         {
+            "number": 28,
+            "title": "feat: add `logo10` block",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/28",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 245,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-20T14:50:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
             "number": 27,
             "title": "feat: add `logo9` block",
             "url": "https://github.com/vue-blocks/vue-blocks/pull/27",
@@ -610,34 +634,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 17,
-            "title": "fix(registry): data synchronization issues caused by canceling import cache reads",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/17",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 22,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-19T07:42:34Z",
-            "mergedAt": "2025-09-19T07:42:56Z",
-            "closedAt": "2025-09-19T07:42:56Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 12481,
+        "total": 12497,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1689,7 +1689,7 @@
             },
             {
                 "date": "2025-09-20",
-                "count": 34
+                "count": 50
             },
             {
                 "date": "2025-09-21",

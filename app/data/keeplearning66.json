@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22263,
+            "title": "feat(components): [autocomplete/time-select/color-picker] add popper-style",
+            "url": "https://github.com/element-plus/element-plus/pull/22263",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 41,
+            "deletions": 13,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-20T10:41:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22261,
             "title": "docs(components): [select/select-v2] improve the description of popper",
             "url": "https://github.com/element-plus/element-plus/pull/22261",
@@ -23,7 +47,7 @@
             "changedFiles": 2,
             "additions": 4,
             "deletions": 4,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2025-09-20T06:41:13Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 21944,
-            "title": "fix(components): [form] inline-message of form-item defaults to undefined",
-            "url": "https://github.com/element-plus/element-plus/pull/21944",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-08-29T01:04:15Z",
-            "mergedAt": "2025-08-29T22:09:38Z",
-            "closedAt": "2025-08-29T22:09:39Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 67,
+        "total": 68,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1309,7 +1309,7 @@
             },
             {
                 "date": "2025-09-20",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-21",

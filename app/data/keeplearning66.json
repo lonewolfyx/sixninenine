@@ -16,8 +16,32 @@
     },
     "pullRequest": [
         {
+            "number": 22261,
+            "title": "docs(components): [select/select-v2] improve the description of popper",
+            "url": "https://github.com/element-plus/element-plus/pull/22261",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-20T06:41:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22255,
-            "title": "fix(components): [select] popper-options control activation of popper",
+            "title": "fix(components): [select/select-v2] apply popper-options to tag tooltip",
             "url": "https://github.com/element-plus/element-plus/pull/22255",
             "state": "OPEN",
             "changedFiles": 2,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 21873,
-            "title": "fix(components): [tree] checkbox click abnormality with disabled nodes",
-            "url": "https://github.com/element-plus/element-plus/pull/21873",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-08-23T02:33:56Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-19T00:58:58Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 66,
+        "total": 67,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1309,7 +1309,7 @@
             },
             {
                 "date": "2025-09-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-21",

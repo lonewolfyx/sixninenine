@@ -17,13 +17,13 @@
     "pullRequest": [
         {
             "number": 5053,
-            "title": "chore(eslint): Add unit tests lint rules",
+            "title": "chore(lint): enable some stylistic rules for test files",
             "url": "https://github.com/vueuse/vueuse/pull/5053",
             "state": "OPEN",
-            "changedFiles": 35,
-            "additions": 3325,
-            "deletions": 4738,
-            "totalCommentsCount": 2,
+            "changedFiles": 33,
+            "additions": 90,
+            "deletions": 10,
+            "totalCommentsCount": 4,
             "createdAt": "2025-09-21T07:36:23Z",
             "mergedAt": null,
             "closedAt": null,
@@ -43,14 +43,14 @@
             "number": 760,
             "title": "fix(docs): Fix syntax errors padding-around-describe-blocks.md",
             "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/760",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 2,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 3,
             "createdAt": "2025-09-21T06:17:33Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-21T14:11:10Z",
+            "closedAt": "2025-09-21T14:11:10Z",
             "repository": {
                 "name": "eslint-plugin-vitest",
                 "nameWithOwner": "vitest-dev/eslint-plugin-vitest",
@@ -233,7 +233,7 @@
         }
     ],
     "contributions": {
-        "total": 298,
+        "total": 299,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1289,7 +1289,7 @@
             },
             {
                 "date": "2025-09-21",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2025-09-22",

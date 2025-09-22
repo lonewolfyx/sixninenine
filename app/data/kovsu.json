@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
         "pronouns": "",
-        "followers": 56,
+        "followers": 57,
         "following": 18
     },
     "languages": [
@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 17929,
+            "title": "Fix ICSS detection for nested exports",
+            "url": "https://github.com/prettier/prettier/pull/17929",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 31,
+            "deletions": 8,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-22T01:38:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 4500,
             "title": "feat: enhance modal layout with improved styling and structure",
             "url": "https://github.com/RSSNext/Folo/pull/4500",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17866,
-            "title": "Add test case for comments",
-            "url": "https://github.com/prettier/prettier/pull/17866",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-09T09:55:53Z",
-            "mergedAt": "2025-09-09T10:06:47Z",
-            "closedAt": "2025-09-09T10:06:48Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 664,
+        "total": 665,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1890,7 +1890,7 @@
             },
             {
                 "date": "2025-09-22",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-23",

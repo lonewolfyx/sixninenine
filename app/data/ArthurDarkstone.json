@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 5060,
+            "title": "fix: update parameter types to use ComponentInternalInstance in lifec…",
+            "url": "https://github.com/vueuse/vueuse/pull/5060",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 10,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-23T06:49:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5048,
             "title": "fix(useShare): improve the accuracy of sharing logic",
             "url": "https://github.com/vueuse/vueuse/pull/5048",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/ArthurDarkstone/iprint"
             }
-        },
-        {
-            "number": 8,
-            "title": "Feat/elements",
-            "url": "https://github.com/ArthurDarkstone/iprint/pull/8",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 266,
-            "deletions": 44,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-08-12T10:51:46Z",
-            "mergedAt": "2025-08-12T11:58:41Z",
-            "closedAt": "2025-08-12T11:58:41Z",
-            "repository": {
-                "name": "iprint",
-                "nameWithOwner": "ArthurDarkstone/iprint",
-                "homepageUrl": "https://arthurdarkstone.github.io/iprint/",
-                "description": "Browser Print Solution",
-                "owner": {
-                    "login": "ArthurDarkstone",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4"
-                },
-                "url": "https://github.com/ArthurDarkstone/iprint"
-            }
         }
     ],
     "contributions": {
-        "total": 176,
+        "total": 177,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1378,7 +1378,7 @@
             },
             {
                 "date": "2025-09-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-24",

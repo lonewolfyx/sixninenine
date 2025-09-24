@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 763,
+            "title": "fix(docs): add missing parentheses in test case",
+            "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/763",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-24T04:54:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-vitest",
+                "nameWithOwner": "vitest-dev/eslint-plugin-vitest",
+                "homepageUrl": "",
+                "description": "eslint plugin for vitest",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/eslint-plugin-vitest"
+            }
+        },
+        {
             "number": 22285,
             "title": "feat(components): [radio-group] support options with el-radio-button",
             "url": "https://github.com/element-plus/element-plus/pull/22285",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 4936,
-            "title": "feat(useAsyncState): cancel previous promise and use latest promise",
-            "url": "https://github.com/vueuse/vueuse/pull/4936",
-            "state": "CLOSED",
-            "changedFiles": 3,
-            "additions": 95,
-            "deletions": 3,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-07-31T16:23:13Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-01T06:16:51Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 75,
+        "total": 77,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1325,7 +1325,7 @@
             },
             {
                 "date": "2025-09-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-09-25",

@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 22312,
+            "title": "feat(components): [button] add aria attributes for accessibility",
+            "url": "https://github.com/element-plus/element-plus/pull/22312",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-24T12:56:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 763,
             "title": "fix(docs): add missing parentheses in test case",
             "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/763",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 0,
             "createdAt": "2025-09-24T04:54:27Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-24T11:49:59Z",
+            "closedAt": "2025-09-24T11:49:59Z",
             "repository": {
                 "name": "eslint-plugin-vitest",
                 "nameWithOwner": "vitest-dev/eslint-plugin-vitest",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 21652,
-            "title": "fix(components): [cascader-panel] ensure set null after clear",
-            "url": "https://github.com/element-plus/element-plus/pull/21652",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 84,
-            "deletions": 2,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-08-06T14:56:58Z",
-            "mergedAt": "2025-08-13T14:05:25Z",
-            "closedAt": "2025-08-13T14:05:25Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 77,
+        "total": 79,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1325,7 +1325,7 @@
             },
             {
                 "date": "2025-09-24",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-09-25",

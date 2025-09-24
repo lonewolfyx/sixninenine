@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 34,
+            "title": "fix(logo): make CarouselItem adaptive and prevent content overflow",
+            "url": "https://github.com/vue-blocks/vue-blocks/pull/34",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-09-24T15:52:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-blocks",
+                "nameWithOwner": "vue-blocks/vue-blocks",
+                "homepageUrl": "https://vue-blocks.dev",
+                "description": "The ultimate front-end building block library specifically designed for Vue",
+                "owner": {
+                    "login": "vue-blocks",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
+                },
+                "url": "https://github.com/vue-blocks/vue-blocks"
+            }
+        },
+        {
             "number": 24,
             "title": "docs(code): style optimization",
             "url": "https://github.com/vue-blocks/vue-blocks/pull/24",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 15,
-            "title": "perf (pages): Options syntax upgraded to composition syntax",
-            "url": "https://github.com/anyup/uView-Pro/pull/15",
-            "state": "MERGED",
-            "changedFiles": 127,
-            "additions": 13474,
-            "deletions": 9489,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-06T06:38:08Z",
-            "mergedAt": "2025-09-08T13:22:19Z",
-            "closedAt": "2025-09-08T13:22:19Z",
-            "repository": {
-                "name": "uView-Pro",
-                "nameWithOwner": "anyup/uView-Pro",
-                "homepageUrl": "https://uviewpro.cn",
-                "description": "uView Pro，是全面支持Vue3.0、TypeScript的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 uView Pro 的基线版本基于 uView 1.8.8 修改，使用 TypeScript 重构，目前已全面支持 uni-app Vue3.0",
-                "owner": {
-                    "login": "anyup",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/85225562?u=cad74fb4a5398e4f256c4ab1a22e46f0e11d0ab8&v=4"
-                },
-                "url": "https://github.com/anyup/uView-Pro"
-            }
         }
     ],
     "contributions": {
-        "total": 169,
+        "total": 170,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1375,7 +1375,7 @@
             },
             {
                 "date": "2025-09-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-25",

@@ -589,17 +589,41 @@
     },
     "pullRequest": [
         {
-            "number": 17964,
-            "title": "Change the order of the permissions policy check",
-            "url": "https://github.com/prettier/prettier/pull/17964",
+            "number": 17965,
+            "title": "Support toml front-matter in markdown",
+            "url": "https://github.com/prettier/prettier/pull/17965",
             "state": "OPEN",
-            "changedFiles": 1,
+            "changedFiles": 11,
+            "additions": 72,
+            "deletions": 19,
+            "totalCommentsCount": 15,
+            "createdAt": "2025-09-25T08:11:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 17964,
+            "title": "Improve embed attribute check",
+            "url": "https://github.com/prettier/prettier/pull/17964",
+            "state": "MERGED",
+            "changedFiles": 2,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 2,
             "createdAt": "2025-09-25T02:50:14Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-25T09:20:57Z",
+            "closedAt": "2025-09-25T09:20:57Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17882,
-            "title": "Avoid break `ImportExpression` with long module name",
-            "url": "https://github.com/prettier/prettier/pull/17882",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 87,
-            "deletions": 22,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-09-11T06:49:43Z",
-            "mergedAt": "2025-09-11T08:18:03Z",
-            "closedAt": "2025-09-11T08:18:03Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 672,
+        "total": 674,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1902,7 +1902,7 @@
             },
             {
                 "date": "2025-09-25",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-09-26",

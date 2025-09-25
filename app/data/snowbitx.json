@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22324,
+            "title": "feat(components): [autocomplete] support home and end key events",
+            "url": "https://github.com/element-plus/element-plus/pull/22324",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 41,
+            "deletions": 12,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-09-25T15:54:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 5067,
             "title": "refactor(useStorage): simplify guessSerializerType for clarity and readability",
             "url": "https://github.com/vueuse/vueuse/pull/5067",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 21711,
-            "title": "docs(components): [link] add security warning",
-            "url": "https://github.com/element-plus/element-plus/pull/21711",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 24,
-            "deletions": 0,
-            "totalCommentsCount": 18,
-            "createdAt": "2025-08-11T15:15:17Z",
-            "mergedAt": "2025-08-15T06:15:03Z",
-            "closedAt": "2025-08-15T06:15:03Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 82,
+        "total": 83,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1329,7 +1329,7 @@
             },
             {
                 "date": "2025-09-25",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-26",

@@ -133,6 +133,30 @@
     },
     "pullRequest": [
         {
+            "number": 1315,
+            "title": "feat(wd-fab): 添加自定义位置和偏移量支持，修复关闭拖拽后，菜单弹出方向未更新回来的bug",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1315",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 68,
+            "deletions": 8,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-09-25T14:52:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 491,
             "title": "fix(sku-header): 简化 skuheader.vue 中的 <image> 渲染逻辑，移除无效的 isH5 判断",
             "url": "https://github.com/nutui-uniapp/nutui-uniapp/pull/491",
@@ -347,34 +371,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(app): 添加新作者 TAYUN",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-07T03:32:20Z",
-            "mergedAt": null,
-            "closedAt": "2025-08-07T03:54:44Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 255,
+        "total": 256,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1446,7 +1446,7 @@
             },
             {
                 "date": "2025-09-25",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-26",

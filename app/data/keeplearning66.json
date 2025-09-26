@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22340,
+            "title": "fix(components): [table] make resizable prop reactive",
+            "url": "https://github.com/element-plus/element-plus/pull/22340",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-26T12:09:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22327,
             "title": "fix(components): [table] prevent incorrect drag when resizable is false",
             "url": "https://github.com/element-plus/element-plus/pull/22327",
@@ -44,8 +68,8 @@
             "title": "fix(components): [select] loading appears on first click when remote",
             "url": "https://github.com/element-plus/element-plus/pull/22323",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
+            "changedFiles": 2,
+            "additions": 42,
             "deletions": 1,
             "totalCommentsCount": 3,
             "createdAt": "2025-09-25T12:43:23Z",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22255,
-            "title": "fix(components): [select/select-v2] apply popper-options to tag tooltip",
-            "url": "https://github.com/element-plus/element-plus/pull/22255",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-09-19T12:28:21Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 81,
+        "total": 82,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1333,7 +1333,7 @@
             },
             {
                 "date": "2025-09-26",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-09-27",

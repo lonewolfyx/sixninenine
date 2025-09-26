@@ -589,12 +589,36 @@
     },
     "pullRequest": [
         {
+            "number": 17983,
+            "title": "Keep less mixin lookups tight",
+            "url": "https://github.com/prettier/prettier/pull/17983",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 90,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-26T03:05:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17965,
             "title": "Support toml front-matter in markdown",
             "url": "https://github.com/prettier/prettier/pull/17965",
             "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 77,
+            "changedFiles": 13,
+            "additions": 80,
             "deletions": 21,
             "totalCommentsCount": 19,
             "createdAt": "2025-09-25T08:11:05Z",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17902,
-            "title": "Unify `require()` and `import()` formatting logic",
-            "url": "https://github.com/prettier/prettier/pull/17902",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 67,
-            "deletions": 30,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-09-12T01:24:39Z",
-            "mergedAt": "2025-09-12T14:59:58Z",
-            "closedAt": "2025-09-12T14:59:58Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 674,
+        "total": 675,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1906,7 +1906,7 @@
             },
             {
                 "date": "2025-09-26",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-27",

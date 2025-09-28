@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22358,
+            "title": "chore(components): [color-picker] remove duplicated form validation code",
+            "url": "https://github.com/element-plus/element-plus/pull/22358",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 8,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-28T15:34:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22348,
             "title": "refactor(types): remove usage of Nullable",
             "url": "https://github.com/element-plus/element-plus/pull/22348",
@@ -23,7 +47,7 @@
             "changedFiles": 6,
             "additions": 11,
             "deletions": 18,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2025-09-27T17:02:50Z",
             "mergedAt": null,
             "closedAt": null,
@@ -43,14 +67,14 @@
             "number": 22347,
             "title": "refactor(components): [switch] use shallowRef and remove redundant usage",
             "url": "https://github.com/element-plus/element-plus/pull/22347",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 3,
             "deletions": 4,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2025-09-27T16:07:29Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-09-28T15:28:13Z",
+            "closedAt": "2025-09-28T15:28:13Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -189,9 +213,9 @@
             "url": "https://github.com/element-plus/element-plus/pull/22285",
             "state": "OPEN",
             "changedFiles": 4,
-            "additions": 70,
+            "additions": 66,
             "deletions": 1,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 15,
             "createdAt": "2025-09-22T14:10:39Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22231,
-            "title": "fix(components): [table-column]   fixed #22230",
-            "url": "https://github.com/element-plus/element-plus/pull/22231",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-18T15:37:52Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-19T13:07:02Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 85,
+        "total": 87,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1341,7 +1341,7 @@
             },
             {
                 "date": "2025-09-28",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-09-29",

@@ -73,17 +73,41 @@
     },
     "pullRequest": [
         {
+            "number": 5071,
+            "title": "feat: moving away from array return types",
+            "url": "https://github.com/vueuse/vueuse/pull/5071",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 207,
+            "deletions": 16,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-29T03:50:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5069,
             "title": "fix(createInjectionState): enhance return object type structure",
             "url": "https://github.com/vueuse/vueuse/pull/5069",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 1,
             "additions": 11,
             "deletions": 2,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2025-09-25T11:42:44Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2025-09-29T06:21:02Z",
             "repository": {
                 "name": "vueuse",
                 "nameWithOwner": "vueuse/vueuse",
@@ -148,14 +172,14 @@
             "number": 5062,
             "title": "feat(useToggle): make the return value support object deconstruction and array deconstruction",
             "url": "https://github.com/vueuse/vueuse/pull/5062",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 3,
             "additions": 62,
             "deletions": 6,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2025-09-23T08:29:38Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2025-09-29T03:52:22Z",
             "repository": {
                 "name": "vueuse",
                 "nameWithOwner": "vueuse/vueuse",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 4964,
-            "title": "fix(useGamepad): correct type assertion for vibrationActuator",
-            "url": "https://github.com/vueuse/vueuse/pull/4964",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-14T11:03:02Z",
-            "mergedAt": "2025-08-18T06:05:28Z",
-            "closedAt": "2025-08-18T06:05:28Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 187,
+        "total": 188,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1402,7 +1402,7 @@
             },
             {
                 "date": "2025-09-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-30",

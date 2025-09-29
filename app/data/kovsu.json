@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
         "pronouns": "",
-        "followers": 56,
+        "followers": 57,
         "following": 19
     },
     "languages": [
@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 17996,
+            "title": "Add validation for import/export syntax",
+            "url": "https://github.com/prettier/prettier/pull/17996",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 49,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-09-29T03:24:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17983,
             "title": "Keep less mixin lookups tight",
             "url": "https://github.com/prettier/prettier/pull/17983",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17903,
-            "title": "Prevent matching mixin calls inside arguments",
-            "url": "https://github.com/prettier/prettier/pull/17903",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 82,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-12T02:24:50Z",
-            "mergedAt": "2025-09-18T12:52:49Z",
-            "closedAt": "2025-09-18T12:52:49Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 676,
+        "total": 677,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1918,7 +1918,7 @@
             },
             {
                 "date": "2025-09-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-09-30",

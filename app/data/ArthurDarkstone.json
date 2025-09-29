@@ -13,51 +13,51 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 208465,
+            "size": 246225,
             "repoCount": 4,
-            "progress": "61.43"
+            "progress": "64.92"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 89632,
+            "size": 91756,
             "repoCount": 4,
-            "progress": "26.41"
+            "progress": "24.19"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 26372,
             "repoCount": 4,
-            "progress": "7.77"
+            "progress": "6.95"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 9629,
             "repoCount": 3,
-            "progress": "2.84"
+            "progress": "2.54"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 2701,
             "repoCount": 3,
-            "progress": "0.80"
+            "progress": "0.71"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
             "size": 1762,
             "repoCount": 1,
-            "progress": "0.52"
+            "progress": "0.46"
         },
         {
             "name": "Rust",
             "color": "#dea584",
-            "size": 709,
+            "size": 724,
             "repoCount": 1,
-            "progress": "0.21"
+            "progress": "0.19"
         },
         {
             "name": "Dockerfile",
@@ -72,6 +72,102 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 13,
+            "title": "fix: update build:github script to include tsdown command",
+            "url": "https://github.com/ArthurDarkstone/iprint/pull/13",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-29T10:57:48Z",
+            "mergedAt": "2025-09-29T10:57:54Z",
+            "closedAt": "2025-09-29T10:57:54Z",
+            "repository": {
+                "name": "iprint",
+                "nameWithOwner": "ArthurDarkstone/iprint",
+                "homepageUrl": "https://arthurdarkstone.github.io/iprint/",
+                "description": "Browser Print Solution",
+                "owner": {
+                    "login": "ArthurDarkstone",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4"
+                },
+                "url": "https://github.com/ArthurDarkstone/iprint"
+            }
+        },
+        {
+            "number": 12,
+            "title": "Fix/deploy",
+            "url": "https://github.com/ArthurDarkstone/iprint/pull/12",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 12,
+            "deletions": 18,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-29T10:49:25Z",
+            "mergedAt": "2025-09-29T10:49:37Z",
+            "closedAt": "2025-09-29T10:49:37Z",
+            "repository": {
+                "name": "iprint",
+                "nameWithOwner": "ArthurDarkstone/iprint",
+                "homepageUrl": "https://arthurdarkstone.github.io/iprint/",
+                "description": "Browser Print Solution",
+                "owner": {
+                    "login": "ArthurDarkstone",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4"
+                },
+                "url": "https://github.com/ArthurDarkstone/iprint"
+            }
+        },
+        {
+            "number": 11,
+            "title": "refactor: restructure core components and implement print template fu…",
+            "url": "https://github.com/ArthurDarkstone/iprint/pull/11",
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 1792,
+            "deletions": 330,
+            "totalCommentsCount": 19,
+            "createdAt": "2025-09-29T10:22:09Z",
+            "mergedAt": "2025-09-29T10:29:47Z",
+            "closedAt": "2025-09-29T10:29:47Z",
+            "repository": {
+                "name": "iprint",
+                "nameWithOwner": "ArthurDarkstone/iprint",
+                "homepageUrl": "https://arthurdarkstone.github.io/iprint/",
+                "description": "Browser Print Solution",
+                "owner": {
+                    "login": "ArthurDarkstone",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4"
+                },
+                "url": "https://github.com/ArthurDarkstone/iprint"
+            }
+        },
+        {
+            "number": 10,
+            "title": "feat: add tauri-plugin-printer-v2",
+            "url": "https://github.com/ArthurDarkstone/iprint/pull/10",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 118,
+            "deletions": 5,
+            "totalCommentsCount": 6,
+            "createdAt": "2025-09-29T08:46:33Z",
+            "mergedAt": "2025-09-29T10:29:29Z",
+            "closedAt": "2025-09-29T10:29:29Z",
+            "repository": {
+                "name": "iprint",
+                "nameWithOwner": "ArthurDarkstone/iprint",
+                "homepageUrl": "https://arthurdarkstone.github.io/iprint/",
+                "description": "Browser Print Solution",
+                "owner": {
+                    "login": "ArthurDarkstone",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34020340?u=d0a0c81b191571902ee9f07d40954df549843a16&v=4"
+                },
+                "url": "https://github.com/ArthurDarkstone/iprint"
+            }
+        },
         {
             "number": 5071,
             "title": "feat: moving away from array return types",
@@ -215,106 +311,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5060,
-            "title": "fix: update parameter types to use ComponentInternalInstance in lifec…",
-            "url": "https://github.com/vueuse/vueuse/pull/5060",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 10,
-            "deletions": 5,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-09-23T06:49:49Z",
-            "mergedAt": "2025-09-24T07:06:16Z",
-            "closedAt": "2025-09-24T07:06:17Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 5048,
-            "title": "fix(useShare): improve the accuracy of sharing logic",
-            "url": "https://github.com/vueuse/vueuse/pull/5048",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-18T11:02:03Z",
-            "mergedAt": "2025-09-18T11:49:48Z",
-            "closedAt": "2025-09-18T11:49:48Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4966,
-            "title": "fix(types): update type casting for watch functions to use WatchSource<T>",
-            "url": "https://github.com/vueuse/vueuse/pull/4966",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-14T11:42:03Z",
-            "mergedAt": "2025-08-29T00:29:42Z",
-            "closedAt": "2025-08-29T00:29:42Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4965,
-            "title": "fix(useFullscreen): specify return types for request, exit, and enabl…",
-            "url": "https://github.com/vueuse/vueuse/pull/4965",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-14T11:14:47Z",
-            "mergedAt": "2025-09-16T14:28:05Z",
-            "closedAt": "2025-09-16T14:28:06Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 188,
+        "total": 203,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1402,7 +1402,7 @@
             },
             {
                 "date": "2025-09-29",
-                "count": 1
+                "count": 16
             },
             {
                 "date": "2025-09-30",

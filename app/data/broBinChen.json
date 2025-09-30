@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 5076,
+            "title": "refactor: extract shared retry checker utility",
+            "url": "https://github.com/vueuse/vueuse/pull/5076",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 18,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-09-30T06:47:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5075,
+            "title": "refactor(useClipboard): improve type safety",
+            "url": "https://github.com/vueuse/vueuse/pull/5075",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-30T06:33:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 4980,
             "title": "perf(usePointer): use shallowRef for better performance",
             "url": "https://github.com/vueuse/vueuse/pull/4980",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 54356,
-            "title": "fix: fix toggle theme switch unable to turn off in docs",
-            "url": "https://github.com/ant-design/ant-design/pull/54356",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 11,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-07-11T03:59:11Z",
-            "mergedAt": "2025-07-11T06:24:40Z",
-            "closedAt": "2025-07-11T06:24:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 4864,
-            "title": "perf(useRafFn): optimize FPS limiting with intelligent scheduling",
-            "url": "https://github.com/vueuse/vueuse/pull/4864",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 17,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-07-09T07:13:02Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-15T12:17:58Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 32,
+        "total": 34,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1349,7 +1349,7 @@
             },
             {
                 "date": "2025-09-30",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-10-01",

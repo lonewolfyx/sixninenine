@@ -16,14 +16,62 @@
     },
     "pullRequest": [
         {
+            "number": 5078,
+            "title": "refactor(useClipboard): remove redundant nullish coalescing in legacyCopy",
+            "url": "https://github.com/vueuse/vueuse/pull/5078",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-30T07:18:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5077,
+            "title": "docs(useMemoize): add performance warnings",
+            "url": "https://github.com/vueuse/vueuse/pull/5077",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-09-30T06:58:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5076,
             "title": "refactor: extract shared retry checker utility",
             "url": "https://github.com/vueuse/vueuse/pull/5076",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 18,
+            "changedFiles": 6,
+            "additions": 42,
             "deletions": 9,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 3,
             "createdAt": "2025-09-30T06:47:40Z",
             "mergedAt": null,
             "closedAt": null,
@@ -47,7 +95,7 @@
             "changedFiles": 1,
             "additions": 2,
             "deletions": 2,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2025-09-30T06:33:21Z",
             "mergedAt": null,
             "closedAt": null,
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 54384,
-            "title": "fix: resolve non-null assertion logic error in useLocale hook",
-            "url": "https://github.com/ant-design/ant-design/pull/54384",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-07-14T04:02:16Z",
-            "mergedAt": "2025-07-14T05:24:32Z",
-            "closedAt": "2025-07-14T05:24:32Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 54381,
-            "title": "fix: correct SiteState type property name in GlobalLayout",
-            "url": "https://github.com/ant-design/ant-design/pull/54381",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-07-14T02:52:25Z",
-            "mergedAt": "2025-07-14T03:29:40Z",
-            "closedAt": "2025-07-14T03:29:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 34,
+        "total": 36,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1349,7 +1349,7 @@
             },
             {
                 "date": "2025-09-30",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-10-01",

@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 5083,
+            "title": "test(useWindowFocus): add test to cover all features",
+            "url": "https://github.com/vueuse/vueuse/pull/5083",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 48,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-02T18:26:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 765,
             "title": "fix(docs): Fixed function signature in rule example",
             "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/765",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue"
             }
-        },
-        {
-            "number": 4952,
-            "title": "test(useMagicKeys): add tests",
-            "url": "https://github.com/vueuse/vueuse/pull/4952",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 105,
-            "deletions": 51,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-08-09T18:48:00Z",
-            "mergedAt": "2025-08-12T01:57:27Z",
-            "closedAt": "2025-08-12T01:57:27Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 317,
+        "total": 319,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1361,7 +1361,7 @@
             },
             {
                 "date": "2025-10-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-10-04",

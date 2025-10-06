@@ -5,27 +5,33 @@
         <div class="px-4">
             <div class="flex flex-col items-center gap-2 lg:gap-3.5 py-4 lg:pt-5 lg:pb-10">
                 <NuxtLink
-                    :title="`${userInfo.login}·${userInfo.name}`"
+                    :title="namePlaceholder"
                     :to="userInfo.url"
                     target="_blank"
                 >
                     <img
-                        :alt="`${userInfo.login}·${userInfo.name}`"
+                        :alt="namePlaceholder"
                         :src="userInfo.avatarUrl"
                         class="rounded-full size-28 shadow-[0_0_5px_1px_theme(color.green.500)] shrink-0"
                     >
                 </NuxtLink>
-                <div class="flex items-center gap-1.5">
-                    <NuxtLink
-                        :title="`${userInfo.login}·${userInfo.name}`"
-                        :to="userInfo.url"
-                        class="text-lg leading-5 font-semibold text-mono"
-                        target="_blank"
-                    >
-                        {{ userInfo.name }}
-                    </NuxtLink>
-                    <span class="text-xs">@{{ userInfo.login }}</span>
+                <div class="flex flex-col">
+                    <p class="flex items-center gap-1.5">
+                        <NuxtLink
+                            :title="namePlaceholder"
+                            :to="userInfo.url"
+                            class="text-lg leading-5 font-semibold text-mono"
+                            target="_blank"
+                        >
+                            {{ userInfo.name }}
+                        </NuxtLink>
+                        <span class="text-xs">@{{ userInfo.login }}</span>
+                    </p>
+                    <p class="text-center">
+                        <span class="text-xs">{{ aliasName }}</span>
+                    </p>
                 </div>
+
                 <div class="flex flex-wrap justify-center gap-1 lg:gap-4.5 text-sm">
                     <div class="flex gap-1.25 items-center">
                         <Icon
@@ -64,5 +70,11 @@ defineOptions({
 
 const props = defineProps<{
     userInfo: IGithubUserInfo
+    aliasName?: string
 }>()
+
+const namePlaceholder = computed(() => {
+    const base = `${props.userInfo.login} · ${props.userInfo.name}`
+    return props.aliasName ? `${base} · ${props.aliasName}` : base
+})
 </script>

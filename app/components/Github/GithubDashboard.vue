@@ -1,6 +1,9 @@
 <template>
     <div class="relative space-y-6">
-        <GithubUserInfo :user-info="data['userInfo']" />
+        <GithubUserInfo
+            :user-info="data['userInfo']"
+            :alias-name="aliasName"
+        />
 
         <div class="grid lg:grid-cols-3 gap-5 lg:gap-7.5 items-stretch">
             <div class="lg:col-span-1 space-y-8">
@@ -41,6 +44,7 @@ defineOptions({
 
 const props = defineProps<{
     data: IGithubUserData
+    aliasName?: string
 }>()
 
 const contributors = [

@@ -16,15 +16,15 @@
                 >
                     <TabsTrigger
                         v-for="member in members"
-                        :key="member"
-                        :value="member"
+                        :key="member.username"
+                        :value="member.username"
                         as-child
                         class="size-10 overflow-visible cursor-pointer"
                     >
                         <Avatar class="flex flex-col justify-center items-center">
                             <AvatarImage
                                 :alt="member"
-                                :src="`https://github.com/${member}.png`"
+                                :src="`https://github.com/${member.username}.png`"
                                 class="rounded-full"
                             />
                             <AvatarFallback>SN</AvatarFallback>
@@ -41,10 +41,13 @@
             >
                 <TabsContent
                     v-for="member in members"
-                    :key="`tc-${member}`"
-                    :value="member"
+                    :key="`tc-${member.username}`"
+                    :value="member.username"
                 >
-                    <GithubDashboard :data="VirtualMembers?.[tabValue]" />
+                    <GithubDashboard
+                        :data="VirtualMembers?.[tabValue]"
+                        :alias-name="member.aliasName"
+                    />
                 </TabsContent>
             </div>
         </div>
@@ -61,5 +64,5 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '~/components/ui/tabs'
 import { Avatar, AvatarFallback, AvatarImage } from '~/components/ui/avatar'
 import GithubDashboard from '~/components/Github/GithubDashboard.vue'
 
-const tabValue = ref<string>(members?.[0] as string)
+const tabValue = ref<string>(members?.[0]?.username as string)
 </script>

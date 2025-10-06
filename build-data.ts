@@ -292,10 +292,10 @@ const buildGithubMemberData = async (user: string) => {
 }
 
 (async () => {
-    for (const member of members) {
+    for (const { username } of members) {
         console.log('\n开始获取用户数据...')
-        console.log(member)
-        await buildGithubMemberData(member)
+        console.log(username)
+        await buildGithubMemberData(username)
         await new Promise(resolve => setTimeout(resolve, 2000))
         console.log('数据获取结束')
     }

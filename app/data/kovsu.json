@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 18029,
+            "title": "Fix cache not invalidated when files are ignored or restored",
+            "url": "https://github.com/prettier/prettier/pull/18029",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-10-10T08:56:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18011,
             "title": "Enable knip in `website/`",
             "url": "https://github.com/prettier/prettier/pull/18011",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/RSSNext/Folo"
             }
-        },
-        {
-            "number": 10202,
-            "title": "feat(agents): reset scroll on group change",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/10202",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-16T09:46:58Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-16T10:01:11Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 686,
+        "total": 687,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1962,7 +1962,7 @@
             },
             {
                 "date": "2025-10-10",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2025-10-11",

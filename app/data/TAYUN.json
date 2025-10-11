@@ -119,6 +119,30 @@
     },
     "pullRequest": [
         {
+            "number": 1329,
+            "title": "style(toast): 调整toast组件样式间距并添加左边距变量",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1329",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-11T02:05:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 1315,
             "title": "feat(wd-fab): 添加自定义位置和偏移量支持，修复关闭拖拽后，菜单弹出方向未更新回来的bug",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1315",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/wot-ui/wot-starter"
             }
-        },
-        {
-            "number": 1220,
-            "title": "docs: ✏️ 修复基础组件文档问题 - 阶段一完成",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1220",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 180,
-            "deletions": 98,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-08-13T15:32:58Z",
-            "mergedAt": "2025-08-17T06:08:48Z",
-            "closedAt": "2025-08-17T06:08:48Z",
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=b2eee89d707957272ef2649d250e1bff11fcdfeb&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
         }
     ],
     "contributions": {
-        "total": 301,
+        "total": 303,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1496,7 +1496,7 @@
             },
             {
                 "date": "2025-10-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-10-12",

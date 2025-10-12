@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22446,
+            "title": "feat(components): [select] support home and end key events",
+            "url": "https://github.com/element-plus/element-plus/pull/22446",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 116,
+            "deletions": 6,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-12T15:23:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22379,
             "title": "fix(components): [select] label not shown for empty string",
             "url": "https://github.com/element-plus/element-plus/pull/22379",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 763,
-            "title": "fix(docs): add missing parentheses in test case",
-            "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/763",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-09-24T04:54:27Z",
-            "mergedAt": "2025-09-24T11:49:59Z",
-            "closedAt": "2025-09-24T11:49:59Z",
-            "repository": {
-                "name": "eslint-plugin-vitest",
-                "nameWithOwner": "vitest-dev/eslint-plugin-vitest",
-                "homepageUrl": "",
-                "description": "eslint plugin for vitest",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/eslint-plugin-vitest"
-            }
         }
     ],
     "contributions": {
-        "total": 93,
+        "total": 94,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1397,7 +1397,7 @@
             },
             {
                 "date": "2025-10-12",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-10-13",

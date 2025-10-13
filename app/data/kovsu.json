@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 18064,
+            "title": "Add plaintext support in code block",
+            "url": "https://github.com/prettier/prettier/pull/18064",
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 95,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-13T02:28:26Z",
+            "mergedAt": null,
+            "closedAt": "2025-10-13T03:34:44Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18029,
             "title": "Fix cache not invalidated when files are ignored or restored",
             "url": "https://github.com/prettier/prettier/pull/18029",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 4500,
-            "title": "feat: enhance modal layout with improved styling and structure",
-            "url": "https://github.com/RSSNext/Folo/pull/4500",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 24,
-            "deletions": 21,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-19T03:29:41Z",
-            "mergedAt": "2025-09-19T04:50:03Z",
-            "closedAt": "2025-09-19T04:50:03Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://folo.is",
-                "description": "🧡 Follow everything in one place",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 687,
+        "total": 688,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1974,7 +1974,7 @@
             },
             {
                 "date": "2025-10-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-14",

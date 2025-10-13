@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 18065,
+            "title": "Fix extra blank lines in Handlebars style tags",
+            "url": "https://github.com/prettier/prettier/pull/18065",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 149,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-10-13T08:00:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18064,
             "title": "Add plaintext support in code block",
             "url": "https://github.com/prettier/prettier/pull/18064",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17929,
-            "title": "Fix ICSS detection for nested exports",
-            "url": "https://github.com/prettier/prettier/pull/17929",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 64,
-            "deletions": 12,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-22T01:38:56Z",
-            "mergedAt": "2025-09-22T18:12:39Z",
-            "closedAt": "2025-09-22T18:12:39Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 688,
+        "total": 689,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1974,7 +1974,7 @@
             },
             {
                 "date": "2025-10-13",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-10-14",

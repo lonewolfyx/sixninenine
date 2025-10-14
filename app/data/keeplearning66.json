@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22471,
+            "title": "feat(components): [select/select-v2] support debounce prop",
+            "url": "https://github.com/element-plus/element-plus/pull/22471",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 18,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-14T13:27:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22442,
             "title": "docs(components): [tree] supplement the description of parameters for setChecked",
             "url": "https://github.com/element-plus/element-plus/pull/22442",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22267,
-            "title": "docs(components): [cascader] improve the description of popper",
-            "url": "https://github.com/element-plus/element-plus/pull/22267",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-21T01:24:50Z",
-            "mergedAt": "2025-09-21T02:02:43Z",
-            "closedAt": "2025-09-21T02:02:43Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 92,
+        "total": 93,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1405,7 +1405,7 @@
             },
             {
                 "date": "2025-10-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-15",

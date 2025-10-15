@@ -76,11 +76,11 @@ const tabValue = computed({
     },
     set: (value) => {
         // 当tab值改变时更新路由
-        router.push({ 
-            path: route.path, 
-            query: { ...route.query, user: value }
+        router.push({
+            path: route.path,
+            query: { ...route.query, user: value },
         })
-    }
+    },
 })
 
 // 处理tab切换

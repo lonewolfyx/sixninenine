@@ -119,6 +119,30 @@
     },
     "pullRequest": [
         {
+            "number": 1112,
+            "title": "docs(reactivity-watchers.md): remove ambiguous “versions before 3.5” statement from watcher onCleanup section",
+            "url": "https://github.com/vuejs-translations/docs-zh-cn/pull/1112",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-16T02:12:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-zh-cn",
+                "nameWithOwner": "vuejs-translations/docs-zh-cn",
+                "homepageUrl": "https://cn.vuejs.org",
+                "description": "Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs",
+                "owner": {
+                    "login": "vuejs-translations",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/85575180?v=4"
+                },
+                "url": "https://github.com/vuejs-translations/docs-zh-cn"
+            }
+        },
+        {
             "number": 1329,
             "title": "style(toast): 调整toast组件样式间距并添加左边距变量(破坏性更新)",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1329",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue"
             }
-        },
-        {
-            "number": 11,
-            "title": "docs(README): ✏️ 更新 vitesse-uni-app 项目链接",
-            "url": "https://github.com/wot-ui/wot-starter/pull/11",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-08-13T16:04:45Z",
-            "mergedAt": "2025-08-28T05:08:56Z",
-            "closedAt": "2025-08-28T05:08:56Z",
-            "repository": {
-                "name": "wot-starter",
-                "nameWithOwner": "wot-ui/wot-starter",
-                "homepageUrl": "https://starter.wot-ui.cn/",
-                "description": "🍀 基于 vitesse-uni-app 深度整合 Wot UI 组件库的 uni-app 快速起手项目",
-                "owner": {
-                    "login": "wot-ui",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/221806390?v=4"
-                },
-                "url": "https://github.com/wot-ui/wot-starter"
-            }
         }
     ],
     "contributions": {
-        "total": 335,
+        "total": 339,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1516,7 +1516,7 @@
             },
             {
                 "date": "2025-10-16",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-10-17",

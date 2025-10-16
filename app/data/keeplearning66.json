@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 22488,
+            "title": "chore: remove the useless debounce prop from slider",
+            "url": "https://github.com/element-plus/element-plus/pull/22488",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 0,
+            "deletions": 9,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-10-16T01:37:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22477,
             "title": "fix(components): [cascader/autocomplete] make debounce prop reactive",
             "url": "https://github.com/element-plus/element-plus/pull/22477",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 20,
             "deletions": 8,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 12,
             "createdAt": "2025-10-15T06:16:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-10-16T02:12:44Z",
+            "closedAt": "2025-10-16T02:12:44Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -43,14 +67,14 @@
             "number": 5098,
             "title": "feat(onClickOutside): allow the value of target to be a getter",
             "url": "https://github.com/vueuse/vueuse/pull/5098",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 44,
             "deletions": 28,
             "totalCommentsCount": 5,
             "createdAt": "2025-10-15T05:49:20Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-10-15T20:07:16Z",
+            "closedAt": "2025-10-15T20:07:16Z",
             "repository": {
                 "name": "vueuse",
                 "nameWithOwner": "vueuse/vueuse",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22311,
-            "title": "docs(components): [message-box] add missing modal prop",
-            "url": "https://github.com/element-plus/element-plus/pull/22311",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-24T12:45:02Z",
-            "mergedAt": "2025-09-24T23:12:38Z",
-            "closedAt": "2025-09-24T23:12:38Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 95,
+        "total": 98,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1413,7 +1413,7 @@
             },
             {
                 "date": "2025-10-16",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-10-17",

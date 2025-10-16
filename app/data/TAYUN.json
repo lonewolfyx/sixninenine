@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 366748,
+            "size": 366986,
             "repoCount": 7,
-            "progress": "33.47"
+            "progress": "33.46"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 358549,
             "repoCount": 5,
-            "progress": "32.73"
+            "progress": "32.69"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 142507,
             "repoCount": 9,
-            "progress": "13.01"
+            "progress": "12.99"
         },
         {
             "name": "Java",
             "color": "#b07219",
             "size": 85877,
             "repoCount": 1,
-            "progress": "7.84"
+            "progress": "7.83"
         },
         {
             "name": "CSS",
@@ -48,16 +48,16 @@
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 32225,
+            "size": 33275,
             "repoCount": 7,
-            "progress": "2.94"
+            "progress": "3.03"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 30747,
             "repoCount": 4,
-            "progress": "2.81"
+            "progress": "2.80"
         },
         {
             "name": "Python",
@@ -119,17 +119,41 @@
     },
     "pullRequest": [
         {
-            "number": 1112,
+            "number": 3302,
             "title": "docs(reactivity-watchers.md): remove ambiguous “versions before 3.5” statement from watcher onCleanup section",
-            "url": "https://github.com/vuejs-translations/docs-zh-cn/pull/1112",
+            "url": "https://github.com/vuejs/docs/pull/3302",
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 1,
-            "createdAt": "2025-10-16T02:12:02Z",
+            "createdAt": "2025-10-16T02:17:55Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "docs",
+                "nameWithOwner": "vuejs/docs",
+                "homepageUrl": "https://vuejs.org",
+                "description": "📄 Documentation for Vue 3",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/docs"
+            }
+        },
+        {
+            "number": 1112,
+            "title": "docs(reactivity-watchers.md): remove ambiguous “versions before 3.5” statement from watcher onCleanup section",
+            "url": "https://github.com/vuejs-translations/docs-zh-cn/pull/1112",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-16T02:12:02Z",
+            "mergedAt": null,
+            "closedAt": "2025-10-16T02:30:19Z",
             "repository": {
                 "name": "docs-zh-cn",
                 "nameWithOwner": "vuejs-translations/docs-zh-cn",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue"
             }
-        },
-        {
-            "number": 4,
-            "title": "docs: 添加请求竞态处理文档和示例代码",
-            "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 110,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-08-18T13:00:39Z",
-            "mergedAt": "2025-08-20T03:06:59Z",
-            "closedAt": "2025-08-20T03:06:59Z",
-            "repository": {
-                "name": "awesome-alfred-skyblue",
-                "nameWithOwner": "lonewolfyx/awesome-alfred-skyblue",
-                "homepageUrl": "https://awesome-alfred-skyblue.vercel.app",
-                "description": "🪂 code collection of 远方os(Alfred-Skyblue)",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue"
-            }
         }
     ],
     "contributions": {
-        "total": 339,
+        "total": 345,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1516,7 +1516,7 @@
             },
             {
                 "date": "2025-10-16",
-                "count": 4
+                "count": 10
             },
             {
                 "date": "2025-10-17",

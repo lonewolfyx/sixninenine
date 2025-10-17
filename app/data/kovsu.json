@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
         "pronouns": "",
         "followers": 56,
-        "following": 19
+        "following": 20
     },
     "languages": [
         {
@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 349,
+            "title": "Refactor cursor styles for Vim mode and remove unused CSS",
+            "url": "https://github.com/athasdev/athas/pull/349",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 20,
+            "deletions": 29,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-17T08:59:53Z",
+            "mergedAt": "2025-10-17T09:27:59Z",
+            "closedAt": "2025-10-17T09:27:59Z",
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight code editor.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
             "number": 18087,
             "title": "Don't indent single argument in binary expressions",
             "url": "https://github.com/prettier/prettier/pull/18087",
@@ -596,7 +620,7 @@
             "changedFiles": 6,
             "additions": 157,
             "deletions": 37,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2025-10-16T08:55:35Z",
             "mergedAt": null,
             "closedAt": null,
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17964,
-            "title": "Improve embed attribute check",
-            "url": "https://github.com/prettier/prettier/pull/17964",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-25T02:50:14Z",
-            "mergedAt": "2025-09-25T09:20:57Z",
-            "closedAt": "2025-09-25T09:20:57Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 695,
+        "total": 698,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1990,7 +1990,7 @@
             },
             {
                 "date": "2025-10-17",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-10-18",

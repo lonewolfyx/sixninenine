@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22507,
+            "title": "fix(components): [date-picker-panel] value-on-clear takes effect on monthrange and yearrange",
+            "url": "https://github.com/element-plus/element-plus/pull/22507",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 67,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-10-17T03:41:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22495,
             "title": "fix(components): [select-v2] avoid displaying 'false' incorrectly during remote search",
             "url": "https://github.com/element-plus/element-plus/pull/22495",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22340,
-            "title": "fix(components): [table] make resizable prop reactive",
-            "url": "https://github.com/element-plus/element-plus/pull/22340",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-26T12:09:15Z",
-            "mergedAt": "2025-09-29T06:28:43Z",
-            "closedAt": "2025-09-29T06:28:43Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 103,
+        "total": 104,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1417,7 +1417,7 @@
             },
             {
                 "date": "2025-10-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-18",

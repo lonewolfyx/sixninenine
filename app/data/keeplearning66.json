@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22525,
+            "title": "docs(components): [segmented] add missing default value",
+            "url": "https://github.com/element-plus/element-plus/pull/22525",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2025-10-18T10:58:45Z",
+            "mergedAt": "2025-10-18T11:49:37Z",
+            "closedAt": "2025-10-18T11:49:37Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22507,
             "title": "fix(components): [date-picker-panel] value-on-clear takes effect on monthrange and yearrange",
             "url": "https://github.com/element-plus/element-plus/pull/22507",
@@ -43,14 +67,14 @@
             "number": 22495,
             "title": "fix(components): [select-v2] avoid displaying 'false' incorrectly during remote search",
             "url": "https://github.com/element-plus/element-plus/pull/22495",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 39,
             "deletions": 2,
             "totalCommentsCount": 3,
             "createdAt": "2025-10-16T05:58:54Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-10-18T09:23:52Z",
+            "closedAt": "2025-10-18T09:23:52Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22381,
-            "title": "refactor(components): remove unnecessary 'props.' in the template",
-            "url": "https://github.com/element-plus/element-plus/pull/22381",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 5,
-            "deletions": 7,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-29T15:12:16Z",
-            "mergedAt": "2025-10-02T14:01:02Z",
-            "closedAt": "2025-10-02T14:01:02Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 105,
+        "total": 108,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1421,7 +1421,7 @@
             },
             {
                 "date": "2025-10-18",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-10-19",

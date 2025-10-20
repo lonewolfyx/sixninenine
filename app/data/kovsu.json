@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 351,
+            "title": "Improve click outside behavior for dropdown component",
+            "url": "https://github.com/athasdev/athas/pull/351",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-10-20T02:16:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight code editor.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
             "number": 349,
             "title": "Refactor cursor styles for Vim mode and remove unused CSS",
             "url": "https://github.com/athasdev/athas/pull/349",
@@ -617,9 +641,9 @@
             "title": "Don't indent single argument in binary expressions",
             "url": "https://github.com/prettier/prettier/pull/18087",
             "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 157,
-            "deletions": 37,
+            "changedFiles": 4,
+            "additions": 235,
+            "deletions": 25,
             "totalCommentsCount": 4,
             "createdAt": "2025-10-16T08:55:35Z",
             "mergedAt": null,
@@ -785,10 +809,10 @@
             "title": "Keep less mixin lookups tight",
             "url": "https://github.com/prettier/prettier/pull/17983",
             "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 214,
+            "changedFiles": 8,
+            "additions": 250,
             "deletions": 3,
-            "totalCommentsCount": 21,
+            "totalCommentsCount": 22,
             "createdAt": "2025-09-26T03:05:01Z",
             "mergedAt": null,
             "closedAt": null,
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17965,
-            "title": "Support format TOML Front Matter",
-            "url": "https://github.com/prettier/prettier/pull/17965",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 186,
-            "deletions": 49,
-            "totalCommentsCount": 32,
-            "createdAt": "2025-09-25T08:11:05Z",
-            "mergedAt": "2025-09-28T11:36:05Z",
-            "closedAt": "2025-09-28T11:36:05Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 698,
+        "total": 699,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2002,7 +2002,7 @@
             },
             {
                 "date": "2025-10-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-21",

@@ -52,6 +52,54 @@
     },
     "pullRequest": [
         {
+            "number": 42,
+            "title": "chore: 优化 vite 输出提示和文件写入逻辑",
+            "url": "https://github.com/auto-i18n/auto-i18n-translation-plugins/pull/42",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 101,
+            "deletions": 86,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-10-20T06:20:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "auto-i18n-translation-plugins",
+                "nameWithOwner": "auto-i18n/auto-i18n-translation-plugins",
+                "homepageUrl": "",
+                "description": "前端自动翻译。支持有道/谷歌/百度/自定义翻译器。兼容 webpack/vite/rollup/rsbuild，适配所有编译成JS的框架，支持插值，命名空间等，帮助你一键翻译项目。",
+                "owner": {
+                    "login": "auto-i18n",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/218560855?v=4"
+                },
+                "url": "https://github.com/auto-i18n/auto-i18n-translation-plugins"
+            }
+        },
+        {
+            "number": 2144,
+            "title": "feat(mermaid): add mermaid support to crepe",
+            "url": "https://github.com/Milkdown/milkdown/pull/2144",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 457,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-10-20T02:35:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "milkdown",
+                "nameWithOwner": "Milkdown/milkdown",
+                "homepageUrl": "https://milkdown.dev",
+                "description": "🍼 Plugin driven WYSIWYG  markdown editor framework.",
+                "owner": {
+                    "login": "Milkdown",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/125342561?v=4"
+                },
+                "url": "https://github.com/Milkdown/milkdown"
+            }
+        },
+        {
             "number": 32,
             "title": "feat: 同步滚动",
             "url": "https://github.com/Auto-Plugin/milkup/pull/32",
@@ -242,58 +290,10 @@
                 },
                 "url": "https://github.com/syf47/Bastion-brotherhood"
             }
-        },
-        {
-            "number": 9,
-            "title": "chore: 修复拼写错误",
-            "url": "https://github.com/syf47/Bastion-brotherhood/pull/9",
-            "state": "MERGED",
-            "changedFiles": 35,
-            "additions": 72,
-            "deletions": 72,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-30T09:54:20Z",
-            "mergedAt": "2025-06-30T09:54:25Z",
-            "closedAt": "2025-06-30T09:54:26Z",
-            "repository": {
-                "name": "Bastion-brotherhood",
-                "nameWithOwner": "syf47/Bastion-brotherhood",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "syf47",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76098945?u=f00162cc59a178b976c4295ca8a2e4247565d7cd&v=4"
-                },
-                "url": "https://github.com/syf47/Bastion-brotherhood"
-            }
-        },
-        {
-            "number": 7,
-            "title": "chore: 新增一些兄弟",
-            "url": "https://github.com/syf47/Bastion-brotherhood/pull/7",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 11,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-30T09:21:02Z",
-            "mergedAt": "2025-06-30T09:21:09Z",
-            "closedAt": "2025-06-30T09:21:09Z",
-            "repository": {
-                "name": "Bastion-brotherhood",
-                "nameWithOwner": "syf47/Bastion-brotherhood",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "syf47",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76098945?u=f00162cc59a178b976c4295ca8a2e4247565d7cd&v=4"
-                },
-                "url": "https://github.com/syf47/Bastion-brotherhood"
-            }
         }
     ],
     "contributions": {
-        "total": 243,
+        "total": 248,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1465,7 +1465,7 @@
             },
             {
                 "date": "2025-10-20",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2025-10-21",

@@ -589,6 +589,54 @@
     },
     "pullRequest": [
         {
+            "number": 8716,
+            "title": "`new-repo-disable-projects-and-wikis` - Avoid duplicated adding",
+            "url": "https://github.com/refined-github/refined-github/pull/8716",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-22T05:57:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
+            "number": 356,
+            "title": "Improve ux in switching project",
+            "url": "https://github.com/athasdev/athas/pull/356",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-10-22T03:11:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight code editor.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
             "number": 41615,
             "title": "Fix comment to use correct `line-height`",
             "url": "https://github.com/mdn/content/pull/41615",
@@ -620,7 +668,7 @@
             "changedFiles": 6,
             "additions": 112,
             "deletions": 0,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2025-10-21T08:39:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -779,58 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18011,
-            "title": "Enable knip in `website/`",
-            "url": "https://github.com/prettier/prettier/pull/18011",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 27,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-10-08T02:33:01Z",
-            "mergedAt": "2025-10-09T06:25:24Z",
-            "closedAt": "2025-10-09T06:25:24Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 4531,
-            "title": "feat: add video playback control in preview media",
-            "url": "https://github.com/RSSNext/Folo/pull/4531",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 20,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-30T02:59:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://folo.is",
-                "description": "🧡 Follow everything in one place",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 708,
+        "total": 711,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2010,7 +2010,7 @@
             },
             {
                 "date": "2025-10-22",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-10-23",

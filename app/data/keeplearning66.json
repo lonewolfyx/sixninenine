@@ -52,6 +52,30 @@
     },
     "pullRequest": [
         {
+            "number": 22571,
+            "title": "docs(components): [dialog/tour] add missing default value to model-value",
+            "url": "https://github.com/element-plus/element-plus/pull/22571",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-10-23T11:34:49Z",
+            "mergedAt": "2025-10-23T12:18:13Z",
+            "closedAt": "2025-10-23T12:18:13Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22559,
             "title": "fix(components): [date-picker-panel] the `show-week-number` mode selected rows are missing the `current` class name",
             "url": "https://github.com/element-plus/element-plus/pull/22559",
@@ -266,34 +290,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22442,
-            "title": "docs(components): [tree] supplement the description of parameters for setChecked",
-            "url": "https://github.com/element-plus/element-plus/pull/22442",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-12T06:38:59Z",
-            "mergedAt": "2025-10-12T21:06:27Z",
-            "closedAt": "2025-10-12T21:06:27Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 127,
+        "total": 129,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1477,7 +1477,7 @@
             },
             {
                 "date": "2025-10-23",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2025-10-24",

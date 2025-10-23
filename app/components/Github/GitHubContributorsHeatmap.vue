@@ -29,7 +29,7 @@
             </div>
         </div>
 
-        <div class="mt-4 flex items-center gap-4 text-sm">
+        <div class="mt-4 hidden lg:flex items-center gap-4 text-sm">
             <div class="flex items-center gap-2">
                 <div class="w-4 h-4 rounded-sm bg-slate-100 border border-slate-200" />
                 <span class="text-slate-600">0</span>

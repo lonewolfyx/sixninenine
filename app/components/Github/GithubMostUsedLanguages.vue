@@ -20,7 +20,7 @@
                     class="flex-none"
                 />
             </div>
-            <div class="grid grid-cols-2 gap-2 gap-x-6">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 gap-x-6">
                 <div
                     v-for="language in languages.slice(0, 12)"
                     :key="`lag${language.name}`"

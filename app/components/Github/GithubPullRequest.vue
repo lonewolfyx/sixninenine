@@ -53,7 +53,7 @@
                         {{ item.title }}
                     </NuxtLink>
                     <TimelineDate class="mt-2 mb-0">
-                        <div class="flex items-center text-base-content/60 text-xs gap-1.5">
+                        <div class="hidden md:flex items-center text-base-content/60 text-xs gap-1.5">
                             <span class="">#{{ item.number }}</span>
                             <span class="mx-0.5 size-0.5 bg-base-content/60 rounded-full" />
                             <span
@@ -68,6 +68,22 @@
                             <span class="mx-0.5 size-0.5 bg-base-content/60 rounded-full" />
                             <span class="">{{ item.totalCommentsCount }} comments</span>
                             <span class="mx-0.5 size-0.5 bg-base-content/60 rounded-full" />
+                            <span class="">{{ dayjs(item.createdAt).format('YYYY-MM-DD HH:mm:ss') }}</span>
+                        </div>
+                        <div class="grid grid-cols-2 md:hidden text-base-content/60 text-xs gap-1.5">
+                            <span class="">#{{ item.number }}</span>
+                            <span class="">{{ item.totalCommentsCount }} comments</span>
+                            <div class="flex items-center gap-2">
+                                <span
+                                    v-if="item.additions"
+                                    class="font-semibold text-green-500"
+                                >+{{ item.additions }}</span>
+                                <span
+                                    v-if="item.deletions"
+                                    class="font-semibold text-red-500"
+                                >-{{ item.deletions }}</span>
+                                <span>lines changed</span>
+                            </div>
                             <span class="">{{ dayjs(item.createdAt).format('YYYY-MM-DD HH:mm:ss') }}</span>
                         </div>
                     </TimelineDate>

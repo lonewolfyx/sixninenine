@@ -7,7 +7,7 @@
             'group-data-[orientation=horizontal]/timeline:mt-8',
             'group-data-[orientation=horizontal]/timeline:not-last:pe-8',
             'group-data-[orientation=vertical]/timeline:ms-8',
-            'group-data-[orientation=vertical]/timeline:not-last:pb-12',
+            'group-data-[orientation=vertical]/timeline:not-last:pb-8',
             props.class,
         )"
         data-slot="timeline-item"

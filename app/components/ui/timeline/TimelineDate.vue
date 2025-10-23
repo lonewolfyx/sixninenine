@@ -1,7 +1,7 @@
 <template>
     <time
         :class="cn(
-            'text-muted-foreground mb-1 block text-xs font-medium group-data-[orientation=vertical]/timeline:max-sm:h-4',
+            'text-muted-foreground mb-1 block text-xs font-medium',
             props.class,
         )"
         data-slot="timeline-date"

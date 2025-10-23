@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 30021,
+            "size": 30305,
             "repoCount": 1,
-            "progress": "71.46"
+            "progress": "71.65"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 8498,
             "repoCount": 1,
-            "progress": "20.23"
+            "progress": "20.09"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 1747,
             "repoCount": 1,
-            "progress": "4.16"
+            "progress": "4.13"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1070,
             "repoCount": 1,
-            "progress": "2.55"
+            "progress": "2.53"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 676,
             "repoCount": 1,
-            "progress": "1.61"
+            "progress": "1.60"
         }
     ],
     "organizations": {
@@ -53,13 +53,13 @@
     "pullRequest": [
         {
             "number": 22559,
-            "title": "fix(components): [date-picker-panel] the selected row has '.current' class when show-week-number",
+            "title": "fix(components): [date-picker-panel] the `show-week-number` mode selected rows are missing the `current` class name",
             "url": "https://github.com/element-plus/element-plus/pull/22559",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
+            "changedFiles": 2,
+            "additions": 19,
             "deletions": 1,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2025-10-23T02:00:38Z",
             "mergedAt": null,
             "closedAt": null,
@@ -293,7 +293,7 @@
         }
     ],
     "contributions": {
-        "total": 124,
+        "total": 127,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1477,7 +1477,7 @@
             },
             {
                 "date": "2025-10-23",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-10-24",

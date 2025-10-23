@@ -1,18 +1,18 @@
 <template>
     <Tabs
         v-model="tabValue"
-        class="flex flex-col lg:flex-row grow pt-(--header-height)"
+        class="flex flex-row grow pt-(--header-height)"
     >
         <div
             :class="cn(
                 'fixed w-(--sidebar-width) lg:top-(--header-height) z-20',
-                'hidden lg:flex flex-col items-stretch shrink-0 group',
+                'flex flex-col items-stretch shrink-0 group',
                 'py-3 lg:py-0',
             )"
         >
             <TabsList class="flex grow shrink-0 w-full">
                 <div
-                    class="overflow-y-auto gap-2.5 w-full flex flex-col items-center max-h-[calc(100dvh-10px))] lg:max-h-[calc(100dvh-70px))]"
+                    class="overflow-y-auto gap-2.5 w-full flex flex-col items-center max-h-[calc(100dvh-70px))]"
                 >
                     <TabsTrigger
                         v-for="member in members"
@@ -35,10 +35,10 @@
             </TabsList>
         </div>
         <div
-            class="flex grow rounded-lg border border-base-300 bg-white mx-5 lg:ms-(--sidebar-width) mb-5"
+            class="flex grow rounded-lg border border-base-300 bg-white mx-5 ms-(--sidebar-width) mb-5"
         >
             <div
-                class="flex flex-col grow overflow-y-scroll lg:overflow-auto p-4 break-all"
+                class="flex flex-col grow overflow-y-scroll p-4 break-all"
             >
                 <TabsContent
                     v-for="member in members"

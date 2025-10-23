@@ -14,7 +14,7 @@
                         </div>
                     </div>
                     <div class="col-span-10 flex justify-center items-center">
-                        <NavigationMenu>
+                        <NavigationMenu class="hidden lg:block">
                             <NavigationMenuList>
                                 <NavigationMenuItem>
                                     <NavigationMenuLink

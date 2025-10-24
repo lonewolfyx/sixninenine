@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 4600,
+            "title": "fix: improve audio player progress bar hover indicator styles",
+            "url": "https://github.com/RSSNext/Folo/pull/4600",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 6,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-24T09:20:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Folo",
+                "nameWithOwner": "RSSNext/Folo",
+                "homepageUrl": "https://folo.is",
+                "description": "🧡 Follow everything in one place",
+                "owner": {
+                    "login": "RSSNext",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
+                },
+                "url": "https://github.com/RSSNext/Folo"
+            }
+        },
+        {
             "number": 8716,
             "title": "`new-repo-disable-projects-and-wikis` - Avoid duplicates",
             "url": "https://github.com/refined-github/refined-github/pull/8716",
@@ -668,7 +692,7 @@
             "changedFiles": 6,
             "additions": 128,
             "deletions": 0,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 15,
             "createdAt": "2025-10-21T08:39:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -737,8 +761,8 @@
             "title": "Don't indent single argument in binary expressions",
             "url": "https://github.com/prettier/prettier/pull/18087",
             "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 365,
+            "changedFiles": 5,
+            "additions": 299,
             "deletions": 25,
             "totalCommentsCount": 5,
             "createdAt": "2025-10-16T08:55:35Z",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18029,
-            "title": "Fix cache not invalidated when files are ignored or restored",
-            "url": "https://github.com/prettier/prettier/pull/18029",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-10T08:56:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 715,
+        "total": 716,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2018,7 +2018,7 @@
             },
             {
                 "date": "2025-10-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-25",

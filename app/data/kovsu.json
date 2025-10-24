@@ -758,16 +758,16 @@
         },
         {
             "number": 18087,
-            "title": "Don't indent single argument in binary expressions",
+            "title": "Remove indention in logical expression in `Boolean()` type coercion",
             "url": "https://github.com/prettier/prettier/pull/18087",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
-            "additions": 299,
-            "deletions": 25,
-            "totalCommentsCount": 5,
+            "additions": 504,
+            "deletions": 1,
+            "totalCommentsCount": 7,
             "createdAt": "2025-10-16T08:55:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-10-24T13:42:46Z",
+            "closedAt": "2025-10-24T13:42:46Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -830,7 +830,7 @@
         }
     ],
     "contributions": {
-        "total": 716,
+        "total": 717,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2018,7 +2018,7 @@
             },
             {
                 "date": "2025-10-24",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-10-25",

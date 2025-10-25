@@ -16,6 +16,78 @@
     },
     "pullRequest": [
         {
+            "number": 736,
+            "title": "docs(sideBar): Translate sidebar menu",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/736",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 18,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-25T12:33:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 735,
+            "title": "docs(features): Modify links for BrowserMode",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/735",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-25T08:55:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 5119,
+            "title": "test(useNow): Supplement component test",
+            "url": "https://github.com/vueuse/vueuse/pull/5119",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-10-25T08:28:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 6,
             "title": "feat(members): add new alias name",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/6",
@@ -182,82 +254,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5037,
-            "title": "fix(useMagicKeys): clearing of other keys after releasing alt",
-            "url": "https://github.com/vueuse/vueuse/pull/5037",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 18,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-14T11:40:48Z",
-            "mergedAt": "2025-09-16T14:22:47Z",
-            "closedAt": "2025-09-16T14:22:47Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 5036,
-            "title": "test(useMousePressed): add test to cover all features",
-            "url": "https://github.com/vueuse/vueuse/pull/5036",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 105,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-14T05:09:20Z",
-            "mergedAt": "2025-09-16T14:22:47Z",
-            "closedAt": "2025-09-16T14:22:47Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 5002,
-            "title": "test(useTilte): add test to cover all features",
-            "url": "https://github.com/vueuse/vueuse/pull/5002",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 88,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-08-30T18:05:03Z",
-            "mergedAt": "2025-09-02T02:37:19Z",
-            "closedAt": "2025-09-02T02:37:19Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 372,
+        "total": 376,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1449,7 +1449,7 @@
             },
             {
                 "date": "2025-10-25",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-10-26",

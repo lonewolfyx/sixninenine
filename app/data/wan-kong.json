@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 8594,
+            "title": "fix(sidebar): change to overflow-hidden just in horizontal",
+            "url": "https://github.com/shadcn-ui/ui/pull/8594",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 7,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-28T05:35:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ui",
+                "nameWithOwner": "shadcn-ui/ui",
+                "homepageUrl": "https://ui.shadcn.com",
+                "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+                "owner": {
+                    "login": "shadcn-ui",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4"
+                },
+                "url": "https://github.com/shadcn-ui/ui"
+            }
+        },
+        {
             "number": 1508,
             "title": "fix(sidebar): correct overflow for collapsible icon",
             "url": "https://github.com/unovue/shadcn-vue/pull/1508",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 150,
-            "title": "feat(ProTable): 🚀 插槽引入ElTable的scope",
-            "url": "https://github.com/HalseySpicy/Geeker-Admin/pull/150",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2023-03-14T14:51:01Z",
-            "mergedAt": "2023-04-04T06:12:31Z",
-            "closedAt": "2023-04-04T06:12:31Z",
-            "repository": {
-                "name": "Geeker-Admin",
-                "nameWithOwner": "HalseySpicy/Geeker-Admin",
-                "homepageUrl": "https://admin.spicyboy.cn",
-                "description": "✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。",
-                "owner": {
-                    "login": "HalseySpicy",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/51069636?u=6ef7554094a5ca86b131a2a56af3912f69ce7ad0&v=4"
-                },
-                "url": "https://github.com/HalseySpicy/Geeker-Admin"
-            }
         }
     ],
     "contributions": {
-        "total": 92,
+        "total": 94,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1518,7 +1518,7 @@
             },
             {
                 "date": "2025-10-28",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-10-29",

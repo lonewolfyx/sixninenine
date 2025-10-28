@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
         "pronouns": "",
-        "followers": 57,
+        "followers": 56,
         "following": 20
     },
     "languages": [
@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 4623,
+            "title": "fix(desktop): first item's action bar was obscured by header",
+            "url": "https://github.com/RSSNext/Folo/pull/4623",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 3,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-10-28T03:10:28Z",
+            "mergedAt": "2025-10-28T04:13:21Z",
+            "closedAt": "2025-10-28T04:13:21Z",
+            "repository": {
+                "name": "Folo",
+                "nameWithOwner": "RSSNext/Folo",
+                "homepageUrl": "https://folo.is",
+                "description": "🧡 Follow everything in one place",
+                "owner": {
+                    "login": "RSSNext",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
+                },
+                "url": "https://github.com/RSSNext/Folo"
+            }
+        },
+        {
             "number": 4610,
             "title": "feat: add language params to video url",
             "url": "https://github.com/RSSNext/Folo/pull/4610",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 18087,
-            "title": "Remove indention in logical expression in `Boolean()` type coercion",
-            "url": "https://github.com/prettier/prettier/pull/18087",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 504,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-10-16T08:55:35Z",
-            "mergedAt": "2025-10-24T13:42:46Z",
-            "closedAt": "2025-10-24T13:42:46Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 726,
+        "total": 728,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2034,7 +2034,7 @@
             },
             {
                 "date": "2025-10-28",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-10-29",

@@ -289,6 +289,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "chore: update README",
+            "url": "https://github.com/Auto-Plugin/autodialog.js/pull/3",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-10-28T11:14:24Z",
+            "mergedAt": "2025-10-28T11:25:42Z",
+            "closedAt": "2025-10-28T11:25:42Z",
+            "repository": {
+                "name": "autodialog.js",
+                "nameWithOwner": "Auto-Plugin/autodialog.js",
+                "homepageUrl": "",
+                "description": "autodialog 是一个框架无关的弹窗系统，核心仅依赖原生 DOM。 默认内置 Vue、React、HTML 适配器，并支持用户注册自定义框架适配器（如 Svelte、Solid 等）",
+                "owner": {
+                    "login": "Auto-Plugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
+                },
+                "url": "https://github.com/Auto-Plugin/autodialog.js"
+            }
+        },
+        {
             "number": 395,
             "title": "fix: standardize quote style in Nuxt.js example",
             "url": "https://github.com/ueberdosis/tiptap-docs/pull/395",
@@ -503,34 +527,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 32,
-            "title": "fix: index out of range problem",
-            "url": "https://github.com/vitejs/devtools/pull/32",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-15T12:25:45Z",
-            "mergedAt": "2025-07-17T00:38:17Z",
-            "closedAt": "2025-07-17T00:38:17Z",
-            "repository": {
-                "name": "devtools",
-                "nameWithOwner": "vitejs/devtools",
-                "homepageUrl": "",
-                "description": "DevTools for Vite (Rolldown). Working in Progress",
-                "owner": {
-                    "login": "vitejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
-                },
-                "url": "https://github.com/vitejs/devtools"
-            }
         }
     ],
     "contributions": {
-        "total": 322,
+        "total": 325,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1734,7 +1734,7 @@
             },
             {
                 "date": "2025-10-28",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-10-29",

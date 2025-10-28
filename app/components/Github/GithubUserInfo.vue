@@ -16,19 +16,16 @@
                     >
                 </NuxtLink>
                 <div class="flex flex-col">
-                    <p class="flex items-center gap-1.5">
+                    <p class="flex items-center gap-2">
                         <NuxtLink
                             :title="namePlaceholder"
                             :to="userInfo.url"
                             class="text-lg leading-5 font-semibold text-mono"
                             target="_blank"
                         >
-                            {{ userInfo.name }}
+                            {{ username }}
                         </NuxtLink>
                         <span class="text-xs">@{{ userInfo.login }}</span>
-                    </p>
-                    <p class="text-center">
-                        <span class="text-xs">{{ aliasName }}</span>
                     </p>
                 </div>
 
@@ -76,5 +73,12 @@ const props = defineProps<{
 const namePlaceholder = computed(() => {
     const base = `${props.userInfo.login} · ${props.userInfo.name}`
     return props.aliasName ? `${base} · ${props.aliasName}` : base
+})
+
+const username = computed(() => {
+    return [
+        props.userInfo.name,
+        props.userInfo.name === props.aliasName ? '' : props.aliasName,
+    ].filter(Boolean).join(' · ')
 })
 </script>

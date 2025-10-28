@@ -7,9 +7,9 @@
 
         <div class="grid lg:grid-cols-3 gap-5 lg:gap-7.5 items-stretch">
             <div class="lg:col-span-1 space-y-8">
-                <GithubMostUsedLanguages
-                    v-if="data['languages']"
-                    :languages="data['languages']"
+                <GithubOrganizations
+                    v-if="data.organizations.nodes"
+                    :organizations="data.organizations.nodes"
                 />
 
                 <GitHubContributorsHeatmap
@@ -18,9 +18,9 @@
                     :total="data['contributions']['total']"
                 />
 
-                <GithubOrganizations
-                    v-if="data.organizations.nodes"
-                    :organizations="data.organizations.nodes"
+                <GithubMostUsedLanguages
+                    v-if="data['languages']"
+                    :languages="data['languages']"
                 />
             </div>
             <div class="lg:col-span-2">

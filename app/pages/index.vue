@@ -1,35 +1,43 @@
 <template>
     <Tabs
         v-model="tabValue"
+        :class="cn(
+            '[--sidebar-width:3.75rem] md:[--sidebar-width:15.625rem]',
+        )"
         class="flex flex-row grow pt-(--header-height)"
     >
         <div
             :class="cn(
                 'fixed w-(--sidebar-width) lg:top-(--header-height) z-20',
                 'flex flex-col items-stretch shrink-0 group',
-                'py-3 lg:py-0',
+                'px-0 md:px-3',
             )"
         >
             <TabsList class="flex grow shrink-0 w-full">
                 <div
-                    class="overflow-y-auto gap-2.5 w-full flex flex-col items-center max-h-[calc(100dvh-70px))]"
+                    class="overflow-y-auto gap-2.5 w-full flex flex-col items-center md:items-start max-h-[calc(100dvh-70px))]"
                 >
                     <TabsTrigger
                         v-for="member in members"
                         :key="member.username"
                         :value="member.username"
                         as-child
-                        class="size-10 overflow-visible cursor-pointer"
+                        class="size-10 md:w-full overflow-visible cursor-pointer"
                         @click="handleTabChange(member.username)"
                     >
-                        <Avatar class="flex flex-col justify-center items-center">
-                            <AvatarImage
-                                :alt="member"
-                                :src="`https://github.com/${member.username}.png`"
-                                class="rounded-full"
-                            />
-                            <AvatarFallback>SN</AvatarFallback>
-                        </Avatar>
+                        <div class="flex justify-start items-center gap-4">
+                            <Avatar class="flex flex-col justify-center items-center">
+                                <AvatarImage
+                                    :alt="member"
+                                    :src="`https://github.com/${member.username}.png`"
+                                    class="rounded-full"
+                                />
+                                <AvatarFallback>SN</AvatarFallback>
+                            </Avatar>
+                            <span class="font-medium text-sm text-neutral hidden md:block">{{
+                                member?.aliasName ?? member.username
+                            }}</span>
+                        </div>
                     </TabsTrigger>
                 </div>
             </TabsList>
@@ -46,8 +54,8 @@
                     :value="member.username"
                 >
                     <GithubDashboard
-                        :data="VirtualMembers?.[tabValue]"
                         :alias-name="member.aliasName"
+                        :data="VirtualMembers?.[tabValue]"
                     />
                 </TabsContent>
             </div>

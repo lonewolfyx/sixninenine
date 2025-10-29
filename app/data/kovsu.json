@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 4628,
+            "title": "fix(desktop): increase height for preview header style",
+            "url": "https://github.com/RSSNext/Folo/pull/4628",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-10-29T06:09:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Folo",
+                "nameWithOwner": "RSSNext/Folo",
+                "homepageUrl": "https://folo.is",
+                "description": "🧡 Follow everything in one place",
+                "owner": {
+                    "login": "RSSNext",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
+                },
+                "url": "https://github.com/RSSNext/Folo"
+            }
+        },
+        {
             "number": 4623,
             "title": "fix(desktop): first item's action bar was obscured by header",
             "url": "https://github.com/RSSNext/Folo/pull/4623",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 349,
-            "title": "Refactor cursor styles for Vim mode and remove unused CSS",
-            "url": "https://github.com/athasdev/athas/pull/349",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 20,
-            "deletions": 29,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-17T08:59:53Z",
-            "mergedAt": "2025-10-17T09:27:59Z",
-            "closedAt": "2025-10-17T09:27:59Z",
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight code editor.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
         }
     ],
     "contributions": {
-        "total": 728,
+        "total": 729,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2038,7 +2038,7 @@
             },
             {
                 "date": "2025-10-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-10-30",

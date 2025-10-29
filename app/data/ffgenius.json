@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 4,
+            "title": "refactor(build): Optimize build configuration",
+            "url": "https://github.com/Auto-Plugin/autodialog.js/pull/4",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-10-29T08:41:03Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "autodialog.js",
+                "nameWithOwner": "Auto-Plugin/autodialog.js",
+                "homepageUrl": "",
+                "description": "autodialog 是一个框架无关的弹窗系统，核心仅依赖原生 DOM。 默认内置 Vue、React、HTML 适配器，并支持用户注册自定义框架适配器（如 Svelte、Solid 等）",
+                "owner": {
+                    "login": "Auto-Plugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
+                },
+                "url": "https://github.com/Auto-Plugin/autodialog.js"
+            }
+        },
+        {
             "number": 34,
             "title": "fix(logo): make CarouselItem adaptive and prevent content overflow",
             "url": "https://github.com/vue-blocks/vue-blocks/pull/34",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 1,
-            "title": "chore(gitignore): add ignore file ./idea",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-07T15:58:00Z",
-            "mergedAt": "2025-09-08T01:18:11Z",
-            "closedAt": "2025-09-08T01:18:12Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 174,
+        "total": 176,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1515,7 +1515,7 @@
             },
             {
                 "date": "2025-10-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-10-30",

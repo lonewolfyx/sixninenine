@@ -9,12 +9,51 @@
         "followers": 0,
         "following": 1
     },
-    "languages": [],
+    "languages": [
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 5826,
+            "repoCount": 1,
+            "progress": "85.06"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 1023,
+            "repoCount": 1,
+            "progress": "14.94"
+        }
+    ],
     "organizations": {
         "nodes": [],
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1,
+            "title": "feat(title): 添加标题自定义锚点手动添加锚点用例",
+            "url": "https://github.com/NoiseFan/e2e-vitest-docs/pull/1",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 132,
+            "deletions": 32,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-01T14:01:12Z",
+            "mergedAt": "2025-11-01T14:01:22Z",
+            "closedAt": "2025-11-01T14:01:22Z",
+            "repository": {
+                "name": "e2e-vitest-docs",
+                "nameWithOwner": "NoiseFan/e2e-vitest-docs",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/e2e-vitest-docs"
+            }
+        },
         {
             "number": 763,
             "title": "ci(lint): 添加代码格式化相关工具",
@@ -47,7 +86,7 @@
             "changedFiles": 25,
             "additions": 151,
             "deletions": 146,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 15,
             "createdAt": "2025-10-28T17:13:45Z",
             "mergedAt": "2025-11-01T12:49:27Z",
             "closedAt": "2025-11-01T12:49:27Z",
@@ -230,34 +269,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 765,
-            "title": "fix(docs): Fixed function signature in rule example",
-            "url": "https://github.com/vitest-dev/eslint-plugin-vitest/pull/765",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-24T13:08:43Z",
-            "mergedAt": "2025-09-24T14:59:44Z",
-            "closedAt": "2025-09-24T14:59:44Z",
-            "repository": {
-                "name": "eslint-plugin-vitest",
-                "nameWithOwner": "vitest-dev/eslint-plugin-vitest",
-                "homepageUrl": "",
-                "description": "eslint plugin for vitest",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/eslint-plugin-vitest"
-            }
         }
     ],
     "contributions": {
-        "total": 412,
+        "total": 417,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1477,7 +1492,7 @@
             },
             {
                 "date": "2025-11-01",
-                "count": 8
+                "count": 13
             },
             {
                 "date": "2025-11-02",

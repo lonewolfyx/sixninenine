@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 763,
+            "title": "ci(lint): 添加代码格式化相关工具",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/763",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 319,
+            "deletions": 163,
+            "totalCommentsCount": 9,
+            "createdAt": "2025-11-01T08:54:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 742,
             "title": "docs(anchor): document add custom anchor",
             "url": "https://github.com/vitest-dev/docs-cn/pull/742",
-            "state": "OPEN",
-            "changedFiles": 19,
-            "additions": 192,
-            "deletions": 170,
-            "totalCommentsCount": 1,
+            "state": "MERGED",
+            "changedFiles": 25,
+            "additions": 151,
+            "deletions": 146,
+            "totalCommentsCount": 9,
             "createdAt": "2025-10-28T17:13:45Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-11-01T12:49:27Z",
+            "closedAt": "2025-11-01T12:49:27Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vitest-dev/eslint-plugin-vitest"
             }
-        },
-        {
-            "number": 5053,
-            "title": "chore(lint): enable some stylistic rules for test files",
-            "url": "https://github.com/vueuse/vueuse/pull/5053",
-            "state": "MERGED",
-            "changedFiles": 33,
-            "additions": 90,
-            "deletions": 10,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-21T07:36:23Z",
-            "mergedAt": "2025-09-23T23:05:14Z",
-            "closedAt": "2025-09-23T23:05:14Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 409,
+        "total": 412,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1477,7 +1477,7 @@
             },
             {
                 "date": "2025-11-01",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2025-11-02",

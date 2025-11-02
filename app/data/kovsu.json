@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 4650,
+            "title": "fix: correct header height class assignment",
+            "url": "https://github.com/RSSNext/Folo/pull/4650",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-02T16:14:00Z",
+            "mergedAt": "2025-11-02T16:15:52Z",
+            "closedAt": "2025-11-02T16:15:52Z",
+            "repository": {
+                "name": "Folo",
+                "nameWithOwner": "RSSNext/Folo",
+                "homepageUrl": "https://folo.is",
+                "description": "🧡 Folo is the AI Reader",
+                "owner": {
+                    "login": "RSSNext",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
+                },
+                "url": "https://github.com/RSSNext/Folo"
+            }
+        },
+        {
             "number": 4628,
             "title": "fix(desktop): increase height for preview header style",
             "url": "https://github.com/RSSNext/Folo/pull/4628",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 351,
-            "title": "Improve click outside behavior for dropdown component",
-            "url": "https://github.com/athasdev/athas/pull/351",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-20T02:16:46Z",
-            "mergedAt": "2025-10-20T08:33:39Z",
-            "closedAt": "2025-10-20T08:33:39Z",
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight code editor.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
         }
     ],
     "contributions": {
-        "total": 731,
+        "total": 733,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2058,7 +2058,7 @@
             },
             {
                 "date": "2025-11-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-04",

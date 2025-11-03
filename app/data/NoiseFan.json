@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 769,
+            "title": "docs(anchor): document add custom anchor ",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/769",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 44,
+            "deletions": 44,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-03T02:38:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 1,
             "title": "feat(title): 添加标题自定义锚点手动添加锚点用例",
             "url": "https://github.com/NoiseFan/e2e-vitest-docs/pull/1",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 5083,
-            "title": "test(useWindowFocus): add test to cover all features",
-            "url": "https://github.com/vueuse/vueuse/pull/5083",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 48,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-10-02T18:26:25Z",
-            "mergedAt": null,
-            "closedAt": "2025-10-25T04:42:23Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 418,
+        "total": 419,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1500,7 +1500,7 @@
             },
             {
                 "date": "2025-11-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-04",

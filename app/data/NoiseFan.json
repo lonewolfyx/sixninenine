@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 5826,
+            "size": 9863,
             "repoCount": 1,
-            "progress": "85.06"
+            "progress": "90.60"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "14.94"
+            "progress": "9.40"
         }
     ],
     "organizations": {
@@ -31,14 +31,38 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(anchor): Add batch checking anchor",
+            "url": "https://github.com/NoiseFan/e2e-vitest-docs/pull/2",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 157,
+            "deletions": 23,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-03T09:10:58Z",
+            "mergedAt": "2025-11-03T09:11:37Z",
+            "closedAt": "2025-11-03T09:11:37Z",
+            "repository": {
+                "name": "e2e-vitest-docs",
+                "nameWithOwner": "NoiseFan/e2e-vitest-docs",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/e2e-vitest-docs"
+            }
+        },
+        {
             "number": 769,
             "title": "docs(anchor): document add custom anchor ",
             "url": "https://github.com/vitest-dev/docs-cn/pull/769",
             "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 44,
-            "deletions": 44,
-            "totalCommentsCount": 1,
+            "changedFiles": 29,
+            "additions": 152,
+            "deletions": 152,
+            "totalCommentsCount": 2,
             "createdAt": "2025-11-03T02:38:56Z",
             "mergedAt": null,
             "closedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 4,
-            "title": "feat(githubUserInfo): GithubUserInfo component add alias name",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/4",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 69,
-            "deletions": 47,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-10-05T17:24:31Z",
-            "mergedAt": "2025-10-06T08:17:31Z",
-            "closedAt": "2025-10-06T08:17:31Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 419,
+        "total": 423,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1500,7 +1500,7 @@
             },
             {
                 "date": "2025-11-03",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2025-11-04",

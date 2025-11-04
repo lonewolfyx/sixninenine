@@ -38,6 +38,54 @@
     },
     "pullRequest": [
         {
+            "number": 5147,
+            "title": "chore: fix typo",
+            "url": "https://github.com/vueuse/vueuse/pull/5147",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-04T14:25:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5146,
+            "title": "docs(useTextareaAutosize): reset the scrollbar styles",
+            "url": "https://github.com/vueuse/vueuse/pull/5146",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-04T13:42:17Z",
+            "mergedAt": "2025-11-04T18:23:53Z",
+            "closedAt": "2025-11-04T18:23:53Z",
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5144,
             "title": "fix(useAsyncQueue): trigger onFinished when the last task is rejected",
             "url": "https://github.com/vueuse/vueuse/pull/5144",
@@ -228,58 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22488,
-            "title": "chore: remove the useless debounce prop from slider",
-            "url": "https://github.com/element-plus/element-plus/pull/22488",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 0,
-            "deletions": 9,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-16T01:37:41Z",
-            "mergedAt": "2025-10-16T13:43:47Z",
-            "closedAt": "2025-10-16T13:43:47Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 22477,
-            "title": "fix(components): [cascader/autocomplete] make debounce prop reactive",
-            "url": "https://github.com/element-plus/element-plus/pull/22477",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 20,
-            "deletions": 8,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-10-15T06:16:40Z",
-            "mergedAt": "2025-10-16T02:12:44Z",
-            "closedAt": "2025-10-16T02:12:44Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 140,
+        "total": 143,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1511,11 +1511,11 @@
             },
             {
                 "date": "2025-11-04",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2025-11-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-06",

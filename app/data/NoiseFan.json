@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 771,
+            "title": "ci(docs): Add Pull request template",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/771",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-04T12:36:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 770,
+            "title": "fix(style): fix /guide/features features list style",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/770",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-04T12:19:45Z",
+            "mergedAt": "2025-11-04T12:50:20Z",
+            "closedAt": "2025-11-04T12:50:20Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 2,
             "title": "feat(anchor): Add batch checking anchor",
             "url": "https://github.com/NoiseFan/e2e-vitest-docs/pull/2",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 5119,
-            "title": "test(useNow): Supplement component test",
-            "url": "https://github.com/vueuse/vueuse/pull/5119",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-10-25T08:28:26Z",
-            "mergedAt": "2025-10-26T06:29:01Z",
-            "closedAt": "2025-10-26T06:29:01Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 6,
-            "title": "feat(members): add new alias name",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-11T16:52:31Z",
-            "mergedAt": "2025-10-15T06:18:11Z",
-            "closedAt": "2025-10-15T06:18:11Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 424,
+        "total": 428,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1504,7 +1504,7 @@
             },
             {
                 "date": "2025-11-04",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2025-11-05",

@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 22705,
+            "title": "feat(components): [table] support pagination",
+            "url": "https://github.com/element-plus/element-plus/pull/22705",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 59,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-05T16:04:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22529,
             "title": "feat(components): [table] add table selection header slot",
             "url": "https://github.com/element-plus/element-plus/pull/22529",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 5067,
-            "title": "refactor(useStorage): simplify guessSerializerType for clarity and readability",
-            "url": "https://github.com/vueuse/vueuse/pull/5067",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 29,
-            "deletions": 19,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-24T13:44:15Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-25T08:06:09Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 97,
+        "total": 98,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1497,7 +1497,7 @@
             },
             {
                 "date": "2025-11-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-07",

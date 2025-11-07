@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 780,
+            "title": "docs(projects): Translate /guide/projects",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/780",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-07T12:38:29Z",
+            "mergedAt": "2025-11-07T12:42:48Z",
+            "closedAt": "2025-11-07T12:42:48Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 777,
             "title": "feat: add core contributors for team page",
             "url": "https://github.com/vitest-dev/docs-cn/pull/777",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 51,
             "deletions": 2,
             "totalCommentsCount": 2,
             "createdAt": "2025-11-07T04:47:46Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-11-07T07:38:13Z",
+            "closedAt": "2025-11-07T07:38:13Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/e2e-vitest-docs"
             }
-        },
-        {
-            "number": 763,
-            "title": "ci(lint): Add code formatting tools ",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/763",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 319,
-            "deletions": 162,
-            "totalCommentsCount": 13,
-            "createdAt": "2025-11-01T08:54:48Z",
-            "mergedAt": "2025-11-02T15:45:30Z",
-            "closedAt": "2025-11-02T15:45:30Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 459,
+        "total": 464,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1516,7 +1516,7 @@
             },
             {
                 "date": "2025-11-07",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2025-11-08",

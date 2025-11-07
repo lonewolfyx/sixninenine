@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 334,
+            "title": "feat: add @vueuse/core and @vueuse/shared to Import Map",
+            "url": "https://github.com/element-plus/element-plus-playground/pull/334",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-07T13:31:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus-playground",
+                "nameWithOwner": "element-plus/element-plus-playground",
+                "homepageUrl": "https://element-plus.run",
+                "description": "Element Plus Playground",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus-playground"
+            }
+        },
+        {
             "number": 22725,
             "title": "fix(components): [select-v2] avoid invalid positioning when using filterable and default-first-option",
             "url": "https://github.com/element-plus/element-plus/pull/22725",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22525,
-            "title": "docs(components): [segmented] add missing default value",
-            "url": "https://github.com/element-plus/element-plus/pull/22525",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-18T10:58:45Z",
-            "mergedAt": "2025-10-18T11:49:37Z",
-            "closedAt": "2025-10-18T11:49:37Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 156,
+        "total": 157,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1523,7 +1523,7 @@
             },
             {
                 "date": "2025-11-07",
-                "count": 5
+                "count": 6
             },
             {
                 "date": "2025-11-08",

@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 784,
+            "title": "ci(pr): fix pull request template todo styles",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/784",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-08T11:53:16Z",
+            "mergedAt": "2025-11-08T11:55:33Z",
+            "closedAt": "2025-11-08T11:55:33Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 783,
+            "title": "docs: update /guide/improving-performance",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/783",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-08T11:49:48Z",
+            "mergedAt": "2025-11-08T12:26:17Z",
+            "closedAt": "2025-11-08T12:26:17Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 780,
             "title": "docs(projects): Translate /guide/projects",
             "url": "https://github.com/vitest-dev/docs-cn/pull/780",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/e2e-vitest-docs"
             }
-        },
-        {
-            "number": 769,
-            "title": "docs(anchor): document add custom anchor ",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/769",
-            "state": "MERGED",
-            "changedFiles": 29,
-            "additions": 152,
-            "deletions": 152,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-11-03T02:38:56Z",
-            "mergedAt": "2025-11-03T16:22:48Z",
-            "closedAt": "2025-11-03T16:22:49Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(title): 添加标题自定义锚点手动添加锚点用例",
-            "url": "https://github.com/NoiseFan/e2e-vitest-docs/pull/1",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 132,
-            "deletions": 32,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-01T14:01:12Z",
-            "mergedAt": "2025-11-01T14:01:22Z",
-            "closedAt": "2025-11-01T14:01:22Z",
-            "repository": {
-                "name": "e2e-vitest-docs",
-                "nameWithOwner": "NoiseFan/e2e-vitest-docs",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/e2e-vitest-docs"
-            }
         }
     ],
     "contributions": {
-        "total": 464,
+        "total": 470,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1520,7 +1520,7 @@
             },
             {
                 "date": "2025-11-08",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2025-11-09",

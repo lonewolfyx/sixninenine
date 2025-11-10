@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 5156,
+            "title": "refactor(useEventListener): use onCleanup",
+            "url": "https://github.com/vueuse/vueuse/pull/5156",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-10T02:12:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 22705,
             "title": "feat(components): [table] support pagination",
             "url": "https://github.com/element-plus/element-plus/pull/22705",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22324,
-            "title": "feat(components): [autocomplete] support home and end key events",
-            "url": "https://github.com/element-plus/element-plus/pull/22324",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 149,
-            "deletions": 21,
-            "totalCommentsCount": 22,
-            "createdAt": "2025-09-25T15:54:00Z",
-            "mergedAt": "2025-10-12T08:35:34Z",
-            "closedAt": "2025-10-12T08:35:34Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 98,
+        "total": 99,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1513,7 +1513,7 @@
             },
             {
                 "date": "2025-11-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-11",

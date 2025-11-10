@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 4151,
+            "title": "docs: format installation commands for madkrown code block",
+            "url": "https://github.com/sst/opencode/pull/4151",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 25,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-10T05:34:45Z",
+            "mergedAt": "2025-11-10T05:59:57Z",
+            "closedAt": "2025-11-10T05:59:57Z",
+            "repository": {
+                "name": "opencode",
+                "nameWithOwner": "sst/opencode",
+                "homepageUrl": "https://opencode.ai",
+                "description": "The AI coding agent built for the terminal.",
+                "owner": {
+                    "login": "sst",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4"
+                },
+                "url": "https://github.com/sst/opencode"
+            }
+        },
+        {
             "number": 8594,
             "title": "fix(sidebar): change to overflow-hidden just in horizontal",
             "url": "https://github.com/shadcn-ui/ui/pull/8594",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/textbus/xnote"
             }
-        },
-        {
-            "number": 12838,
-            "title": "fix(components): [time-picker]fix offsetHeight round to an integer",
-            "url": "https://github.com/element-plus/element-plus/pull/12838",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 5,
-            "totalCommentsCount": 4,
-            "createdAt": "2023-05-16T06:37:40Z",
-            "mergedAt": null,
-            "closedAt": "2023-05-16T06:41:38Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 97,
+        "total": 99,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1570,7 +1570,7 @@
             },
             {
                 "date": "2025-11-10",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-11",

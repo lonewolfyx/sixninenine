@@ -31,17 +31,65 @@
     },
     "pullRequest": [
         {
+            "number": 792,
+            "title": "docs: update /guide/assert",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/792",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 263,
+            "deletions": 263,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-10T16:51:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 791,
+            "title": "docs(sideBar): Translate sidebar menu ",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/791",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 27,
+            "deletions": 27,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-10T16:09:04Z",
+            "mergedAt": "2025-11-10T16:11:14Z",
+            "closedAt": "2025-11-10T16:11:14Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 787,
             "title": "docs: some broken problems",
             "url": "https://github.com/vitest-dev/docs-cn/pull/787",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 56,
-            "deletions": 56,
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 136,
+            "deletions": 136,
             "totalCommentsCount": 1,
             "createdAt": "2025-11-08T17:50:28Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-11-10T16:53:25Z",
+            "closedAt": "2025-11-10T16:53:25Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 776,
-            "title": "fix: some minor issues",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/776",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 4,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-11-05T12:15:57Z",
-            "mergedAt": "2025-11-05T12:44:33Z",
-            "closedAt": "2025-11-05T12:44:33Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 1419,
-            "title": "docs(anchor): fix expired anchors",
-            "url": "https://github.com/vitejs/docs-cn/pull/1419",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 28,
-            "deletions": 28,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-05T07:37:23Z",
-            "mergedAt": "2025-11-05T08:28:18Z",
-            "closedAt": "2025-11-05T08:28:18Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitejs/docs-cn",
-                "homepageUrl": "https://cn.vite.dev",
-                "description": "Chinese translation of vite.dev",
-                "owner": {
-                    "login": "vitejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
-                },
-                "url": "https://github.com/vitejs/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 476,
+        "total": 480,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1532,7 +1532,7 @@
             },
             {
                 "date": "2025-11-11",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-11-12",

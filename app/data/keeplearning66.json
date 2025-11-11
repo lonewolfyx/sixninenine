@@ -38,17 +38,41 @@
     },
     "pullRequest": [
         {
+            "number": 22753,
+            "title": "improvement(components): [select] locate the most recently selected option when using multiple",
+            "url": "https://github.com/element-plus/element-plus/pull/22753",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-11T03:23:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22748,
             "title": "fix(components): [tree] avoid having multiple nodes with highlighted states at the same time",
             "url": "https://github.com/element-plus/element-plus/pull/22748",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 19,
             "deletions": 0,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 6,
             "createdAt": "2025-11-10T12:01:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-11-11T03:25:19Z",
+            "closedAt": "2025-11-11T03:25:19Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -117,7 +141,7 @@
             "changedFiles": 2,
             "additions": 30,
             "deletions": 1,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 11,
             "createdAt": "2025-11-07T10:29:46Z",
             "mergedAt": null,
             "closedAt": null,
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 22600,
-            "title": "docs(components): [tooltip/popover] supplement description of the slot",
-            "url": "https://github.com/element-plus/element-plus/pull/22600",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 8,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-28T04:35:56Z",
-            "mergedAt": "2025-10-28T06:10:38Z",
-            "closedAt": "2025-10-28T06:10:38Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 160,
+        "total": 162,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1539,7 +1539,7 @@
             },
             {
                 "date": "2025-11-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-12",

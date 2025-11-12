@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 795,
+            "title": "typo: fix some issues /guide/profiling-test-performance",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/795",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-12T17:26:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 793,
+            "title": "!docs: building 3.x document",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/793",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 467,
+            "deletions": 533,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-12T14:22:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 792,
             "title": "docs: update /guide/assert",
             "url": "https://github.com/vitest-dev/docs-cn/pull/792",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 777,
-            "title": "feat: add core contributors for team page",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/777",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 51,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-11-07T04:47:46Z",
-            "mergedAt": "2025-11-07T07:38:13Z",
-            "closedAt": "2025-11-07T07:38:13Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 8,
-            "title": "typo: Raise noise Fan's ranking",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/8",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-06T15:18:00Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-07T01:48:02Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 482,
+        "total": 485,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1536,11 +1536,11 @@
             },
             {
                 "date": "2025-11-12",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2025-11-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-14",

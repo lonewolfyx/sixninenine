@@ -449,7 +449,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 3
+                    "totalCount": 4
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -588,6 +588,30 @@
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 8414,
+            "title": "feat: improve playground style",
+            "url": "https://github.com/vueComponent/ant-design-vue/pull/8414",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 115,
+            "deletions": 50,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-13T08:47:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-vue",
+                "nameWithOwner": "vueComponent/ant-design-vue",
+                "homepageUrl": "https://antdv.com/",
+                "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
+                "owner": {
+                    "login": "vueComponent",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/32120805?v=4"
+                },
+                "url": "https://github.com/vueComponent/ant-design-vue"
+            }
+        },
         {
             "number": 4650,
             "title": "fix: correct header height class assignment",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/mdn/content"
             }
-        },
-        {
-            "number": 18114,
-            "title": "Preserve spacing style between font size and line height",
-            "url": "https://github.com/prettier/prettier/pull/18114",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 190,
-            "deletions": 13,
-            "totalCommentsCount": 16,
-            "createdAt": "2025-10-21T08:39:26Z",
-            "mergedAt": "2025-10-26T21:46:13Z",
-            "closedAt": "2025-10-26T21:46:13Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 736,
+        "total": 737,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2098,7 +2098,7 @@
             },
             {
                 "date": "2025-11-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-14",

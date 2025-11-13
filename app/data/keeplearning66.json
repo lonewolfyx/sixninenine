@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 22791,
+            "title": "feat(components): [splitter] expose panelEl",
+            "url": "https://github.com/element-plus/element-plus/pull/22791",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-13T07:21:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22782,
             "title": "improvement(components): [select/select-v2] hoveringIndex stays on the most recently selected option with multiple",
             "url": "https://github.com/element-plus/element-plus/pull/22782",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 5147,
-            "title": "fix(useTimeout): fix type typo",
-            "url": "https://github.com/vueuse/vueuse/pull/5147",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-11-04T14:25:07Z",
-            "mergedAt": "2025-11-05T01:35:53Z",
-            "closedAt": "2025-11-05T01:35:54Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 166,
+        "total": 167,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1547,7 +1547,7 @@
             },
             {
                 "date": "2025-11-13",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2025-11-14",

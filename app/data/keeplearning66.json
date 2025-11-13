@@ -38,6 +38,54 @@
     },
     "pullRequest": [
         {
+            "number": 22782,
+            "title": "improvement(components): [select/select-v2] hoveringIndex stays on the most recently selected option with multiple",
+            "url": "https://github.com/element-plus/element-plus/pull/22782",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 100,
+            "deletions": 9,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-13T02:03:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 22780,
+            "title": "fix(components): [select-v2] avoid wrong style when disabled",
+            "url": "https://github.com/element-plus/element-plus/pull/22780",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-13T00:37:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22753,
             "title": "improvement(components): [select] locate the most recently selected option when using multiple",
             "url": "https://github.com/element-plus/element-plus/pull/22753",
@@ -228,58 +276,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5146,
-            "title": "docs(useTextareaAutosize): reset the scrollbar styles",
-            "url": "https://github.com/vueuse/vueuse/pull/5146",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-04T13:42:17Z",
-            "mergedAt": "2025-11-04T18:23:53Z",
-            "closedAt": "2025-11-04T18:23:53Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 5144,
-            "title": "fix(useAsyncQueue): trigger onFinished when the last task is rejected",
-            "url": "https://github.com/vueuse/vueuse/pull/5144",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-04T06:45:18Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 163,
+        "total": 165,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1547,7 +1547,7 @@
             },
             {
                 "date": "2025-11-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-14",

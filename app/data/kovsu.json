@@ -589,13 +589,37 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat: improve playground style",
+            "url": "https://github.com/forkandcook/ant-design-vue/pull/1",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 111,
+            "deletions": 44,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-14T06:34:12Z",
+            "mergedAt": "2025-11-14T06:35:16Z",
+            "closedAt": "2025-11-14T06:35:16Z",
+            "repository": {
+                "name": "ant-design-vue",
+                "nameWithOwner": "forkandcook/ant-design-vue",
+                "homepageUrl": "https://antdv.com/",
+                "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
+                "owner": {
+                    "login": "forkandcook",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/177299754?v=4"
+                },
+                "url": "https://github.com/forkandcook/ant-design-vue"
+            }
+        },
+        {
             "number": 8414,
             "title": "feat: improve playground style",
             "url": "https://github.com/vueComponent/ant-design-vue/pull/8414",
             "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 115,
-            "deletions": 50,
+            "changedFiles": 2604,
+            "additions": 5453,
+            "deletions": 583544,
             "totalCommentsCount": 0,
             "createdAt": "2025-11-13T08:47:21Z",
             "mergedAt": null,
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 41615,
-            "title": "Fix comment to use correct `line-height`",
-            "url": "https://github.com/mdn/content/pull/41615",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-10-21T08:55:12Z",
-            "mergedAt": "2025-10-21T09:10:27Z",
-            "closedAt": "2025-10-21T09:10:27Z",
-            "repository": {
-                "name": "content",
-                "nameWithOwner": "mdn/content",
-                "homepageUrl": "https://developer.mozilla.org",
-                "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-                "owner": {
-                    "login": "mdn",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/7565578?v=4"
-                },
-                "url": "https://github.com/mdn/content"
-            }
         }
     ],
     "contributions": {
-        "total": 737,
+        "total": 738,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2102,7 +2102,7 @@
             },
             {
                 "date": "2025-11-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-15",

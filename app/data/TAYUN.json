@@ -119,8 +119,32 @@
     },
     "pullRequest": [
         {
+            "number": 78,
+            "title": "docs[01-introduce.md]: Fix typo and align refreshTokenOnError configuration with TypeScript definition",
+            "url": "https://github.com/alovajs/alovajs.github.io/pull/78",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-19T02:09:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "alovajs.github.io",
+                "nameWithOwner": "alovajs/alovajs.github.io",
+                "homepageUrl": "http://alova.js.org/",
+                "description": "The official website of alova",
+                "owner": {
+                    "login": "alovajs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
+                },
+                "url": "https://github.com/alovajs/alovajs.github.io"
+            }
+        },
+        {
             "number": 77,
-            "title": "Fix missing comma in OpenAPI generator configuration example",
+            "title": "docs[09-openapi-integration.md]: Fix missing comma in OpenAPI generator configuration example",
             "url": "https://github.com/alovajs/alovajs.github.io/pull/77",
             "state": "OPEN",
             "changedFiles": 1,
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat(video): 添加并发控制器文档和示例代码",
-            "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue/pull/6",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 168,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-08-22T00:19:50Z",
-            "mergedAt": null,
-            "closedAt": "2025-08-22T05:50:38Z",
-            "repository": {
-                "name": "awesome-alfred-skyblue",
-                "nameWithOwner": "lonewolfyx/awesome-alfred-skyblue",
-                "homepageUrl": "https://awesome-alfred-skyblue.vercel.app",
-                "description": "🪂 code collection of 远方os(Alfred-Skyblue)",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/awesome-alfred-skyblue"
-            }
         }
     ],
     "contributions": {
-        "total": 426,
+        "total": 428,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1652,7 +1652,7 @@
             },
             {
                 "date": "2025-11-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-20",

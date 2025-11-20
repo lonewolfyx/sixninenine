@@ -589,6 +589,54 @@
     },
     "pullRequest": [
         {
+            "number": 575,
+            "title": "fix: disable ripple extension in launch configuration",
+            "url": "https://github.com/Ripple-TS/ripple/pull/575",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-20T06:20:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ripple",
+                "nameWithOwner": "Ripple-TS/ripple",
+                "homepageUrl": "https://ripplejs.com",
+                "description": "the elegant TypeScript UI framework",
+                "owner": {
+                    "login": "Ripple-TS",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
+                },
+                "url": "https://github.com/Ripple-TS/ripple"
+            }
+        },
+        {
+            "number": 574,
+            "title": "docs: remove unnecessary comparison point",
+            "url": "https://github.com/Ripple-TS/ripple/pull/574",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-20T03:28:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ripple",
+                "nameWithOwner": "Ripple-TS/ripple",
+                "homepageUrl": "https://ripplejs.com",
+                "description": "the elegant TypeScript UI framework",
+                "owner": {
+                    "login": "Ripple-TS",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
+                },
+                "url": "https://github.com/Ripple-TS/ripple"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: improve playground style",
             "url": "https://github.com/forkandcook/ant-design-vue/pull/1",
@@ -779,58 +827,10 @@
                 },
                 "url": "https://github.com/RSSNext/Folo"
             }
-        },
-        {
-            "number": 8716,
-            "title": "`new-repo-disable-projects-and-wikis` - Avoid duplicates",
-            "url": "https://github.com/refined-github/refined-github/pull/8716",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-22T05:57:06Z",
-            "mergedAt": "2025-10-22T07:56:40Z",
-            "closedAt": "2025-10-22T07:56:40Z",
-            "repository": {
-                "name": "refined-github",
-                "nameWithOwner": "refined-github/refined-github",
-                "homepageUrl": "",
-                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
-                "owner": {
-                    "login": "refined-github",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
-                },
-                "url": "https://github.com/refined-github/refined-github"
-            }
-        },
-        {
-            "number": 356,
-            "title": "Improve ux in switching project",
-            "url": "https://github.com/athasdev/athas/pull/356",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-22T03:11:27Z",
-            "mergedAt": "2025-10-22T14:25:14Z",
-            "closedAt": "2025-10-22T14:25:14Z",
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight code editor.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
         }
     ],
     "contributions": {
-        "total": 738,
+        "total": 740,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2126,7 +2126,7 @@
             },
             {
                 "date": "2025-11-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-21",

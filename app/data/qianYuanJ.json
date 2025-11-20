@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 44,
+            "title": "fix(GameStatus): 修复可能导致 tower.id 为空的错误 #43",
+            "url": "https://github.com/w1249178256/xyzw_web_helper/pull/44",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-20T07:52:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "xyzw_web_helper",
+                "nameWithOwner": "w1249178256/xyzw_web_helper",
+                "homepageUrl": "https://jolly-field-054c3af00.1.azurestaticapps.net",
+                "description": "咸鱼之王web端",
+                "owner": {
+                    "login": "w1249178256",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/51258516?v=4"
+                },
+                "url": "https://github.com/w1249178256/xyzw_web_helper"
+            }
+        },
+        {
             "number": 42,
             "title": "feat: 增加英雄头像",
             "url": "https://github.com/w1249178256/xyzw_web_helper/pull/42",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/floating-ui/floating-ui"
             }
-        },
-        {
-            "number": 2,
-            "title": "fix: pr 的日期显示改为 github 风格",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 102,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-20T02:54:45Z",
-            "mergedAt": "2025-08-20T02:55:42Z",
-            "closedAt": "2025-08-20T02:55:42Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 66,
+        "total": 67,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1553,7 +1553,7 @@
             },
             {
                 "date": "2025-11-20",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-11-21",

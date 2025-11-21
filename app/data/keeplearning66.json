@@ -38,17 +38,41 @@
     },
     "pullRequest": [
         {
-            "number": 22890,
-            "title": "docs(components): [menu] add missing popper-style prop to sub-menu",
-            "url": "https://github.com/element-plus/element-plus/pull/22890",
+            "number": 22895,
+            "title": "fix(components): [select-v2] ResizeObserver loop completed with undelivered notifications",
+            "url": "https://github.com/element-plus/element-plus/pull/22895",
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 14,
-            "deletions": 13,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-21T02:58:33Z",
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2025-11-21T12:04:39Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 22890,
+            "title": "docs(components): [menu] add missing popper-style prop to sub-menu",
+            "url": "https://github.com/element-plus/element-plus/pull/22890",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 13,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-21T02:58:33Z",
+            "mergedAt": "2025-11-21T08:14:28Z",
+            "closedAt": "2025-11-21T08:14:28Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22745,
-            "title": "fix(components): [table] cascading selection takes effect on lazy-loaded child nodes",
-            "url": "https://github.com/element-plus/element-plus/pull/22745",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 101,
-            "deletions": 13,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-11-10T08:59:00Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 176,
+        "total": 178,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1579,7 +1579,7 @@
             },
             {
                 "date": "2025-11-21",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2025-11-22",

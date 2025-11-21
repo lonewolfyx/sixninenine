@@ -119,6 +119,54 @@
     },
     "pullRequest": [
         {
+            "number": 81,
+            "title": "docs(plugin): update import path for createPlugin",
+            "url": "https://github.com/alovajs/alovajs.github.io/pull/81",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-21T05:55:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "alovajs.github.io",
+                "nameWithOwner": "alovajs/alovajs.github.io",
+                "homepageUrl": "http://alova.js.org/",
+                "description": "The official website of alova",
+                "owner": {
+                    "login": "alovajs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
+                },
+                "url": "https://github.com/alovajs/alovajs.github.io"
+            }
+        },
+        {
+            "number": 126,
+            "title": "feat(wormhole): enhances the Apifox plugin with more flexible export options and additional parameters support.",
+            "url": "https://github.com/alovajs/devtools/pull/126",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 53,
+            "deletions": 20,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-21T02:44:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "devtools",
+                "nameWithOwner": "alovajs/devtools",
+                "homepageUrl": "https://alova.js.org/tutorial/getting-started/extension-integration",
+                "description": "Editor devtools for alova.js",
+                "owner": {
+                    "login": "alovajs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
+                },
+                "url": "https://github.com/alovajs/devtools"
+            }
+        },
+        {
             "number": 80,
             "title": "docs[09-openapi-integration.md]：修复 OpenAPI 生成器配置示例中的globalThis处缺失逗号",
             "url": "https://github.com/alovajs/alovajs.github.io/pull/80",
@@ -309,58 +357,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 491,
-            "title": "fix(sku-header): 简化 skuheader.vue 中的 <image> 渲染逻辑，移除无效的 isH5 判断",
-            "url": "https://github.com/nutui-uniapp/nutui-uniapp/pull/491",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 3,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-16T03:08:17Z",
-            "mergedAt": "2025-09-16T07:43:40Z",
-            "closedAt": "2025-09-16T07:43:40Z",
-            "repository": {
-                "name": "nutui-uniapp",
-                "nameWithOwner": "nutui-uniapp/nutui-uniapp",
-                "homepageUrl": "https://nutui-uniapp.pages.dev",
-                "description": "京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发",
-                "owner": {
-                    "login": "nutui-uniapp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143571090?v=4"
-                },
-                "url": "https://github.com/nutui-uniapp/nutui-uniapp"
-            }
-        },
-        {
-            "number": 1302,
-            "title": "feat(rate): 支持清空评分，评分支持滑动为0",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1302",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-15T14:29:59Z",
-            "mergedAt": "2025-09-18T05:30:55Z",
-            "closedAt": "2025-09-18T05:30:55Z",
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
         }
     ],
     "contributions": {
-        "total": 433,
+        "total": 436,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1660,7 +1660,7 @@
             },
             {
                 "date": "2025-11-21",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2025-11-22",

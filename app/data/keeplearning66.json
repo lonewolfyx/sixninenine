@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 22890,
+            "title": "docs(components): [menu] add missing popper-style prop to sub-menu",
+            "url": "https://github.com/element-plus/element-plus/pull/22890",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 13,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-21T02:58:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22880,
             "title": "fix(components): [time-picker] avoid incorrect values after losing focus",
             "url": "https://github.com/element-plus/element-plus/pull/22880",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 334,
-            "title": "feat: add @vueuse/core and @vueuse/shared to Import Map",
-            "url": "https://github.com/element-plus/element-plus-playground/pull/334",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-07T13:31:53Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus-playground",
-                "nameWithOwner": "element-plus/element-plus-playground",
-                "homepageUrl": "https://element-plus.run",
-                "description": "Element Plus Playground",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus-playground"
-            }
         }
     ],
     "contributions": {
-        "total": 175,
+        "total": 176,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1579,7 +1579,7 @@
             },
             {
                 "date": "2025-11-21",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-22",

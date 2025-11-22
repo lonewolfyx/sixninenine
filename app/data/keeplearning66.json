@@ -38,17 +38,41 @@
     },
     "pullRequest": [
         {
+            "number": 22897,
+            "title": "fix(components): [select/select-v2] correct the trigger timing of visible-change",
+            "url": "https://github.com/element-plus/element-plus/pull/22897",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 103,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-11-22T10:37:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22895,
             "title": "fix(components): [select-v2] ResizeObserver loop completed with undelivered notifications",
             "url": "https://github.com/element-plus/element-plus/pull/22895",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 14,
             "deletions": 1,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2025-11-21T12:04:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-11-22T07:54:29Z",
+            "closedAt": "2025-11-22T07:54:29Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22748,
-            "title": "fix(components): [tree] avoid having multiple nodes with highlighted states at the same time",
-            "url": "https://github.com/element-plus/element-plus/pull/22748",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-11-10T12:01:19Z",
-            "mergedAt": "2025-11-11T03:25:19Z",
-            "closedAt": "2025-11-11T03:25:19Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 178,
+        "total": 180,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1583,7 +1583,7 @@
             },
             {
                 "date": "2025-11-22",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-11-23",

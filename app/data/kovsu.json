@@ -566,7 +566,7 @@
                             "id": "U_kgDODIWr9A",
                             "login": "devkokooo",
                             "name": "DevKoko",
-                            "bio": "✨ contributor @athasdev • gamified productivity tools",
+                            "bio": "✨ building a modular code editor • gamified productivity • malleable software",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/210086900?u=af51e267aa13e928e8ba27fe206925a15e7a949e&v=4",
                             "company": "@athasdev @buildatbasecamp",
                             "createdAt": "2025-05-02T20:27:34Z",
@@ -588,6 +588,30 @@
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 18306,
+            "title": "Fix bugs in `yaml-test-suite`",
+            "url": "https://github.com/prettier/prettier/pull/18306",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 21,
+            "deletions": 4,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-11-24T03:43:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
         {
             "number": 581,
             "title": "fix: eslint parsing error in template",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/RSSNext/Folo"
             }
-        },
-        {
-            "number": 4610,
-            "title": "feat: add language params to video url",
-            "url": "https://github.com/RSSNext/Folo/pull/4610",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-25T18:45:46Z",
-            "mergedAt": "2025-10-26T01:21:33Z",
-            "closedAt": "2025-10-26T01:21:33Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://folo.is",
-                "description": "🧡 Folo is the AI Reader",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 745,
+        "total": 746,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2142,7 +2142,7 @@
             },
             {
                 "date": "2025-11-24",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2025-11-25",

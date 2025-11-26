@@ -518,6 +518,30 @@
     },
     "pullRequest": [
         {
+            "number": 8800,
+            "title": "`emphasize-draft-pr-label` - Implement in dashboard lists",
+            "url": "https://github.com/refined-github/refined-github/pull/8800",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-26T02:48:22Z",
+            "mergedAt": "2025-11-26T06:21:46Z",
+            "closedAt": "2025-11-26T06:21:46Z",
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
             "number": 18306,
             "title": "Fix bugs in `yaml-test-suite`",
             "url": "https://github.com/prettier/prettier/pull/18306",
@@ -732,34 +756,10 @@
                 },
                 "url": "https://github.com/RSSNext/Folo"
             }
-        },
-        {
-            "number": 4623,
-            "title": "fix(desktop): first item's action bar was obscured by header",
-            "url": "https://github.com/RSSNext/Folo/pull/4623",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 22,
-            "deletions": 3,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-28T03:10:28Z",
-            "mergedAt": "2025-10-28T04:13:21Z",
-            "closedAt": "2025-10-28T04:13:21Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://app.folo.is",
-                "description": "🧡 Folo is the AI Reader",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 745,
+        "total": 748,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2079,7 +2079,7 @@
             },
             {
                 "date": "2025-11-26",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-11-27",

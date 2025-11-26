@@ -18,6 +18,24 @@
                     class="overflow-y-auto gap-2.5 w-full flex flex-col items-center md:items-start max-h-[calc(100dvh-70px))]"
                 >
                     <TabsTrigger
+                        :value="OpenSourceProjectMember"
+                        as-child
+                        class="size-10 md:w-full overflow-visible cursor-pointer"
+                        @click="handleTabChange(OpenSourceProjectMember)"
+                    >
+                        <div class="flex justify-start items-center gap-4">
+                            <Avatar class="flex flex-col justify-center items-center">
+                                <AvatarImage
+                                    alt=""
+                                    class="rounded-full"
+                                    src="/opensource.svg"
+                                />
+                                <AvatarFallback>SN</AvatarFallback>
+                            </Avatar>
+                            <span class="font-medium text-sm text-neutral hidden md:block">Open Source Project</span>
+                        </div>
+                    </TabsTrigger>
+                    <TabsTrigger
                         v-for="member in members"
                         :key="member.username"
                         :value="member.username"
@@ -48,12 +66,16 @@
             <div
                 class="flex flex-col grow overflow-y-scroll p-4 break-all"
             >
+                <TabsContent value="OpenSourceProjectMember">
+                    <OpenSourceProject />
+                </TabsContent>
                 <TabsContent
                     v-for="member in members"
                     :key="`tc-${member.username}`"
                     :value="member.username"
                 >
                     <GithubDashboard
+                        v-if="VirtualMembers?.[tabValue]"
                         :alias-name="member.aliasName"
                         :data="VirtualMembers?.[tabValue]"
                     />
@@ -76,18 +98,27 @@ import GithubDashboard from '~/components/Github/GithubDashboard.vue'
 const route = useRoute()
 const router = useRouter()
 
+const OpenSourceProjectMember = 'OpenSourceProjectMember'
+const resolveUser = (val: string) => {
+    const member = members.find(m => m.username === val)
+    return member?.username ?? OpenSourceProjectMember
+}
+
 // 从路由参数获取当前选中的用户，如果没有则使用第一个成员
 const tabValue = computed({
     get: () => {
-        const username = route.query.user as string
-        return members.some(m => m.username === username) ? username : members[0]?.username
+        return resolveUser(route.query.user as string)
     },
     set: (value) => {
+        const resolved = resolveUser(value)
+
         // 当tab值改变时更新路由
-        router.push({
-            path: route.path,
-            query: { ...route.query, user: value },
-        })
+        if (route.query.user !== resolved) {
+            router.push({
+                path: route.path,
+                query: { ...route.query, user: value },
+            })
+        }
     },
 })
 
@@ -98,7 +129,7 @@ const handleTabChange = (username: string) => {
 
 // 监听路由变化，确保tab高亮与路由同步
 watch(() => route.query.user, (newUser) => {
-    if (newUser && members.some(m => m.username === newUser)) {
+    if (newUser && (members.some(m => m.username === newUser) || newUser === OpenSourceProjectMember)) {
         // 路由参数变化时，确保tabValue同步
         tabValue.value = newUser as string
     }

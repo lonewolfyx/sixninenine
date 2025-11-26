@@ -26,3 +26,41 @@ export const members: membersType[] = [
     { username: 'lbineau' },
     { username: 'Chang-Chen' },
 ]
+
+export type OpenSourceTypes = 'team' | 'contributors'
+type OpenSourceMembersType = {
+    [key: string]: {
+        [K in OpenSourceTypes]?: string[]
+    }
+}
+export const openSourceMembers: OpenSourceMembersType = {
+    'Vue': {
+        contributors: ['jsy-0526'],
+    },
+    'Vue Use': {
+        team: ['ilyaliao'],
+        contributors: ['pkc918', 'ArthurDarkstone', 'broBinChen', 'doyuli', 'snowbitx', 'jsy-0526'],
+    },
+    'MDN Docs Cn': {
+        contributors: ['lonewolfyx', 'pkc918'],
+    },
+    'ViteDevTools': {
+        contributors: ['lonewolfyx', 'pkc918'],
+    },
+    'Element Plus': {
+        contributors: ['keeplearning66', 'snowbitx'],
+    },
+    'Element Plus X': {
+        team: ['yuguaa'],
+        contributors: ['Chang-Chen'],
+    },
+    'Ant Design Vue': {
+        team: ['kovsu'],
+    },
+    'And Design X Vue': {
+        contributors: ['Bao0630'],
+    },
+    'Vitest Docs Cn': {
+        team: ['NoiseFan'],
+    },
+}

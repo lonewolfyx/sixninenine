@@ -518,6 +518,54 @@
     },
     "pullRequest": [
         {
+            "number": 18324,
+            "title": "Fix `K3WX.yaml` bug in `yaml-test-suite`",
+            "url": "https://github.com/prettier/prettier/pull/18324",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 29,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-26T09:16:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 4759,
+            "title": "fix(discover): prevent empty results when keyword changes without search",
+            "url": "https://github.com/RSSNext/Folo/pull/4759",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 7,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-11-26T07:27:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Folo",
+                "nameWithOwner": "RSSNext/Folo",
+                "homepageUrl": "https://app.folo.is",
+                "description": "🧡 Folo is the AI Reader",
+                "owner": {
+                    "login": "RSSNext",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
+                },
+                "url": "https://github.com/RSSNext/Folo"
+            }
+        },
+        {
             "number": 8800,
             "title": "`emphasize-draft-pr-label` - Implement in dashboard lists",
             "url": "https://github.com/refined-github/refined-github/pull/8800",
@@ -546,10 +594,10 @@
             "title": "Fix bugs in `yaml-test-suite`",
             "url": "https://github.com/prettier/prettier/pull/18306",
             "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 81,
-            "deletions": 14,
-            "totalCommentsCount": 14,
+            "changedFiles": 7,
+            "additions": 91,
+            "deletions": 17,
+            "totalCommentsCount": 17,
             "createdAt": "2025-11-24T03:43:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -708,58 +756,10 @@
                 },
                 "url": "https://github.com/vueComponent/ant-design-vue"
             }
-        },
-        {
-            "number": 4650,
-            "title": "fix: correct header height class assignment",
-            "url": "https://github.com/RSSNext/Folo/pull/4650",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-11-02T16:14:00Z",
-            "mergedAt": "2025-11-02T16:15:52Z",
-            "closedAt": "2025-11-02T16:15:52Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://app.folo.is",
-                "description": "🧡 Folo is the AI Reader",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
-        },
-        {
-            "number": 4628,
-            "title": "fix(desktop): increase height for preview header style",
-            "url": "https://github.com/RSSNext/Folo/pull/4628",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-29T06:09:00Z",
-            "mergedAt": "2025-10-31T12:53:50Z",
-            "closedAt": "2025-10-31T12:53:50Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://app.folo.is",
-                "description": "🧡 Folo is the AI Reader",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 748,
+        "total": 750,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2079,7 +2079,7 @@
             },
             {
                 "date": "2025-11-26",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2025-11-27",

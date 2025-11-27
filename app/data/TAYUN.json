@@ -119,6 +119,54 @@
     },
     "pullRequest": [
         {
+            "number": 84,
+            "title": "docs[09-openapi-integration.md]:将配置文件中配置项plugin改成plugins",
+            "url": "https://github.com/alovajs/alovajs.github.io/pull/84",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-27T09:18:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "alovajs.github.io",
+                "nameWithOwner": "alovajs/alovajs.github.io",
+                "homepageUrl": "http://alova.js.org/",
+                "description": "The official website of alova",
+                "owner": {
+                    "login": "alovajs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
+                },
+                "url": "https://github.com/alovajs/alovajs.github.io"
+            }
+        },
+        {
+            "number": 83,
+            "title": "docs[09-openapi-integration.md]: Fix configuration: change plugin to plugins in OpenAPI generator configuration example",
+            "url": "https://github.com/alovajs/alovajs.github.io/pull/83",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-27T09:12:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "alovajs.github.io",
+                "nameWithOwner": "alovajs/alovajs.github.io",
+                "homepageUrl": "http://alova.js.org/",
+                "description": "The official website of alova",
+                "owner": {
+                    "login": "alovajs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
+                },
+                "url": "https://github.com/alovajs/alovajs.github.io"
+            }
+        },
+        {
             "number": 81,
             "title": "docs(plugin): update import path for createPlugin",
             "url": "https://github.com/alovajs/alovajs.github.io/pull/81",
@@ -309,58 +357,10 @@
                 },
                 "url": "https://github.com/vuejs-translations/docs-zh-cn"
             }
-        },
-        {
-            "number": 1329,
-            "title": "style(toast): 调整toast组件样式间距并添加左边距变量(破坏性更新)",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1329",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 9,
-            "deletions": 5,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-11T02:05:50Z",
-            "mergedAt": "2025-11-06T05:21:14Z",
-            "closedAt": "2025-11-06T05:21:14Z",
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
-        },
-        {
-            "number": 1315,
-            "title": "feat(wd-fab): 添加自定义位置和偏移量支持，修复关闭拖拽后，菜单弹出方向未更新回来的bug",
-            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1315",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 68,
-            "deletions": 8,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-25T14:52:44Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "wot-design-uni",
-                "nameWithOwner": "Moonofweisheng/wot-design-uni",
-                "homepageUrl": "https://wot-ui.cn",
-                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
-                "owner": {
-                    "login": "Moonofweisheng",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
-                },
-                "url": "https://github.com/Moonofweisheng/wot-design-uni"
-            }
         }
     ],
     "contributions": {
-        "total": 452,
+        "total": 454,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1684,7 +1684,7 @@
             },
             {
                 "date": "2025-11-27",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2025-11-28",

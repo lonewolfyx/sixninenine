@@ -518,17 +518,65 @@
     },
     "pullRequest": [
         {
-            "number": 18324,
-            "title": "Fix `K3WX.yaml` bug in `yaml-test-suite`",
-            "url": "https://github.com/prettier/prettier/pull/18324",
+            "number": 18331,
+            "title": "Fix `L24T-2.yaml` (value of `blockLiteral`) bug in `yaml-test-suite`",
+            "url": "https://github.com/prettier/prettier/pull/18331",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 35,
-            "deletions": 1,
-            "totalCommentsCount": 13,
-            "createdAt": "2025-11-26T09:16:51Z",
+            "changedFiles": 6,
+            "additions": 470,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-11-27T03:31:21Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 18330,
+            "title": "Use explicit key format when mapping key wraps",
+            "url": "https://github.com/prettier/prettier/pull/18330",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 56,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-11-27T02:42:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 18324,
+            "title": "Fix `K3WX.yaml` (comments in map key) bug in `yaml-test-suite`",
+            "url": "https://github.com/prettier/prettier/pull/18324",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 108,
+            "deletions": 1,
+            "totalCommentsCount": 17,
+            "createdAt": "2025-11-26T09:16:51Z",
+            "mergedAt": "2025-11-27T06:23:14Z",
+            "closedAt": "2025-11-27T06:23:14Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -708,58 +756,10 @@
                 },
                 "url": "https://github.com/Ripple-TS/ripple"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: improve playground style",
-            "url": "https://github.com/forkandcook/ant-design-vue/pull/1",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 111,
-            "deletions": 44,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-14T06:34:12Z",
-            "mergedAt": "2025-11-14T06:35:16Z",
-            "closedAt": "2025-11-14T06:35:16Z",
-            "repository": {
-                "name": "ant-design-vue",
-                "nameWithOwner": "forkandcook/ant-design-vue",
-                "homepageUrl": "https://antdv.com/",
-                "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
-                "owner": {
-                    "login": "forkandcook",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/177299754?v=4"
-                },
-                "url": "https://github.com/forkandcook/ant-design-vue"
-            }
-        },
-        {
-            "number": 8414,
-            "title": "feat: improve playground style",
-            "url": "https://github.com/vueComponent/ant-design-vue/pull/8414",
-            "state": "CLOSED",
-            "changedFiles": 2604,
-            "additions": 5453,
-            "deletions": 583544,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-13T08:47:21Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-14T09:23:20Z",
-            "repository": {
-                "name": "ant-design-vue",
-                "nameWithOwner": "vueComponent/ant-design-vue",
-                "homepageUrl": "https://antdv.com/",
-                "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
-                "owner": {
-                    "login": "vueComponent",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/32120805?v=4"
-                },
-                "url": "https://github.com/vueComponent/ant-design-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 751,
+        "total": 754,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2083,7 +2083,7 @@
             },
             {
                 "date": "2025-11-27",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-11-28",

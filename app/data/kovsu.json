@@ -518,6 +518,30 @@
     },
     "pullRequest": [
         {
+            "number": 18352,
+            "title": "Preserve quote style for lit html attribute values",
+            "url": "https://github.com/prettier/prettier/pull/18352",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 49,
+            "deletions": 2,
+            "totalCommentsCount": 6,
+            "createdAt": "2025-11-28T02:08:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18331,
             "title": "Fix `L24T-2.yaml` (value of `blockLiteral`) bug in `yaml-test-suite`",
             "url": "https://github.com/prettier/prettier/pull/18331",
@@ -732,34 +756,10 @@
                 },
                 "url": "https://github.com/Ripple-TS/ripple"
             }
-        },
-        {
-            "number": 574,
-            "title": "docs: remove unnecessary comparison point",
-            "url": "https://github.com/Ripple-TS/ripple/pull/574",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-20T03:28:52Z",
-            "mergedAt": "2025-11-20T12:05:09Z",
-            "closedAt": "2025-11-20T12:05:09Z",
-            "repository": {
-                "name": "ripple",
-                "nameWithOwner": "Ripple-TS/ripple",
-                "homepageUrl": "https://ripplejs.com",
-                "description": "the elegant TypeScript UI framework",
-                "owner": {
-                    "login": "Ripple-TS",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
-                },
-                "url": "https://github.com/Ripple-TS/ripple"
-            }
         }
     ],
     "contributions": {
-        "total": 754,
+        "total": 755,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2087,7 +2087,7 @@
             },
             {
                 "date": "2025-11-28",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-29",

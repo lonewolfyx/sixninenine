@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 60,
+            "title": "chore: remove invalid exports for deleted files",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/60",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-29T15:58:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 22868,
             "title": "docs: add warning for using tooltip inside option to avoid flickering",
             "url": "https://github.com/element-plus/element-plus/pull/22868",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22358,
-            "title": "chore(components): [color-picker] remove duplicated form validation code",
-            "url": "https://github.com/element-plus/element-plus/pull/22358",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 8,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-28T15:34:14Z",
-            "mergedAt": null,
-            "closedAt": "2025-10-02T13:45:40Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 110,
+        "total": 111,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1611,7 +1611,7 @@
             },
             {
                 "date": "2025-11-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-11-30",

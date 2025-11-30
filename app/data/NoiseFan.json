@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 812,
+            "title": "docs: translate /guide/browser/locators",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/812",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 48,
+            "deletions": 45,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-11-30T18:00:59Z",
+            "mergedAt": "2025-11-30T18:01:14Z",
+            "closedAt": "2025-11-30T18:01:14Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 811,
             "title": "fix: ambiguity of recent submissions",
             "url": "https://github.com/vitest-dev/docs-cn/pull/811",
@@ -59,9 +83,9 @@
             "title": "typo: fix some issues with all document",
             "url": "https://github.com/vitest-dev/docs-cn/pull/795",
             "state": "OPEN",
-            "changedFiles": 28,
-            "additions": 531,
-            "deletions": 1208,
+            "changedFiles": 32,
+            "additions": 569,
+            "deletions": 1247,
             "totalCommentsCount": 2,
             "createdAt": "2025-11-12T17:26:08Z",
             "mergedAt": null,
@@ -83,10 +107,10 @@
             "title": "!docs: building 3.x document",
             "url": "https://github.com/vitest-dev/docs-cn/pull/793",
             "state": "OPEN",
-            "changedFiles": 46,
-            "additions": 2328,
-            "deletions": 3494,
-            "totalCommentsCount": 1,
+            "changedFiles": 54,
+            "additions": 2615,
+            "deletions": 4190,
+            "totalCommentsCount": 2,
             "createdAt": "2025-11-12T14:22:25Z",
             "mergedAt": null,
             "closedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 783,
-            "title": "docs: update /guide/improving-performance",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/783",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 13,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-08T11:49:48Z",
-            "mergedAt": "2025-11-08T12:26:17Z",
-            "closedAt": "2025-11-08T12:26:17Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 496,
+        "total": 498,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1612,7 +1612,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-02",

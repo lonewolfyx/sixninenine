@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 61,
+            "title": "refactor: use Iteration to Simplify Component Registration",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/61",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 84,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-11-30T03:30:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 60,
             "title": "chore: remove invalid exports for deleted files",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/60",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22377,
-            "title": "feat(components): [checkbox-group] support options el-checkbox-button",
-            "url": "https://github.com/element-plus/element-plus/pull/22377",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 41,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-09-29T12:11:21Z",
-            "mergedAt": "2025-09-30T07:51:55Z",
-            "closedAt": "2025-09-30T07:51:55Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 111,
+        "total": 112,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1615,7 +1615,7 @@
             },
             {
                 "date": "2025-11-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-01",

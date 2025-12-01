@@ -518,6 +518,30 @@
     },
     "pullRequest": [
         {
+            "number": 18383,
+            "title": "Preserve attribute quote style for lwc when embeddedLanguageFormatting is off",
+            "url": "https://github.com/prettier/prettier/pull/18383",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 91,
+            "deletions": 3,
+            "totalCommentsCount": 18,
+            "createdAt": "2025-12-01T01:05:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18352,
             "title": "Fix embed html attribute print",
             "url": "https://github.com/prettier/prettier/pull/18352",
@@ -732,34 +756,10 @@
                 },
                 "url": "https://github.com/Ripple-TS/ripple"
             }
-        },
-        {
-            "number": 575,
-            "title": "fix: disable ripple extension in launch configuration",
-            "url": "https://github.com/Ripple-TS/ripple/pull/575",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-11-20T06:20:06Z",
-            "mergedAt": "2025-11-20T13:58:11Z",
-            "closedAt": "2025-11-20T13:58:11Z",
-            "repository": {
-                "name": "ripple",
-                "nameWithOwner": "Ripple-TS/ripple",
-                "homepageUrl": "https://ripplejs.com",
-                "description": "the elegant TypeScript UI framework",
-                "owner": {
-                    "login": "Ripple-TS",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
-                },
-                "url": "https://github.com/Ripple-TS/ripple"
-            }
         }
     ],
     "contributions": {
-        "total": 756,
+        "total": 757,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2099,7 +2099,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-02",

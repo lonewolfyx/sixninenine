@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 66,
+            "title": "refactor(elements): unify class prop type to HTMLAttributes['class']",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/66",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 16,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-01T07:33:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 65,
             "title": "refactor(elements): unify class prop type to HTMLAttributes['class']",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/65",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 17,
             "additions": 34,
             "deletions": 18,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 2,
             "createdAt": "2025-12-01T03:24:40Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2025-12-01T07:25:34Z",
             "repository": {
                 "name": "ai-elements-vue",
                 "nameWithOwner": "vuepont/ai-elements-vue",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 278,
-            "title": "test: add unit tests for usePrevious hook",
-            "url": "https://github.com/InhiblabCore/vue-hooks-plus/pull/278",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 270,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-15T02:12:57Z",
-            "mergedAt": "2025-07-16T02:22:26Z",
-            "closedAt": "2025-07-16T02:22:26Z",
-            "repository": {
-                "name": "vue-hooks-plus",
-                "nameWithOwner": "InhiblabCore/vue-hooks-plus",
-                "homepageUrl": "https://inhiblabcore.github.io/vue-hooks-plus",
-                "description": "High performance  & Simplicity  🧲  Vue 3 Hooks library",
-                "owner": {
-                    "login": "InhiblabCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/101787716?v=4"
-                },
-                "url": "https://github.com/InhiblabCore/vue-hooks-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 42,
+        "total": 43,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1597,7 +1597,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2025-12-02",

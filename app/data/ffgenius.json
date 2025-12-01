@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 195,
+            "title": "fix(NavigationMenuViewport): optimize animation effects",
+            "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt/pull/195",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-01T07:49:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "shadcn-docs-nuxt",
+                "nameWithOwner": "ZTL-UwU/shadcn-docs-nuxt",
+                "homepageUrl": "https://shadcn-docs-nuxt.vercel.app/",
+                "description": "Effortless and beautiful docs template built with Nuxt Content & shadcn-vue.",
+                "owner": {
+                    "login": "ZTL-UwU",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49156174?u=0dbb53ccf685e4c88425a54b05e41932d2247231&v=4"
+                },
+                "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt"
+            }
+        },
+        {
             "number": 4,
             "title": "refactor(build): Optimize build configuration",
             "url": "https://github.com/Auto-Plugin/autodialog.js/pull/4",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 4,
-            "title": "fix($route): use useRoute instead of $route",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-09T09:59:35Z",
-            "mergedAt": "2025-09-09T12:11:11Z",
-            "closedAt": "2025-09-09T12:11:11Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 181,
+        "total": 183,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1654,7 +1654,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-02",

@@ -518,6 +518,30 @@
     },
     "pullRequest": [
         {
+            "number": 18385,
+            "title": "Add json-test-suite",
+            "url": "https://github.com/prettier/prettier/pull/18385",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 2000,
+            "deletions": 0,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-12-01T08:24:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18383,
             "title": "Fix LWC attribute with `--embedded-language-formatting off`",
             "url": "https://github.com/prettier/prettier/pull/18383",
@@ -732,34 +756,10 @@
                 },
                 "url": "https://github.com/Ripple-TS/ripple"
             }
-        },
-        {
-            "number": 577,
-            "title": "feat: add css service",
-            "url": "https://github.com/Ripple-TS/ripple/pull/577",
-            "state": "CLOSED",
-            "changedFiles": 5,
-            "additions": 167,
-            "deletions": 73,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-21T01:23:11Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-24T00:50:31Z",
-            "repository": {
-                "name": "ripple",
-                "nameWithOwner": "Ripple-TS/ripple",
-                "homepageUrl": "https://ripplejs.com",
-                "description": "the elegant TypeScript UI framework",
-                "owner": {
-                    "login": "Ripple-TS",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
-                },
-                "url": "https://github.com/Ripple-TS/ripple"
-            }
         }
     ],
     "contributions": {
-        "total": 760,
+        "total": 761,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2099,7 +2099,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2025-12-02",

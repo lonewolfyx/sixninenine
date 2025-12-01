@@ -519,16 +519,16 @@
     "pullRequest": [
         {
             "number": 18383,
-            "title": "Preserve attribute quote style for lwc when embeddedLanguageFormatting is off",
+            "title": "Fix LWC attribute with `--embedded-language-formatting off`",
             "url": "https://github.com/prettier/prettier/pull/18383",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 91,
-            "deletions": 3,
-            "totalCommentsCount": 18,
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 93,
+            "deletions": 17,
+            "totalCommentsCount": 22,
             "createdAt": "2025-12-01T01:05:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-01T03:25:11Z",
+            "closedAt": "2025-12-01T03:25:11Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -759,7 +759,7 @@
         }
     ],
     "contributions": {
-        "total": 757,
+        "total": 760,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2099,7 +2099,7 @@
             },
             {
                 "date": "2025-12-01",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-12-02",

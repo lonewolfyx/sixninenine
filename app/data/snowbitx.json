@@ -38,6 +38,54 @@
     },
     "pullRequest": [
         {
+            "number": 74,
+            "title": "refactor(conversation): simplify props",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/74",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 14,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-02T17:33:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
+            "number": 73,
+            "title": "feat(InlineCitation): add loop mode support for circular scrolling",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/73",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 11,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-02T17:19:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 69,
             "title": "refactor(elements): remove props prefix",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/69",
@@ -228,58 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22528,
-            "title": "feat(components): [progress] add inverse prop",
-            "url": "https://github.com/element-plus/element-plus/pull/22528",
-            "state": "CLOSED",
-            "changedFiles": 5,
-            "additions": 39,
-            "deletions": 1,
-            "totalCommentsCount": 15,
-            "createdAt": "2025-10-19T13:55:07Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-04T07:54:55Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 22446,
-            "title": "feat(components): [select] support home and end key events",
-            "url": "https://github.com/element-plus/element-plus/pull/22446",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 139,
-            "deletions": 7,
-            "totalCommentsCount": 24,
-            "createdAt": "2025-10-12T15:23:25Z",
-            "mergedAt": "2025-10-29T07:54:25Z",
-            "closedAt": "2025-10-29T07:54:25Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 116,
+        "total": 118,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1627,7 +1627,7 @@
             },
             {
                 "date": "2025-12-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-04",

@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 813,
+            "title": "docs: update V3 link",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/813",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-02T05:16:41Z",
+            "mergedAt": "2025-12-02T05:18:10Z",
+            "closedAt": "2025-12-02T05:18:10Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 9150,
+            "title": "docs: update V3 chinese document link",
+            "url": "https://github.com/vitest-dev/vitest/pull/9150",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-02T04:53:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitest",
+                "nameWithOwner": "vitest-dev/vitest",
+                "homepageUrl": "https://vitest.dev",
+                "description": "Next generation testing framework powered by Vite.",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/vitest"
+            }
+        },
+        {
             "number": 64,
             "title": "ci(autofix): add formatting ci process",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/64",
@@ -106,14 +154,14 @@
             "number": 795,
             "title": "typo: fix some issues with all document",
             "url": "https://github.com/vitest-dev/docs-cn/pull/795",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 45,
             "additions": 600,
             "deletions": 1278,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2025-11-12T17:26:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-02T04:58:14Z",
+            "closedAt": "2025-12-02T04:58:15Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -130,14 +178,14 @@
             "number": 793,
             "title": "!docs: building 3.x document",
             "url": "https://github.com/vitest-dev/docs-cn/pull/793",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 86,
             "additions": 3135,
             "deletions": 5954,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2025-11-12T14:22:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-02T04:29:08Z",
+            "closedAt": "2025-12-02T04:29:08Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 786,
-            "title": "docs: update /guide/debugging.html",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/786",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-08T16:26:20Z",
-            "mergedAt": "2025-11-08T16:29:06Z",
-            "closedAt": "2025-11-08T16:29:06Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 785,
-            "title": "docs: update /guide/mocking",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/785",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 16,
-            "deletions": 26,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-08T15:20:18Z",
-            "mergedAt": "2025-11-08T15:28:42Z",
-            "closedAt": "2025-11-08T15:28:42Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 500,
+        "total": 504,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1616,7 +1616,7 @@
             },
             {
                 "date": "2025-12-02",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-12-03",

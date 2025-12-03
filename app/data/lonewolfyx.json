@@ -396,6 +396,30 @@
     },
     "pullRequest": [
         {
+            "number": 75,
+            "title": "fix: remove unnecessary type assertion on props.class",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/75",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-03T01:37:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 9,
             "title": "feat: overview of open source projects in which members are involved",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/9",
@@ -610,34 +634,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 58,
-            "title": "feat: add `community5` block",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/58",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 271,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-28T13:11:54Z",
-            "mergedAt": "2025-09-28T13:30:02Z",
-            "closedAt": "2025-09-28T13:30:02Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 16688,
+        "total": 16704,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1981,11 +1981,11 @@
             },
             {
                 "date": "2025-12-02",
-                "count": 54
+                "count": 64
             },
             {
                 "date": "2025-12-03",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2025-12-04",

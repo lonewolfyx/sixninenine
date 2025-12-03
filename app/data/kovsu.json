@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 300,
+            "title": "feat: allow duplicated keys behind an option",
+            "url": "https://github.com/prettier/yaml-unist-parser/pull/300",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2025-12-03T01:24:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "yaml-unist-parser",
+                "nameWithOwner": "prettier/yaml-unist-parser",
+                "homepageUrl": "",
+                "description": "A YAML parser that produces output compatible with unist",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/yaml-unist-parser"
+            }
+        },
+        {
             "number": 18385,
             "title": "Add json-test-suite",
             "url": "https://github.com/prettier/prettier/pull/18385",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 581,
-            "title": "fix: eslint parsing error in template",
-            "url": "https://github.com/Ripple-TS/ripple/pull/581",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 8,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-23T16:33:57Z",
-            "mergedAt": "2025-11-24T01:12:13Z",
-            "closedAt": "2025-11-24T01:12:13Z",
-            "repository": {
-                "name": "ripple",
-                "nameWithOwner": "Ripple-TS/ripple",
-                "homepageUrl": "https://ripplejs.com",
-                "description": "the elegant TypeScript UI framework",
-                "owner": {
-                    "login": "Ripple-TS",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241806257?v=4"
-                },
-                "url": "https://github.com/Ripple-TS/ripple"
-            }
         }
     ],
     "contributions": {
-        "total": 763,
+        "total": 765,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2145,7 +2145,7 @@
             },
             {
                 "date": "2025-12-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-04",

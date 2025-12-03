@@ -19,8 +19,9 @@ const forwardedProps = useForwardProps(delegatedProps)
             'data-[state=active]:after::content-[\' \']',
             'p-1 border rounded-xl border-base-200',
             // 'after:bg-blue-500 after:rounded-full after:absolute after:size-2 after:-bottom-1.5 after:left-[50%] after:translate-x-[-50%]',
-            'data-[state=active]:bg-white data-[state=active]:border-base-300',
+            'data-[state=active]:bg-green-50 data-[state=active]:border-green-400',
             'hover:bg-white hover:border-base-300',
+            'transition-all duration-200',
             props.class,
         )"
         data-slot="tabs-trigger"

@@ -1,32 +1,33 @@
 <template>
-    <div class="flex items-center gap-2">
-        <NuxtLink class="size-10 shrink relative">
+    <div class="flex items-center gap-2 min-w-0">
+        <NuxtLink class="size-10 shrink-0 relative">
             <img
                 :alt="member"
                 :src="`https://github.com/${member}.png`"
-                class="size-10 rounded-full shadow"
+                class="size-10 rounded-full shadow shrink-0"
             >
         </NuxtLink>
-        <div class="flex flex-col gap-2">
+        <div class="flex flex-col gap-2 min-w-0 flex-1">
             <TooltipProvider>
                 <Tooltip>
                     <TooltipTrigger>
                         <NuxtLink
                             :href="`https://github.com/${member}`"
-                            class="flex text-base-content items-end font-medium gap-3"
+                            class="flex text-base-content items-center font-medium gap-2 min-w-0"
                             target="_blank"
                         >
-                            <div class="flex gap-1">
+                            <div class="flex gap-1 items-center min-w-0">
                                 <Icon
                                     :class="cn(
                                         identity.isTeamer?'text-purple-600':'text-success',
                                     )"
                                     :name="identity.icon"
+                                    class="shrink-0"
                                 />
 
-                                <span class="text-sm">{{ namePlaceholder }}</span>
+                                <span class="text-sm whitespace-nowrap overflow-hidden text-ellipsis">{{ namePlaceholder }}</span>
                             </div>
-                            <span class="text-base-content/65 text-xs">{{ user.userInfo.login }}</span>
+                            <span class="text-base-content/65 text-xs whitespace-nowrap overflow-hidden text-ellipsis shrink-0">{{ user.userInfo.login }}</span>
                         </NuxtLink>
                     </TooltipTrigger>
                     <TooltipContent>
@@ -34,7 +35,7 @@
                     </TooltipContent>
                 </Tooltip>
             </TooltipProvider>
-            <div class="flex flex-wrap justify-start gap-1 lg:gap-4.5 text-xs">
+            <div class="flex flex-wrap justify-start gap-1 lg:gap-4.5 text-xs min-w-0">
                 <div class="flex gap-1.25 items-center">
                     <Icon
                         class="text-base-content/60"

@@ -2,7 +2,7 @@
     <div
         class="bg-center bg-cover bg-no-repeat bg-[url('/hero.png')] mb-5"
     >
-        <div class="px-4">
+        <div class="px-5 lg:px-4">
             <div class="flex flex-col items-center gap-2 lg:gap-3.5 py-4 lg:pt-5 lg:pb-10">
                 <NuxtLink
                     :title="namePlaceholder"

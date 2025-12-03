@@ -6,7 +6,7 @@
         "url": "https://github.com/NoiseFan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
-        "followers": 1,
+        "followers": 2,
         "following": 4
     },
     "languages": [
@@ -31,13 +31,37 @@
     },
     "pullRequest": [
         {
+            "number": 816,
+            "title": "docs(v3): fix guide/migration",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/816",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-03T17:51:57Z",
+            "mergedAt": "2025-12-03T17:55:29Z",
+            "closedAt": "2025-12-03T17:55:29Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 815,
             "title": "!docs: building 2.x document",
             "url": "https://github.com/vitest-dev/docs-cn/pull/815",
             "state": "OPEN",
-            "changedFiles": 14,
-            "additions": 2665,
-            "deletions": 1585,
+            "changedFiles": 37,
+            "additions": 3284,
+            "deletions": 2630,
             "totalCommentsCount": 0,
             "createdAt": "2025-12-02T16:19:46Z",
             "mergedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 791,
-            "title": "docs(sideBar): Translate sidebar menu ",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/791",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 27,
-            "deletions": 27,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-10T16:09:04Z",
-            "mergedAt": "2025-11-10T16:11:14Z",
-            "closedAt": "2025-11-10T16:11:14Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 506,
+        "total": 507,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1624,7 +1624,7 @@
             },
             {
                 "date": "2025-12-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-05",

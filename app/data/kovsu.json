@@ -557,13 +557,13 @@
     "pullRequest": [
         {
             "number": 8868,
-            "title": "Fix errors in feature-value-block",
+            "title": "Fix `at-rule-descriptor-no-unknown` false positives for declarations within feature-value-blocks",
             "url": "https://github.com/stylelint/stylelint/pull/8868",
             "state": "OPEN",
             "changedFiles": 3,
             "additions": 63,
             "deletions": 12,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 5,
             "createdAt": "2025-12-03T08:48:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -583,14 +583,14 @@
             "number": 18417,
             "title": "Allow duplicated keys in yaml",
             "url": "https://github.com/prettier/prettier/pull/18417",
-            "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 316,
-            "deletions": 8,
-            "totalCommentsCount": 10,
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 282,
+            "deletions": 29,
+            "totalCommentsCount": 12,
             "createdAt": "2025-12-03T06:34:12Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-03T17:12:04Z",
+            "closedAt": "2025-12-03T17:12:04Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -797,7 +797,7 @@
         }
     ],
     "contributions": {
-        "total": 766,
+        "total": 767,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2149,7 +2149,7 @@
             },
             {
                 "date": "2025-12-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-05",

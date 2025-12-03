@@ -556,17 +556,41 @@
     },
     "pullRequest": [
         {
+            "number": 18417,
+            "title": "Allow duplicated keys in yaml",
+            "url": "https://github.com/prettier/prettier/pull/18417",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 513,
+            "deletions": 7,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-12-03T06:34:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 300,
             "title": "feat: allow duplicated keys behind an option",
             "url": "https://github.com/prettier/yaml-unist-parser/pull/300",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 10,
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 3047,
+            "deletions": 3,
+            "totalCommentsCount": 13,
             "createdAt": "2025-12-03T01:24:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-03T03:04:10Z",
+            "closedAt": "2025-12-03T03:04:10Z",
             "repository": {
                 "name": "yaml-unist-parser",
                 "nameWithOwner": "prettier/yaml-unist-parser",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/refined-github/refined-github"
             }
-        },
-        {
-            "number": 18306,
-            "title": "Fix bugs in `yaml-test-suite`",
-            "url": "https://github.com/prettier/prettier/pull/18306",
-            "state": "CLOSED",
-            "changedFiles": 7,
-            "additions": 91,
-            "deletions": 17,
-            "totalCommentsCount": 18,
-            "createdAt": "2025-11-24T03:43:09Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-28T02:34:14Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 765,
+        "total": 767,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2145,7 +2145,7 @@
             },
             {
                 "date": "2025-12-03",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-12-04",

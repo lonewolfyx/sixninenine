@@ -181,6 +181,30 @@
     },
     "pullRequest": [
         {
+            "number": 7,
+            "title": "fix:attrs",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/7",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 103,
+            "deletions": 122,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-12-03T03:21:37Z",
+            "mergedAt": "2025-12-03T03:21:49Z",
+            "closedAt": "2025-12-03T03:21:49Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 49,
             "title": "docs: fix typo in chatbot context",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/49",
@@ -395,34 +419,10 @@
                 },
                 "url": "https://github.com/vbenjs/vue-vben-admin"
             }
-        },
-        {
-            "number": 5,
-            "title": "feat: add Element-Plus-X to supported projects list",
-            "url": "https://github.com/openomy/openomy/pull/5",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 15,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-08-14T03:41:01Z",
-            "mergedAt": "2025-08-14T14:51:22Z",
-            "closedAt": "2025-08-14T14:51:22Z",
-            "repository": {
-                "name": "openomy",
-                "nameWithOwner": "openomy/openomy",
-                "homepageUrl": "https://openomy.com",
-                "description": null,
-                "owner": {
-                    "login": "openomy",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/198351097?v=4"
-                },
-                "url": "https://github.com/openomy/openomy"
-            }
         }
     ],
     "contributions": {
-        "total": 190,
+        "total": 195,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1770,7 +1770,7 @@
             },
             {
                 "date": "2025-12-03",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2025-12-04",

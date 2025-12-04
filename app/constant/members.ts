@@ -25,12 +25,13 @@ export const members: membersType[] = [
     { username: 'penghangtao' },
     { username: 'lbineau' },
     { username: 'Chang-Chen' },
+    { username: 'ls1072502993', aliasName: '李盛' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
 type OpenSourceMembersType = {
     [key: string]: {
-        [K in OpenSourceTypes]?: string[]
+        [K in OpenSourceTypes]?: string[];
     }
 }
 export const openSourceMembers: OpenSourceMembersType = {
@@ -39,7 +40,14 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Vue Use': {
         team: ['ilyaliao'],
-        contributors: ['pkc918', 'ArthurDarkstone', 'broBinChen', 'doyuli', 'snowbitx', 'jsy-0526'],
+        contributors: [
+            'pkc918',
+            'ArthurDarkstone',
+            'broBinChen',
+            'doyuli',
+            'snowbitx',
+            'jsy-0526',
+        ],
     },
     'MDN Docs Cn': {
         contributors: ['lonewolfyx', 'pkc918'],

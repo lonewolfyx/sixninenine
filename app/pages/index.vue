@@ -1,68 +1,108 @@
 <template>
     <Tabs
+        ref="tabsContainer"
         v-model="tabValue"
         :class="cn(
-            '[--sidebar-width:3.75rem] lg:[--sidebar-width:15.625rem]',
+            '[--sidebar-width:3.75rem] md:lg:[--sidebar-width:15.625rem]',
         )"
-        class="flex flex-col lg:flex-row grow lg:pt-(--header-height) w-full overflow-x-hidden"
+        class="flex flex-col lg:flex-row grow lg:pt-(--header-height) overflow-x-hidden"
     >
         <div
             :class="cn(
-                'w-full lg:w-(--sidebar-width) sticky lg:fixed top-(--header-height) z-20',
+                'w-full lg:w-(--sidebar-width)',
+                'top-(--header-height)',
+                'sticky lg:fixed z-20',
                 'flex flex-col items-stretch shrink-0 group',
-                'px-0 lg:px-3',
+                'px-3',
                 'order-1',
-                'bg-white lg:shadow-none',
                 'max-w-full',
+                {
+                    'bg-white shadow-xl/10 transition-all duration-300 pb-2': scrollHeight > 0,
+                },
             )"
         >
             <TabsList class="flex grow shrink-0 w-full overflow-hidden">
                 <div
                     ref="scrollContainer"
-                    class="overflow-x-auto lg:overflow-y-auto gap-2.5 w-full flex flex-row lg:flex-col items-center lg:items-start lg:max-h-[calc(100dvh-70px)] py-2 lg:py-4 px-4 lg:px-0 scrollbar-hide"
+                    :class="cn(
+                        'overflow-x-auto md:overflow-y-auto',
+                        'flex-row lg:flex-col',
+                        'scrollbar-hide',
+                    )"
+                    class="gap-2.5 w-full flex md:items-start max-h-[calc(100dvh-70px))]"
                 >
                     <TabsTrigger
+                        :class="cn(
+                            'size-20 md:lg:w-full md:lg:h-full',
+                            'overflow-visible cursor-pointer',
+                            'flex shrink-0 flex-col lg:flex-row justify-center lg:justify-start items-center',
+                            'gap-1 lg:gap-4',
+                        )"
                         :value="OpenSourceProjectMember"
-                        class="w-20 lg:w-full overflow-visible cursor-pointer shrink-0 flex flex-col lg:flex-row justify-center lg:justify-start items-center gap-1 lg:gap-4"
+                        as-child
                         @click="handleTabChange(OpenSourceProjectMember)"
                     >
-                        <Avatar class="flex flex-col justify-center items-center size-10">
-                            <AvatarImage
-                                alt=""
-                                class="rounded-full"
-                                src="/opensource.svg"
-                            />
-                            <AvatarFallback>SN</AvatarFallback>
-                        </Avatar>
-                        <span class="font-medium text-xs lg:text-sm text-neutral whitespace-nowrap text-center lg:text-left overflow-hidden text-ellipsis max-w-full">Open Source Project</span>
+                        <div class="flex justify-start items-center">
+                            <Avatar class="flex flex-col justify-center items-center size-10">
+                                <AvatarImage
+                                    alt=""
+                                    class="rounded-full"
+                                    src="/opensource.svg"
+                                />
+                                <AvatarFallback>SN</AvatarFallback>
+                            </Avatar>
+                            <span
+                                :class="cn(
+                                    'font-medium text-xs lg:text-sm',
+                                    'max-w-full truncate',
+                                )"
+                            >Open Source Project</span>
+                        </div>
                     </TabsTrigger>
                     <TabsTrigger
                         v-for="member in members"
                         :key="member.username"
+                        :class="cn(
+                            'size-20 md:lg:w-full md:lg:h-full',
+                            'overflow-visible cursor-pointer',
+                            'flex shrink-0 flex-col lg:flex-row justify-center lg:justify-start items-center',
+                            'gap-1 lg:gap-4',
+                        )"
                         :value="member.username"
-                        class="w-20 lg:w-full overflow-visible cursor-pointer shrink-0 flex flex-col lg:flex-row justify-center lg:justify-start items-center gap-1 lg:gap-4"
+                        as-child
                         @click="handleTabChange(member.username)"
                     >
-                        <Avatar class="flex flex-col justify-center items-center size-10">
-                            <AvatarImage
-                                :alt="member"
-                                :src="`https://github.com/${member.username}.png`"
-                                class="rounded-full"
-                            />
-                            <AvatarFallback>SN</AvatarFallback>
-                        </Avatar>
-                        <span class="font-medium text-xs lg:text-sm text-neutral whitespace-nowrap text-center lg:text-left overflow-hidden text-ellipsis max-w-full">{{
-                            member?.aliasName ?? member.username
-                        }}</span>
+                        <div class="flex justify-start items-center">
+                            <Avatar class="flex flex-col justify-center items-center size-10">
+                                <AvatarImage
+                                    :alt="member"
+                                    :src="`https://github.com/${member.username}.png`"
+                                    class="rounded-full"
+                                />
+                                <AvatarFallback>SN</AvatarFallback>
+                            </Avatar>
+                            <span
+                                :class="cn(
+                                    'font-medium text-xs lg:text-sm',
+                                    'max-w-full truncate',
+                                )"
+                            >{{
+                                member?.aliasName ?? member.username
+                            }}</span>
+                        </div>
                     </TabsTrigger>
                 </div>
             </TabsList>
         </div>
         <div
-            class="flex grow rounded-lg border border-base-300 bg-white mx-[10px] lg:mx-5 lg:ms-(--sidebar-width) mb-5 mt-[50px] lg:mt-0 order-2 min-w-0"
+            :class="cn(
+                'flex grow rounded-lg border border-base-300',
+                'bg-white mx-5 md:lg:ms-(--sidebar-width) mb-5 order-2',
+                'mt-12 md:lg:mt-0',
+            )"
         >
             <div
-                class="flex flex-col grow overflow-y-scroll p-2 lg:p-4 break-all w-full"
+                class="flex flex-col grow overflow-y-scroll p-4 break-all"
             >
                 <TabsContent value="OpenSourceProjectMember">
                     <OpenSourceProject />
@@ -92,10 +132,12 @@ import { cn } from '~/lib/utils'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '~/components/ui/tabs'
 import { Avatar, AvatarFallback, AvatarImage } from '~/components/ui/avatar'
 import GithubDashboard from '~/components/Github/GithubDashboard.vue'
+import { useConfig } from '~/composables/useConfig'
 
 const route = useRoute()
 const router = useRouter()
 const scrollContainer = ref<HTMLDivElement | null>(null)
+const tabsContainer = useTemplateRef<HTMLDivElement>('tabsContainer')
 
 const OpenSourceProjectMember = 'OpenSourceProjectMember'
 const resolveUser = (val: string) => {
@@ -158,5 +200,11 @@ onMounted(() => {
     onUnmounted(() => {
         container.removeEventListener('wheel', handleWheel)
     })
+})
+
+const { y: scrollHeight } = useScroll(tabsContainer)
+const { setHeight } = useConfig()
+watch(scrollHeight, (nv) => {
+    setHeight(nv)
 })
 </script>

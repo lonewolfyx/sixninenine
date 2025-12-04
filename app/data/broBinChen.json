@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 85,
+            "title": "refactor: replace deprecated addToolResult with addToolOutput",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/85",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-04T14:31:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=ae4aac513e377777fd6e46980e0e9414cdcd6f96&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
+            "number": 82,
+            "title": "fix: clear files when clicking text-only examples",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/82",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-04T14:03:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=ae4aac513e377777fd6e46980e0e9414cdcd6f96&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
             "number": 71,
             "title": "chore: add root .npmrc for consistent workspace dependency hoisting",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/71",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 4980,
-            "title": "perf(usePointer): use shallowRef for better performance",
-            "url": "https://github.com/vueuse/vueuse/pull/4980",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-22T09:11:32Z",
-            "mergedAt": "2025-08-22T17:03:26Z",
-            "closedAt": "2025-08-22T17:03:27Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 42,
-            "title": "feat(api): support custom OpenAI base URL via OPENAI_BASE_URL",
-            "url": "https://github.com/firecrawl/open-lovable/pull/42",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-13T01:42:17Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "open-lovable",
-                "nameWithOwner": "firecrawl/open-lovable",
-                "homepageUrl": "",
-                "description": "🔥 Clone and recreate any website as a modern React app in seconds",
-                "owner": {
-                    "login": "firecrawl",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4"
-                },
-                "url": "https://github.com/firecrawl/open-lovable"
-            }
         }
     ],
     "contributions": {
-        "total": 46,
+        "total": 49,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1609,7 +1609,7 @@
             },
             {
                 "date": "2025-12-04",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2025-12-05",

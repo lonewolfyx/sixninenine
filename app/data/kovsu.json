@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 8883,
+            "title": "Add `ignoreSelectors` option to `no-duplicate-selectors`",
+            "url": "https://github.com/stylelint/stylelint/pull/8883",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 115,
+            "deletions": 2,
+            "totalCommentsCount": 11,
+            "createdAt": "2025-12-04T02:41:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8868,
             "title": "Fix `at-rule-descriptor-no-unknown` false positives for declarations within feature-value-blocks",
             "url": "https://github.com/stylelint/stylelint/pull/8868",
@@ -705,9 +729,9 @@
             "url": "https://github.com/prettier/prettier/pull/18331",
             "state": "OPEN",
             "changedFiles": 6,
-            "additions": 1313,
+            "additions": 2796,
             "deletions": 2,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 7,
             "createdAt": "2025-11-27T03:31:21Z",
             "mergedAt": null,
             "closedAt": null,
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 4759,
-            "title": "fix(discover): prevent empty results when keyword changes without search",
-            "url": "https://github.com/RSSNext/Folo/pull/4759",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 5,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-11-26T07:27:06Z",
-            "mergedAt": "2025-11-26T17:09:37Z",
-            "closedAt": "2025-11-26T17:09:37Z",
-            "repository": {
-                "name": "Folo",
-                "nameWithOwner": "RSSNext/Folo",
-                "homepageUrl": "https://app.folo.is",
-                "description": "🧡 Folo is the AI Reader",
-                "owner": {
-                    "login": "RSSNext",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95456295?v=4"
-                },
-                "url": "https://github.com/RSSNext/Folo"
-            }
         }
     ],
     "contributions": {
-        "total": 767,
+        "total": 768,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2149,7 +2149,7 @@
             },
             {
                 "date": "2025-12-04",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-12-05",

@@ -181,6 +181,30 @@
     },
     "pullRequest": [
         {
+            "number": 13,
+            "title": "feat: refactor code block theming to use Shiki themes and remove legacy theme props",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/13",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 358,
+            "deletions": 514,
+            "totalCommentsCount": 10,
+            "createdAt": "2025-12-04T03:04:19Z",
+            "mergedAt": "2025-12-04T03:04:36Z",
+            "closedAt": "2025-12-04T03:04:36Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 10,
             "title": "feat: support md xs screen",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/10",
@@ -395,34 +419,10 @@
                 },
                 "url": "https://github.com/ant-design/x"
             }
-        },
-        {
-            "number": 335,
-            "title": "feat: support latex ",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/335",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 66,
-            "deletions": 4,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-09-05T03:02:38Z",
-            "mergedAt": "2025-09-05T03:22:08Z",
-            "closedAt": "2025-09-05T03:22:08Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 201,
+        "total": 204,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1774,7 +1774,7 @@
             },
             {
                 "date": "2025-12-04",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-12-05",

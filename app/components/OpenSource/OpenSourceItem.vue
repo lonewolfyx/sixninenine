@@ -14,7 +14,7 @@
         >
             {{ projectName }}
         </Badge>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:lg:grid-cols-4 gap-4">
             <template
                 v-for="(osMembers, type) in items"
                 :key="`${projectName}-${type}`"

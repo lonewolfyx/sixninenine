@@ -1,6 +1,13 @@
 <template>
     <div class="flex grow w-full h-full">
-        <header class="flex items-center fixed z-30 top-0 left-0 right-0 shrink-0 h-(--header-height) bg-white shadow-sm">
+        <header
+            :class="cn(
+                'flex items-center fixed z-30 top-0 left-0 right-0 shrink-0 h-(--header-height)',
+                {
+                    'bg-white transition-all duration-300': isScrolling,
+                },
+            )"
+        >
             <div class="px-4 w-full py-2 z-20">
                 <div class="grid grid-cols-12 gap-2">
                     <div class="col-span-1">
@@ -14,7 +21,7 @@
                         </div>
                     </div>
                     <div class="col-span-10 flex justify-center items-center overflow-x-auto">
-                        <NavigationMenu>
+                        <NavigationMenu class="hidden md:flex">
                             <NavigationMenuList class="flex-nowrap">
                                 <NavigationMenuItem>
                                     <NavigationMenuLink
@@ -75,6 +82,14 @@ import {
     NavigationMenuList,
     navigationMenuTriggerStyle,
 } from '~/components/ui/navigation-menu'
+import { cn } from '~/lib/utils'
+import { useConfig } from '~/composables/useConfig'
 
 const config = useRuntimeConfig()
+
+const { config: configStore } = useConfig()
+
+const isScrolling = computed(() => {
+    return configStore.height > 0
+})
 </script>

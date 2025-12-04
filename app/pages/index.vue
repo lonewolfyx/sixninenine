@@ -59,7 +59,7 @@
             </TabsList>
         </div>
         <div
-            class="flex grow rounded-lg border border-base-300 bg-white mx-[10px] lg:mx-5 lg:ms-(--sidebar-width) mb-5 mt-[50px] lg:mt-0 order-2 min-w-0"
+            class="flex grow rounded-lg border border-base-300 bg-white mx-[10px] lg:mx-5 lg:ms-[calc(var(--sidebar-width)_+_theme(spacing.5))] mb-5 mt-[50px] lg:mt-0 order-2 min-w-0"
         >
             <div
                 class="flex flex-col grow overflow-y-scroll p-2 lg:p-4 break-all w-full"

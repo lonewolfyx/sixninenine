@@ -181,6 +181,30 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "feat: 更新useMermaid钩子以支持加载状态和渲染队列",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/25",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 94,
+            "deletions": 34,
+            "totalCommentsCount": 7,
+            "createdAt": "2025-12-05T10:31:40Z",
+            "mergedAt": "2025-12-05T10:32:07Z",
+            "closedAt": "2025-12-05T10:32:07Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 20,
             "title": "Docs/readme",
             "url": "https://github.com/element-plus-x/x-markdown/pull/20",
@@ -395,34 +419,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 49,
-            "title": "docs: fix typo in chatbot context",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/49",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-27T06:45:21Z",
-            "mergedAt": "2025-11-27T08:05:49Z",
-            "closedAt": "2025-11-27T08:05:49Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 220,
+        "total": 224,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1778,7 +1778,7 @@
             },
             {
                 "date": "2025-12-05",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-12-06",

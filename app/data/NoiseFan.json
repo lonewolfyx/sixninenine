@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 822,
+            "title": "ci(autofix): update autofix.ci permissions",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/822",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-05T10:37:45Z",
+            "mergedAt": "2025-12-05T10:39:55Z",
+            "closedAt": "2025-12-05T10:39:55Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 816,
             "title": "docs(v3): fix guide/migration",
             "url": "https://github.com/vitest-dev/docs-cn/pull/816",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 792,
-            "title": "docs: update /guide/assert",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/792",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 278,
-            "deletions": 278,
-            "totalCommentsCount": 28,
-            "createdAt": "2025-11-10T16:51:15Z",
-            "mergedAt": "2025-11-11T16:40:55Z",
-            "closedAt": "2025-11-11T16:40:55Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 512,
+        "total": 514,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1628,7 +1628,7 @@
             },
             {
                 "date": "2025-12-05",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-12-06",

@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 823,
+            "title": "docs(improving-performance): fix styles",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/823",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-05T13:57:34Z",
+            "mergedAt": "2025-12-05T14:03:27Z",
+            "closedAt": "2025-12-05T14:03:27Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 822,
             "title": "ci(autofix): update autofix.ci permissions",
             "url": "https://github.com/vitest-dev/docs-cn/pull/822",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 793,
-            "title": "!docs: building 3.x document",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/793",
-            "state": "MERGED",
-            "changedFiles": 86,
-            "additions": 3135,
-            "deletions": 5954,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-12T14:22:25Z",
-            "mergedAt": "2025-12-02T04:29:08Z",
-            "closedAt": "2025-12-02T04:29:08Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 514,
+        "total": 517,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1628,7 +1628,7 @@
             },
             {
                 "date": "2025-12-05",
-                "count": 4
+                "count": 7
             },
             {
                 "date": "2025-12-06",

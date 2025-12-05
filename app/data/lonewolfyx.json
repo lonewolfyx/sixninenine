@@ -434,6 +434,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "Inital Project",
+            "url": "https://github.com/ScaffoldCore/shadcn-vue-registry/pull/1",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 4204,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-05T13:21:03Z",
+            "mergedAt": "2025-12-05T13:21:12Z",
+            "closedAt": "2025-12-05T13:21:12Z",
+            "repository": {
+                "name": "shadcn-vue-registry",
+                "nameWithOwner": "ScaffoldCore/shadcn-vue-registry",
+                "homepageUrl": null,
+                "description": "⚙️ quickly construct the registry.json files required for shadcn-vue",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/shadcn-vue-registry"
+            }
+        },
+        {
             "number": 80,
             "title": "chore(ci): add pr contributor welcome workflow",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/80",
@@ -648,34 +672,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 9,
-            "title": "feat: overview of open source projects in which members are involved",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/9",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 471,
-            "deletions": 88,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-26T11:26:08Z",
-            "mergedAt": "2025-11-26T11:31:20Z",
-            "closedAt": "2025-11-26T11:31:20Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 16878,
+        "total": 16906,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2031,11 +2031,11 @@
             },
             {
                 "date": "2025-12-05",
-                "count": 33
+                "count": 60
             },
             {
                 "date": "2025-12-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-07",

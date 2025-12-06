@@ -13,16 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 10256,
-            "repoCount": 2,
-            "progress": "90.93"
+            "size": 47689,
+            "repoCount": 3,
+            "progress": "75.21"
+        },
+        {
+            "name": "Vue",
+            "color": "#41b883",
+            "size": 8524,
+            "repoCount": 1,
+            "progress": "13.44"
+        },
+        {
+            "name": "CSS",
+            "color": "#663399",
+            "size": 6176,
+            "repoCount": 1,
+            "progress": "9.74"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "9.07"
+            "progress": "1.61"
         }
     ],
     "organizations": {
@@ -30,6 +44,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 829,
+            "title": "ci(autoSync): add `AutoSync` action",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/829",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 25,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-06T17:37:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
         {
             "number": 827,
             "title": "Revert \"ci(autoSync): add `AutoSync` action (#826)\"",
@@ -245,34 +283,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 812,
-            "title": "docs: translate /guide/browser/locators",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/812",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 48,
-            "deletions": 45,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-30T18:00:59Z",
-            "mergedAt": "2025-11-30T18:01:14Z",
-            "closedAt": "2025-11-30T18:01:14Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 531,
+        "total": 558,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1632,11 +1646,11 @@
             },
             {
                 "date": "2025-12-06",
-                "count": 14
+                "count": 37
             },
             {
                 "date": "2025-12-07",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-12-08",

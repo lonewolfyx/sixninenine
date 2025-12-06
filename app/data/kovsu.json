@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=ae453f14f2ad5b0c2347b321ea4f5d577567e5c4&v=4",
         "pronouns": "",
-        "followers": 63,
+        "followers": 62,
         "following": 21
     },
     "languages": [
@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 8905,
+            "title": "Fix `nesting-selector-no-missing-scoping-root` false positives for CSS-in-JS",
+            "url": "https://github.com/stylelint/stylelint/pull/8905",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 27,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-06T15:36:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8890,
             "title": "Fix `media-feature-name-no-unknown` false positives for namespaced variables",
             "url": "https://github.com/stylelint/stylelint/pull/8890",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18330,
-            "title": "Use explicit key format when mapping key wraps",
-            "url": "https://github.com/prettier/prettier/pull/18330",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 56,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-11-27T02:42:52Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 770,
+        "total": 771,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2157,7 +2157,7 @@
             },
             {
                 "date": "2025-12-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-07",

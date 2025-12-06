@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 23014,
+            "title": "docs(components): [form] update the description of disabled prop",
+            "url": "https://github.com/element-plus/element-plus/pull/23014",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 18,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-06T12:47:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 22999,
             "title": "feat(components): [color-picker] support clearable prop and expose clear",
             "url": "https://github.com/element-plus/element-plus/pull/22999",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22880,
-            "title": "fix(components): [time-picker] avoid incorrect values after losing focus",
-            "url": "https://github.com/element-plus/element-plus/pull/22880",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 29,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-11-20T12:23:19Z",
-            "mergedAt": "2025-11-22T22:54:29Z",
-            "closedAt": "2025-11-22T22:54:29Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 193,
+        "total": 194,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1639,7 +1639,7 @@
             },
             {
                 "date": "2025-12-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-07",

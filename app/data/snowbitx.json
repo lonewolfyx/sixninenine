@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 82,
+            "title": "refactor(elements): prompt-input to use createContext for unified context management",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/82",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 43,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-06T18:50:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 74,
             "title": "refactor(conversation): use reactiveOmit for props delegation",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/74",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22529,
-            "title": "feat(components): [table] add table selection header slot",
-            "url": "https://github.com/element-plus/element-plus/pull/22529",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-10-19T14:58:13Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-04T07:55:53Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 120,
+        "total": 121,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1643,7 +1643,7 @@
             },
             {
                 "date": "2025-12-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-08",

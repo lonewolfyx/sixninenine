@@ -80,7 +80,7 @@ export const openSourceMembers: OpenSourceMembersType = {
         contributors: ['984507092', 'ls1072502993', 'zero-years', 'ixyzorg'],
     },
     'SoybeanJS': {
-        team: ['skyfeiz']
+        team: ['skyfeiz'],
     },
     'Ant Design': {
         contributors: ['984507092'],

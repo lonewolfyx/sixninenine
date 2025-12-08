@@ -26,6 +26,7 @@ export const members: membersType[] = [
     { username: 'lbineau' },
     { username: 'Chang-Chen' },
     { username: 'ls1072502993', aliasName: '李盛' },
+    { username: 'zero-years', aliasName: 'zyear' },
     { username: 'MigrantWorkersYu', aliasName: 'Yuhuan' },
 ]
 
@@ -71,5 +72,6 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Vitest Docs Cn': {
         team: ['NoiseFan'],
+        contributors: ['ls1072502993', 'zyear'],
     },
 }

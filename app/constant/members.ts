@@ -27,6 +27,7 @@ export const members: membersType[] = [
     { username: 'Chang-Chen' },
     { username: 'ls1072502993', aliasName: '李盛' },
     { username: 'zero-years', aliasName: 'zyear' },
+    { username: 'MigrantWorkersYu', aliasName: 'Yuhuan' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'

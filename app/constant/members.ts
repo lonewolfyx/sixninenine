@@ -76,7 +76,7 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Vitest Docs Cn': {
         team: ['NoiseFan'],
-        contributors: ['984507092', 'ls1072502993', 'zero-years','ixyzorg'],
+        contributors: ['984507092', 'ls1072502993', 'zero-years', 'ixyzorg'],
     },
     'Ant Design': {
         contributors: ['984507092'],

@@ -30,6 +30,7 @@ export const members: membersType[] = [
     { username: 'MigrantWorkersYu', aliasName: 'Yuhuan' },
     { username: 'hy-lmh', aliasName: '寒羽' },
     { username: 'Chine-creepre', aliasName: '黄俊颜' },
+    { username: '984507092', aliasName: '鹤鸣' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
@@ -74,6 +75,15 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Vitest Docs Cn': {
         team: ['NoiseFan'],
-        contributors: ['ls1072502993', 'zyear'],
+        contributors: ['984507092', 'ls1072502993', 'zyear'],
+    },
+    'Ant Design': {
+        contributors: ['984507092'],
+    },
+    'Ant Design Mobile': {
+        contributors: ['984507092'],
+    },
+    'DocFlow': {
+        contributors: ['984507092'],
     },
 }

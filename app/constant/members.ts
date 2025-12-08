@@ -12,6 +12,7 @@ export const members: membersType[] = [
     { username: 'ArthurDarkstone', aliasName: '高手哥' }, // 高手哥
     { username: 'broBinChen', aliasName: '木木哥' }, // 木木哥
     { username: 'NoiseFan', aliasName: '澎澎同学' },
+    { username: 'skyfeiz', aliasName: '一寸灰' },
     { username: 'ffgenius', aliasName: '付伟斌' }, // 粉红色的回忆
     { username: 'heyrian', aliasName: '日安' }, // 日安小姐姐
     { username: 'LarryZhu-dev', aliasName: '朱永博' },
@@ -31,7 +32,7 @@ export const members: membersType[] = [
     { username: 'hy-lmh', aliasName: '寒羽' },
     { username: 'Chine-creepre', aliasName: '黄俊颜' },
     { username: '984507092', aliasName: '鹤鸣' },
-    { username: 'skyfeiz', aliasName: '一寸灰' },
+    { username: 'ixyzorg', aliasName: 'Mason' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
@@ -76,7 +77,10 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Vitest Docs Cn': {
         team: ['NoiseFan'],
-        contributors: ['984507092', 'ls1072502993', 'zero-years'],
+        contributors: ['984507092', 'ls1072502993', 'zero-years','ixyzorg'],
+    },
+    'SoybeanJS': {
+        team: ['skyfeiz']
     },
     'Ant Design': {
         contributors: ['984507092'],

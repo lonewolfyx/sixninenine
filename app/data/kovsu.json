@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 8907,
+            "title": "Fix `no-invalid-position-declaration` false negatives for embedded blocks",
+            "url": "https://github.com/stylelint/stylelint/pull/8907",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 279,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-08T03:27:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8905,
             "title": "Fix `nesting-selector-no-missing-scoping-root` false positives for CSS-in-JS",
             "url": "https://github.com/stylelint/stylelint/pull/8905",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18331,
-            "title": "Fix `L24T-2.yaml` (value of `blockLiteral`) bug in `yaml-test-suite`",
-            "url": "https://github.com/prettier/prettier/pull/18331",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 8186,
-            "deletions": 3,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-11-27T03:31:21Z",
-            "mergedAt": "2025-12-05T14:03:45Z",
-            "closedAt": "2025-12-05T14:03:45Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 771,
+        "total": 773,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2165,7 +2165,7 @@
             },
             {
                 "date": "2025-12-08",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-09",

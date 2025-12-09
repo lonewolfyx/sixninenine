@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 8817,
+            "title": "`netiquette` - Fix layout in comment field",
+            "url": "https://github.com/refined-github/refined-github/pull/8817",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-09T09:13:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
             "number": 8908,
             "title": "Add ts config file documentation and checking",
             "url": "https://github.com/stylelint/stylelint/pull/8908",
@@ -563,7 +587,7 @@
             "changedFiles": 5,
             "additions": 115,
             "deletions": 6,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 5,
             "createdAt": "2025-12-09T02:01:45Z",
             "mergedAt": null,
             "closedAt": null,
@@ -583,14 +607,14 @@
             "number": 8907,
             "title": "Fix `no-invalid-position-declaration` false negatives for embedded blocks",
             "url": "https://github.com/stylelint/stylelint/pull/8907",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 91,
             "deletions": 7,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 7,
             "createdAt": "2025-12-08T03:27:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-09T10:29:42Z",
+            "closedAt": "2025-12-09T10:29:42Z",
             "repository": {
                 "name": "stylelint",
                 "nameWithOwner": "stylelint/stylelint",
@@ -607,14 +631,14 @@
             "number": 8905,
             "title": "Fix `nesting-selector-no-missing-scoping-root` false positives for CSS-in-JS",
             "url": "https://github.com/stylelint/stylelint/pull/8905",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
-            "additions": 27,
+            "additions": 30,
             "deletions": 0,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2025-12-06T15:36:37Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-09T10:16:44Z",
+            "closedAt": "2025-12-09T10:16:44Z",
             "repository": {
                 "name": "stylelint",
                 "nameWithOwner": "stylelint/stylelint",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18383,
-            "title": "Fix LWC attribute with `--embedded-language-formatting off`",
-            "url": "https://github.com/prettier/prettier/pull/18383",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 93,
-            "deletions": 17,
-            "totalCommentsCount": 22,
-            "createdAt": "2025-12-01T01:05:53Z",
-            "mergedAt": "2025-12-01T03:25:11Z",
-            "closedAt": "2025-12-01T03:25:11Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 774,
+        "total": 775,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2169,7 +2169,7 @@
             },
             {
                 "date": "2025-12-09",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-12-10",

@@ -121,6 +121,30 @@
     },
     "pullRequest": [
         {
+            "number": 83,
+            "title": "docs(components): add md tooltips syntax and modify According docs",
+            "url": "https://github.com/soybeanjs/soybean-ui/pull/83",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 94,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-09T13:57:23Z",
+            "mergedAt": "2025-12-09T14:06:03Z",
+            "closedAt": "2025-12-09T14:06:03Z",
+            "repository": {
+                "name": "soybean-ui",
+                "nameWithOwner": "soybeanjs/soybean-ui",
+                "homepageUrl": "https://ui.soybeanjs.cn",
+                "description": "An elegant and accessible UI library like shadcn for Vue3",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-ui"
+            }
+        },
+        {
             "number": 21,
             "title": "feat: add new member",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/21",
@@ -335,34 +359,10 @@
                 },
                 "url": "https://github.com/soybeanjs/soybean-admin-element-plus"
             }
-        },
-        {
-            "number": 153,
-            "title": "chore(other): 🔧 update the ESLint validation configuration to support more file types.",
-            "url": "https://github.com/soybeanjs/soybean-admin-element-plus/pull/153",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 22,
-            "deletions": 13,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-09-08T03:04:18Z",
-            "mergedAt": "2025-09-08T03:04:38Z",
-            "closedAt": "2025-09-08T03:04:38Z",
-            "repository": {
-                "name": "soybean-admin-element-plus",
-                "nameWithOwner": "soybeanjs/soybean-admin-element-plus",
-                "homepageUrl": "https://elp.soybeanjs.cn",
-                "description": "一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite6, TypeScript, Pinia, ElementPlus 和 UnoCSS。A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, ElementPlus and UnoCSS.",
-                "owner": {
-                    "login": "soybeanjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
-                },
-                "url": "https://github.com/soybeanjs/soybean-admin-element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 133,
+        "total": 135,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -694,7 +694,7 @@
             },
             {
                 "date": "2025-03-24",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-03-25",
@@ -1734,7 +1734,7 @@
             },
             {
                 "date": "2025-12-09",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-10",

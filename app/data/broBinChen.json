@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 101,
+            "title": "chore(docs): use `experimental_useObject` API in code-block example",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/101",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-10T07:02:17Z",
+            "mergedAt": "2025-12-10T08:55:59Z",
+            "closedAt": "2025-12-10T08:55:59Z",
+            "repository": {
+                "name": "ai-elements-vue",
+                "nameWithOwner": "vuepont/ai-elements-vue",
+                "homepageUrl": "https://www.ai-elements-vue.com",
+                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/ai-elements-vue"
+            }
+        },
+        {
             "number": 99,
             "title": "chore(docs): replace non-existent Input component with PromptInput in examples",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/99",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 18,
             "deletions": 12,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2025-12-10T06:38:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-10T08:48:44Z",
+            "closedAt": "2025-12-10T08:48:44Z",
             "repository": {
                 "name": "ai-elements-vue",
                 "nameWithOwner": "vuepont/ai-elements-vue",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 5078,
-            "title": "refactor(useClipboard): remove redundant nullish coalescing in legacyCopy",
-            "url": "https://github.com/vueuse/vueuse/pull/5078",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-09-30T07:18:48Z",
-            "mergedAt": "2025-10-03T09:19:26Z",
-            "closedAt": "2025-10-03T09:19:26Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 56,
+        "total": 59,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1633,7 +1633,7 @@
             },
             {
                 "date": "2025-12-10",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2025-12-11",

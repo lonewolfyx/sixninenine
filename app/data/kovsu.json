@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 18460,
+            "title": "Preserve spaces around placeholders for template literals",
+            "url": "https://github.com/prettier/prettier/pull/18460",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 47,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-12-10T09:18:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 8910,
             "title": "Add `except: [\"after-block\"]` to `declaration-empty-line-before`",
             "url": "https://github.com/stylelint/stylelint/pull/8910",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 300,
-            "title": "feat: allow duplicated keys behind an option",
-            "url": "https://github.com/prettier/yaml-unist-parser/pull/300",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 3047,
-            "deletions": 3,
-            "totalCommentsCount": 13,
-            "createdAt": "2025-12-03T01:24:39Z",
-            "mergedAt": "2025-12-03T03:04:10Z",
-            "closedAt": "2025-12-03T03:04:10Z",
-            "repository": {
-                "name": "yaml-unist-parser",
-                "nameWithOwner": "prettier/yaml-unist-parser",
-                "homepageUrl": "",
-                "description": "A YAML parser that produces output compatible with unist",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/yaml-unist-parser"
-            }
         }
     ],
     "contributions": {
-        "total": 777,
+        "total": 779,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2173,7 +2173,7 @@
             },
             {
                 "date": "2025-12-10",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-12-11",

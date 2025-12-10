@@ -556,6 +556,30 @@
     },
     "pullRequest": [
         {
+            "number": 8910,
+            "title": "Add `except: [\"after-block\"]` to `declaration-empty-line-before`",
+            "url": "https://github.com/stylelint/stylelint/pull/8910",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 69,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-10T03:48:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8817,
             "title": "`netiquette` - Fix layout in comment field",
             "url": "https://github.com/refined-github/refined-github/pull/8817",
@@ -770,34 +794,10 @@
                 },
                 "url": "https://github.com/prettier/yaml-unist-parser"
             }
-        },
-        {
-            "number": 18385,
-            "title": "Add json-test-suite",
-            "url": "https://github.com/prettier/prettier/pull/18385",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 9597,
-            "deletions": 0,
-            "totalCommentsCount": 29,
-            "createdAt": "2025-12-01T08:24:56Z",
-            "mergedAt": "2025-12-02T08:33:39Z",
-            "closedAt": "2025-12-02T08:33:39Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 776,
+        "total": 777,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2173,7 +2173,7 @@
             },
             {
                 "date": "2025-12-10",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-12-11",

@@ -6,7 +6,7 @@
         "url": "https://github.com/ilyaliao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
         "pronouns": "he/him",
-        "followers": 82,
+        "followers": 83,
         "following": 137
     },
     "languages": [
@@ -520,6 +520,30 @@
     },
     "pullRequest": [
         {
+            "number": 5206,
+            "title": "docs(refAutoReset): clarify deep update",
+            "url": "https://github.com/vueuse/vueuse/pull/5206",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-09T22:46:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5042,
             "title": "feat!: drop watchPausable",
             "url": "https://github.com/vueuse/vueuse/pull/5042",
@@ -734,34 +758,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 410,
-            "title": "refactor: migrate to tsdown",
-            "url": "https://github.com/unplugin/unplugin-icons/pull/410",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 436,
-            "deletions": 276,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-08-16T02:09:17Z",
-            "mergedAt": "2025-08-16T14:06:30Z",
-            "closedAt": "2025-08-16T14:06:30Z",
-            "repository": {
-                "name": "unplugin-icons",
-                "nameWithOwner": "unplugin/unplugin-icons",
-                "homepageUrl": "https://www.npmjs.com/package/unplugin-icons",
-                "description": "🤹 Access thousands of icons as components on-demand universally.",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-icons"
-            }
         }
     ],
     "contributions": {
-        "total": 1423,
+        "total": 1428,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2137,7 +2137,7 @@
             },
             {
                 "date": "2025-12-10",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2025-12-11",

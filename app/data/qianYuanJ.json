@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 74,
+            "title": "fix(battleVersion): 战斗版本号从服务器获取，不用每次手动修改代码",
+            "url": "https://github.com/w1249178256/xyzw_web_helper/pull/74",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 838,
+            "deletions": 826,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-10T01:54:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "xyzw_web_helper",
+                "nameWithOwner": "w1249178256/xyzw_web_helper",
+                "homepageUrl": "https://jolly-field-054c3af00.1.azurestaticapps.net",
+                "description": "咸鱼之王web端",
+                "owner": {
+                    "login": "w1249178256",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/51258516?v=4"
+                },
+                "url": "https://github.com/w1249178256/xyzw_web_helper"
+            }
+        },
+        {
             "number": 71,
             "title": "fix(style): 修复 h5 下的样式问题",
             "url": "https://github.com/w1249178256/xyzw_web_helper/pull/71",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/uni-helper/uni-use"
             }
-        },
-        {
-            "number": 20,
-            "title": "chore(docs): 增加贡献者",
-            "url": "https://github.com/anyup/uView-Pro/pull/20",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-15T09:22:07Z",
-            "mergedAt": "2025-09-15T12:35:13Z",
-            "closedAt": "2025-09-15T12:35:14Z",
-            "repository": {
-                "name": "uView-Pro",
-                "nameWithOwner": "anyup/uView-Pro",
-                "homepageUrl": "https://uviewpro.cn",
-                "description": "uView Pro，是全面支持Vue3.0、TypeScript的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 uView Pro 的基线版本基于 uView 1.8.8 修改，使用 TypeScript 重构，目前已全面支持 uni-app Vue3.0",
-                "owner": {
-                    "login": "anyup",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/85225562?u=cad74fb4a5398e4f256c4ab1a22e46f0e11d0ab8&v=4"
-                },
-                "url": "https://github.com/anyup/uView-Pro"
-            }
         }
     ],
     "contributions": {
-        "total": 87,
+        "total": 88,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1633,7 +1633,7 @@
             },
             {
                 "date": "2025-12-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-11",

@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 6262,
+            "title": "fix(chat-sender): optimize Enter key handling with native event APIs",
+            "url": "https://github.com/Tencent/tdesign-vue-next/pull/6262",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 18,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-12T05:24:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tdesign-vue-next",
+                "nameWithOwner": "Tencent/tdesign-vue-next",
+                "homepageUrl": "https://tdesign.tencent.com/vue-next",
+                "description": "A Vue3.x UI components lib for TDesign.",
+                "owner": {
+                    "login": "Tencent",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
+                },
+                "url": "https://github.com/Tencent/tdesign-vue-next"
+            }
+        },
+        {
             "number": 126,
             "title": "docs(ai-vue): add docs for ai-vue",
             "url": "https://github.com/TanStack/ai/pull/126",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/lishaobos/svg-preview-plugin"
             }
-        },
-        {
-            "number": 15,
-            "title": "fix:correct export types",
-            "url": "https://github.com/shunnNet/vue-markdown/pull/15",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 5,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-06-30T07:55:31Z",
-            "mergedAt": "2025-07-01T14:06:46Z",
-            "closedAt": "2025-07-01T14:06:46Z",
-            "repository": {
-                "name": "vue-markdown",
-                "nameWithOwner": "shunnNet/vue-markdown",
-                "homepageUrl": "https://www.npmjs.com/package/@crazydos/vue-markdown",
-                "description": "Vue component that render markdown using unified",
-                "owner": {
-                    "login": "shunnNet",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/50241376?u=d1435a08e3d354bc5b4f89335dcb801fb7ce0262&v=4"
-                },
-                "url": "https://github.com/shunnNet/vue-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 111,
+        "total": 113,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1698,7 +1698,7 @@
             },
             {
                 "date": "2025-12-12",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-13",

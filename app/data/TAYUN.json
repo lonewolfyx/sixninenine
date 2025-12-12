@@ -119,6 +119,30 @@
     },
     "pullRequest": [
         {
+            "number": 1397,
+            "title": "feat: 新增车牌键盘QWERTY布局，使其符合常见输入法布局习惯，同时兼容旧版紧凑布局。",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1397",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 158,
+            "deletions": 40,
+            "totalCommentsCount": 8,
+            "createdAt": "2025-12-12T07:30:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 84,
             "title": "docs[09-openapi-integration.md]:将配置文件中配置项plugin改成plugins",
             "url": "https://github.com/alovajs/alovajs.github.io/pull/84",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/vuejs/docs"
             }
-        },
-        {
-            "number": 1112,
-            "title": "docs(reactivity-watchers.md): remove ambiguous “versions before 3.5” statement from watcher onCleanup section",
-            "url": "https://github.com/vuejs-translations/docs-zh-cn/pull/1112",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-10-16T02:12:02Z",
-            "mergedAt": null,
-            "closedAt": "2025-10-16T02:30:19Z",
-            "repository": {
-                "name": "docs-zh-cn",
-                "nameWithOwner": "vuejs-translations/docs-zh-cn",
-                "homepageUrl": "https://cn.vuejs.org",
-                "description": "Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs",
-                "owner": {
-                    "login": "vuejs-translations",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/85575180?v=4"
-                },
-                "url": "https://github.com/vuejs-translations/docs-zh-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 476,
+        "total": 477,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1744,7 +1744,7 @@
             },
             {
                 "date": "2025-12-12",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-12-13",

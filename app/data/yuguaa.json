@@ -196,6 +196,30 @@
     },
     "pullRequest": [
         {
+            "number": 29,
+            "title": "Feat/sticky code header",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/29",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-12-13T15:14:48Z",
+            "mergedAt": "2025-12-13T15:15:17Z",
+            "closedAt": "2025-12-13T15:15:17Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 25,
             "title": "feat: 更新useMermaid钩子以支持加载状态和渲染队列",
             "url": "https://github.com/element-plus-x/x-markdown/pull/25",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 7,
-            "title": "fix:attrs",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/7",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 103,
-            "deletions": 122,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-12-03T03:21:37Z",
-            "mergedAt": "2025-12-03T03:21:49Z",
-            "closedAt": "2025-12-03T03:21:49Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 226,
+        "total": 229,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1825,7 +1825,7 @@
             },
             {
                 "date": "2025-12-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-14",

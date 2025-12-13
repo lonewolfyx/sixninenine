@@ -34,6 +34,7 @@ export const members: membersType[] = [
     { username: '984507092', aliasName: '鹤鸣' },
     { username: 'ixyzorg', aliasName: 'Mason' },
     { username: 'white-xiao-1995', aliasName: '白xiao' },
+    { username: 'QDyanbing', aliasName: '高艳兵' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
@@ -84,7 +85,7 @@ export const openSourceMembers: OpenSourceMembersType = {
         team: ['skyfeiz'],
     },
     'Ant Design': {
-        contributors: ['984507092'],
+        contributors: ['984507092','QDyanbing'],
     },
     'Ant Design Mobile': {
         contributors: ['984507092'],

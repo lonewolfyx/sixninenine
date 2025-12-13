@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "test(createContext): add unit tests for createContext composable",
+            "url": "https://github.com/lonewolfyx/shadcn-vue-hooks/pull/1",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 726,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-13T07:37:17Z",
+            "mergedAt": "2025-12-13T07:44:40Z",
+            "closedAt": "2025-12-13T07:44:40Z",
+            "repository": {
+                "name": "shadcn-vue-hooks",
+                "nameWithOwner": "lonewolfyx/shadcn-vue-hooks",
+                "homepageUrl": "https://shadcn-vue-hooks.vercel.app",
+                "description": "A Vue Hooks Collection built with Shadcn Vue",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-vue-hooks"
+            }
+        },
+        {
             "number": 195,
             "title": "fix(NavigationMenuViewport): optimize animation effects",
             "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt/pull/195",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/anyup/uView-Pro"
             }
-        },
-        {
-            "number": 5,
-            "title": "fix(virtual-blocks): handle window path loading",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/5",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-09T09:59:49Z",
-            "mergedAt": "2025-09-09T12:13:19Z",
-            "closedAt": "2025-09-09T12:13:19Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 186,
+        "total": 189,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1702,7 +1702,7 @@
             },
             {
                 "date": "2025-12-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-14",

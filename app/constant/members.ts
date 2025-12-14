@@ -85,7 +85,7 @@ export const openSourceMembers: OpenSourceMembersType = {
         team: ['skyfeiz'],
     },
     'Ant Design': {
-        contributors: ['984507092','QDyanbing'],
+        contributors: ['984507092', 'QDyanbing'],
     },
     'Ant Design Mobile': {
         contributors: ['984507092'],

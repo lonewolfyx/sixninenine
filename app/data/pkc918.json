@@ -345,6 +345,54 @@
     },
     "pullRequest": [
         {
+            "number": 6,
+            "title": "feat(summary): add summary field to PublishContent and implement summary input functionality",
+            "url": "https://github.com/unomcp/JueJin-MCP/pull/6",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 21,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-15T05:10:46Z",
+            "mergedAt": "2025-12-15T05:11:25Z",
+            "closedAt": "2025-12-15T05:11:25Z",
+            "repository": {
+                "name": "JueJin-MCP",
+                "nameWithOwner": "unomcp/JueJin-MCP",
+                "homepageUrl": null,
+                "description": "MCP for juejin.cn",
+                "owner": {
+                    "login": "unomcp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
+                },
+                "url": "https://github.com/unomcp/JueJin-MCP"
+            }
+        },
+        {
+            "number": 5,
+            "title": "feat(category): add category selection functionality to publish process ",
+            "url": "https://github.com/unomcp/JueJin-MCP/pull/5",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 51,
+            "deletions": 7,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-15T04:50:32Z",
+            "mergedAt": "2025-12-15T04:51:12Z",
+            "closedAt": "2025-12-15T04:51:12Z",
+            "repository": {
+                "name": "JueJin-MCP",
+                "nameWithOwner": "unomcp/JueJin-MCP",
+                "homepageUrl": null,
+                "description": "MCP for juejin.cn",
+                "owner": {
+                    "login": "unomcp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
+                },
+                "url": "https://github.com/unomcp/JueJin-MCP"
+            }
+        },
+        {
             "number": 4,
             "title": "chore: remove outdated project structure section from README",
             "url": "https://github.com/unomcp/JueJin-MCP/pull/4",
@@ -535,58 +583,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 4901,
-            "title": "docs(Elements): format the doc's Usage section",
-            "url": "https://github.com/vueuse/vueuse/pull/4901",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 69,
-            "deletions": 28,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-22T07:56:41Z",
-            "mergedAt": "2025-07-24T07:37:42Z",
-            "closedAt": "2025-07-24T07:37:42Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4900,
-            "title": "docs(useElementBounding,useElementSize): convert `<script>` to `<script setup lang=\"ts\">`",
-            "url": "https://github.com/vueuse/vueuse/pull/4900",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 26,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-22T02:04:54Z",
-            "mergedAt": "2025-07-28T04:31:59Z",
-            "closedAt": "2025-07-28T04:31:59Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 434,
+        "total": 439,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1982,7 +1982,7 @@
             },
             {
                 "date": "2025-12-15",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2025-12-16",

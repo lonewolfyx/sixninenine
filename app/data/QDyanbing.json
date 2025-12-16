@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 410958,
+            "size": 434710,
             "repoCount": 3,
-            "progress": "73.76"
+            "progress": "73.92"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "18.31"
+            "progress": "17.35"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 36806,
+            "size": 43926,
             "repoCount": 1,
-            "progress": "6.61"
+            "progress": "7.47"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 4278,
             "repoCount": 1,
-            "progress": "0.77"
+            "progress": "0.73"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.42"
+            "progress": "0.40"
         },
         {
             "name": "Shell",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 770,
+            "title": "fix: getFieldsValue should return list root value when Form.List isn't wrapped",
+            "url": "https://github.com/react-component/field-form/pull/770",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 46,
+            "deletions": 2,
+            "totalCommentsCount": 12,
+            "createdAt": "2025-12-16T10:25:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
         {
             "number": 56226,
             "title": "docs: change font-variant-numeric wording from mandatory to recommended",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 8,
-            "title": "test(resize): cover useResizable edge cases",
-            "url": "https://github.com/QDyanbing/vue-resize-container/pull/8",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 2393,
-            "deletions": 13,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-27T08:55:23Z",
-            "mergedAt": "2025-11-27T08:56:37Z",
-            "closedAt": "2025-11-27T08:56:37Z",
-            "repository": {
-                "name": "vue-resize-container",
-                "nameWithOwner": "QDyanbing/vue-resize-container",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/vue-resize-container"
-            }
         }
     ],
     "contributions": {
-        "total": 463,
+        "total": 484,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1700,7 +1700,7 @@
             },
             {
                 "date": "2025-12-16",
-                "count": 1
+                "count": 22
             },
             {
                 "date": "2025-12-17",

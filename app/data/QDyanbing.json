@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 3,
+        "followers": 4,
         "following": 3
     },
     "languages": [
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 772,
+            "title": "fix(form): prevent useWatch from triggering twice during Form.List up…",
+            "url": "https://github.com/react-component/field-form/pull/772",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 66,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2025-12-17T09:28:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
         {
             "number": 771,
             "title": "fix(Form): avoid merging sparse list patches into allValue",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1214,
-            "title": "Fix: check disallowed functions inside @return expressions (#1151)",
-            "url": "https://github.com/stylelint-scss/stylelint-scss/pull/1214",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 44,
-            "deletions": 8,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-08T07:46:13Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "stylelint-scss",
-                "nameWithOwner": "stylelint-scss/stylelint-scss",
-                "homepageUrl": "",
-                "description": "A collection of SCSS specific linting rules for Stylelint",
-                "owner": {
-                    "login": "stylelint-scss",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/92367438?v=4"
-                },
-                "url": "https://github.com/stylelint-scss/stylelint-scss"
-            }
         }
     ],
     "contributions": {
-        "total": 503,
+        "total": 505,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1704,7 +1704,7 @@
             },
             {
                 "date": "2025-12-17",
-                "count": 19
+                "count": 21
             },
             {
                 "date": "2025-12-18",

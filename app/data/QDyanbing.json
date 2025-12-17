@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 771,
+            "title": "fix(Form): avoid merging sparse list patches into allValue",
+            "url": "https://github.com/react-component/field-form/pull/771",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 36,
+            "deletions": 4,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-12-17T02:08:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
+        {
             "number": 770,
             "title": "fix: getFieldsValue should return list root value when Form.List isn't wrapped",
             "url": "https://github.com/react-component/field-form/pull/770",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/stylelint-scss/stylelint-scss"
             }
-        },
-        {
-            "number": 17,
-            "title": "chore: add member QDyanbing(高艳兵) and update contributor list",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/17",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-08T06:34:21Z",
-            "mergedAt": "2025-12-08T09:18:10Z",
-            "closedAt": "2025-12-08T09:18:10Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 484,
+        "total": 485,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1704,7 +1704,7 @@
             },
             {
                 "date": "2025-12-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-18",

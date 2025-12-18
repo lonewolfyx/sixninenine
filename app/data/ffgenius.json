@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 1076,
+            "title": "fix(object-curly-spacing): keep spaces between object and block comments",
+            "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1076",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 9,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-18T12:24:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-stylistic",
+                "nameWithOwner": "eslint-stylistic/eslint-stylistic",
+                "homepageUrl": "https://eslint.style",
+                "description": "Monorepo for ESLint Stylistic plugins and configs",
+                "owner": {
+                    "login": "eslint-stylistic",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/144717797?v=4"
+                },
+                "url": "https://github.com/eslint-stylistic/eslint-stylistic"
+            }
+        },
+        {
             "number": 1,
             "title": "test(createContext): add unit tests for createContext composable",
             "url": "https://github.com/lonewolfyx/shadcn-vue-hooks/pull/1",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 17,
-            "title": "fix(td/th): fix invalid width setting",
-            "url": "https://github.com/anyup/uView-Pro/pull/17",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 7,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-09T15:23:02Z",
-            "mergedAt": "2025-09-10T03:01:49Z",
-            "closedAt": "2025-09-10T03:01:49Z",
-            "repository": {
-                "name": "uView-Pro",
-                "nameWithOwner": "anyup/uView-Pro",
-                "homepageUrl": "https://uviewpro.cn",
-                "description": "uView Pro，是全面支持Vue3.0、TypeScript的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。 uView Pro 的基线版本基于 uView 1.8.8 修改，使用 TypeScript 重构，目前已全面支持 uni-app Vue3.0",
-                "owner": {
-                    "login": "anyup",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/85225562?u=cad74fb4a5398e4f256c4ab1a22e46f0e11d0ab8&v=4"
-                },
-                "url": "https://github.com/anyup/uView-Pro"
-            }
         }
     ],
     "contributions": {
-        "total": 188,
+        "total": 190,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1722,7 +1722,7 @@
             },
             {
                 "date": "2025-12-18",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-19",

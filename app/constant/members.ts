@@ -35,6 +35,7 @@ export const members: membersType[] = [
     { username: 'ixyzorg', aliasName: 'Mason' },
     { username: 'white-xiao-1995', aliasName: '白xiao' },
     { username: 'QDyanbing', aliasName: '高艳兵' },
+    { username: 'coderwhytop', aliasName: 'coderwhytop' },
     { username: 'yinjiajun223', aliasName: '影' },
 ]
 

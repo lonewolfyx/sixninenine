@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 8934,
+            "title": "Fix `no-duplicate-selectors` false negatives for equivalent compound selectors",
+            "url": "https://github.com/stylelint/stylelint/pull/8934",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 122,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-19T03:21:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8827,
             "title": "`highlight-non-default-base-branch` - Limit branch name length",
             "url": "https://github.com/refined-github/refined-github/pull/8827",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 8907,
-            "title": "Fix `no-invalid-position-declaration` false negatives for embedded blocks",
-            "url": "https://github.com/stylelint/stylelint/pull/8907",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 91,
-            "deletions": 7,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-12-08T03:27:39Z",
-            "mergedAt": "2025-12-09T10:29:42Z",
-            "closedAt": "2025-12-09T10:29:42Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 784,
+        "total": 785,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2212,7 +2212,7 @@
             },
             {
                 "date": "2025-12-19",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-20",

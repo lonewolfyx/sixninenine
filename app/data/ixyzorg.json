@@ -9,24 +9,77 @@
         "followers": 1,
         "following": 1
     },
-    "languages": [],
+    "languages": [
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 2520,
+            "repoCount": 1,
+            "progress": "83.47"
+        },
+        {
+            "name": "HTML",
+            "color": "#e34c26",
+            "size": 329,
+            "repoCount": 1,
+            "progress": "10.90"
+        },
+        {
+            "name": "Vue",
+            "color": "#41b883",
+            "size": 105,
+            "repoCount": 1,
+            "progress": "3.48"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 65,
+            "repoCount": 1,
+            "progress": "2.15"
+        }
+    ],
     "organizations": {
         "nodes": [],
         "totalCount": 0
     },
     "pullRequest": [
         {
+            "number": 23172,
+            "title": "fix(components): [input] correct event type for v-model.number",
+            "url": "https://github.com/element-plus/element-plus/pull/23172",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 34,
+            "deletions": 31,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-20T08:08:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23143,
             "title": "fix(components): [input] correct event type for v-model.number",
             "url": "https://github.com/element-plus/element-plus/pull/23143",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 10,
             "additions": 32,
             "deletions": 29,
             "totalCommentsCount": 10,
             "createdAt": "2025-12-17T16:43:55Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2025-12-20T07:24:33Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -113,7 +166,7 @@
         }
     ],
     "contributions": {
-        "total": 10,
+        "total": 15,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1529,7 +1582,7 @@
             },
             {
                 "date": "2025-12-20",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2025-12-21",

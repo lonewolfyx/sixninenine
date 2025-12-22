@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56319,
+            "title": "chore: bump @rc-component/form to ~1.6.0",
+            "url": "https://github.com/ant-design/ant-design/pull/56319",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2025-12-22T15:39:48Z",
+            "mergedAt": "2025-12-22T17:14:01Z",
+            "closedAt": "2025-12-22T17:14:01Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 714,
             "title": "fix: avoid array length truncation in mergeWith and add sparse merge test",
             "url": "https://github.com/react-component/util/pull/714",
@@ -134,14 +158,14 @@
             "number": 772,
             "title": "fix(form): prevent useWatch from triggering twice during Form.List up…",
             "url": "https://github.com/react-component/field-form/pull/772",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 17,
             "additions": 274,
-            "deletions": 211,
+            "deletions": 212,
             "totalCommentsCount": 11,
             "createdAt": "2025-12-17T09:28:38Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-22T14:41:03Z",
+            "closedAt": "2025-12-22T14:41:03Z",
             "repository": {
                 "name": "field-form",
                 "nameWithOwner": "react-component/field-form",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 56194,
-            "title": "fix(upload): align progress bar using item gap instead of text line height",
-            "url": "https://github.com/ant-design/ant-design/pull/56194",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 3,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-12-12T08:02:16Z",
-            "mergedAt": "2025-12-15T14:51:57Z",
-            "closedAt": "2025-12-15T14:51:57Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 618,
+        "total": 621,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1724,11 +1724,11 @@
             },
             {
                 "date": "2025-12-22",
-                "count": 24
+                "count": 26
             },
             {
                 "date": "2025-12-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-24",

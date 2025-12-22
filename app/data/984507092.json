@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 23180,
+            "title": "fix(components): update backtop target prop type and documentation",
+            "url": "https://github.com/element-plus/element-plus/pull/23180",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 8,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-22T06:40:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 1,
             "title": "chore: bump version to 1.2.0 and add itemClass/itemStyle props",
             "url": "https://github.com/984507092/vue-auto-scroll/pull/1",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 55033,
-            "title": "feat(card): Support better customization with semantic classNames/st…",
-            "url": "https://github.com/ant-design/ant-design/pull/55033",
-            "state": "CLOSED",
-            "changedFiles": 7,
-            "additions": 239,
-            "deletions": 52,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-09-16T03:20:10Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-16T03:44:06Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 92,
+        "total": 93,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -384,19 +384,19 @@
             },
             {
                 "date": "2025-01-21",
-                "count": 4
+                "count": 3
             },
             {
                 "date": "2025-01-22",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2025-01-23",
-                "count": 7
+                "count": 6
             },
             {
                 "date": "2025-01-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-01-25",
@@ -1024,11 +1024,11 @@
             },
             {
                 "date": "2025-06-30",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2025-07-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-07-02",
@@ -1664,15 +1664,15 @@
             },
             {
                 "date": "2025-12-07",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2025-12-08",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2025-12-09",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2025-12-10",
@@ -1724,7 +1724,7 @@
             },
             {
                 "date": "2025-12-22",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-23",

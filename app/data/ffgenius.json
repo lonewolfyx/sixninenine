@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 1086,
+            "title": "refactor(types): improve JSDoc comments and TypeScript typings",
+            "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1086",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 9,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-22T02:04:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-stylistic",
+                "nameWithOwner": "eslint-stylistic/eslint-stylistic",
+                "homepageUrl": "https://eslint.style",
+                "description": "Monorepo for ESLint Stylistic plugins and configs",
+                "owner": {
+                    "login": "eslint-stylistic",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/144717797?v=4"
+                },
+                "url": "https://github.com/eslint-stylistic/eslint-stylistic"
+            }
+        },
+        {
             "number": 1076,
             "title": "fix(object-curly-spacing): allow space before comment in multi-line objects",
             "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1076",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix(homepages): fix the horizontal scrollbar on the homepages",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/11",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-12T15:48:41Z",
-            "mergedAt": "2025-09-13T08:19:33Z",
-            "closedAt": "2025-09-13T08:19:33Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 191,
+        "total": 192,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1722,7 +1722,7 @@
             },
             {
                 "date": "2025-12-18",
-                "count": 2
+                "count": 1
             },
             {
                 "date": "2025-12-19",
@@ -1738,7 +1738,7 @@
             },
             {
                 "date": "2025-12-22",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-23",

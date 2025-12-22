@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 18512,
+            "title": "[WIP] Prettier Prettier Playground",
+            "url": "https://github.com/prettier/prettier/pull/18512",
+            "state": "OPEN",
+            "changedFiles": 53,
+            "additions": 3489,
+            "deletions": 2241,
+            "totalCommentsCount": 6,
+            "createdAt": "2025-12-22T01:50:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 8934,
             "title": "Fix `no-duplicate-selectors` false negatives for equivalent compound selectors",
             "url": "https://github.com/stylelint/stylelint/pull/8934",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/refined-github/refined-github"
             }
-        },
-        {
-            "number": 8908,
-            "title": "Fix CLI help and document TypeScript config file",
-            "url": "https://github.com/stylelint/stylelint/pull/8908",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 21,
-            "deletions": 4,
-            "totalCommentsCount": 11,
-            "createdAt": "2025-12-09T02:01:45Z",
-            "mergedAt": "2025-12-12T09:50:27Z",
-            "closedAt": "2025-12-12T09:50:27Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 785,
+        "total": 786,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2224,7 +2224,7 @@
             },
             {
                 "date": "2025-12-22",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-23",

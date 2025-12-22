@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 5,
+        "followers": 6,
         "following": 3
     },
     "languages": [
@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 714,
+            "title": "fix: avoid array length truncation in mergeWith and add sparse merge test",
+            "url": "https://github.com/react-component/util/pull/714",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2025-12-22T08:47:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "util.vercel.app",
+                "description": "Common Utils For React Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 56297,
             "title": "docs(Button): hide deprecated groupBorderColor from token table",
             "url": "https://github.com/ant-design/ant-design/pull/56297",
@@ -87,10 +111,10 @@
             "title": "fix(Button): text variant tokens not working",
             "url": "https://github.com/ant-design/ant-design/pull/56291",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 23,
+            "changedFiles": 4,
+            "additions": 47,
             "deletions": 0,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 13,
             "createdAt": "2025-12-20T03:10:03Z",
             "mergedAt": null,
             "closedAt": null,
@@ -135,10 +159,10 @@
             "title": "fix(Form): avoid merging sparse list patches into allValue",
             "url": "https://github.com/react-component/field-form/pull/771",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 4,
-            "totalCommentsCount": 4,
+            "changedFiles": 1,
+            "additions": 32,
+            "deletions": 0,
+            "totalCommentsCount": 5,
             "createdAt": "2025-12-17T02:08:42Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56179,
-            "title": "fix(splitter): resolve incorrect collapse behavior in RTL vertical mode",
-            "url": "https://github.com/ant-design/ant-design/pull/56179",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 10,
-            "deletions": 45,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-11T09:57:57Z",
-            "mergedAt": "2025-12-12T02:44:03Z",
-            "closedAt": "2025-12-12T02:44:03Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 616,
+        "total": 618,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1724,7 +1724,7 @@
             },
             {
                 "date": "2025-12-22",
-                "count": 22
+                "count": 24
             },
             {
                 "date": "2025-12-23",

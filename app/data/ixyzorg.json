@@ -45,17 +45,41 @@
     },
     "pullRequest": [
         {
-            "number": 115,
-            "title": "fix(components): [CodeBlock] Single-line code that is too long can cause UI issues",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/115",
+            "number": 23194,
+            "title": "fix(docs): [input] incorrect input and change event type",
+            "url": "https://github.com/element-plus/element-plus/pull/23194",
             "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-23T14:41:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 115,
+            "title": "fix(code-block): show scrollbar for long lines",
+            "url": "https://github.com/vuepont/ai-elements-vue/pull/115",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 2,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2025-12-20T13:08:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-23T14:50:31Z",
+            "closedAt": "2025-12-23T14:50:31Z",
             "repository": {
                 "name": "ai-elements-vue",
                 "nameWithOwner": "vuepont/ai-elements-vue",
@@ -190,7 +214,7 @@
         }
     ],
     "contributions": {
-        "total": 17,
+        "total": 19,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1618,7 +1642,7 @@
             },
             {
                 "date": "2025-12-23",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-24",

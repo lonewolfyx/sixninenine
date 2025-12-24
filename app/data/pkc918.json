@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 15,
+            "title": "ci: add build scripts and build artifacts",
+            "url": "https://github.com/unomcp/JueJin-MCP/pull/15",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 244,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-24T11:21:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "JueJin-MCP",
+                "nameWithOwner": "unomcp/JueJin-MCP",
+                "homepageUrl": "",
+                "description": "MCP for juejin.cn ",
+                "owner": {
+                    "login": "unomcp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
+                },
+                "url": "https://github.com/unomcp/JueJin-MCP"
+            }
+        },
+        {
             "number": 14,
             "title": "ci: add GitHub Actions workflow for release",
             "url": "https://github.com/unomcp/JueJin-MCP/pull/14",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/unomcp/JueJin-MCP"
             }
-        },
-        {
-            "number": 5,
-            "title": "feat(category): add category selection functionality to publish process ",
-            "url": "https://github.com/unomcp/JueJin-MCP/pull/5",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 51,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-15T04:50:32Z",
-            "mergedAt": "2025-12-15T04:51:12Z",
-            "closedAt": "2025-12-15T04:51:12Z",
-            "repository": {
-                "name": "JueJin-MCP",
-                "nameWithOwner": "unomcp/JueJin-MCP",
-                "homepageUrl": "",
-                "description": "MCP for juejin.cn ",
-                "owner": {
-                    "login": "unomcp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
-                },
-                "url": "https://github.com/unomcp/JueJin-MCP"
-            }
         }
     ],
     "contributions": {
-        "total": 459,
+        "total": 460,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2018,7 +2018,7 @@
             },
             {
                 "date": "2025-12-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-25",

@@ -196,6 +196,30 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "feat: 添加对GFM的支持，更新相关文档和类型定义",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/31",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 24,
+            "deletions": 9,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-12-24T09:30:33Z",
+            "mergedAt": "2025-12-24T09:30:48Z",
+            "closedAt": "2025-12-24T09:30:48Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 29,
             "title": "Feat/sticky code header",
             "url": "https://github.com/element-plus-x/x-markdown/pull/29",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix: shiki",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/11",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-03T09:31:11Z",
-            "mergedAt": "2025-12-03T09:32:41Z",
-            "closedAt": "2025-12-03T09:32:41Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 231,
+        "total": 233,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1869,7 +1869,7 @@
             },
             {
                 "date": "2025-12-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-25",

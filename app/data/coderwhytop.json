@@ -52,6 +52,30 @@
     },
     "pullRequest": [
         {
+            "number": 3324,
+            "title": "docs: fix type description in composition-api.md",
+            "url": "https://github.com/vuejs/docs/pull/3324",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-24T04:08:40Z",
+            "mergedAt": null,
+            "closedAt": "2025-12-24T06:14:51Z",
+            "repository": {
+                "name": "docs",
+                "nameWithOwner": "vuejs/docs",
+                "homepageUrl": "https://vuejs.org",
+                "description": "📄 Documentation for Vue 3",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/docs"
+            }
+        },
+        {
             "number": 5,
             "title": "Master",
             "url": "https://github.com/baizeteam/baize-pre/pull/5",
@@ -266,34 +290,10 @@
                 },
                 "url": "https://github.com/baizeteam/baize-quick-study"
             }
-        },
-        {
-            "number": 3,
-            "title": "精简vue的todo",
-            "url": "https://github.com/baizeteam/baize-quick-study/pull/3",
-            "state": "MERGED",
-            "changedFiles": 39,
-            "additions": 210,
-            "deletions": 564,
-            "totalCommentsCount": 0,
-            "createdAt": "2024-05-14T06:49:49Z",
-            "mergedAt": "2024-05-15T01:13:55Z",
-            "closedAt": "2024-05-15T01:13:55Z",
-            "repository": {
-                "name": "baize-quick-study",
-                "nameWithOwner": "baizeteam/baize-quick-study",
-                "homepageUrl": "https://baize-quick-study.pages.dev/main",
-                "description": "快速入门React or Vue",
-                "owner": {
-                    "login": "baizeteam",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/167493314?v=4"
-                },
-                "url": "https://github.com/baizeteam/baize-quick-study"
-            }
         }
     ],
     "contributions": {
-        "total": 157,
+        "total": 158,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -305,7 +305,7 @@
             },
             {
                 "date": "2025-01-03",
-                "count": 4
+                "count": 3
             },
             {
                 "date": "2025-01-04",
@@ -1725,7 +1725,7 @@
             },
             {
                 "date": "2025-12-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-25",

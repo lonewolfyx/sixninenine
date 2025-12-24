@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 56340,
+            "title": "fix: fix cursor style when Select has showSearch and disabled props",
+            "url": "https://github.com/ant-design/ant-design/pull/56340",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2025-12-24T00:42:48Z",
+            "mergedAt": "2025-12-24T02:14:19Z",
+            "closedAt": "2025-12-24T02:14:19Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56326,
             "title": "style: adjust Tag default background contrast",
             "url": "https://github.com/ant-design/ant-design/pull/56326",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 12,
+            "totalCommentsCount": 13,
             "createdAt": "2025-12-23T04:14:03Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-24T02:11:56Z",
+            "closedAt": "2025-12-24T02:11:56Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -234,7 +258,7 @@
             "changedFiles": 2,
             "additions": 45,
             "deletions": 2,
-            "totalCommentsCount": 16,
+            "totalCommentsCount": 15,
             "createdAt": "2025-12-16T10:25:01Z",
             "mergedAt": null,
             "closedAt": "2025-12-18T16:45:57Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56203,
-            "title": "site: fix holderRender demo not working in production build",
-            "url": "https://github.com/ant-design/ant-design/pull/56203",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-12-13T13:47:04Z",
-            "mergedAt": "2025-12-13T15:18:41Z",
-            "closedAt": "2025-12-13T15:18:41Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 642,
+        "total": 645,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1732,7 +1732,7 @@
             },
             {
                 "date": "2025-12-24",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-25",

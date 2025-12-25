@@ -119,6 +119,30 @@
     },
     "pullRequest": [
         {
+            "number": 1412,
+            "title": "fix(wd col picker): 修复列选择器自动补全和数据同步问题",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1412",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 118,
+            "deletions": 32,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-12-25T13:30:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 1397,
             "title": "feat: 新增车牌键盘QWERTY布局，使其符合常见输入法布局习惯，同时兼容旧版紧凑布局。",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1397",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/alovajs/alovajs.github.io"
             }
-        },
-        {
-            "number": 3302,
-            "title": "docs(reactivity-watchers.md): remove ambiguous “versions before 3.5” statement from watcher onCleanup section",
-            "url": "https://github.com/vuejs/docs/pull/3302",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-16T02:17:55Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "docs",
-                "nameWithOwner": "vuejs/docs",
-                "homepageUrl": "https://vuejs.org",
-                "description": "📄 Documentation for Vue 3",
-                "owner": {
-                    "login": "vuejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
-                },
-                "url": "https://github.com/vuejs/docs"
-            }
         }
     ],
     "contributions": {
-        "total": 369,
+        "total": 370,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1796,7 +1796,7 @@
             },
             {
                 "date": "2025-12-25",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-26",

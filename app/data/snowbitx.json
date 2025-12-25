@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 14247,
+            "title": "refactor(runtime-core): unify lifecycle hook triggering via enum",
+            "url": "https://github.com/vuejs/core/pull/14247",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 24,
+            "deletions": 35,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-25T16:31:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "core",
+                "nameWithOwner": "vuejs/core",
+                "homepageUrl": "https://vuejs.org/",
+                "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/core"
+            }
+        },
+        {
             "number": 5221,
             "title": "feat(useThrottleFn): expose cancel method",
             "url": "https://github.com/vueuse/vueuse/pull/5221",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 22866,
-            "title": "feat(components): [select]: support v-model:selected to get option",
-            "url": "https://github.com/element-plus/element-plus/pull/22866",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 19,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-11-19T14:44:32Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 131,
+        "total": 134,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1693,11 +1693,11 @@
             },
             {
                 "date": "2025-12-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-26",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-27",

@@ -559,13 +559,37 @@
     },
     "pullRequest": [
         {
+            "number": 18528,
+            "title": "Remove extra empty line before closing brace with inline comment",
+            "url": "https://github.com/prettier/prettier/pull/18528",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 27,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2025-12-25T09:44:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18524,
             "title": "Upgrade codemirror6",
             "url": "https://github.com/prettier/prettier/pull/18524",
             "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 679,
-            "deletions": 446,
+            "changedFiles": 9,
+            "additions": 727,
+            "deletions": 447,
             "totalCommentsCount": 2,
             "createdAt": "2025-12-24T03:39:20Z",
             "mergedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 8910,
-            "title": "Add `except: [\"after-block\"]` to `declaration-empty-line-before`",
-            "url": "https://github.com/stylelint/stylelint/pull/8910",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 199,
-            "deletions": 1,
-            "totalCommentsCount": 28,
-            "createdAt": "2025-12-10T03:48:36Z",
-            "mergedAt": "2025-12-14T14:07:26Z",
-            "closedAt": "2025-12-14T14:07:26Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 787,
+        "total": 789,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2236,7 +2236,7 @@
             },
             {
                 "date": "2025-12-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-26",

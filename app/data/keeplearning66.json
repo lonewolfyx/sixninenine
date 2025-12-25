@@ -38,17 +38,41 @@
     },
     "pullRequest": [
         {
+            "number": 23211,
+            "title": "feat(components): [avatar-group] new component",
+            "url": "https://github.com/element-plus/element-plus/pull/23211",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 355,
+            "deletions": 15,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-12-25T08:34:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23193,
             "title": "feat(components): [message-box] add `confirmButtonType` and `cancelButtonType` props",
             "url": "https://github.com/element-plus/element-plus/pull/23193",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 41,
             "deletions": 1,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2025-12-23T12:48:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-25T12:22:32Z",
+            "closedAt": "2025-12-25T12:22:32Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -161,14 +185,14 @@
             "number": 23045,
             "title": "feat(components): [calendar] add `controller-type` and `formatter` props",
             "url": "https://github.com/element-plus/element-plus/pull/23045",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 11,
             "additions": 288,
             "deletions": 5,
-            "totalCommentsCount": 24,
+            "totalCommentsCount": 25,
             "createdAt": "2025-12-09T03:08:13Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-25T10:04:10Z",
+            "closedAt": "2025-12-25T10:04:10Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 22971,
-            "title": "docs(components): remove vueuse to avoid errors in the playground",
-            "url": "https://github.com/element-plus/element-plus/pull/22971",
-            "state": "CLOSED",
-            "changedFiles": 6,
-            "additions": 99,
-            "deletions": 21,
-            "totalCommentsCount": 13,
-            "createdAt": "2025-12-01T04:47:08Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-08T06:13:49Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 208,
+        "total": 212,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1715,7 +1715,7 @@
             },
             {
                 "date": "2025-12-25",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2025-12-26",

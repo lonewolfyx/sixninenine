@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 116,
+            "title": "feat: 新增消耗活动进度监控组件",
+            "url": "https://github.com/w1249178256/xyzw_web_helper/pull/116",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 1373,
+            "deletions": 877,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-26T09:19:35Z",
+            "mergedAt": "2025-12-26T09:21:18Z",
+            "closedAt": "2025-12-26T09:21:18Z",
+            "repository": {
+                "name": "xyzw_web_helper",
+                "nameWithOwner": "w1249178256/xyzw_web_helper",
+                "homepageUrl": "https://jolly-field-054c3af00.1.azurestaticapps.net",
+                "description": "咸鱼之王web端",
+                "owner": {
+                    "login": "w1249178256",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/51258516?v=4"
+                },
+                "url": "https://github.com/w1249178256/xyzw_web_helper"
+            }
+        },
+        {
             "number": 74,
             "title": "fix(battleVersion): 战斗版本号从服务器获取，不用每次手动修改代码",
             "url": "https://github.com/w1249178256/xyzw_web_helper/pull/74",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/uni-helper/uni-use"
             }
-        },
-        {
-            "number": 55,
-            "title": "feat(useQuery): add useQuery",
-            "url": "https://github.com/uni-helper/uni-use/pull/55",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 489,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-09-16T07:03:36Z",
-            "mergedAt": "2025-09-16T13:08:40Z",
-            "closedAt": "2025-09-16T13:08:40Z",
-            "repository": {
-                "name": "uni-use",
-                "nameWithOwner": "uni-helper/uni-use",
-                "homepageUrl": "https://uni-helper.js.org/uni-use/",
-                "description": "uni-app (vue3) 组合式工具集",
-                "owner": {
-                    "login": "uni-helper",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
-                },
-                "url": "https://github.com/uni-helper/uni-use"
-            }
         }
     ],
     "contributions": {
-        "total": 88,
+        "total": 90,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1697,7 +1697,7 @@
             },
             {
                 "date": "2025-12-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-27",

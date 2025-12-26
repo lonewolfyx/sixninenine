@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 519958,
+            "size": 524897,
             "repoCount": 3,
-            "progress": "75.93"
+            "progress": "76.10"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "14.90"
+            "progress": "14.79"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "8.09"
+            "progress": "8.04"
         },
         {
             "name": "HTML",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56376,
+            "title": "feat: support partial locale overrides for calendar and date picker",
+            "url": "https://github.com/ant-design/ant-design/pull/56376",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 45,
+            "deletions": 19,
+            "totalCommentsCount": 12,
+            "createdAt": "2025-12-26T09:19:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 56340,
             "title": "fix: fix cursor style when Select has showSearch and disabled props",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/field-form"
             }
-        },
-        {
-            "number": 56226,
-            "title": "docs: change font-variant-numeric wording from mandatory to recommended",
-            "url": "https://github.com/ant-design/ant-design/pull/56226",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-15T09:28:40Z",
-            "mergedAt": "2025-12-15T10:28:36Z",
-            "closedAt": "2025-12-15T10:28:36Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 686,
+        "total": 706,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1740,7 +1740,7 @@
             },
             {
                 "date": "2025-12-26",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2025-12-27",

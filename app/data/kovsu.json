@@ -2,7 +2,7 @@
     "userInfo": {
         "login": "kovsu",
         "name": "Konv Suu",
-        "bio": "",
+        "bio": "Kwon Su",
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
         "pronouns": "",
@@ -422,7 +422,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "",
+                            "bio": "Kwon Su",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -460,7 +460,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "",
+                            "bio": "Kwon Su",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -498,7 +498,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "",
+                            "bio": "Kwon Su",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -536,7 +536,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "",
+                            "bio": "Kwon Su",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=261e83daac91c62fcf398b597778e8dca45f981b&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -559,17 +559,41 @@
     },
     "pullRequest": [
         {
-            "number": 18530,
-            "title": "Prevent math expressions in group treated as map item",
-            "url": "https://github.com/prettier/prettier/pull/18530",
+            "number": 376,
+            "title": "Add `prefer-const` rule",
+            "url": "https://github.com/stylelint/eslint-config-stylelint/pull/376",
             "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-26T07:10:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-config-stylelint",
+                "nameWithOwner": "stylelint/eslint-config-stylelint",
+                "homepageUrl": "",
+                "description": "Stylelint org's shareable config for eslint",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/eslint-config-stylelint"
+            }
+        },
+        {
+            "number": 18530,
+            "title": "Prevent SCSS math expressions in group treated as map item",
+            "url": "https://github.com/prettier/prettier/pull/18530",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 132,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2025-12-26T03:04:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-26T08:24:35Z",
+            "closedAt": "2025-12-26T08:24:35Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 18471,
-            "title": "Prevent trailing comma for scss if-function syntax",
-            "url": "https://github.com/prettier/prettier/pull/18471",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 58,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-11T07:01:39Z",
-            "mergedAt": "2025-12-16T00:37:18Z",
-            "closedAt": "2025-12-16T00:37:18Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 791,
+        "total": 793,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2240,7 +2240,7 @@
             },
             {
                 "date": "2025-12-26",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2025-12-27",

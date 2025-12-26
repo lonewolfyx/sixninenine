@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 18530,
+            "title": "Prevent math expressions in group treated as map item",
+            "url": "https://github.com/prettier/prettier/pull/18530",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 132,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-26T03:04:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18528,
             "title": "Remove extra empty line before closing brace with inline comment",
             "url": "https://github.com/prettier/prettier/pull/18528",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18460,
-            "title": "Preserve spaces around placeholders for template literals",
-            "url": "https://github.com/prettier/prettier/pull/18460",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 76,
-            "deletions": 10,
-            "totalCommentsCount": 15,
-            "createdAt": "2025-12-10T09:18:44Z",
-            "mergedAt": "2025-12-16T01:31:32Z",
-            "closedAt": "2025-12-16T01:31:32Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 789,
+        "total": 791,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2240,7 +2240,7 @@
             },
             {
                 "date": "2025-12-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-27",

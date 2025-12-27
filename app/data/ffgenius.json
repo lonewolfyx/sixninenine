@@ -15,28 +15,28 @@
             "color": "#e34c26",
             "size": 4348135,
             "repoCount": 10,
-            "progress": "78.91"
+            "progress": "78.86"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 432541,
             "repoCount": 8,
-            "progress": "7.85"
+            "progress": "7.84"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 380717,
             "repoCount": 7,
-            "progress": "6.91"
+            "progress": "6.90"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 155715,
+            "size": 158936,
             "repoCount": 6,
-            "progress": "2.83"
+            "progress": "2.88"
         },
         {
             "name": "Markdown",
@@ -72,6 +72,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1087,
+            "title": "feat(padding-line-between-statements): allow esquery-based statement types",
+            "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1087",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 4045,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-27T09:41:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-stylistic",
+                "nameWithOwner": "eslint-stylistic/eslint-stylistic",
+                "homepageUrl": "https://eslint.style",
+                "description": "Monorepo for ESLint Stylistic plugins and configs",
+                "owner": {
+                    "login": "eslint-stylistic",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/144717797?v=4"
+                },
+                "url": "https://github.com/eslint-stylistic/eslint-stylistic"
+            }
+        },
         {
             "number": 1086,
             "title": "refactor(utils): simplify type guards, cleanup typings & docs",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/xiaoluoboding/vue-sonner"
             }
-        },
-        {
-            "number": 12,
-            "title": "chore(eslint): add unused-imports rule and fix lint errors",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/12",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 21,
-            "deletions": 11,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-12T16:31:16Z",
-            "mergedAt": "2025-09-13T08:40:27Z",
-            "closedAt": "2025-09-13T08:40:27Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 201,
+        "total": 203,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1758,7 +1758,7 @@
             },
             {
                 "date": "2025-12-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-28",

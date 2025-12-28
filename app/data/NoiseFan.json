@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "docs(readme): update `best practices` and `extensions`",
+            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 29,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-28T17:34:07Z",
+            "mergedAt": "2025-12-28T17:34:46Z",
+            "closedAt": "2025-12-28T17:34:46Z",
+            "repository": {
+                "name": "pnpm-category-catalog",
+                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
+                "homepageUrl": "",
+                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
+            }
+        },
+        {
             "number": 883,
             "title": "docs(cn): release merge into dev",
             "url": "https://github.com/vitest-dev/docs-cn/pull/883",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 844,
-            "title": "docs(timer): update /mocking/timer comment",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/844",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-12T14:25:02Z",
-            "mergedAt": "2025-12-12T14:40:24Z",
-            "closedAt": "2025-12-12T14:40:24Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 650,
+        "total": 653,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1724,7 +1724,7 @@
             },
             {
                 "date": "2025-12-29",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-30",

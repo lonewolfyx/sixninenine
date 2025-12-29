@@ -119,6 +119,30 @@
     },
     "pullRequest": [
         {
+            "number": 1419,
+            "title": "feat(waterfall): 新增瀑布流 wd-waterfall 和 wd-waterfall-item 组件",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1419",
+            "state": "OPEN",
+            "changedFiles": 28,
+            "additions": 4203,
+            "deletions": 0,
+            "totalCommentsCount": 12,
+            "createdAt": "2025-12-29T16:21:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "wot-design-uni",
+                "nameWithOwner": "Moonofweisheng/wot-design-uni",
+                "homepageUrl": "https://wot-ui.cn",
+                "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+                "owner": {
+                    "login": "Moonofweisheng",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?u=3666c35f83f1751a0ee685af0ed4aa0385e4bb70&v=4"
+                },
+                "url": "https://github.com/Moonofweisheng/wot-design-uni"
+            }
+        },
+        {
             "number": 1412,
             "title": "fix(wd col picker): 修复列选择器自动补全和数据同步问题",
             "url": "https://github.com/Moonofweisheng/wot-design-uni/pull/1412",
@@ -333,34 +357,10 @@
                 },
                 "url": "https://github.com/alovajs/alovajs.github.io"
             }
-        },
-        {
-            "number": 77,
-            "title": "docs[09-openapi-integration.md]: Fix missing comma in OpenAPI generator configuration example",
-            "url": "https://github.com/alovajs/alovajs.github.io/pull/77",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-14T09:23:25Z",
-            "mergedAt": "2025-11-26T01:37:55Z",
-            "closedAt": "2025-11-26T01:37:55Z",
-            "repository": {
-                "name": "alovajs.github.io",
-                "nameWithOwner": "alovajs/alovajs.github.io",
-                "homepageUrl": "http://alova.js.org/",
-                "description": "The official website of alova",
-                "owner": {
-                    "login": "alovajs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
-                },
-                "url": "https://github.com/alovajs/alovajs.github.io"
-            }
         }
     ],
     "contributions": {
-        "total": 383,
+        "total": 384,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1816,7 +1816,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-31",

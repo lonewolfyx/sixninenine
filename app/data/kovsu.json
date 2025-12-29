@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 8948,
+            "title": "Refactor file path normalization in standalone function for improved readability",
+            "url": "https://github.com/stylelint/stylelint/pull/8948",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-29T08:27:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 18535,
             "title": "Preserve line breaks for inline comments in SCSS maps",
             "url": "https://github.com/prettier/prettier/pull/18535",
@@ -566,7 +590,7 @@
             "changedFiles": 4,
             "additions": 100,
             "deletions": 39,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2025-12-29T02:37:57Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 8922,
-            "title": "Prevent scheduled workflow from running in forks",
-            "url": "https://github.com/stylelint/stylelint/pull/8922",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-15T01:53:14Z",
-            "mergedAt": "2025-12-15T11:23:49Z",
-            "closedAt": "2025-12-15T11:23:49Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 794,
+        "total": 795,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2252,7 +2252,7 @@
             },
             {
                 "date": "2025-12-29",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2025-12-30",

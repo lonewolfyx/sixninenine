@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 773,
+            "title": "fix(Form.List): do not skip list root when no child field entities exist",
+            "url": "https://github.com/react-component/field-form/pull/773",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 47,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2025-12-29T10:48:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
+        {
             "number": 56376,
             "title": "feat: support partial locale overrides for calendar and date picker",
             "url": "https://github.com/ant-design/ant-design/pull/56376",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/field-form"
             }
-        },
-        {
-            "number": 770,
-            "title": "fix: getFieldsValue should return list root value when Form.List isn't wrapped",
-            "url": "https://github.com/react-component/field-form/pull/770",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 45,
-            "deletions": 2,
-            "totalCommentsCount": 15,
-            "createdAt": "2025-12-16T10:25:01Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-18T16:45:57Z",
-            "repository": {
-                "name": "field-form",
-                "nameWithOwner": "react-component/field-form",
-                "homepageUrl": "https://field-form.react-component.now.sh/",
-                "description": "⚡️ React Performance First Form Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/field-form"
-            }
         }
     ],
     "contributions": {
-        "total": 764,
+        "total": 766,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1752,7 +1752,7 @@
             },
             {
                 "date": "2025-12-29",
-                "count": 18
+                "count": 20
             },
             {
                 "date": "2025-12-30",

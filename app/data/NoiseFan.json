@@ -6,7 +6,7 @@
         "url": "https://github.com/NoiseFan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
-        "followers": 9,
+        "followers": 10,
         "following": 6
     },
     "languages": [
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 2,
+            "title": "perf(work.spec): optimization `batchProcessCatalog`",
+            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/2",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 848,
+            "deletions": 165,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-28T20:51:42Z",
+            "mergedAt": "2025-12-29T01:36:14Z",
+            "closedAt": "2025-12-29T01:36:15Z",
+            "repository": {
+                "name": "pnpm-category-catalog",
+                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
+                "homepageUrl": "",
+                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
+            }
+        },
         {
             "number": 1,
             "title": "docs(readme): update `best practices` and `extensions`",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 858,
-            "title": "docs(v3): update /config teardowntimeout",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/858",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-13T06:13:23Z",
-            "mergedAt": "2025-12-13T06:15:10Z",
-            "closedAt": "2025-12-13T06:15:10Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 653,
+        "total": 655,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1724,7 +1724,7 @@
             },
             {
                 "date": "2025-12-29",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2025-12-30",

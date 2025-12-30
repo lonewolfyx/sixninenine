@@ -26,10 +26,112 @@
         }
     ],
     "organizations": {
-        "nodes": [],
-        "totalCount": 0
+        "nodes": [
+            {
+                "name": "ScaffoldCore",
+                "createdAt": "2025-06-04T08:19:55Z",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4",
+                "description": "Eliminate repetitive setup. Pre-configured production-ready frontend foundation",
+                "email": null,
+                "location": null,
+                "login": "ScaffoldCore",
+                "url": "https://github.com/ScaffoldCore",
+                "websiteUrl": "https://scaffold-core.vercel.app/",
+                "twitterUsername": null,
+                "repositories": {
+                    "totalCount": 5
+                },
+                "membersWithRole": {
+                    "nodes": [
+                        {
+                            "id": "MDQ6VXNlcjgyNzMwNjg=",
+                            "login": "lonewolfyx",
+                            "name": "OldDriver",
+                            "bio": "We are not producers, we are porters only.Love life and enjoy the fun.",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4",
+                            "company": null,
+                            "createdAt": "2014-07-26T04:56:04Z",
+                            "email": "olddrivero.king@qq.com",
+                            "location": "JiangSu,China",
+                            "twitterUsername": null,
+                            "url": "https://github.com/lonewolfyx",
+                            "websiteUrl": "https://lonewolfyx.vercel.app",
+                            "status": {
+                                "emoji": ":face_with_thermometer:",
+                                "message": "Out sick"
+                            }
+                        },
+                        {
+                            "id": "MDQ6VXNlcjU5MDk0NjE0",
+                            "login": "NoiseFan",
+                            "name": "NoiseFan",
+                            "bio": "",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
+                            "company": null,
+                            "createdAt": "2019-12-20T16:21:04Z",
+                            "email": "noisefan@163.com",
+                            "location": "China,Beijing",
+                            "twitterUsername": null,
+                            "url": "https://github.com/NoiseFan",
+                            "websiteUrl": null,
+                            "status": null
+                        }
+                    ],
+                    "totalCount": 2
+                }
+            }
+        ],
+        "totalCount": 1
     },
     "pullRequest": [
+        {
+            "number": 11,
+            "title": "fix(test): fix coverage config with vitest",
+            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/11",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-30T13:11:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pnpm-category-catalog",
+                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
+                "homepageUrl": "",
+                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
+            }
+        },
+        {
+            "number": 9,
+            "title": "ci: add unit test and lint ci",
+            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/9",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 163,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-30T08:08:53Z",
+            "mergedAt": "2025-12-30T09:08:58Z",
+            "closedAt": "2025-12-30T09:08:58Z",
+            "repository": {
+                "name": "pnpm-category-catalog",
+                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
+                "homepageUrl": "",
+                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
+            }
+        },
         {
             "number": 8,
             "title": "ci(autofix): add formatting ci process",
@@ -221,58 +323,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 874,
-            "title": "docs(cn): release merge into dev @6a59445f",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/874",
-            "state": "MERGED",
-            "changedFiles": 21,
-            "additions": 91,
-            "deletions": 89,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-16T02:44:06Z",
-            "mergedAt": "2025-12-16T02:48:48Z",
-            "closedAt": "2025-12-16T02:48:48Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 871,
-            "title": "docs(cn): update /guide/brower/why",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/871",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-15T09:33:31Z",
-            "mergedAt": "2025-12-15T14:15:11Z",
-            "closedAt": "2025-12-15T14:15:11Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 659,
+        "total": 663,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1728,7 +1782,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 4
+                "count": 8
             },
             {
                 "date": "2025-12-31",

@@ -16,17 +16,41 @@
     },
     "pullRequest": [
         {
+            "number": 463,
+            "title": "feat: add copy button for tool call blocks",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/463",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 88,
+            "deletions": 10,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-30T12:20:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
             "number": 457,
             "title": "i18n: add missing translations for chat UI components",
             "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/457",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
-            "additions": 92,
-            "deletions": 32,
-            "totalCommentsCount": 0,
+            "additions": 122,
+            "deletions": 55,
+            "totalCommentsCount": 7,
             "createdAt": "2025-12-30T06:44:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-30T11:52:58Z",
+            "closedAt": "2025-12-30T11:52:58Z",
             "repository": {
                 "name": "next-ai-draw-io",
                 "nameWithOwner": "DayuanJiang/next-ai-draw-io",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 65,
-            "title": "refactor(elements): unify class prop type to HTMLAttributes['class']",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/65",
-            "state": "CLOSED",
-            "changedFiles": 17,
-            "additions": 34,
-            "deletions": 18,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-01T03:24:40Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-01T07:25:34Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 70,
+        "total": 73,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1713,7 +1713,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2025-12-31",

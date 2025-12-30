@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat: sort catalogs",
+            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/10",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 61,
+            "deletions": 7,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-30T12:16:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pnpm-category-catalog",
+                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
+                "homepageUrl": "",
+                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
+            }
+        },
+        {
             "number": 1087,
             "title": "feat(padding-line-between-statements): allow esquery-based statement types",
             "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1087",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/anyup/uView-Pro"
             }
-        },
-        {
-            "number": 149,
-            "title": "feat: customize close button position",
-            "url": "https://github.com/xiaoluoboding/vue-sonner/pull/149",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 143,
-            "deletions": 29,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-09-13T10:54:55Z",
-            "mergedAt": "2025-09-14T06:35:11Z",
-            "closedAt": "2025-09-14T06:35:11Z",
-            "repository": {
-                "name": "vue-sonner",
-                "nameWithOwner": "xiaoluoboding/vue-sonner",
-                "homepageUrl": "https://vue-sonner.robertshaw.id",
-                "description": "🔔 An opinionated toast component for Vue & Nuxt.",
-                "owner": {
-                    "login": "xiaoluoboding",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/6118824?u=e9472c1e1b9620f7cc8f8acc071234a669b3d243&v=4"
-                },
-                "url": "https://github.com/xiaoluoboding/vue-sonner"
-            }
         }
     ],
     "contributions": {
-        "total": 204,
+        "total": 206,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1770,7 +1770,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2025-12-31",

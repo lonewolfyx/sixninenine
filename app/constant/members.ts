@@ -37,7 +37,7 @@ export const members: membersType[] = [
     { username: 'QDyanbing', aliasName: '高艳兵' },
     { username: 'coderwhytop', aliasName: 'coderwhytop' },
     { username: 'yinjiajun223', aliasName: '影' },
-    { username: 'RYGRIT' }
+    { username: 'RYGRIT' },
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
@@ -59,7 +59,7 @@ export const openSourceMembers: OpenSourceMembersType = {
             'doyuli',
             'snowbitx',
             'jsy-0526',
-            'RYGRIT'
+            'RYGRIT',
         ],
     },
     'MDN Docs Cn': {

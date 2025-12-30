@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 18546,
+            "title": "Parsed filenames as string",
+            "url": "https://github.com/prettier/prettier/pull/18546",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2025-12-30T02:19:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 8948,
             "title": "Refactor file path normalization in standalone function for improved readability",
             "url": "https://github.com/stylelint/stylelint/pull/8948",
@@ -587,10 +611,10 @@
             "title": "Preserve line breaks for inline comments in SCSS maps",
             "url": "https://github.com/prettier/prettier/pull/18535",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 100,
-            "deletions": 39,
-            "totalCommentsCount": 3,
+            "changedFiles": 5,
+            "additions": 61,
+            "deletions": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2025-12-29T02:37:57Z",
             "mergedAt": null,
             "closedAt": null,
@@ -682,14 +706,14 @@
             "number": 18524,
             "title": "Upgrade codemirror6",
             "url": "https://github.com/prettier/prettier/pull/18524",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
-            "additions": 1594,
-            "deletions": 1236,
-            "totalCommentsCount": 15,
+            "additions": 1602,
+            "deletions": 1228,
+            "totalCommentsCount": 16,
             "createdAt": "2025-12-24T03:39:20Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2025-12-29T19:11:04Z",
+            "closedAt": "2025-12-29T19:11:04Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/refined-github/refined-github"
             }
-        },
-        {
-            "number": 8930,
-            "title": "Refactor `selector-pseudo-class-disallowed-list` to align with `selector-pseudo-class-allowed-list`",
-            "url": "https://github.com/stylelint/stylelint/pull/8930",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 30,
-            "deletions": 21,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-17T06:55:56Z",
-            "mergedAt": "2025-12-18T10:12:35Z",
-            "closedAt": "2025-12-18T10:12:35Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 795,
+        "total": 798,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2256,7 +2256,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2025-12-31",

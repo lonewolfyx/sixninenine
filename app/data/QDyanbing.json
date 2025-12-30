@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 601,
+            "title": "fix(trigger): avoid render-based reset for interaction-level deduplication",
+            "url": "https://github.com/react-component/trigger/pull/601",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2025-12-30T02:02:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trigger",
+                "nameWithOwner": "react-component/trigger",
+                "homepageUrl": "http://react-component.github.io/trigger/",
+                "description": "Abstract React Trigger",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/trigger"
+            }
+        },
+        {
             "number": 773,
             "title": "fix(Form.List): do not skip list root when no child field entities exist",
             "url": "https://github.com/react-component/field-form/pull/773",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/field-form"
             }
-        },
-        {
-            "number": 771,
-            "title": "fix(Form): avoid merging sparse list patches into allValue",
-            "url": "https://github.com/react-component/field-form/pull/771",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 33,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-12-17T02:08:42Z",
-            "mergedAt": "2025-12-25T07:54:28Z",
-            "closedAt": "2025-12-25T07:54:28Z",
-            "repository": {
-                "name": "field-form",
-                "nameWithOwner": "react-component/field-form",
-                "homepageUrl": "https://field-form.react-component.now.sh/",
-                "description": "⚡️ React Performance First Form Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/field-form"
-            }
         }
     ],
     "contributions": {
-        "total": 767,
+        "total": 768,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -1756,7 +1756,7 @@
             },
             {
                 "date": "2025-12-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2025-12-31",

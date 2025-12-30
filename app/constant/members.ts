@@ -37,6 +37,7 @@ export const members: membersType[] = [
     { username: 'QDyanbing', aliasName: '高艳兵' },
     { username: 'coderwhytop', aliasName: 'coderwhytop' },
     { username: 'yinjiajun223', aliasName: '影' },
+    { username: 'RYGRIT' }
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'
@@ -58,20 +59,21 @@ export const openSourceMembers: OpenSourceMembersType = {
             'doyuli',
             'snowbitx',
             'jsy-0526',
+            'RYGRIT'
         ],
     },
     'MDN Docs Cn': {
         contributors: ['lonewolfyx', 'pkc918'],
     },
     'ViteDevTools': {
-        contributors: ['lonewolfyx', 'pkc918'],
+        contributors: ['lonewolfyx', 'pkc918', 'RYGRIT'],
     },
     'Element Plus': {
         contributors: ['keeplearning66', 'snowbitx'],
     },
     'Element Plus X': {
         team: ['yuguaa'],
-        contributors: ['Chang-Chen'],
+        contributors: ['Chang-Chen', 'RYGRIT'],
     },
     'Ant Design Vue': {
         team: ['kovsu'],

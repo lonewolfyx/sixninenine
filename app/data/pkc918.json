@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 993,
+            "title": "type: unify boolean code style using type inference",
+            "url": "https://github.com/modelcontextprotocol/inspector/pull/993",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2025-12-31T05:53:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "inspector",
+                "nameWithOwner": "modelcontextprotocol/inspector",
+                "homepageUrl": "https://modelcontextprotocol.io",
+                "description": "Visual testing tool for MCP servers",
+                "owner": {
+                    "login": "modelcontextprotocol",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/182288589?v=4"
+                },
+                "url": "https://github.com/modelcontextprotocol/inspector"
+            }
+        },
+        {
             "number": 15,
             "title": "ci: add build scripts and build artifacts",
             "url": "https://github.com/unomcp/JueJin-MCP/pull/15",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/unomcp/JueJin-MCP"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat(summary): add summary field to PublishContent and implement summary input functionality",
-            "url": "https://github.com/unomcp/JueJin-MCP/pull/6",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 21,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-15T05:10:46Z",
-            "mergedAt": "2025-12-15T05:11:25Z",
-            "closedAt": "2025-12-15T05:11:25Z",
-            "repository": {
-                "name": "JueJin-MCP",
-                "nameWithOwner": "unomcp/JueJin-MCP",
-                "homepageUrl": "",
-                "description": "MCP for juejin.cn ",
-                "owner": {
-                    "login": "unomcp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
-                },
-                "url": "https://github.com/unomcp/JueJin-MCP"
-            }
         }
     ],
     "contributions": {
-        "total": 462,
+        "total": 463,
         "contributions": [
             {
                 "date": "2025-01-01",
@@ -2046,7 +2046,7 @@
             },
             {
                 "date": "2025-12-31",
-                "count": 0
+                "count": 1
             }
         ]
     }

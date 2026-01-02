@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 1229,
+            "title": "feat: dynamic og image generation",
+            "url": "https://github.com/flint-fyi/flint/pull/1229",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 87,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-02T08:51:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1172,
             "title": "feat: add silent option to package manager command",
             "url": "https://github.com/nuxt/cli/pull/1172",
@@ -682,14 +706,14 @@
             "number": 8948,
             "title": "Refactor file path normalization in standalone function for improved readability",
             "url": "https://github.com/stylelint/stylelint/pull/8948",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 3,
             "deletions": 7,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 2,
             "createdAt": "2025-12-29T08:27:27Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-02T07:57:40Z",
+            "closedAt": "2026-01-02T07:57:40Z",
             "repository": {
                 "name": "stylelint",
                 "nameWithOwner": "stylelint/stylelint",
@@ -730,14 +754,14 @@
             "number": 376,
             "title": "Add `prefer-const` rule",
             "url": "https://github.com/stylelint/eslint-config-stylelint/pull/376",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 5,
             "deletions": 0,
             "totalCommentsCount": 3,
             "createdAt": "2025-12-26T07:10:16Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-02T07:19:04Z",
+            "closedAt": "2026-01-02T07:19:04Z",
             "repository": {
                 "name": "eslint-config-stylelint",
                 "nameWithOwner": "stylelint/eslint-config-stylelint",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18528,
-            "title": "Remove extra empty line before closing brace with inline comment",
-            "url": "https://github.com/prettier/prettier/pull/18528",
-            "state": "CLOSED",
-            "changedFiles": 3,
-            "additions": 27,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-25T09:44:48Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-30T21:57:15Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 5,
+        "total": 7,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -808,7 +808,7 @@
             },
             {
                 "date": "2026-01-02",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2026-01-03",

@@ -559,14 +559,38 @@
     },
     "pullRequest": [
         {
-            "number": 1224,
-            "title": "chore: add common ignore patterns",
-            "url": "https://github.com/flint-fyi/flint/pull/1224",
+            "number": 1172,
+            "title": "feat: add silent option to package manager command",
+            "url": "https://github.com/nuxt/cli/pull/1172",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 21,
+            "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-02T03:06:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "nuxt/cli",
+                "homepageUrl": "https://nuxt.com",
+                "description": "Nuxt CLI",
+                "owner": {
+                    "login": "nuxt",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
+                },
+                "url": "https://github.com/nuxt/cli"
+            }
+        },
+        {
+            "number": 1224,
+            "title": "chore: remove unnecessary files",
+            "url": "https://github.com/flint-fyi/flint/pull/1224",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 0,
+            "totalCommentsCount": 3,
             "createdAt": "2026-01-02T01:36:41Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18524,
-            "title": "Upgrade codemirror6",
-            "url": "https://github.com/prettier/prettier/pull/18524",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 1602,
-            "deletions": 1228,
-            "totalCommentsCount": 16,
-            "createdAt": "2025-12-24T03:39:20Z",
-            "mergedAt": "2025-12-29T19:11:04Z",
-            "closedAt": "2025-12-29T19:11:04Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 3,
+        "total": 5,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -808,7 +808,7 @@
             },
             {
                 "date": "2026-01-02",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-01-03",

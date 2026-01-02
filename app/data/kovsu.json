@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 1224,
+            "title": "chore: add common ignore patterns",
+            "url": "https://github.com/flint-fyi/flint/pull/1224",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 21,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-02T01:36:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2845,
             "title": "Add `eslint-scope` dependency",
             "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2845",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18512,
-            "title": "[WIP] Prettier Prettier Playground",
-            "url": "https://github.com/prettier/prettier/pull/18512",
-            "state": "CLOSED",
-            "changedFiles": 64,
-            "additions": 3720,
-            "deletions": 2813,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-12-22T01:50:53Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-23T06:12:33Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 1,
+        "total": 3,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -808,7 +808,7 @@
             },
             {
                 "date": "2026-01-02",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-03",

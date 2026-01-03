@@ -45,6 +45,78 @@
     },
     "pullRequest": [
         {
+            "number": 889,
+            "title": "docs(cn): fix semantic error ",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/889",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-03T06:10:34Z",
+            "mergedAt": "2026-01-03T06:43:25Z",
+            "closedAt": "2026-01-03T06:43:25Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 888,
+            "title": "docs(cn): fix sentence fluency issue",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/888",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-03T06:02:27Z",
+            "mergedAt": "2026-01-03T06:42:52Z",
+            "closedAt": "2026-01-03T06:42:52Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1,
+            "title": "docs(cn): fix sentence fluency issue",
+            "url": "https://github.com/snowbitx/docs-cn/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-03T05:59:14Z",
+            "mergedAt": "2026-01-03T05:59:49Z",
+            "closedAt": "2026-01-03T05:59:49Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "snowbitx/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "snowbitx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/109521682?u=903faa5cc9101a3cf32d4ceac0a750aec64a89b4&v=4"
+                },
+                "url": "https://github.com/snowbitx/docs-cn"
+            }
+        },
+        {
             "number": 14247,
             "title": "refactor(runtime-core): unify lifecycle hook triggering via enum",
             "url": "https://github.com/vuejs/core/pull/14247",
@@ -211,82 +283,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 61,
-            "title": "refactor: register example components via iteration",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/61",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 84,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-11-30T03:30:44Z",
-            "mergedAt": "2025-12-01T07:13:12Z",
-            "closedAt": "2025-12-01T07:13:12Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
-        },
-        {
-            "number": 60,
-            "title": "chore: remove invalid exports for deleted files",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/60",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-29T15:58:59Z",
-            "mergedAt": "2025-12-01T07:09:01Z",
-            "closedAt": "2025-12-01T07:09:01Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
-        },
-        {
-            "number": 22868,
-            "title": "docs: add warning for using tooltip inside option to avoid flickering",
-            "url": "https://github.com/element-plus/element-plus/pull/22868",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 49,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-11-19T15:50:17Z",
-            "mergedAt": null,
-            "closedAt": "2025-11-20T14:10:31Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 0,
+        "total": 6,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -298,7 +298,7 @@
             },
             {
                 "date": "2026-01-03",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-01-04",

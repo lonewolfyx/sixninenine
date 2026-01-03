@@ -559,14 +559,38 @@
     },
     "pullRequest": [
         {
+            "number": 1245,
+            "title": "feat: export packageJson as a core plugin",
+            "url": "https://github.com/flint-fyi/flint/pull/1245",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 15,
+            "deletions": 3,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-03T17:26:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1229,
             "title": "feat: dynamic og image generation",
             "url": "https://github.com/flint-fyi/flint/pull/1229",
             "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 87,
+            "changedFiles": 7,
+            "additions": 89,
             "deletions": 2,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 14,
             "createdAt": "2026-01-02T08:51:51Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/stylelint/eslint-config-stylelint"
             }
-        },
-        {
-            "number": 18530,
-            "title": "Prevent SCSS math expressions in group treated as map item",
-            "url": "https://github.com/prettier/prettier/pull/18530",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 132,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-26T03:04:08Z",
-            "mergedAt": "2025-12-26T08:24:35Z",
-            "closedAt": "2025-12-26T08:24:35Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 9,
+        "total": 10,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -816,7 +816,7 @@
             },
             {
                 "date": "2026-01-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-05",

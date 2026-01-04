@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat: add `useForm` hook for advanced form management",
+            "url": "https://github.com/lonewolfyx/shadcn-vue-hooks/pull/2",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 544,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-04T03:12:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "shadcn-vue-hooks",
+                "nameWithOwner": "lonewolfyx/shadcn-vue-hooks",
+                "homepageUrl": "https://shadcn-vue-hooks.vercel.app",
+                "description": "A Vue Hooks Collection built with Shadcn Vue",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-vue-hooks"
+            }
+        },
+        {
             "number": 10,
             "title": "feat: sort catalogs",
             "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/10",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 19,
-            "title": "fix(u-collapse): fix accordion mode",
-            "url": "https://github.com/anyup/uView-Pro/pull/19",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 47,
-            "deletions": 28,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-14T16:17:28Z",
-            "mergedAt": "2025-09-15T07:11:19Z",
-            "closedAt": "2025-09-15T07:11:19Z",
-            "repository": {
-                "name": "uView-Pro",
-                "nameWithOwner": "anyup/uView-Pro",
-                "homepageUrl": "https://uviewpro.cn",
-                "description": "uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店正式上线。",
-                "owner": {
-                    "login": "anyup",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/85225562?u=cad74fb4a5398e4f256c4ab1a22e46f0e11d0ab8&v=4"
-                },
-                "url": "https://github.com/anyup/uView-Pro"
-            }
         }
     ],
     "contributions": {
-        "total": 0,
+        "total": 1,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -330,7 +330,7 @@
             },
             {
                 "date": "2026-01-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-05",

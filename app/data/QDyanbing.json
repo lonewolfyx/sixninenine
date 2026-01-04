@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 1433,
+            "title": "fix(table): guard virtual rowSpan height calc when data shrinks",
+            "url": "https://github.com/react-component/table/pull/1433",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 101,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-01-04T01:13:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "table",
+                "nameWithOwner": "react-component/table",
+                "homepageUrl": "https://table-react-component.vercel.app",
+                "description": "React Table",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/table"
+            }
+        },
+        {
             "number": 56425,
             "title": "fix(Table): skip mounting FilterDropdown in measure header",
             "url": "https://github.com/ant-design/ant-design/pull/56425",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56291,
-            "title": "fix(Button): text variant tokens not working",
-            "url": "https://github.com/ant-design/ant-design/pull/56291",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 47,
-            "deletions": 0,
-            "totalCommentsCount": 15,
-            "createdAt": "2025-12-20T03:10:03Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 58,
+        "total": 60,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -316,7 +316,7 @@
             },
             {
                 "date": "2026-01-04",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-05",

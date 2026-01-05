@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 8850,
+            "title": "`clean-pinned-issues` - Support new issue view",
+            "url": "https://github.com/refined-github/refined-github/pull/8850",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 27,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-05T01:51:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
             "number": 1245,
             "title": "feat: export packageJson as a core plugin",
             "url": "https://github.com/flint-fyi/flint/pull/1245",
@@ -566,7 +590,7 @@
             "changedFiles": 11,
             "additions": 122,
             "deletions": 14,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-01-03T17:26:21Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 376,
-            "title": "Add `prefer-const` rule",
-            "url": "https://github.com/stylelint/eslint-config-stylelint/pull/376",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-26T07:10:16Z",
-            "mergedAt": "2026-01-02T07:19:04Z",
-            "closedAt": "2026-01-02T07:19:04Z",
-            "repository": {
-                "name": "eslint-config-stylelint",
-                "nameWithOwner": "stylelint/eslint-config-stylelint",
-                "homepageUrl": "",
-                "description": "Stylelint org's shareable config for eslint",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/eslint-config-stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 11,
+        "total": 12,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-01-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-06",

@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 1266,
+            "title": "feat: support dynamic and type imports in reference collection",
+            "url": "https://github.com/flint-fyi/flint/pull/1266",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 78,
+            "deletions": 23,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-05T08:19:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1265,
             "title": "fix(text): update incorrect language-about value",
             "url": "https://github.com/flint-fyi/flint/pull/1265",
@@ -566,7 +590,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-01-05T06:59:04Z",
             "mergedAt": null,
             "closedAt": null,
@@ -586,14 +610,14 @@
             "number": 18568,
             "title": "Skip uploading coverage work in fork repo",
             "url": "https://github.com/prettier/prettier/pull/18568",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 2,
             "createdAt": "2026-01-05T06:46:17Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-05T07:36:48Z",
+            "closedAt": "2026-01-05T07:36:48Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -612,9 +636,9 @@
             "url": "https://github.com/refined-github/refined-github/pull/8850",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 27,
-            "deletions": 0,
-            "totalCommentsCount": 0,
+            "additions": 13,
+            "deletions": 43,
+            "totalCommentsCount": 3,
             "createdAt": "2026-01-05T01:51:41Z",
             "mergedAt": null,
             "closedAt": null,
@@ -680,16 +704,16 @@
         },
         {
             "number": 1172,
-            "title": "feat: add silent option to package manager command",
+            "title": "fix(init): silence dependency install logs",
             "url": "https://github.com/nuxt/cli/pull/1172",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2026-01-02T03:06:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-05T12:51:31Z",
+            "closedAt": "2026-01-05T12:51:31Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "nuxt/cli",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/sindresorhus/eslint-plugin-unicorn"
             }
-        },
-        {
-            "number": 18546,
-            "title": "Parsed filenames as string",
-            "url": "https://github.com/prettier/prettier/pull/18546",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 16,
-            "deletions": 4,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-30T02:19:37Z",
-            "mergedAt": "2025-12-30T09:24:44Z",
-            "closedAt": "2025-12-30T09:24:44Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 15,
+        "total": 18,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-01-05",
-                "count": 4
+                "count": 7
             },
             {
                 "date": "2026-01-06",

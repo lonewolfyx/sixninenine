@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 561189,
+            "size": 571631,
             "repoCount": 3,
-            "progress": "77.14"
+            "progress": "77.38"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "14.02"
+            "progress": "13.81"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "7.62"
+            "progress": "7.50"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 5767,
+            "size": 6520,
             "repoCount": 1,
-            "progress": "0.79"
+            "progress": "0.88"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56478,
+            "title": "fix(table): border radius  not work",
+            "url": "https://github.com/ant-design/ant-design/pull/56478",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-01-05T07:20:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 1433,
             "title": "fix(table): guard virtual rowSpan height calc when data shrinks",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/util"
             }
-        },
-        {
-            "number": 56297,
-            "title": "docs(Button): hide deprecated groupBorderColor from token table",
-            "url": "https://github.com/ant-design/ant-design/pull/56297",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 6,
-            "totalCommentsCount": 11,
-            "createdAt": "2025-12-20T05:41:35Z",
-            "mergedAt": "2025-12-22T03:37:54Z",
-            "closedAt": "2025-12-22T03:37:54Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 78,
+        "total": 97,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -320,7 +320,7 @@
             },
             {
                 "date": "2026-01-05",
-                "count": 0
+                "count": 19
             },
             {
                 "date": "2026-01-06",

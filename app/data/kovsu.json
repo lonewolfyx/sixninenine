@@ -559,6 +559,54 @@
     },
     "pullRequest": [
         {
+            "number": 1265,
+            "title": "fix(text): update incorrect language-about value",
+            "url": "https://github.com/flint-fyi/flint/pull/1265",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-05T06:59:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 18568,
+            "title": "Skip uploading coverage work in fork repo",
+            "url": "https://github.com/prettier/prettier/pull/18568",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-05T06:46:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 8850,
             "title": "`clean-pinned-issues` - Support new issue view",
             "url": "https://github.com/refined-github/refined-github/pull/8850",
@@ -586,14 +634,14 @@
             "number": 1245,
             "title": "feat: export packageJson as a core plugin",
             "url": "https://github.com/flint-fyi/flint/pull/1245",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 122,
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 148,
             "deletions": 14,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 11,
             "createdAt": "2026-01-03T17:26:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-05T03:54:03Z",
+            "closedAt": "2026-01-05T03:54:03Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -749,58 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 8948,
-            "title": "Refactor file path normalization in standalone function for improved readability",
-            "url": "https://github.com/stylelint/stylelint/pull/8948",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 7,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-29T08:27:27Z",
-            "mergedAt": "2026-01-02T07:57:40Z",
-            "closedAt": "2026-01-02T07:57:40Z",
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
-        },
-        {
-            "number": 18535,
-            "title": "Preserve line breaks for inline comments in SCSS maps",
-            "url": "https://github.com/prettier/prettier/pull/18535",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 63,
-            "deletions": 4,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-12-29T02:37:57Z",
-            "mergedAt": "2025-12-30T09:29:19Z",
-            "closedAt": "2025-12-30T09:29:19Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 12,
+        "total": 15,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-01-05",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-01-06",

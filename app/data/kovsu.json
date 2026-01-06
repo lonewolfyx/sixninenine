@@ -559,17 +559,65 @@
     },
     "pullRequest": [
         {
+            "number": 1275,
+            "title": "chore: add .github/workflows/post-release.yaml",
+            "url": "https://github.com/flint-fyi/flint/pull/1275",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 31,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-06T06:42:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 1274,
+            "title": "fix(core): filter out cached files when collecting metadata",
+            "url": "https://github.com/flint-fyi/flint/pull/1274",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 10,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-06T02:47:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 18578,
             "title": "Update playground cached value on mount",
             "url": "https://github.com/prettier/prettier/pull/18578",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-01-06T01:36:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-06T06:36:31Z",
+            "closedAt": "2026-01-06T06:36:31Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -749,58 +797,10 @@
                 },
                 "url": "https://github.com/nuxt/cli"
             }
-        },
-        {
-            "number": 1224,
-            "title": "chore: remove unnecessary files",
-            "url": "https://github.com/flint-fyi/flint/pull/1224",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-02T01:36:41Z",
-            "mergedAt": "2026-01-02T14:42:41Z",
-            "closedAt": "2026-01-02T14:42:41Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2845,
-            "title": "Add `eslint-scope` dependency",
-            "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2845",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-12-31T07:48:29Z",
-            "mergedAt": "2025-12-31T14:27:30Z",
-            "closedAt": "2025-12-31T14:27:30Z",
-            "repository": {
-                "name": "eslint-plugin-unicorn",
-                "nameWithOwner": "sindresorhus/eslint-plugin-unicorn",
-                "homepageUrl": "",
-                "description": "More than 100 powerful ESLint rules",
-                "owner": {
-                    "login": "sindresorhus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
-                },
-                "url": "https://github.com/sindresorhus/eslint-plugin-unicorn"
-            }
         }
     ],
     "contributions": {
-        "total": 22,
+        "total": 25,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -824,7 +824,7 @@
             },
             {
                 "date": "2026-01-06",
-                "count": 4
+                "count": 7
             },
             {
                 "date": "2026-01-07",

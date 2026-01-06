@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 18578,
+            "title": "Update playground cached value on mount",
+            "url": "https://github.com/prettier/prettier/pull/18578",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-06T01:36:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 1266,
             "title": "fix(ts): support dynamic and type imports in reference collection",
             "url": "https://github.com/flint-fyi/flint/pull/1266",
@@ -634,14 +658,14 @@
             "number": 8850,
             "title": "`clean-pinned-issues` - Support new issue view",
             "url": "https://github.com/refined-github/refined-github/pull/8850",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
-            "additions": 13,
-            "deletions": 43,
+            "additions": 18,
+            "deletions": 45,
             "totalCommentsCount": 4,
             "createdAt": "2026-01-05T01:51:41Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-06T00:43:15Z",
+            "closedAt": "2026-01-06T00:43:15Z",
             "repository": {
                 "name": "refined-github",
                 "nameWithOwner": "refined-github/refined-github",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/sindresorhus/eslint-plugin-unicorn"
             }
-        },
-        {
-            "number": 2844,
-            "title": "Update deprecated rules document link",
-            "url": "https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2844",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-31T07:02:55Z",
-            "mergedAt": "2025-12-31T07:48:04Z",
-            "closedAt": "2025-12-31T07:48:04Z",
-            "repository": {
-                "name": "eslint-plugin-unicorn",
-                "nameWithOwner": "sindresorhus/eslint-plugin-unicorn",
-                "homepageUrl": "",
-                "description": "More than 100 powerful ESLint rules",
-                "owner": {
-                    "login": "sindresorhus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4"
-                },
-                "url": "https://github.com/sindresorhus/eslint-plugin-unicorn"
-            }
         }
     ],
     "contributions": {
-        "total": 20,
+        "total": 22,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -824,7 +824,7 @@
             },
             {
                 "date": "2026-01-06",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-01-07",

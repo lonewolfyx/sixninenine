@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 528,
+            "title": "fix: add missing nanoid dependency",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/528",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-07T02:15:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
             "number": 463,
             "title": "feat: add copy button for tool call blocks",
             "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/463",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 66,
-            "title": "refactor(elements): unify class prop type to HTMLAttributes['class']",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/66",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 16,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-01T07:33:34Z",
-            "mergedAt": "2025-12-04T11:44:47Z",
-            "closedAt": "2025-12-04T11:44:47Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 0,
+        "total": 1,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -285,7 +285,7 @@
             },
             {
                 "date": "2026-01-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-08",

@@ -559,6 +559,54 @@
     },
     "pullRequest": [
         {
+            "number": 1321,
+            "title": "fix(cli): calculate left width correctly",
+            "url": "https://github.com/flint-fyi/flint/pull/1321",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-07T03:30:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 8956,
+            "title": "Add `ignoreMediaFeatureNameValues` to `media-feature-name-value-no-unknown`",
+            "url": "https://github.com/stylelint/stylelint/pull/8956",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 160,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-07T02:42:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 1275,
             "title": "chore: add .github/workflows/post-release.yaml",
             "url": "https://github.com/flint-fyi/flint/pull/1275",
@@ -749,58 +797,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1229,
-            "title": "docs: dynamic og image generation",
-            "url": "https://github.com/flint-fyi/flint/pull/1229",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 87,
-            "deletions": 2,
-            "totalCommentsCount": 20,
-            "createdAt": "2026-01-02T08:51:51Z",
-            "mergedAt": "2026-01-03T20:36:48Z",
-            "closedAt": "2026-01-03T20:36:48Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 1172,
-            "title": "fix(init): silence dependency install logs",
-            "url": "https://github.com/nuxt/cli/pull/1172",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-02T03:06:35Z",
-            "mergedAt": "2026-01-05T12:51:31Z",
-            "closedAt": "2026-01-05T12:51:31Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "nuxt/cli",
-                "homepageUrl": "https://nuxt.com",
-                "description": "Nuxt CLI",
-                "owner": {
-                    "login": "nuxt",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
-                },
-                "url": "https://github.com/nuxt/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 26,
+        "total": 28,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -828,7 +828,7 @@
             },
             {
                 "date": "2026-01-07",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-01-08",

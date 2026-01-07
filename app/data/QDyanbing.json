@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56525,
+            "title": "fix(Select): correct clear icon position in sm size",
+            "url": "https://github.com/ant-design/ant-design/pull/56525",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 0,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-07T12:41:24Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56478,
             "title": "fix(table): border radius  not work",
             "url": "https://github.com/ant-design/ant-design/pull/56478",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 714,
-            "title": "fix: avoid array length truncation in mergeWith and add sparse merge test",
-            "url": "https://github.com/react-component/util/pull/714",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-12-22T08:47:00Z",
-            "mergedAt": "2025-12-25T03:23:13Z",
-            "closedAt": "2025-12-25T03:23:13Z",
-            "repository": {
-                "name": "util",
-                "nameWithOwner": "react-component/util",
-                "homepageUrl": "util.vercel.app",
-                "description": "Common Utils For React Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/util"
-            }
         }
     ],
     "contributions": {
-        "total": 137,
+        "total": 138,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -328,7 +328,7 @@
             },
             {
                 "date": "2026-01-07",
-                "count": 20
+                "count": 21
             },
             {
                 "date": "2026-01-08",

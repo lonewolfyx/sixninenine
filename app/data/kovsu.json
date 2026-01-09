@@ -559,17 +559,41 @@
     },
     "pullRequest": [
         {
+            "number": 1406,
+            "title": "fix(core): remove non-existent cached files",
+            "url": "https://github.com/flint-fyi/flint/pull/1406",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-09T01:40:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1397,
             "title": "fix(core): merge cached file results into results",
             "url": "https://github.com/flint-fyi/flint/pull/1397",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 12,
             "deletions": 1,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2026-01-08T07:16:00Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-08T19:47:19Z",
+            "closedAt": "2026-01-08T19:47:19Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -590,7 +614,7 @@
             "changedFiles": 1,
             "additions": 61,
             "deletions": 17,
-            "totalCommentsCount": 16,
+            "totalCommentsCount": 17,
             "createdAt": "2026-01-08T03:35:47Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 1266,
-            "title": "fix(ts): support dynamic and type imports in reference collection",
-            "url": "https://github.com/flint-fyi/flint/pull/1266",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 83,
-            "deletions": 23,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-05T08:19:56Z",
-            "mergedAt": "2026-01-05T16:36:20Z",
-            "closedAt": "2026-01-05T16:36:20Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 36,
+        "total": 38,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -836,7 +836,7 @@
             },
             {
                 "date": "2026-01-09",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-10",

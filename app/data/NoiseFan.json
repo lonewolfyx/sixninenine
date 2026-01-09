@@ -85,6 +85,30 @@
     },
     "pullRequest": [
         {
+            "number": 896,
+            "title": "docs(cn): merge docs-cn/sync-docs into docs-cn/dev",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/896",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 2363,
+            "deletions": 2731,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-09T10:17:38Z",
+            "mergedAt": "2026-01-09T12:08:48Z",
+            "closedAt": "2026-01-09T12:08:48Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 13,
             "title": "docs: add new logo file",
             "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/13",
@@ -299,34 +323,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 879,
-            "title": "Revert \"chroe: update netlify node version\"",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/879",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 4,
-            "deletions": 42,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-17T03:13:41Z",
-            "mergedAt": "2025-12-17T03:13:49Z",
-            "closedAt": "2025-12-17T03:13:49Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 19,
+        "total": 20,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -362,7 +362,7 @@
             },
             {
                 "date": "2026-01-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-10",

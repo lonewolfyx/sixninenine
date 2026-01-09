@@ -189,6 +189,30 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "feat(fire): cancel auto addition of config files during initialization.",
+            "url": "https://github.com/Muromi-Rikka/folder-alias/pull/31",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 44,
+            "deletions": 64,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-09T07:01:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "folder-alias",
+                "nameWithOwner": "Muromi-Rikka/folder-alias",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "Muromi-Rikka",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/22149502?u=39fb10f91055721f64900afd7679e238b5a3404e&v=4"
+                },
+                "url": "https://github.com/Muromi-Rikka/folder-alias"
+            }
+        },
+        {
             "number": 24,
             "title": "fix: perfectionist/sort-imports",
             "url": "https://github.com/antfu/starter-vscode/pull/24",
@@ -403,34 +427,10 @@
                 },
                 "url": "https://github.com/vuejs/core"
             }
-        },
-        {
-            "number": 87,
-            "title": "docs(components): modify AlertDialog docs",
-            "url": "https://github.com/soybeanjs/soybean-ui/pull/87",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 171,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-16T14:28:39Z",
-            "mergedAt": "2025-12-17T23:06:19Z",
-            "closedAt": "2025-12-17T23:06:19Z",
-            "repository": {
-                "name": "soybean-ui",
-                "nameWithOwner": "soybeanjs/soybean-ui",
-                "homepageUrl": "https://ui.soybeanjs.cn",
-                "description": "An elegant and accessible UI library like shadcn for Vue3",
-                "owner": {
-                    "login": "soybeanjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
-                },
-                "url": "https://github.com/soybeanjs/soybean-ui"
-            }
         }
     ],
     "contributions": {
-        "total": 21,
+        "total": 24,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -466,7 +466,7 @@
             },
             {
                 "date": "2026-01-09",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-01-10",

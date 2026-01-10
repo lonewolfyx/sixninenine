@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56561,
+            "title": "[WIP] feat(llms): add raw markdown output support",
+            "url": "https://github.com/ant-design/ant-design/pull/56561",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 697,
+            "deletions": 241,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-01-10T15:18:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56525,
             "title": "fix(Select): correct clear icon position in sm size",
             "url": "https://github.com/ant-design/ant-design/pull/56525",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56319,
-            "title": "chore: bump @rc-component/form to ~1.6.0",
-            "url": "https://github.com/ant-design/ant-design/pull/56319",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-12-22T15:39:48Z",
-            "mergedAt": "2025-12-22T17:14:01Z",
-            "closedAt": "2025-12-22T17:14:01Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 201,
+        "total": 202,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -340,7 +340,7 @@
             },
             {
                 "date": "2026-01-10",
-                "count": 21
+                "count": 22
             },
             {
                 "date": "2026-01-11",

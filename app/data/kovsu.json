@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 1508,
+            "title": "fix(cli): correct output with multiple suggestions",
+            "url": "https://github.com/flint-fyi/flint/pull/1508",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 7,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-11T05:46:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1499,
             "title": "chore: remove `canvaskit-wasm` from cspell and knip configurations",
             "url": "https://github.com/flint-fyi/flint/pull/1499",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 1275,
-            "title": "chore: add .github/workflows/post-release.yaml",
-            "url": "https://github.com/flint-fyi/flint/pull/1275",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 29,
-            "deletions": 0,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-01-06T06:42:55Z",
-            "mergedAt": "2026-01-08T08:05:08Z",
-            "closedAt": "2026-01-08T08:05:08Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 44,
+        "total": 45,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -844,7 +844,7 @@
             },
             {
                 "date": "2026-01-11",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-12",

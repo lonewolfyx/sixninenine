@@ -189,6 +189,30 @@
     },
     "pullRequest": [
         {
+            "number": 93,
+            "title": "docs(components): modify Badge docs.",
+            "url": "https://github.com/soybeanjs/soybean-ui/pull/93",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 68,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-11T10:49:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "soybean-ui",
+                "nameWithOwner": "soybeanjs/soybean-ui",
+                "homepageUrl": "https://ui.soybeanjs.cn",
+                "description": "An elegant and accessible UI library like shadcn for Vue3",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-ui"
+            }
+        },
+        {
             "number": 31,
             "title": "feat(fire): cancel auto addition of config files during initialization.",
             "url": "https://github.com/Muromi-Rikka/folder-alias/pull/31",
@@ -403,34 +427,10 @@
                 },
                 "url": "https://github.com/soybeanjs/soybean-ui"
             }
-        },
-        {
-            "number": 14222,
-            "title": "perf(compiler-core): use binary-search to get the line and column.",
-            "url": "https://github.com/vuejs/core/pull/14222",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 22,
-            "deletions": 6,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-12-18T07:09:38Z",
-            "mergedAt": "2025-12-18T08:19:36Z",
-            "closedAt": "2025-12-18T08:19:36Z",
-            "repository": {
-                "name": "core",
-                "nameWithOwner": "vuejs/core",
-                "homepageUrl": "https://vuejs.org/",
-                "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-                "owner": {
-                    "login": "vuejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
-                },
-                "url": "https://github.com/vuejs/core"
-            }
         }
     ],
     "contributions": {
-        "total": 26,
+        "total": 28,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -474,7 +474,7 @@
             },
             {
                 "date": "2026-01-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-12",

@@ -39,6 +39,7 @@ export const members: membersType[] = [
     { username: 'yinjiajun223', aliasName: '影' },
     { username: 'RYGRIT' },
     { username: 'CSBigCaptain', aliasName: '杨永信老师' },
+    { username: 'E66Crisp', aliasName: 'Luo.' }
 ]
 
 export type OpenSourceTypes = 'team' | 'contributors'

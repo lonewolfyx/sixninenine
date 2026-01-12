@@ -559,17 +559,41 @@
     },
     "pullRequest": [
         {
+            "number": 18605,
+            "title": "Fix line breaks when css attribute values contain literal newlines",
+            "url": "https://github.com/prettier/prettier/pull/18605",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 128,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-12T02:42:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 1508,
             "title": "fix(cli): correct output with multiple suggestions",
             "url": "https://github.com/flint-fyi/flint/pull/1508",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 16,
             "deletions": 7,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2026-01-11T05:46:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-12T04:31:51Z",
+            "closedAt": "2026-01-12T04:31:51Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 8956,
-            "title": "Add `ignoreMediaFeatureNameValues` to `media-feature-name-value-no-unknown`",
-            "url": "https://github.com/stylelint/stylelint/pull/8956",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 160,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-07T02:42:07Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 47,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -848,7 +848,7 @@
             },
             {
                 "date": "2026-01-12",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-13",

@@ -1,52 +1,30 @@
 {
     "userInfo": {
-        "login": "keeplearning66",
-        "name": null,
-        "bio": "Not just a user, but a creator",
-        "url": "https://github.com/keeplearning66",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/61937205?u=414ab578a552e13877c6d1b2fef647a3afe0b6ef&v=4",
+        "login": "E66Crisp",
+        "name": "E66",
+        "bio": "还没到停下的时候",
+        "url": "https://github.com/E66Crisp",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/226283245?u=4aff2945e4c1401fb9770121eb7c18ac131f0639&v=4",
         "pronouns": "he/him",
-        "followers": 3,
-        "following": 0
+        "followers": 0,
+        "following": 3
     },
-    "languages": [
-        {
-            "name": "TypeScript",
-            "color": "#3178c6",
-            "size": 31376,
-            "repoCount": 1,
-            "progress": "76.63"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 8498,
-            "repoCount": 1,
-            "progress": "20.76"
-        },
-        {
-            "name": "Vue",
-            "color": "#41b883",
-            "size": 1070,
-            "repoCount": 1,
-            "progress": "2.61"
-        }
-    ],
+    "languages": [],
     "organizations": {
         "nodes": [],
         "totalCount": 0
     },
     "pullRequest": [
         {
-            "number": 23364,
-            "title": "improvement(components): [avatar] text size can be adaptive",
-            "url": "https://github.com/element-plus/element-plus/pull/23364",
+            "number": 23368,
+            "title": "fix(components): [carousel] fix vertical indicator layout with label and outside",
+            "url": "https://github.com/element-plus/element-plus/pull/23368",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 87,
-            "deletions": 4,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-01-11T08:46:30Z",
+            "changedFiles": 2,
+            "additions": 34,
+            "deletions": 11,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-01-12T08:37:28Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
@@ -62,185 +40,41 @@
             }
         },
         {
-            "number": 23338,
-            "title": "fix(components): [tree-select] avoid multiple calls to node-expand when the node is clicked",
-            "url": "https://github.com/element-plus/element-plus/pull/23338",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 15,
-            "deletions": 1,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-01-07T09:20:47Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23307,
-            "title": "chore: remove unnecessary .gitkeep files",
-            "url": "https://github.com/element-plus/element-plus/pull/23307",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-05T13:09:35Z",
-            "mergedAt": "2026-01-06T01:10:29Z",
-            "closedAt": "2026-01-06T01:10:29Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23306,
-            "title": "fix(components): [table-v2] correct the indentation of sub-row",
-            "url": "https://github.com/element-plus/element-plus/pull/23306",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 50,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-01-05T12:55:35Z",
-            "mergedAt": "2026-01-07T06:31:28Z",
-            "closedAt": "2026-01-07T06:31:29Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23211,
-            "title": "feat(components): [avatar-group] new component",
-            "url": "https://github.com/element-plus/element-plus/pull/23211",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 374,
-            "deletions": 19,
-            "totalCommentsCount": 40,
-            "createdAt": "2025-12-25T08:34:32Z",
-            "mergedAt": "2026-01-05T01:18:22Z",
-            "closedAt": "2026-01-05T01:18:22Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23193,
-            "title": "feat(components): [message-box] add `confirmButtonType` and `cancelButtonType` props",
-            "url": "https://github.com/element-plus/element-plus/pull/23193",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 41,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-12-23T12:48:53Z",
-            "mergedAt": "2025-12-25T12:22:32Z",
-            "closedAt": "2025-12-25T12:22:32Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23189,
-            "title": "chore: remove duplicate imports",
-            "url": "https://github.com/element-plus/element-plus/pull/23189",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 2,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-12-22T13:17:25Z",
-            "mergedAt": "2025-12-23T02:16:31Z",
-            "closedAt": "2025-12-23T02:16:31Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23151,
-            "title": "docs(components): [date-picker-panel] add editable prop",
-            "url": "https://github.com/element-plus/element-plus/pull/23151",
+            "number": 29,
+            "title": "feat(members): add new member",
+            "url": "https://github.com/lonewolfyx/sixninenine/pull/29",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-12-18T01:33:05Z",
-            "mergedAt": "2025-12-18T02:07:02Z",
-            "closedAt": "2025-12-18T02:07:02Z",
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-12T01:54:20Z",
+            "mergedAt": "2026-01-12T11:57:22Z",
+            "closedAt": "2026-01-12T11:57:22Z",
             "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "name": "sixninenine",
+                "nameWithOwner": "lonewolfyx/sixninenine",
+                "homepageUrl": "https://sixninenine.vercel.app",
+                "description": null,
                 "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
                 },
-                "url": "https://github.com/element-plus/element-plus"
+                "url": "https://github.com/lonewolfyx/sixninenine"
             }
         },
         {
-            "number": 23138,
-            "title": "fix(components): [input-tag] correct the tooltip theme and the style of the collapse tag",
-            "url": "https://github.com/element-plus/element-plus/pull/23138",
-            "state": "MERGED",
+            "number": 23359,
+            "title": "fix(components): fix empty slot incorrectly detected as ValidContent",
+            "url": "https://github.com/element-plus/element-plus/pull/23359",
+            "state": "OPEN",
             "changedFiles": 4,
-            "additions": 15,
-            "deletions": 2,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-12-17T01:53:57Z",
-            "mergedAt": "2026-01-12T01:39:31Z",
-            "closedAt": "2026-01-12T01:39:31Z",
+            "additions": 95,
+            "deletions": 15,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-01-10T05:48:45Z",
+            "mergedAt": null,
+            "closedAt": null,
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -254,17 +88,17 @@
             }
         },
         {
-            "number": 23085,
-            "title": "fix(components): [date-picker] input should not be editable when editable is false",
-            "url": "https://github.com/element-plus/element-plus/pull/23085",
+            "number": 23350,
+            "title": "fix(components): [autocomplete] fix incorrect aria-controls value",
+            "url": "https://github.com/element-plus/element-plus/pull/23350",
             "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 46,
-            "deletions": 2,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-12-12T15:05:26Z",
-            "mergedAt": "2025-12-15T02:52:49Z",
-            "closedAt": "2025-12-15T02:52:49Z",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-08T09:20:51Z",
+            "mergedAt": "2026-01-08T13:04:22Z",
+            "closedAt": "2026-01-08T13:04:22Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -275,15 +109,159 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
                 },
                 "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 23349,
+            "title": "fix(components): [autocomplete] correct change event value type",
+            "url": "https://github.com/element-plus/element-plus/pull/23349",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 3,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-08T08:40:56Z",
+            "mergedAt": null,
+            "closedAt": "2026-01-08T09:23:08Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 23324,
+            "title": "fix(components): [avatar] watch srcSet changes to reset hasLoadError",
+            "url": "https://github.com/element-plus/element-plus/pull/23324",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 18,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-07T07:34:45Z",
+            "mergedAt": "2026-01-09T22:23:15Z",
+            "closedAt": "2026-01-09T22:23:15Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 23312,
+            "title": "fix(components): [alert] fix empty slot incorrectly detected as hasDesc",
+            "url": "https://github.com/element-plus/element-plus/pull/23312",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 46,
+            "deletions": 1,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-01-06T07:15:51Z",
+            "mergedAt": "2026-01-07T06:30:21Z",
+            "closedAt": "2026-01-07T06:30:21Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 426,
+            "title": "docs: fix typo in isFog.vue documentation",
+            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/426",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-06T02:38:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Element-Plus-X",
+                "nameWithOwner": "element-plus-x/Element-Plus-X",
+                "homepageUrl": "https://element-plus-x.com",
+                "description": "Enterprise-level AI component library front-end solution 🤖",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/Element-Plus-X"
+            }
+        },
+        {
+            "number": 473,
+            "title": "feat(i18n): sync Draw.io panel language with app locale",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/473",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-31T02:38:06Z",
+            "mergedAt": "2025-12-31T02:48:02Z",
+            "closedAt": "2025-12-31T02:48:02Z",
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
+            "number": 470,
+            "title": "style(chat-panel): Improve aiChat label display in collapsed panel",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/470",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 45,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2025-12-31T01:53:11Z",
+            "mergedAt": "2025-12-31T02:25:24Z",
+            "closedAt": "2025-12-31T02:25:24Z",
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
             }
         }
     ],
     "contributions": {
-        "total": 18,
+        "total": 45,
         "contributions": [
             {
                 "date": "2026-01-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-02",
@@ -295,11 +273,11 @@
             },
             {
                 "date": "2026-01-04",
-                "count": 0
+                "count": 12
             },
             {
                 "date": "2026-01-05",
-                "count": 3
+                "count": 2
             },
             {
                 "date": "2026-01-06",
@@ -307,19 +285,19 @@
             },
             {
                 "date": "2026-01-07",
-                "count": 2
+                "count": 7
             },
             {
                 "date": "2026-01-08",
-                "count": 2
+                "count": 7
             },
             {
                 "date": "2026-01-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-10",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-01-11",

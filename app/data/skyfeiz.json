@@ -189,17 +189,65 @@
     },
     "pullRequest": [
         {
+            "number": 171,
+            "title": "chore(projects): :pencil: release v1.4.0",
+            "url": "https://github.com/soybeanjs/soybean-admin-element-plus/pull/171",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 182,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-12T08:44:58Z",
+            "mergedAt": "2026-01-12T08:45:21Z",
+            "closedAt": "2026-01-12T08:45:21Z",
+            "repository": {
+                "name": "soybean-admin-element-plus",
+                "nameWithOwner": "soybeanjs/soybean-admin-element-plus",
+                "homepageUrl": "https://elp.soybeanjs.cn",
+                "description": "一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus 和 UnoCSS。A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus and UnoCSS.",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-admin-element-plus"
+            }
+        },
+        {
+            "number": 170,
+            "title": "chore(deps): :arrow_up: update deps.",
+            "url": "https://github.com/soybeanjs/soybean-admin-element-plus/pull/170",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 1524,
+            "deletions": 1443,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-12T08:24:14Z",
+            "mergedAt": "2026-01-12T08:24:29Z",
+            "closedAt": "2026-01-12T08:24:29Z",
+            "repository": {
+                "name": "soybean-admin-element-plus",
+                "nameWithOwner": "soybeanjs/soybean-admin-element-plus",
+                "homepageUrl": "https://elp.soybeanjs.cn",
+                "description": "一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus 和 UnoCSS。A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus and UnoCSS.",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-admin-element-plus"
+            }
+        },
+        {
             "number": 93,
             "title": "docs(components): modify Badge docs.",
             "url": "https://github.com/soybeanjs/soybean-ui/pull/93",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 68,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-01-11T10:49:29Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-12T10:04:34Z",
+            "closedAt": "2026-01-12T10:04:34Z",
             "repository": {
                 "name": "soybean-ui",
                 "nameWithOwner": "soybeanjs/soybean-ui",
@@ -379,58 +427,10 @@
                 },
                 "url": "https://github.com/soybeanjs/soybean-ui"
             }
-        },
-        {
-            "number": 576,
-            "title": "type(Table): add support for the number type to width and minWidth.",
-            "url": "https://github.com/tolking/element-pro-components/pull/576",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 6,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-23T10:13:41Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-pro-components",
-                "nameWithOwner": "tolking/element-pro-components",
-                "homepageUrl": "https://tolking.github.io/element-pro-components",
-                "description": "A component library for Vue 3 base on element-plus",
-                "owner": {
-                    "login": "tolking",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/23313167?u=063dbe204d4d7b842dc3725716be5fd72a8830c3&v=4"
-                },
-                "url": "https://github.com/tolking/element-pro-components"
-            }
-        },
-        {
-            "number": 88,
-            "title": "docs(components): modify Avatar docs.",
-            "url": "https://github.com/soybeanjs/soybean-ui/pull/88",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 81,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-18T13:48:00Z",
-            "mergedAt": "2025-12-18T14:26:14Z",
-            "closedAt": "2025-12-18T14:26:14Z",
-            "repository": {
-                "name": "soybean-ui",
-                "nameWithOwner": "soybeanjs/soybean-ui",
-                "homepageUrl": "https://ui.soybeanjs.cn",
-                "description": "An elegant and accessible UI library like shadcn for Vue3",
-                "owner": {
-                    "login": "soybeanjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
-                },
-                "url": "https://github.com/soybeanjs/soybean-ui"
-            }
         }
     ],
     "contributions": {
-        "total": 31,
+        "total": 37,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -474,11 +474,11 @@
             },
             {
                 "date": "2026-01-11",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-01-12",
-                "count": 3
+                "count": 8
             },
             {
                 "date": "2026-01-13",

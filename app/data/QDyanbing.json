@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 590824,
+            "size": 594688,
             "repoCount": 3,
-            "progress": "77.95"
+            "progress": "78.06"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "13.46"
+            "progress": "13.39"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "7.31"
+            "progress": "7.28"
         },
         {
             "name": "HTML",
@@ -50,7 +50,7 @@
             "color": "#89e051",
             "size": 799,
             "repoCount": 2,
-            "progress": "0.11"
+            "progress": "0.10"
         }
     ],
     "organizations": {
@@ -59,13 +59,37 @@
     },
     "pullRequest": [
         {
+            "number": 56592,
+            "title": "docs(Table): add content semantic",
+            "url": "https://github.com/ant-design/ant-design/pull/56592",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-01-13T07:53:03Z",
+            "mergedAt": "2026-01-13T08:04:49Z",
+            "closedAt": "2026-01-13T08:04:49Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56561,
             "title": "[WIP] feat(llms): add raw markdown output support",
             "url": "https://github.com/ant-design/ant-design/pull/56561",
             "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 2715,
-            "deletions": 241,
+            "changedFiles": 130,
+            "additions": 51270,
+            "deletions": 331,
             "totalCommentsCount": 12,
             "createdAt": "2026-01-10T15:18:27Z",
             "mergedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56326,
-            "title": "style: adjust Tag default background contrast",
-            "url": "https://github.com/ant-design/ant-design/pull/56326",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 13,
-            "createdAt": "2025-12-23T04:14:03Z",
-            "mergedAt": "2025-12-24T02:11:56Z",
-            "closedAt": "2025-12-24T02:11:56Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 244,
+        "total": 269,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -352,7 +352,7 @@
             },
             {
                 "date": "2026-01-13",
-                "count": 0
+                "count": 25
             },
             {
                 "date": "2026-01-14",

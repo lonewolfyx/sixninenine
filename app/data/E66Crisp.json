@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23372,
+            "title": "fix(components): [rate] display abnormal when modelValue exceeds max",
+            "url": "https://github.com/element-plus/element-plus/pull/23372",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-13T08:26:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23368,
             "title": "fix(components): [carousel] fix vertical indicator layout with label and outside",
             "url": "https://github.com/element-plus/element-plus/pull/23368",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/DayuanJiang/next-ai-draw-io"
             }
-        },
-        {
-            "number": 470,
-            "title": "style(chat-panel): Improve aiChat label display in collapsed panel",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/470",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 45,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-31T01:53:11Z",
-            "mergedAt": "2025-12-31T02:25:24Z",
-            "closedAt": "2025-12-31T02:25:24Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 47,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -309,7 +309,7 @@
             },
             {
                 "date": "2026-01-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-14",

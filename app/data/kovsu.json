@@ -559,14 +559,38 @@
     },
     "pullRequest": [
         {
+            "number": 1592,
+            "title": "docs: add kovsu to committer team",
+            "url": "https://github.com/flint-fyi/flint/pull/1592",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-13T03:57:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1513,
             "title": "feat(plugin-flint): add `getStartSourceFile` rule to require sourceFile parameter",
             "url": "https://github.com/flint-fyi/flint/pull/1513",
             "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 80,
+            "changedFiles": 8,
+            "additions": 86,
             "deletions": 24,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-12T07:32:06Z",
             "mergedAt": null,
             "closedAt": null,
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1328,
-            "title": "fix(cli): config file link in vscode terminal",
-            "url": "https://github.com/flint-fyi/flint/pull/1328",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 2,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-01-07T07:15:58Z",
-            "mergedAt": "2026-01-07T18:17:43Z",
-            "closedAt": "2026-01-07T18:17:43Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 49,
+        "total": 50,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -852,7 +852,7 @@
             },
             {
                 "date": "2026-01-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-14",

@@ -189,6 +189,30 @@
     },
     "pullRequest": [
         {
+            "number": 878,
+            "title": "fix(styles): adjust margin-left on the menu-operate-modal",
+            "url": "https://github.com/soybeanjs/soybean-admin/pull/878",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-14T02:31:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "soybean-admin",
+                "nameWithOwner": "soybeanjs/soybean-admin",
+                "homepageUrl": "https://soybeanjs.cn",
+                "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-admin"
+            }
+        },
+        {
             "number": 171,
             "title": "chore(projects): :pencil: release v1.4.0",
             "url": "https://github.com/soybeanjs/soybean-admin-element-plus/pull/171",
@@ -403,34 +427,10 @@
                 },
                 "url": "https://github.com/soybeanjs/soybean-ui"
             }
-        },
-        {
-            "number": 89,
-            "title": "docs(components): modify Card docs.",
-            "url": "https://github.com/soybeanjs/soybean-ui/pull/89",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 100,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-23T12:38:47Z",
-            "mergedAt": "2025-12-24T01:01:32Z",
-            "closedAt": "2025-12-24T01:01:32Z",
-            "repository": {
-                "name": "soybean-ui",
-                "nameWithOwner": "soybeanjs/soybean-ui",
-                "homepageUrl": "https://ui.soybeanjs.cn",
-                "description": "An elegant and accessible UI library like shadcn for Vue3",
-                "owner": {
-                    "login": "soybeanjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
-                },
-                "url": "https://github.com/soybeanjs/soybean-ui"
-            }
         }
     ],
     "contributions": {
-        "total": 38,
+        "total": 39,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -486,7 +486,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-15",

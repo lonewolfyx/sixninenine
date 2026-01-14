@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23377,
+            "title": "fix(components): [rate] distinguish large size from default size",
+            "url": "https://github.com/element-plus/element-plus/pull/23377",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-14T01:03:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23372,
             "title": "fix(components): [rate] display abnormal when modelValue exceeds max",
             "url": "https://github.com/element-plus/element-plus/pull/23372",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
-        },
-        {
-            "number": 473,
-            "title": "feat(i18n): sync Draw.io panel language with app locale",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/473",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-31T02:38:06Z",
-            "mergedAt": "2025-12-31T02:48:02Z",
-            "closedAt": "2025-12-31T02:48:02Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
         }
     ],
     "contributions": {
-        "total": 47,
+        "total": 51,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -313,7 +313,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-01-15",

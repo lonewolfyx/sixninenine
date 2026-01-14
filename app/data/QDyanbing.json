@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56600,
+            "title": "feat: add semantic snap",
+            "url": "https://github.com/ant-design/ant-design/pull/56600",
+            "state": "OPEN",
+            "changedFiles": 126,
+            "additions": 51434,
+            "deletions": 90,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-01-14T00:53:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56592,
             "title": "docs(Table): add content semantic",
             "url": "https://github.com/ant-design/ant-design/pull/56592",
@@ -87,10 +111,10 @@
             "title": "[WIP] feat(llms): add raw markdown output support",
             "url": "https://github.com/ant-design/ant-design/pull/56561",
             "state": "OPEN",
-            "changedFiles": 132,
-            "additions": 52532,
-            "deletions": 331,
-            "totalCommentsCount": 16,
+            "changedFiles": 6,
+            "additions": 1098,
+            "deletions": 241,
+            "totalCommentsCount": 17,
             "createdAt": "2026-01-10T15:18:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56340,
-            "title": "fix: fix cursor style when Select has showSearch and disabled props",
-            "url": "https://github.com/ant-design/ant-design/pull/56340",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2025-12-24T00:42:48Z",
-            "mergedAt": "2025-12-24T02:14:19Z",
-            "closedAt": "2025-12-24T02:14:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 269,
+        "total": 270,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -356,7 +356,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-15",

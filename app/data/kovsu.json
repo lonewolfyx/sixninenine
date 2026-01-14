@@ -559,6 +559,30 @@
     },
     "pullRequest": [
         {
+            "number": 1715,
+            "title": "feat(cli): filter file changes in watch mode by cache",
+            "url": "https://github.com/flint-fyi/flint/pull/1715",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 61,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-14T02:28:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1592,
             "title": "docs: add kovsu to committer team",
             "url": "https://github.com/flint-fyi/flint/pull/1592",
@@ -773,34 +797,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1393,
-            "title": "fix: revert filter in collecting files",
-            "url": "https://github.com/flint-fyi/flint/pull/1393",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 11,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-08T02:32:46Z",
-            "mergedAt": "2026-01-08T07:10:56Z",
-            "closedAt": "2026-01-08T07:10:57Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 52,
+        "total": 53,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -856,7 +856,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-15",

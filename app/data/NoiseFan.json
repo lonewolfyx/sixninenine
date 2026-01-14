@@ -85,6 +85,30 @@
     },
     "pullRequest": [
         {
+            "number": 900,
+            "title": "feat: rebrand [WIP]",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/900",
+            "state": "OPEN",
+            "changedFiles": 47,
+            "additions": 2063,
+            "deletions": 592,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T06:42:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 896,
             "title": "docs(cn): merge docs-cn/sync-docs into docs-cn/dev",
             "url": "https://github.com/vitest-dev/docs-cn/pull/896",
@@ -299,34 +323,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 883,
-            "title": "docs(cn): release merge into dev",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/883",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-18T13:20:31Z",
-            "mergedAt": "2025-12-18T13:21:23Z",
-            "closedAt": "2025-12-18T13:21:23Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 29,
+        "total": 31,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -382,7 +382,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-15",

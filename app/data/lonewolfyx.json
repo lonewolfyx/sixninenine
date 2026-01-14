@@ -15,28 +15,28 @@
             "color": "#41b883",
             "size": 972433,
             "repoCount": 17,
-            "progress": "57.78"
+            "progress": "57.30"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 535591,
-            "repoCount": 25,
-            "progress": "31.82"
+            "size": 549500,
+            "repoCount": 26,
+            "progress": "32.38"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 88729,
             "repoCount": 18,
-            "progress": "5.27"
+            "progress": "5.23"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 78760,
             "repoCount": 27,
-            "progress": "4.68"
+            "progress": "4.64"
         },
         {
             "name": "SCSS",
@@ -578,11 +578,145 @@
                     ],
                     "totalCount": 1
                 }
+            },
+            {
+                "name": "Config Preset",
+                "createdAt": "2026-01-14T14:17:15Z",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/254921326?v=4",
+                "description": "Preset to manage ESLint, Prettier, Biome, Oxlint and other tools, let code style and quality specifications out of the box",
+                "email": null,
+                "location": null,
+                "login": "config-preset",
+                "url": "https://github.com/config-preset",
+                "websiteUrl": null,
+                "twitterUsername": null,
+                "repositories": {
+                    "totalCount": 1
+                },
+                "membersWithRole": {
+                    "nodes": [
+                        {
+                            "id": "MDQ6VXNlcjgyNzMwNjg=",
+                            "login": "lonewolfyx",
+                            "name": "OldDriver",
+                            "bio": "We are not producers, we are porters only.Love life and enjoy the fun.",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4",
+                            "company": null,
+                            "createdAt": "2014-07-26T04:56:04Z",
+                            "email": "olddrivero.king@qq.com",
+                            "location": "JiangSu,China",
+                            "twitterUsername": null,
+                            "url": "https://github.com/lonewolfyx",
+                            "websiteUrl": "https://lonewolfyx.vercel.app",
+                            "status": {
+                                "emoji": ":face_with_thermometer:",
+                                "message": "Out sick"
+                            }
+                        }
+                    ],
+                    "totalCount": 1
+                }
             }
         ],
-        "totalCount": 11
+        "totalCount": 12
     },
     "pullRequest": [
+        {
+            "number": 875,
+            "title": "feat: add new oxc brand logo",
+            "url": "https://github.com/pheralb/svgl/pull/875",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 58,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T14:55:10Z",
+            "mergedAt": "2026-01-14T17:41:54Z",
+            "closedAt": "2026-01-14T17:41:54Z",
+            "repository": {
+                "name": "svgl",
+                "nameWithOwner": "pheralb/svgl",
+                "homepageUrl": "https://svgl.app",
+                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+                "owner": {
+                    "login": "pheralb",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
+                },
+                "url": "https://github.com/pheralb/svgl"
+            }
+        },
+        {
+            "number": 874,
+            "title": "feat: add new vitejs brand logo",
+            "url": "https://github.com/pheralb/svgl/pull/874",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 64,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T14:51:37Z",
+            "mergedAt": "2026-01-14T17:41:37Z",
+            "closedAt": "2026-01-14T17:41:37Z",
+            "repository": {
+                "name": "svgl",
+                "nameWithOwner": "pheralb/svgl",
+                "homepageUrl": "https://svgl.app",
+                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+                "owner": {
+                    "login": "pheralb",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
+                },
+                "url": "https://github.com/pheralb/svgl"
+            }
+        },
+        {
+            "number": 873,
+            "title": "feat: add new rolldown brand logo",
+            "url": "https://github.com/pheralb/svgl/pull/873",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 46,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T14:49:24Z",
+            "mergedAt": "2026-01-14T17:41:07Z",
+            "closedAt": "2026-01-14T17:41:07Z",
+            "repository": {
+                "name": "svgl",
+                "nameWithOwner": "pheralb/svgl",
+                "homepageUrl": "https://svgl.app",
+                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+                "owner": {
+                    "login": "pheralb",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
+                },
+                "url": "https://github.com/pheralb/svgl"
+            }
+        },
+        {
+            "number": 872,
+            "title": "chore: new vitest brand logo",
+            "url": "https://github.com/pheralb/svgl/pull/872",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 31,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T14:46:00Z",
+            "mergedAt": "2026-01-14T17:40:36Z",
+            "closedAt": "2026-01-14T17:40:36Z",
+            "repository": {
+                "name": "svgl",
+                "nameWithOwner": "pheralb/svgl",
+                "homepageUrl": "https://svgl.app",
+                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+                "owner": {
+                    "login": "pheralb",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
+                },
+                "url": "https://github.com/pheralb/svgl"
+            }
+        },
         {
             "number": 2,
             "title": "refactor: Add generateShadcnRegistryItems functionality and optimize …",
@@ -726,106 +860,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 13,
-            "title": "refactor(index-ui): update index ui",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/13",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 140,
-            "deletions": 63,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-04T07:43:26Z",
-            "mergedAt": "2025-12-04T07:55:33Z",
-            "closedAt": "2025-12-04T07:55:34Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
-        },
-        {
-            "number": 818,
-            "title": "docs(mocking-functions): update content title",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/818",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-04T02:07:07Z",
-            "mergedAt": "2025-12-04T02:17:11Z",
-            "closedAt": "2025-12-04T02:17:11Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 5,
-            "title": "feat(shadcn-hub): add new registry Shadcn Ui Blocks",
-            "url": "https://github.com/lonewolfyx/shadcn-hub/pull/5",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 14,
-            "deletions": 8,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-03T12:09:21Z",
-            "mergedAt": "2025-12-03T12:27:11Z",
-            "closedAt": "2025-12-03T12:27:11Z",
-            "repository": {
-                "name": "shadcn-hub",
-                "nameWithOwner": "lonewolfyx/shadcn-hub",
-                "homepageUrl": "https://shadcn-hub.vercel.app",
-                "description": "A curated list of awesome things related to shadcn/ui.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-hub"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat(shadcn-hub): add new registry Cult Ui",
-            "url": "https://github.com/lonewolfyx/shadcn-hub/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 8,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-03T11:42:53Z",
-            "mergedAt": "2025-12-03T12:26:39Z",
-            "closedAt": "2025-12-03T12:26:39Z",
-            "repository": {
-                "name": "shadcn-hub",
-                "nameWithOwner": "lonewolfyx/shadcn-hub",
-                "homepageUrl": "https://shadcn-hub.vercel.app",
-                "description": "A curated list of awesome things related to shadcn/ui.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-hub"
-            }
         }
     ],
     "contributions": {
-        "total": 779,
+        "total": 812,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -881,7 +919,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 27
+                "count": 60
             },
             {
                 "date": "2026-01-15",

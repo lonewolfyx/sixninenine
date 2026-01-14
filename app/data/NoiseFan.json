@@ -85,17 +85,41 @@
     },
     "pullRequest": [
         {
+            "number": 901,
+            "title": "docs(cn): upadate `readme.md`",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/901",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 15,
+            "deletions": 7,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-14T14:29:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 900,
             "title": "feat: rebrand",
             "url": "https://github.com/vitest-dev/docs-cn/pull/900",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 15,
             "additions": 648,
             "deletions": 331,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 8,
             "createdAt": "2026-01-14T06:42:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-14T14:12:34Z",
+            "closedAt": "2026-01-14T14:12:34Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -299,34 +323,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 1,
-            "title": "docs(readme): update `best practices` and `extensions`",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 29,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-28T17:34:07Z",
-            "mergedAt": "2025-12-28T17:34:46Z",
-            "closedAt": "2025-12-28T17:34:46Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 32,
+        "total": 35,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -382,7 +382,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-01-15",

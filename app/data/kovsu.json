@@ -559,14 +559,86 @@
     },
     "pullRequest": [
         {
+            "number": 8869,
+            "title": "`repo-header-info` - Restore feature",
+            "url": "https://github.com/refined-github/refined-github/pull/8869",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-01-14T08:26:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
+            "number": 8868,
+            "title": "`repo-avatars` - Restore feature",
+            "url": "https://github.com/refined-github/refined-github/pull/8868",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-14T08:13:51Z",
+            "mergedAt": "2026-01-14T11:07:25Z",
+            "closedAt": "2026-01-14T11:07:25Z",
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
+            "number": 1734,
+            "title": "feat(plugin-flint): add `missingPlaceholders` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/1734",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 235,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-14T07:26:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1715,
             "title": "feat(cli): filter file changes in watch mode by cache",
             "url": "https://github.com/flint-fyi/flint/pull/1715",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 61,
-            "deletions": 2,
-            "totalCommentsCount": 5,
+            "changedFiles": 4,
+            "additions": 54,
+            "deletions": 1,
+            "totalCommentsCount": 8,
             "createdAt": "2026-01-14T02:28:39Z",
             "mergedAt": null,
             "closedAt": null,
@@ -611,10 +683,10 @@
             "title": "feat(plugin-flint): add `getStartSourceFile` rule to require sourceFile parameter",
             "url": "https://github.com/flint-fyi/flint/pull/1513",
             "state": "OPEN",
-            "changedFiles": 9,
-            "additions": 139,
+            "changedFiles": 8,
+            "additions": 134,
             "deletions": 25,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 18,
             "createdAt": "2026-01-12T07:32:06Z",
             "mergedAt": null,
             "closedAt": null,
@@ -725,82 +797,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1406,
-            "title": "fix(core): remove non-existent cached files",
-            "url": "https://github.com/flint-fyi/flint/pull/1406",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-09T01:40:50Z",
-            "mergedAt": "2026-01-09T17:11:37Z",
-            "closedAt": "2026-01-09T17:11:37Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 1397,
-            "title": "fix(core): merge cached file results into results",
-            "url": "https://github.com/flint-fyi/flint/pull/1397",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-08T07:16:00Z",
-            "mergedAt": "2026-01-08T19:47:19Z",
-            "closedAt": "2026-01-08T19:47:19Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 1394,
-            "title": "fix(cli): improve output that has multiple lines",
-            "url": "https://github.com/flint-fyi/flint/pull/1394",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 63,
-            "deletions": 20,
-            "totalCommentsCount": 23,
-            "createdAt": "2026-01-08T03:35:47Z",
-            "mergedAt": "2026-01-09T13:18:55Z",
-            "closedAt": "2026-01-09T13:18:55Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 53,
+        "total": 58,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -856,7 +856,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2026-01-15",

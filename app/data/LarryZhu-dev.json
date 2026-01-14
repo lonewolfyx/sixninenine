@@ -52,6 +52,30 @@
     },
     "pullRequest": [
         {
+            "number": 112,
+            "title": "refactor: 重构项目结构，将纠偏逻辑提取至独立文件",
+            "url": "https://github.com/Auto-Plugin/autofit.js/pull/112",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 368,
+            "deletions": 284,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-14T10:37:02Z",
+            "mergedAt": "2026-01-14T10:37:25Z",
+            "closedAt": "2026-01-14T10:37:25Z",
+            "repository": {
+                "name": "autofit.js",
+                "nameWithOwner": "Auto-Plugin/autofit.js",
+                "homepageUrl": "https://auto-plugin.github.io/autofit.js/",
+                "description": "autofit.js 迄今为止最易用的自适应工具",
+                "owner": {
+                    "login": "Auto-Plugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
+                },
+                "url": "https://github.com/Auto-Plugin/autofit.js"
+            }
+        },
+        {
             "number": 97,
             "title": "Handle read-only file saves",
             "url": "https://github.com/Auto-Plugin/milkup/pull/97",
@@ -266,34 +290,10 @@
                 },
                 "url": "https://github.com/syf47/Bastion-brotherhood"
             }
-        },
-        {
-            "number": 31,
-            "title": "feat: 新增 hidemod",
-            "url": "https://github.com/syf47/Bastion-brotherhood/pull/31",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 175,
-            "deletions": 90,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-22T07:00:40Z",
-            "mergedAt": "2025-07-22T07:00:55Z",
-            "closedAt": "2025-07-22T07:00:55Z",
-            "repository": {
-                "name": "Bastion-brotherhood",
-                "nameWithOwner": "syf47/Bastion-brotherhood",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "syf47",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76098945?u=f00162cc59a178b976c4295ca8a2e4247565d7cd&v=4"
-                },
-                "url": "https://github.com/syf47/Bastion-brotherhood"
-            }
         }
     ],
     "contributions": {
-        "total": 0,
+        "total": 2,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -349,7 +349,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-15",

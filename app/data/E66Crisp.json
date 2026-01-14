@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23382,
+            "title": "refactor(components): [divider] split line into left/right segments",
+            "url": "https://github.com/element-plus/element-plus/pull/23382",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 92,
+            "deletions": 21,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-01-14T07:06:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23377,
             "title": "fix(components): [rate] distinguish large size from default size",
             "url": "https://github.com/element-plus/element-plus/pull/23377",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 426,
-            "title": "docs: fix typo in isFog.vue documentation",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/426",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-06T02:38:22Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 52,
+        "total": 53,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -313,7 +313,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 5
+                "count": 6
             },
             {
                 "date": "2026-01-15",

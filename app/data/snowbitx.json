@@ -13,30 +13,30 @@
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 9084,
+            "size": 9222,
             "repoCount": 1,
-            "progress": "37.27"
+            "progress": "38.27"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 6568,
+            "size": 6142,
             "repoCount": 1,
-            "progress": "26.95"
+            "progress": "25.49"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 4629,
+            "size": 4641,
             "repoCount": 1,
-            "progress": "18.99"
+            "progress": "19.26"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 4090,
             "repoCount": 1,
-            "progress": "16.78"
+            "progress": "16.97"
         }
     ],
     "organizations": {
@@ -44,6 +44,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 798,
+            "title": "docs: prevent duplicate stylistic key in README example",
+            "url": "https://github.com/antfu/eslint-config/pull/798",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-14T21:08:26Z",
+            "mergedAt": "2026-01-15T00:01:32Z",
+            "closedAt": "2026-01-15T00:01:32Z",
+            "repository": {
+                "name": "eslint-config",
+                "nameWithOwner": "antfu/eslint-config",
+                "homepageUrl": "https://eslint-config.antfu.me/",
+                "description": "Anthony's ESLint config preset",
+                "owner": {
+                    "login": "antfu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
+                },
+                "url": "https://github.com/antfu/eslint-config"
+            }
+        },
         {
             "number": 889,
             "title": "docs(cn): fix semantic error ",
@@ -259,34 +283,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 69,
-            "title": "refactor(elements): remove props prefix",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/69",
-            "state": "CLOSED",
-            "changedFiles": 0,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-01T16:19:17Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-03T04:25:59Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 17,
+        "total": 22,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -342,11 +342,11 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-15",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-01-16",

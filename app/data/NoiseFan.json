@@ -26,76 +26,46 @@
         }
     ],
     "organizations": {
-        "nodes": [
-            {
-                "name": "ScaffoldCore",
-                "createdAt": "2025-06-04T08:19:55Z",
-                "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4",
-                "description": "Eliminate repetitive setup. Pre-configured production-ready frontend foundation",
-                "email": null,
-                "location": null,
-                "login": "ScaffoldCore",
-                "url": "https://github.com/ScaffoldCore",
-                "websiteUrl": "https://scaffold-core.vercel.app/",
-                "twitterUsername": null,
-                "repositories": {
-                    "totalCount": 6
-                },
-                "membersWithRole": {
-                    "nodes": [
-                        {
-                            "id": "MDQ6VXNlcjgyNzMwNjg=",
-                            "login": "lonewolfyx",
-                            "name": "OldDriver",
-                            "bio": "We are not producers, we are porters only.Love life and enjoy the fun.",
-                            "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4",
-                            "company": null,
-                            "createdAt": "2014-07-26T04:56:04Z",
-                            "email": "olddrivero.king@qq.com",
-                            "location": "JiangSu,China",
-                            "twitterUsername": null,
-                            "url": "https://github.com/lonewolfyx",
-                            "websiteUrl": "https://lonewolfyx.vercel.app",
-                            "status": {
-                                "emoji": ":face_with_thermometer:",
-                                "message": "Out sick"
-                            }
-                        },
-                        {
-                            "id": "MDQ6VXNlcjU5MDk0NjE0",
-                            "login": "NoiseFan",
-                            "name": "NoiseFan",
-                            "bio": "",
-                            "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
-                            "company": null,
-                            "createdAt": "2019-12-20T16:21:04Z",
-                            "email": "noisefan@163.com",
-                            "location": "China,Beijing",
-                            "twitterUsername": null,
-                            "url": "https://github.com/NoiseFan",
-                            "websiteUrl": null,
-                            "status": null
-                        }
-                    ],
-                    "totalCount": 2
-                }
-            }
-        ],
-        "totalCount": 1
+        "nodes": [],
+        "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1521,
+            "title": "docs(cn): update `Layout.vue` components of the sponsors content",
+            "url": "https://github.com/vitejs/docs-cn/pull/1521",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-01-15T07:14:18Z",
+            "mergedAt": "2026-01-15T09:50:51Z",
+            "closedAt": "2026-01-15T09:50:52Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitejs/docs-cn",
+                "homepageUrl": "https://cn.vite.dev",
+                "description": "Chinese translation of vite.dev",
+                "owner": {
+                    "login": "vitejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
+                },
+                "url": "https://github.com/vitejs/docs-cn"
+            }
+        },
         {
             "number": 903,
             "title": "docs(cn): update global `search` local translate",
             "url": "https://github.com/vitest-dev/docs-cn/pull/903",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 18,
             "deletions": 11,
             "totalCommentsCount": 1,
             "createdAt": "2026-01-15T06:56:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-15T07:17:40Z",
+            "closedAt": "2026-01-15T07:17:40Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -299,34 +269,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 7,
-            "title": "docs: add chinese `readme.md`",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/7",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 160,
-            "deletions": 40,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-29T17:08:06Z",
-            "mergedAt": "2025-12-30T05:37:58Z",
-            "closedAt": "2025-12-30T05:37:58Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 37,
+        "total": 40,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -386,7 +332,7 @@
             },
             {
                 "date": "2026-01-15",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-01-16",

@@ -6,7 +6,7 @@
         "url": "https://github.com/NoiseFan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
-        "followers": 11,
+        "followers": 12,
         "following": 8
     },
     "languages": [
@@ -84,6 +84,30 @@
         "totalCount": 1
     },
     "pullRequest": [
+        {
+            "number": 903,
+            "title": "docs(cn): update global `search` local translate",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/903",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 18,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-15T06:56:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
         {
             "number": 901,
             "title": "docs(cn): upadate `readme.md`",
@@ -299,34 +323,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 2,
-            "title": "perf(work.spec): optimization `batchProcessCatalog`",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/2",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 848,
-            "deletions": 165,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-28T20:51:42Z",
-            "mergedAt": "2025-12-29T01:36:14Z",
-            "closedAt": "2025-12-29T01:36:15Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 36,
+        "total": 37,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -386,7 +386,7 @@
             },
             {
                 "date": "2026-01-15",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-16",

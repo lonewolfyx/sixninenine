@@ -14,12 +14,12 @@ export const members: membersType[] = [
     { username: 'NoiseFan', aliasName: '澎澎同学' },
     { username: 'skyfeiz', aliasName: '一寸灰' },
     { username: 'keeplearning66' },
+    { username: 'snowbitx', aliasName: '社会哥' },
     { username: 'ffgenius', aliasName: '付伟斌' }, // 粉红色的回忆
     { username: 'heyrian', aliasName: '日安' }, // 日安小姐姐
     { username: 'LarryZhu-dev', aliasName: '朱永博' },
     { username: 'doyuli', aliasName: '阿沥' },
     { username: 'qianYuanJ' },
-    { username: 'snowbitx', aliasName: '社会哥' },
     { username: 'TAYUN', aliasName: '云阁' },
     { username: 'jsy-0526', aliasName: '阳哥' }, // 阳哥
     { username: 'wan-kong' },

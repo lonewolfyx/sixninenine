@@ -50,7 +50,7 @@ type OpenSourceMembersType = {
 }
 export const openSourceMembers: OpenSourceMembersType = {
     'Vue': {
-        contributors: ['jsy-0526'],
+        contributors: ['jsy-0526', 'ArthurDarkstone', 'skyfeiz'],
     },
     'Vue Use': {
         team: ['ilyaliao'],

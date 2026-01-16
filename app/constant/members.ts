@@ -13,11 +13,11 @@ export const members: membersType[] = [
     { username: 'broBinChen', aliasName: '木木哥' }, // 木木哥
     { username: 'NoiseFan', aliasName: '澎澎同学' },
     { username: 'skyfeiz', aliasName: '一寸灰' },
+    { username: 'keeplearning66' },
     { username: 'ffgenius', aliasName: '付伟斌' }, // 粉红色的回忆
     { username: 'heyrian', aliasName: '日安' }, // 日安小姐姐
     { username: 'LarryZhu-dev', aliasName: '朱永博' },
     { username: 'doyuli', aliasName: '阿沥' },
-    { username: 'keeplearning66' },
     { username: 'qianYuanJ' },
     { username: 'snowbitx', aliasName: '社会哥' },
     { username: 'TAYUN', aliasName: '云阁' },
@@ -71,7 +71,8 @@ export const openSourceMembers: OpenSourceMembersType = {
         contributors: ['lonewolfyx', 'pkc918', 'RYGRIT'],
     },
     'Element Plus': {
-        contributors: ['keeplearning66', 'snowbitx'],
+        team: ['keeplearning66'],
+        contributors: ['snowbitx'],
     },
     'Element Plus X': {
         team: ['yuguaa'],

@@ -5,7 +5,7 @@
         "bio": "",
         "url": "https://github.com/broBinChen",
         "avatarUrl": "https://avatars.githubusercontent.com/u/139344558?u=40936d4f1cc98f0dc8910ba7c605a687e2ad16d6&v=4",
-        "pronouns": "",
+        "pronouns": "he/him",
         "followers": 7,
         "following": 6
     },
@@ -15,6 +15,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 592,
+            "title": "fix: add missing @opentelemetry/api dependency",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/592",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-16T10:51:24Z",
+            "mergedAt": "2026-01-16T11:57:39Z",
+            "closedAt": "2026-01-16T11:57:39Z",
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
+            "number": 591,
+            "title": "Improve UX: Disable save button when diagram is empty",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/591",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-16T10:38:20Z",
+            "mergedAt": "2026-01-16T10:55:03Z",
+            "closedAt": "2026-01-16T10:55:03Z",
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
         {
             "number": 27,
             "title": "chore: update openSourceMembers",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 85,
-            "title": "refactor: replace deprecated addToolResult with addToolOutput",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/85",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-12-04T14:31:54Z",
-            "mergedAt": "2025-12-05T05:02:45Z",
-            "closedAt": "2025-12-05T05:02:45Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
-        },
-        {
-            "number": 82,
-            "title": "fix: clear files when clicking text-only examples",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/82",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-04T14:03:10Z",
-            "mergedAt": "2025-12-05T05:07:14Z",
-            "closedAt": "2025-12-05T05:07:14Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
         }
     ],
     "contributions": {
-        "total": 5,
+        "total": 9,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -321,7 +321,7 @@
             },
             {
                 "date": "2026-01-16",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-01-17",

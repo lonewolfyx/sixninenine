@@ -45,6 +45,30 @@
     },
     "pullRequest": [
         {
+            "number": 23413,
+            "title": "feat(components): [date-picker] support custom trigger slot",
+            "url": "https://github.com/element-plus/element-plus/pull/23413",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 26,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-17T11:45:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 798,
             "title": "docs: prevent duplicate stylistic key in README example",
             "url": "https://github.com/antfu/eslint-config/pull/798",
@@ -259,34 +283,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 73,
-            "title": "feat(InlineCitation): add loop mode support for circular scrolling",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/73",
-            "state": "CLOSED",
-            "changedFiles": 3,
-            "additions": 11,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-02T17:19:57Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-04T12:15:14Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 25,
+        "total": 26,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -354,7 +354,7 @@
             },
             {
                 "date": "2026-01-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-18",

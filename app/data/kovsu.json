@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 65,
+        "followers": 66,
         "following": 22
     },
     "languages": [
@@ -630,6 +630,30 @@
     },
     "pullRequest": [
         {
+            "number": 18680,
+            "title": "Fix playground not running reformat",
+            "url": "https://github.com/prettier/prettier/pull/18680",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-18T13:07:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 8869,
             "title": "`repo-header-info` - Restore feature",
             "url": "https://github.com/refined-github/refined-github/pull/8869",
@@ -844,34 +868,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1407,
-            "title": "feat(cli): dynamic data replacement in message",
-            "url": "https://github.com/flint-fyi/flint/pull/1407",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 48,
-            "deletions": 27,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-01-09T08:04:13Z",
-            "mergedAt": "2026-01-09T20:38:06Z",
-            "closedAt": "2026-01-09T20:38:06Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 63,
+        "total": 64,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -943,7 +943,7 @@
             },
             {
                 "date": "2026-01-18",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-19",

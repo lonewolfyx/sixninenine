@@ -38,6 +38,30 @@
     },
     "pullRequest": [
         {
+            "number": 23423,
+            "title": "refactor(components): [message] use type-based definitions",
+            "url": "https://github.com/element-plus/element-plus/pull/23423",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 91,
+            "deletions": 13,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-18T02:02:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 894,
             "title": "docs(cn): translate `config/index` missing content",
             "url": "https://github.com/vitest-dev/docs-cn/pull/894",
@@ -252,34 +276,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 824,
-            "title": "docs(cli): translate guide/cli and guide/cli-generated",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/824",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 31,
-            "deletions": 30,
-            "totalCommentsCount": 22,
-            "createdAt": "2025-12-05T17:02:45Z",
-            "mergedAt": "2025-12-05T17:08:01Z",
-            "closedAt": "2025-12-05T17:08:01Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 11,
+        "total": 12,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -351,7 +351,7 @@
             },
             {
                 "date": "2026-01-18",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-19",

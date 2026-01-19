@@ -16,14 +16,38 @@
     },
     "pullRequest": [
         {
+            "number": 23455,
+            "title": "refactor(components): [popconfirm] use type-based definitions",
+            "url": "https://github.com/element-plus/element-plus/pull/23455",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 86,
+            "deletions": 5,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-01-19T01:46:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23445,
             "title": "refactor(components): [notification] use type-based definitions",
             "url": "https://github.com/element-plus/element-plus/pull/23445",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 95,
-            "deletions": 14,
-            "totalCommentsCount": 4,
+            "changedFiles": 4,
+            "additions": 99,
+            "deletions": 23,
+            "totalCommentsCount": 7,
             "createdAt": "2026-01-18T11:15:25Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 29,
-            "title": "feat(members): add new member",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/29",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-12T01:54:20Z",
-            "mergedAt": "2026-01-12T11:57:22Z",
-            "closedAt": "2026-01-12T11:57:22Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 65,
+        "total": 66,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -333,7 +333,7 @@
             },
             {
                 "date": "2026-01-19",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-20",

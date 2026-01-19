@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 66,
+        "followers": 65,
         "following": 22
     },
     "languages": [
@@ -630,17 +630,41 @@
     },
     "pullRequest": [
         {
+            "number": 8976,
+            "title": "Add `ignoreMediaFeatureNameValues` to `media-feature-name-value-no-unknown`",
+            "url": "https://github.com/stylelint/stylelint/pull/8976",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 160,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-19T00:48:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 18680,
             "title": "Fix playground not running reformat",
             "url": "https://github.com/prettier/prettier/pull/18680",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 2,
             "createdAt": "2026-01-18T13:07:48Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-18T21:47:38Z",
+            "closedAt": "2026-01-18T21:47:38Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -706,10 +730,10 @@
             "title": "feat(plugin-flint): add `missingPlaceholders` rule",
             "url": "https://github.com/flint-fyi/flint/pull/1734",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 233,
+            "changedFiles": 4,
+            "additions": 326,
             "deletions": 1,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 11,
             "createdAt": "2026-01-14T07:26:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -731,7 +755,7 @@
             "url": "https://github.com/flint-fyi/flint/pull/1715",
             "state": "OPEN",
             "changedFiles": 4,
-            "additions": 71,
+            "additions": 67,
             "deletions": 10,
             "totalCommentsCount": 21,
             "createdAt": "2026-01-14T02:28:39Z",
@@ -844,34 +868,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1499,
-            "title": "chore: remove `canvaskit-wasm` from cspell and knip configurations",
-            "url": "https://github.com/flint-fyi/flint/pull/1499",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 6,
-            "deletions": 8,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-10T07:26:31Z",
-            "mergedAt": "2026-01-10T13:25:01Z",
-            "closedAt": "2026-01-10T13:25:01Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 64,
+        "total": 66,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -947,7 +947,7 @@
             },
             {
                 "date": "2026-01-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-20",

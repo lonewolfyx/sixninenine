@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 65,
+        "followers": 66,
         "following": 22
     },
     "languages": [
@@ -630,6 +630,54 @@
     },
     "pullRequest": [
         {
+            "number": 1829,
+            "title": "feat(plugin-flint): add `nodePropertyInChecks` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/1829",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 114,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-19T06:53:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 8977,
+            "title": "Fix `no-duplicate-selectors` false negatives for equivalent compound selectors",
+            "url": "https://github.com/stylelint/stylelint/pull/8977",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 171,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-19T03:05:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 8976,
             "title": "Add `ignoreMediaFeatureNameValues` to `media-feature-name-value-no-unknown`",
             "url": "https://github.com/stylelint/stylelint/pull/8976",
@@ -733,7 +781,7 @@
             "changedFiles": 4,
             "additions": 326,
             "deletions": 1,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 12,
             "createdAt": "2026-01-14T07:26:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -820,58 +868,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 18605,
-            "title": "Fix line breaks when css attribute values contain literal newlines",
-            "url": "https://github.com/prettier/prettier/pull/18605",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 111,
-            "deletions": 3,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-01-12T02:42:23Z",
-            "mergedAt": "2026-01-15T12:49:37Z",
-            "closedAt": "2026-01-15T12:49:37Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 1508,
-            "title": "fix(cli): correct output with multiple suggestions",
-            "url": "https://github.com/flint-fyi/flint/pull/1508",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 16,
-            "deletions": 7,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-11T05:46:40Z",
-            "mergedAt": "2026-01-12T04:31:51Z",
-            "closedAt": "2026-01-12T04:31:51Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 66,
+        "total": 68,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -947,7 +947,7 @@
             },
             {
                 "date": "2026-01-19",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-01-20",

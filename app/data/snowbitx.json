@@ -45,6 +45,30 @@
     },
     "pullRequest": [
         {
+            "number": 23462,
+            "title": "refactor(components): [splitter] use type-based definitions",
+            "url": "https://github.com/element-plus/element-plus/pull/23462",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 39,
+            "deletions": 8,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-19T05:04:23Z",
+            "mergedAt": "2026-01-19T06:07:28Z",
+            "closedAt": "2026-01-19T06:07:28Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23453,
             "title": "refactor(components): [segmented] use type-based definitions",
             "url": "https://github.com/element-plus/element-plus/pull/23453",
@@ -76,7 +100,7 @@
             "changedFiles": 2,
             "additions": 60,
             "deletions": 4,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-18T17:01:06Z",
             "mergedAt": null,
             "closedAt": null,
@@ -122,9 +146,9 @@
             "url": "https://github.com/element-plus/element-plus/pull/23450",
             "state": "OPEN",
             "changedFiles": 9,
-            "additions": 144,
+            "additions": 146,
             "deletions": 20,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-18T15:22:18Z",
             "mergedAt": null,
             "closedAt": null,
@@ -259,34 +283,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23418,
-            "title": "refactor(components): [card/calendar/carousel] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23418",
-            "state": "CLOSED",
-            "changedFiles": 10,
-            "additions": 209,
-            "deletions": 46,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-01-17T17:05:22Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-18T04:56:28Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 48,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -362,7 +362,7 @@
             },
             {
                 "date": "2026-01-19",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2026-01-20",

@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23457,
+            "title": "refactor(components): [avatar] use type-based definitions",
+            "url": "https://github.com/element-plus/element-plus/pull/23457",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 61,
+            "deletions": 14,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-01-19T02:44:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23455,
             "title": "refactor(components): [popconfirm] use type-based definitions",
             "url": "https://github.com/element-plus/element-plus/pull/23455",
@@ -23,7 +47,7 @@
             "changedFiles": 2,
             "additions": 86,
             "deletions": 5,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-19T01:46:50Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23368,
-            "title": "fix(components): [carousel] fix vertical indicator layout with label and outside",
-            "url": "https://github.com/element-plus/element-plus/pull/23368",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 34,
-            "deletions": 11,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-01-12T08:37:28Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 66,
+        "total": 67,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -333,7 +333,7 @@
             },
             {
                 "date": "2026-01-19",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-20",

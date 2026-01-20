@@ -16,17 +16,65 @@
     },
     "pullRequest": [
         {
+            "number": 4,
+            "title": "fix(demo): 修复计数器在离开视口时未停止的问题",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/4",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 9,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-20T12:15:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
+        {
+            "number": 3,
+            "title": "Update count increment logic in Demo.vue",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/3",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-20T11:45:31Z",
+            "mergedAt": null,
+            "closedAt": "2026-01-20T11:59:50Z",
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
+        {
             "number": 617,
             "title": "fix: replace ring with border for provider selection state",
             "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/617",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 3,
             "createdAt": "2026-01-20T06:26:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-20T10:14:18Z",
+            "closedAt": "2026-01-20T10:14:19Z",
             "repository": {
                 "name": "next-ai-draw-io",
                 "nameWithOwner": "DayuanJiang/next-ai-draw-io",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 99,
-            "title": "chore(docs): replace non-existent Input component with PromptInput in examples",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/99",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 18,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-10T06:38:35Z",
-            "mergedAt": "2025-12-10T08:48:44Z",
-            "closedAt": "2025-12-10T08:48:44Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
-        },
-        {
-            "number": 98,
-            "title": "chore(docs): fix incorrect component usage in Message component example",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/98",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-10T02:03:49Z",
-            "mergedAt": "2025-12-10T03:27:27Z",
-            "closedAt": "2025-12-10T03:27:27Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 10,
+        "total": 15,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -337,7 +337,7 @@
             },
             {
                 "date": "2026-01-20",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2026-01-21",

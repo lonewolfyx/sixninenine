@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 617,
+            "title": "fix: replace ring with border for provider selection state",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/617",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-20T06:26:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
             "number": 592,
             "title": "fix: add missing @opentelemetry/api dependency",
             "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/592",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vuepont/ai-elements-vue"
             }
-        },
-        {
-            "number": 97,
-            "title": "chore(docs): fix typo in Confirmation component props documentation",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/97",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-10T02:01:09Z",
-            "mergedAt": "2025-12-10T03:24:30Z",
-            "closedAt": "2025-12-10T03:24:30Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 9,
+        "total": 10,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -337,7 +337,7 @@
             },
             {
                 "date": "2026-01-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-21",

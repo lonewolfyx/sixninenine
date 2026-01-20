@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 56670,
+            "title": "feat: add semantic ci",
+            "url": "https://github.com/ant-design/ant-design/pull/56670",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-20T04:25:26Z",
+            "mergedAt": "2026-01-20T06:30:36Z",
+            "closedAt": "2026-01-20T06:30:36Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56668,
             "title": "docs: fix Pagination size",
             "url": "https://github.com/ant-design/ant-design/pull/56668",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 10,
             "createdAt": "2026-01-20T02:22:56Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-20T06:59:26Z",
+            "closedAt": "2026-01-20T06:59:26Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -136,7 +160,7 @@
             "url": "https://github.com/ant-design/ant-design/pull/56561",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 1505,
+            "additions": 1693,
             "deletions": 569,
             "totalCommentsCount": 23,
             "createdAt": "2026-01-10T15:18:27Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/trigger"
             }
-        },
-        {
-            "number": 773,
-            "title": "fix(Form.List): do not skip list root when no child field entities exist",
-            "url": "https://github.com/react-component/field-form/pull/773",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 42,
-            "deletions": 2,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-29T10:48:25Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-04T09:59:12Z",
-            "repository": {
-                "name": "field-form",
-                "nameWithOwner": "react-component/field-form",
-                "homepageUrl": "https://field-form.react-component.now.sh/",
-                "description": "⚡️ React Performance First Form Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/field-form"
-            }
         }
     ],
     "contributions": {
-        "total": 397,
+        "total": 400,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -380,7 +380,7 @@
             },
             {
                 "date": "2026-01-20",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-01-21",

@@ -569,12 +569,36 @@
     },
     "pullRequest": [
         {
+            "number": 45,
+            "title": "fix(ComponentSource): import path replacement logic",
+            "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/45",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 21,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T03:59:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "elevenlabs-ui-vue",
+                "nameWithOwner": "vuepont/elevenlabs-ui-vue",
+                "homepageUrl": "http://elevenlabs-ui-vue.com/",
+                "description": "ElevenLabs UI Vue is a component library and custom registry built on top of shadcn-vue to help you build multimodal agents faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/elevenlabs-ui-vue"
+            }
+        },
+        {
             "number": 44,
             "title": "fix(registry): optimization of development types definition mapping support",
             "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/44",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 8,
+            "additions": 6,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-01-21T02:32:35Z",
@@ -783,34 +807,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1,
-            "title": "Inital Project",
-            "url": "https://github.com/ScaffoldCore/shadcn-vue-registry/pull/1",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 4204,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-05T13:21:03Z",
-            "mergedAt": "2025-12-05T13:21:12Z",
-            "closedAt": "2025-12-05T13:21:12Z",
-            "repository": {
-                "name": "shadcn-vue-registry",
-                "nameWithOwner": "ScaffoldCore/shadcn-vue-registry",
-                "homepageUrl": "",
-                "description": "⚙️ quickly construct the registry.json files required for shadcn-vue",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/shadcn-vue-registry"
-            }
         }
     ],
     "contributions": {
-        "total": 1169,
+        "total": 1179,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -894,7 +894,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 11
+                "count": 21
             },
             {
                 "date": "2026-01-22",

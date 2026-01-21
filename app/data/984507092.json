@@ -66,17 +66,41 @@
     },
     "pullRequest": [
         {
+            "number": 244,
+            "title": "feat(DocumentSidebar): enhance folder and file renaming functionality",
+            "url": "https://github.com/xun082/DocFlow/pull/244",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 85,
+            "deletions": 43,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-21T04:16:40Z",
+            "mergedAt": "2026-01-21T06:14:08Z",
+            "closedAt": "2026-01-21T06:14:08Z",
+            "repository": {
+                "name": "DocFlow",
+                "nameWithOwner": "xun082/DocFlow",
+                "homepageUrl": "https://www.codecrack.cn/",
+                "description": "AI-powered docs ✍️ Built with Tiptap & Next.js — real-time collab ⚡, smart writing 🤖, and a flexible plugin system 🔌",
+                "owner": {
+                    "login": "xun082",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/73689580?u=cb69b54830cec9091f4ff4d713cafb473967ad59&v=4"
+                },
+                "url": "https://github.com/xun082/DocFlow"
+            }
+        },
+        {
             "number": 240,
             "title": "chore: update sidebar component and context menu functionality",
             "url": "https://github.com/xun082/DocFlow/pull/240",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 213,
             "deletions": 20,
             "totalCommentsCount": 10,
             "createdAt": "2026-01-19T11:38:47Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-21T04:23:22Z",
+            "closedAt": "2026-01-21T04:23:22Z",
             "repository": {
                 "name": "DocFlow",
                 "nameWithOwner": "xun082/DocFlow",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 55043,
-            "title": "feat(card): Support better customization with semantic classNames/styles as function",
-            "url": "https://github.com/ant-design/ant-design/pull/55043",
-            "state": "CLOSED",
-            "changedFiles": 6,
-            "additions": 200,
-            "deletions": 69,
-            "totalCommentsCount": 20,
-            "createdAt": "2025-09-17T02:19:28Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-23T11:17:00Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 9,
+        "total": 13,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -391,7 +391,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-01-22",

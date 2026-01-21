@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 9,
+            "title": "docs: Improve render freeze visualization in demo",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/9",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 32,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T03:30:03Z",
+            "mergedAt": "2026-01-21T06:35:52Z",
+            "closedAt": "2026-01-21T06:35:52Z",
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
+        {
             "number": 4,
             "title": "fix(demo): 修复计数器在离开视口时未停止的问题",
             "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/4",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/DayuanJiang/next-ai-draw-io"
             }
-        },
-        {
-            "number": 101,
-            "title": "chore(docs): use `experimental_useObject` API in code-block example",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/101",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-10T07:02:17Z",
-            "mergedAt": "2025-12-10T08:55:59Z",
-            "closedAt": "2025-12-10T08:55:59Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 15,
+        "total": 17,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -341,7 +341,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-22",

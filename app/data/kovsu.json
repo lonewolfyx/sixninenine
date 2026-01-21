@@ -630,6 +630,30 @@
     },
     "pullRequest": [
         {
+            "number": 1856,
+            "title": "fix(core): convert gitignore patterns to glob exclude patterns",
+            "url": "https://github.com/flint-fyi/flint/pull/1856",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-21T06:13:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1846,
             "title": "docs: correct arg attribute to args",
             "url": "https://github.com/flint-fyi/flint/pull/1846",
@@ -844,34 +868,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1715,
-            "title": "feat(cli): filter file changes in watch mode by cache",
-            "url": "https://github.com/flint-fyi/flint/pull/1715",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 67,
-            "deletions": 10,
-            "totalCommentsCount": 21,
-            "createdAt": "2026-01-14T02:28:39Z",
-            "mergedAt": "2026-01-19T14:10:27Z",
-            "closedAt": "2026-01-19T14:10:27Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 76,
+        "total": 77,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -955,7 +955,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-01-22",

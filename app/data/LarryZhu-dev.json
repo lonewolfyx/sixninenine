@@ -52,6 +52,30 @@
     },
     "pullRequest": [
         {
+            "number": 133,
+            "title": "Larry refactor",
+            "url": "https://github.com/Auto-Plugin/milkup/pull/133",
+            "state": "OPEN",
+            "changedFiles": 71,
+            "additions": 778,
+            "deletions": 652,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T06:55:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "milkup",
+                "nameWithOwner": "Auto-Plugin/milkup",
+                "homepageUrl": "https://milkup.dev",
+                "description": "a free WYSIWYG desktop markdown editor",
+                "owner": {
+                    "login": "Auto-Plugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
+                },
+                "url": "https://github.com/Auto-Plugin/milkup"
+            }
+        },
+        {
             "number": 112,
             "title": "refactor: 重构项目结构，将纠偏逻辑提取至独立文件",
             "url": "https://github.com/Auto-Plugin/autofit.js/pull/112",
@@ -266,34 +290,10 @@
                 },
                 "url": "https://github.com/syf47/Bastion-brotherhood"
             }
-        },
-        {
-            "number": 32,
-            "title": "fix: 修复 hover 不住的问题",
-            "url": "https://github.com/syf47/Bastion-brotherhood/pull/32",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 34,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-07-22T07:13:58Z",
-            "mergedAt": "2025-07-22T07:14:04Z",
-            "closedAt": "2025-07-22T07:14:04Z",
-            "repository": {
-                "name": "Bastion-brotherhood",
-                "nameWithOwner": "syf47/Bastion-brotherhood",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "syf47",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76098945?u=f00162cc59a178b976c4295ca8a2e4247565d7cd&v=4"
-                },
-                "url": "https://github.com/syf47/Bastion-brotherhood"
-            }
         }
     ],
     "contributions": {
-        "total": 2,
+        "total": 3,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -377,7 +377,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-22",

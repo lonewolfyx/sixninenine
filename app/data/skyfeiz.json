@@ -189,17 +189,41 @@
     },
     "pullRequest": [
         {
+            "number": 886,
+            "title": "fix(projects): fix NButton props conflicts.",
+            "url": "https://github.com/soybeanjs/soybean-admin/pull/886",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T12:15:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "soybean-admin",
+                "nameWithOwner": "soybeanjs/soybean-admin",
+                "homepageUrl": "https://soybeanjs.cn",
+                "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-admin"
+            }
+        },
+        {
             "number": 885,
             "title": "fix(projects): fix the long list TableColumnSetting component exceeds the viewport.",
             "url": "https://github.com/soybeanjs/soybean-admin/pull/885",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 1,
             "createdAt": "2026-01-21T06:40:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-21T08:29:02Z",
+            "closedAt": "2026-01-21T08:29:03Z",
             "repository": {
                 "name": "soybean-admin",
                 "nameWithOwner": "soybeanjs/soybean-admin",
@@ -403,34 +427,10 @@
                 },
                 "url": "https://github.com/antfu/starter-vscode"
             }
-        },
-        {
-            "number": 169,
-            "title": "fix(other): :pencil: add a comment regarding disabling mock data.",
-            "url": "https://github.com/soybeanjs/soybean-admin-element-plus/pull/169",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-30T08:03:48Z",
-            "mergedAt": "2025-12-30T08:04:58Z",
-            "closedAt": "2025-12-30T08:04:58Z",
-            "repository": {
-                "name": "soybean-admin-element-plus",
-                "nameWithOwner": "soybeanjs/soybean-admin-element-plus",
-                "homepageUrl": "https://elp.soybeanjs.cn",
-                "description": "一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus 和 UnoCSS。A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, rolldown-vite, TypeScript, Pinia, ElementPlus and UnoCSS.",
-                "owner": {
-                    "login": "soybeanjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
-                },
-                "url": "https://github.com/soybeanjs/soybean-admin-element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 47,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -514,7 +514,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-01-22",

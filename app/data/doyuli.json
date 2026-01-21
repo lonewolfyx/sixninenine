@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat: support deep freeze in lazy-render",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/10",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 66,
+            "deletions": 20,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T08:57:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
+        {
             "number": 25,
             "title": "docs: fix typo attribute from 'auto-focus' to 'autofocus'",
             "url": "https://github.com/wobsoriano/vue-input-otp/pull/25",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 4807,
-            "title": "pref(watchIgnorable): remove additional responsive ref",
-            "url": "https://github.com/vueuse/vueuse/pull/4807",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 14,
-            "deletions": 14,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-09T08:54:02Z",
-            "mergedAt": "2025-06-11T08:47:57Z",
-            "closedAt": "2025-06-11T08:47:57Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 65,
+        "total": 67,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -398,7 +398,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-22",

@@ -569,6 +569,30 @@
     },
     "pullRequest": [
         {
+            "number": 44,
+            "title": "fix(registry): optimization of development types definition mapping support",
+            "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/44",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-21T02:32:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "elevenlabs-ui-vue",
+                "nameWithOwner": "vuepont/elevenlabs-ui-vue",
+                "homepageUrl": "http://elevenlabs-ui-vue.com/",
+                "description": "ElevenLabs UI Vue is a component library and custom registry built on top of shadcn-vue to help you build multimodal agents faster.",
+                "owner": {
+                    "login": "vuepont",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
+                },
+                "url": "https://github.com/vuepont/elevenlabs-ui-vue"
+            }
+        },
+        {
             "number": 875,
             "title": "feat: add new oxc brand logo",
             "url": "https://github.com/pheralb/svgl/pull/875",
@@ -783,34 +807,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/shadcn-vue-registry"
             }
-        },
-        {
-            "number": 80,
-            "title": "chore(ci): add pr contributor welcome workflow",
-            "url": "https://github.com/vuepont/ai-elements-vue/pull/80",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 37,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-04T14:35:24Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-09T06:27:45Z",
-            "repository": {
-                "name": "ai-elements-vue",
-                "nameWithOwner": "vuepont/ai-elements-vue",
-                "homepageUrl": "https://www.ai-elements-vue.com",
-                "description": "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/ai-elements-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 1155,
+        "total": 1169,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -890,11 +890,11 @@
             },
             {
                 "date": "2026-01-20",
-                "count": 41
+                "count": 49
             },
             {
                 "date": "2026-01-21",
-                "count": 5
+                "count": 11
             },
             {
                 "date": "2026-01-22",

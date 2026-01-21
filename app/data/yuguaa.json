@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4",
         "pronouns": "he/him",
         "followers": 27,
-        "following": 19
+        "following": 20
     },
     "languages": [
         {
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 8,
+            "title": "docs: update terminology from \"Update Count\" to \"Timing\" in Demo",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/8",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 11,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-21T01:01:13Z",
+            "mergedAt": "2026-01-21T02:05:09Z",
+            "closedAt": "2026-01-21T02:05:09Z",
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
         {
             "number": 32,
             "title": "fix:完善文档",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 13,
-            "title": "feat: refactor code block theming to use Shiki themes and remove legacy theme props",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/13",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 358,
-            "deletions": 514,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-04T03:04:19Z",
-            "mergedAt": "2025-12-04T03:04:36Z",
-            "closedAt": "2025-12-04T03:04:36Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 7,
+        "total": 10,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -521,7 +521,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-01-22",

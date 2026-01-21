@@ -13,9 +13,9 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 597999,
+            "size": 598251,
             "repoCount": 3,
-            "progress": "78.16"
+            "progress": "78.17"
         },
         {
             "name": "JavaScript",
@@ -29,7 +29,7 @@
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "7.25"
+            "progress": "7.24"
         },
         {
             "name": "HTML",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56680,
+            "title": "feat: add controlled collapsed support for Splitter.Panel",
+            "url": "https://github.com/ant-design/ant-design/pull/56680",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 261,
+            "deletions": 40,
+            "totalCommentsCount": 14,
+            "createdAt": "2026-01-21T01:34:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 56670,
             "title": "feat: add semantic ci",
@@ -162,7 +186,7 @@
             "changedFiles": 10,
             "additions": 1693,
             "deletions": 569,
-            "totalCommentsCount": 23,
+            "totalCommentsCount": 24,
             "createdAt": "2026-01-10T15:18:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 601,
-            "title": "fix(trigger): avoid render-based reset for interaction-level deduplication",
-            "url": "https://github.com/react-component/trigger/pull/601",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 158,
-            "deletions": 16,
-            "totalCommentsCount": 8,
-            "createdAt": "2025-12-30T02:02:18Z",
-            "mergedAt": "2026-01-04T09:10:30Z",
-            "closedAt": "2026-01-04T09:10:30Z",
-            "repository": {
-                "name": "trigger",
-                "nameWithOwner": "react-component/trigger",
-                "homepageUrl": "http://react-component.github.io/trigger/",
-                "description": "Abstract React Trigger",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/trigger"
-            }
         }
     ],
     "contributions": {
-        "total": 420,
+        "total": 439,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -384,7 +384,7 @@
             },
             {
                 "date": "2026-01-21",
-                "count": 0
+                "count": 19
             },
             {
                 "date": "2026-01-22",

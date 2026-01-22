@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 849,
+            "title": "fix: add popupRender to SubMenuType",
+            "url": "https://github.com/react-component/menu/pull/849",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-22T09:04:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "menu",
+                "nameWithOwner": "react-component/menu",
+                "homepageUrl": "https://menu.react-component.now.sh/",
+                "description": "React Menu",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/menu"
+            }
+        },
+        {
             "number": 56705,
             "title": "[WIP] feat: add SKILLS",
             "url": "https://github.com/ant-design/ant-design/pull/56705",
@@ -66,7 +90,7 @@
             "changedFiles": 1,
             "additions": 22,
             "deletions": 0,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-22T03:00:56Z",
             "mergedAt": null,
             "closedAt": null,
@@ -206,14 +230,14 @@
             "number": 56561,
             "title": "feat(llms): add raw markdown output support",
             "url": "https://github.com/ant-design/ant-design/pull/56561",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 13,
             "additions": 1719,
             "deletions": 582,
             "totalCommentsCount": 48,
             "createdAt": "2026-01-10T15:18:27Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-22T08:15:02Z",
+            "closedAt": "2026-01-22T08:15:02Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1433,
-            "title": "fix(table): guard virtual rowSpan height calc when data shrinks",
-            "url": "https://github.com/react-component/table/pull/1433",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 94,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-01-04T01:13:23Z",
-            "mergedAt": "2026-01-04T06:54:05Z",
-            "closedAt": "2026-01-04T06:54:05Z",
-            "repository": {
-                "name": "table",
-                "nameWithOwner": "react-component/table",
-                "homepageUrl": "https://table-react-component.vercel.app",
-                "description": "React Table",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/table"
-            }
         }
     ],
     "contributions": {
-        "total": 458,
+        "total": 460,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -388,7 +388,7 @@
             },
             {
                 "date": "2026-01-22",
-                "count": 19
+                "count": 21
             },
             {
                 "date": "2026-01-23",

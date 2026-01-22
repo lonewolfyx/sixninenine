@@ -20,7 +20,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 477997,
+            "size": 478068,
             "repoCount": 27,
             "progress": "28.92"
         },
@@ -570,13 +570,13 @@
     "pullRequest": [
         {
             "number": 45,
-            "title": "fix(ComponentSource): import path replacement logic",
+            "title": "fix(ComponentSource): correct import path replacement for @repo paths",
             "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/45",
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 14,
             "deletions": 21,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-01-21T03:59:00Z",
             "mergedAt": null,
             "closedAt": null,
@@ -594,7 +594,7 @@
         },
         {
             "number": 44,
-            "title": "fix(registry): optimization of development types definition mapping support",
+            "title": "fix(registry): include missing @types packages in devDependencies",
             "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/44",
             "state": "OPEN",
             "changedFiles": 1,
@@ -810,7 +810,7 @@
         }
     ],
     "contributions": {
-        "total": 1235,
+        "total": 1240,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -898,7 +898,7 @@
             },
             {
                 "date": "2026-01-22",
-                "count": 14
+                "count": 19
             },
             {
                 "date": "2026-01-23",

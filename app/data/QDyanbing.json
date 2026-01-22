@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 598251,
+            "size": 598503,
             "repoCount": 3,
             "progress": "78.17"
         },
@@ -22,7 +22,7 @@
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "13.33"
+            "progress": "13.32"
         },
         {
             "name": "CSS",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56705,
+            "title": "[WIP] feat: add SKILLS",
+            "url": "https://github.com/ant-design/ant-design/pull/56705",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 22,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-01-22T03:00:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 56680,
             "title": "feat: add controlled collapsed support for Splitter.Panel",
@@ -184,9 +208,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/56561",
             "state": "OPEN",
             "changedFiles": 13,
-            "additions": 1852,
-            "deletions": 583,
-            "totalCommentsCount": 38,
+            "additions": 1719,
+            "deletions": 582,
+            "totalCommentsCount": 48,
             "createdAt": "2026-01-10T15:18:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/table"
             }
-        },
-        {
-            "number": 56425,
-            "title": "fix(Table): skip mounting FilterDropdown in measure header",
-            "url": "https://github.com/ant-design/ant-design/pull/56425",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 31,
-            "deletions": 525,
-            "totalCommentsCount": 12,
-            "createdAt": "2025-12-30T13:09:21Z",
-            "mergedAt": "2025-12-31T01:41:14Z",
-            "closedAt": "2025-12-31T01:41:14Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 439,
+        "total": 458,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -388,7 +388,7 @@
             },
             {
                 "date": "2026-01-22",
-                "count": 0
+                "count": 19
             },
             {
                 "date": "2026-01-23",

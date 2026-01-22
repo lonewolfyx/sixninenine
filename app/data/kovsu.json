@@ -630,6 +630,54 @@
     },
     "pullRequest": [
         {
+            "number": 1908,
+            "title": "feat(core): validate config rules on loading",
+            "url": "https://github.com/flint-fyi/flint/pull/1908",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 54,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-22T06:27:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 1907,
+            "title": "feat(plugin-flint): add `testShorthands` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/1907",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 150,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-22T03:10:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1856,
             "title": "fix(core): convert gitignore patterns to glob exclude patterns",
             "url": "https://github.com/flint-fyi/flint/pull/1856",
@@ -820,58 +868,10 @@
                 },
                 "url": "https://github.com/refined-github/refined-github"
             }
-        },
-        {
-            "number": 8868,
-            "title": "`repo-avatars` - Restore feature",
-            "url": "https://github.com/refined-github/refined-github/pull/8868",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-14T08:13:51Z",
-            "mergedAt": "2026-01-14T11:07:25Z",
-            "closedAt": "2026-01-14T11:07:25Z",
-            "repository": {
-                "name": "refined-github",
-                "nameWithOwner": "refined-github/refined-github",
-                "homepageUrl": "",
-                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
-                "owner": {
-                    "login": "refined-github",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
-                },
-                "url": "https://github.com/refined-github/refined-github"
-            }
-        },
-        {
-            "number": 1734,
-            "title": "feat(plugin-flint): add `missingPlaceholders` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/1734",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 326,
-            "deletions": 1,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-01-14T07:26:09Z",
-            "mergedAt": "2026-01-19T14:27:49Z",
-            "closedAt": "2026-01-19T14:27:49Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 78,
+        "total": 80,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -959,7 +959,7 @@
             },
             {
                 "date": "2026-01-22",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-01-23",

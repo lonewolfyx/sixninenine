@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "feat: categorize pnpm workspace dependencies",
+            "url": "https://github.com/antdv-next/antdv-next/pull/19",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 1388,
+            "deletions": 1197,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-22T02:39:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 2,
             "title": "feat: add `useForm` hook for advanced form management",
             "url": "https://github.com/lonewolfyx/shadcn-vue-hooks/pull/2",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vue-blocks/vue-blocks"
             }
-        },
-        {
-            "number": 24,
-            "title": "docs(code): style optimization",
-            "url": "https://github.com/vue-blocks/vue-blocks/pull/24",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-19T16:39:34Z",
-            "mergedAt": "2025-09-22T09:07:03Z",
-            "closedAt": "2025-09-22T09:07:04Z",
-            "repository": {
-                "name": "vue-blocks",
-                "nameWithOwner": "vue-blocks/vue-blocks",
-                "homepageUrl": "https://vue-blocks.dev",
-                "description": "The ultimate front-end building block library specifically designed for Vue",
-                "owner": {
-                    "login": "vue-blocks",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/229491368?v=4"
-                },
-                "url": "https://github.com/vue-blocks/vue-blocks"
-            }
         }
     ],
     "contributions": {
-        "total": 6,
+        "total": 7,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -402,7 +402,7 @@
             },
             {
                 "date": "2026-01-22",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-23",

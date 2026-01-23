@@ -630,6 +630,30 @@
     },
     "pullRequest": [
         {
+            "number": 2015,
+            "title": "docs: update flint rules documention",
+            "url": "https://github.com/flint-fyi/flint/pull/2015",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 249,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-23T07:39:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 1908,
             "title": "feat(core): validate config rules on loading",
             "url": "https://github.com/flint-fyi/flint/pull/1908",
@@ -661,7 +685,7 @@
             "changedFiles": 50,
             "additions": 589,
             "deletions": 704,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-22T03:10:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -844,34 +868,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 8869,
-            "title": "`repo-header-info` - Restore feature",
-            "url": "https://github.com/refined-github/refined-github/pull/8869",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-14T08:26:08Z",
-            "mergedAt": "2026-01-22T10:11:29Z",
-            "closedAt": "2026-01-22T10:11:29Z",
-            "repository": {
-                "name": "refined-github",
-                "nameWithOwner": "refined-github/refined-github",
-                "homepageUrl": "",
-                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
-                "owner": {
-                    "login": "refined-github",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
-                },
-                "url": "https://github.com/refined-github/refined-github"
-            }
         }
     ],
     "contributions": {
-        "total": 78,
+        "total": 79,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -963,7 +963,7 @@
             },
             {
                 "date": "2026-01-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-24",

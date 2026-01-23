@@ -6,7 +6,7 @@
         "url": "https://github.com/yuguaa",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4",
         "pronouns": "he/him",
-        "followers": 27,
+        "followers": 26,
         "following": 22
     },
     "languages": [
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 2236,
+            "title": "Remove unused imports in editor.tsx",
+            "url": "https://github.com/Milkdown/milkdown/pull/2236",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-23T07:37:30Z",
+            "mergedAt": null,
+            "closedAt": "2026-01-23T08:07:24Z",
+            "repository": {
+                "name": "milkdown",
+                "nameWithOwner": "Milkdown/milkdown",
+                "homepageUrl": "https://milkdown.dev",
+                "description": "🍼 Plugin driven WYSIWYG  markdown editor framework.",
+                "owner": {
+                    "login": "Milkdown",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/125342561?v=4"
+                },
+                "url": "https://github.com/Milkdown/milkdown"
+            }
+        },
         {
             "number": 8,
             "title": "docs: update terminology from \"Update Count\" to \"Timing\" in Demo",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 16,
-            "title": "chore:codeBlock mermaid",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/16",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 2465,
-            "deletions": 1204,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-04T08:39:44Z",
-            "mergedAt": "2025-12-04T08:40:02Z",
-            "closedAt": "2025-12-04T08:40:02Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 10,
+        "total": 12,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -529,7 +529,7 @@
             },
             {
                 "date": "2026-01-23",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-24",

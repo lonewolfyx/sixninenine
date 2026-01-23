@@ -143,14 +143,38 @@
     },
     "pullRequest": [
         {
+            "number": 23507,
+            "title": "fix(components): [select/select-v2] avoid triggering multiple `visible-change` during the first search",
+            "url": "https://github.com/element-plus/element-plus/pull/23507",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-23T01:37:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23495,
-            "title": "docs(components): [timeline] add a tip about padding",
+            "title": "docs(components): [timeline] add a tip about `padding`",
             "url": "https://github.com/element-plus/element-plus/pull/23495",
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 6,
             "deletions": 0,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-01-21T12:51:07Z",
             "mergedAt": null,
             "closedAt": null,
@@ -357,34 +381,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23138,
-            "title": "fix(components): [input-tag] correct the tooltip theme and the style of the collapse tag",
-            "url": "https://github.com/element-plus/element-plus/pull/23138",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 15,
-            "deletions": 2,
-            "totalCommentsCount": 14,
-            "createdAt": "2025-12-17T01:53:57Z",
-            "mergedAt": "2026-01-12T01:39:31Z",
-            "closedAt": "2026-01-12T01:39:31Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 64,
+        "total": 65,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -476,7 +476,7 @@
             },
             {
                 "date": "2026-01-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-24",

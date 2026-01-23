@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 56722,
+            "title": "style: refactor pagination layout to inline-flex",
+            "url": "https://github.com/ant-design/ant-design/pull/56722",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 11,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-01-23T02:19:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56715,
             "title": "fix: align pagination container items vertically",
             "url": "https://github.com/ant-design/ant-design/pull/56715",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 1,
             "totalCommentsCount": 10,
             "createdAt": "2026-01-22T09:25:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-23T01:08:45Z",
+            "closedAt": "2026-01-23T01:08:45Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -87,10 +111,10 @@
             "title": "fix: add popupRender to SubMenuType",
             "url": "https://github.com/react-component/menu/pull/849",
             "state": "OPEN",
-            "changedFiles": 1,
+            "changedFiles": 2,
             "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 2,
+            "deletions": 1,
+            "totalCommentsCount": 5,
             "createdAt": "2026-01-22T09:04:45Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56525,
-            "title": "fix(Select): correct clear icon position in sm size",
-            "url": "https://github.com/ant-design/ant-design/pull/56525",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-01-07T12:41:24Z",
-            "mergedAt": "2026-01-08T07:06:11Z",
-            "closedAt": "2026-01-08T07:06:11Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 461,
+        "total": 464,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -392,7 +392,7 @@
             },
             {
                 "date": "2026-01-23",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-01-24",

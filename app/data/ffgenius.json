@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 35,
+            "title": "feat(docs): theme switching",
+            "url": "https://github.com/antdv-next/antdv-next/pull/35",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 298,
+            "deletions": 17,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-24T08:58:01Z",
+            "mergedAt": "2026-01-24T09:58:36Z",
+            "closedAt": "2026-01-24T09:58:36Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 33,
             "title": "docs: direction switching",
             "url": "https://github.com/antdv-next/antdv-next/pull/33",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt"
             }
-        },
-        {
-            "number": 4,
-            "title": "refactor(build): Optimize build configuration",
-            "url": "https://github.com/Auto-Plugin/autodialog.js/pull/4",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 28,
-            "deletions": 32,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-10-29T08:41:03Z",
-            "mergedAt": "2025-10-31T06:33:35Z",
-            "closedAt": "2025-10-31T06:33:35Z",
-            "repository": {
-                "name": "autodialog.js",
-                "nameWithOwner": "Auto-Plugin/autodialog.js",
-                "homepageUrl": "",
-                "description": "autodialog 是一个框架无关的弹窗系统，核心仅依赖原生 DOM。 默认内置 Vue、React、HTML 适配器，并支持用户注册自定义框架适配器（如 Svelte、Solid 等）",
-                "owner": {
-                    "login": "Auto-Plugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
-                },
-                "url": "https://github.com/Auto-Plugin/autodialog.js"
-            }
         }
     ],
     "contributions": {
-        "total": 11,
+        "total": 14,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -410,7 +410,7 @@
             },
             {
                 "date": "2026-01-24",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-01-25",

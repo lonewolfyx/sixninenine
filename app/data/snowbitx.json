@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23523,
+            "title": "fix(components): [message-box] handle IME composition on Enter key",
+            "url": "https://github.com/element-plus/element-plus/pull/23523",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-24T12:55:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 12,
             "title": "feat: add once option to stop observing after first visible",
             "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/12",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23446,
-            "title": "refactor(components): [menu-item] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23446",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 49,
-            "deletions": 8,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-18T11:43:59Z",
-            "mergedAt": "2026-01-18T13:44:57Z",
-            "closedAt": "2026-01-18T13:44:57Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 60,
+        "total": 61,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -353,7 +353,7 @@
             },
             {
                 "date": "2026-01-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-25",

@@ -41,13 +41,13 @@
         },
         {
             "number": 23494,
-            "title": "fix(components): [carousel] Carousel stops autoplay",
+            "title": "fix(components): [carousel] avoid stopping autoplay after children change",
             "url": "https://github.com/element-plus/element-plus/pull/23494",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
+            "changedFiles": 2,
+            "additions": 40,
             "deletions": 1,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 8,
             "createdAt": "2026-01-21T09:29:16Z",
             "mergedAt": null,
             "closedAt": null,
@@ -257,7 +257,7 @@
         }
     ],
     "contributions": {
-        "total": 88,
+        "total": 89,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -353,7 +353,7 @@
             },
             {
                 "date": "2026-01-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-25",

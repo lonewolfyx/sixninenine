@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 910,
+            "title": "docs(cn): update `guide/test-tags`",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/910",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 55,
+            "deletions": 55,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-24T14:11:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 9518,
+            "title": "docs: update `test-tags` feature introduction",
+            "url": "https://github.com/vitest-dev/vitest/pull/9518",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-24T13:55:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitest",
+                "nameWithOwner": "vitest-dev/vitest",
+                "homepageUrl": "https://vitest.dev",
+                "description": "Next generation testing framework powered by Vite.",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/vitest"
+            }
+        },
+        {
             "number": 1521,
             "title": "docs(cn): update `Layout.vue` components of the sponsors content",
             "url": "https://github.com/vitejs/docs-cn/pull/1521",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 9,
-            "title": "ci: add unit test and lint ci",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/9",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 163,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-30T08:08:53Z",
-            "mergedAt": "2025-12-30T09:08:58Z",
-            "closedAt": "2025-12-30T09:08:58Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
-        },
-        {
-            "number": 8,
-            "title": "ci(autofix): add formatting ci process",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 30,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-29T17:24:05Z",
-            "mergedAt": "2025-12-30T05:38:12Z",
-            "closedAt": "2025-12-30T05:38:12Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 59,
+        "total": 61,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -368,7 +368,7 @@
             },
             {
                 "date": "2026-01-24",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-01-25",

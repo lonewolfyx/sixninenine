@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 39,
+            "title": "docs: remove unnecessary descriptions",
+            "url": "https://github.com/antdv-next/antdv-next/pull/39",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-25T13:39:04Z",
+            "mergedAt": "2026-01-25T13:51:01Z",
+            "closedAt": "2026-01-25T13:51:01Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 35,
             "title": "feat(docs): theme switching",
             "url": "https://github.com/antdv-next/antdv-next/pull/35",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/shadcn-vue-hooks"
             }
-        },
-        {
-            "number": 195,
-            "title": "fix(NavigationMenuViewport): optimize animation effects",
-            "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt/pull/195",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-01T07:49:30Z",
-            "mergedAt": "2025-12-02T00:08:47Z",
-            "closedAt": "2025-12-02T00:08:47Z",
-            "repository": {
-                "name": "shadcn-docs-nuxt",
-                "nameWithOwner": "ZTL-UwU/shadcn-docs-nuxt",
-                "homepageUrl": "https://shadcn-docs-nuxt.vercel.app/",
-                "description": "Effortless and beautiful docs template built with Nuxt Content & shadcn-vue.",
-                "owner": {
-                    "login": "ZTL-UwU",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49156174?u=0dbb53ccf685e4c88425a54b05e41932d2247231&v=4"
-                },
-                "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt"
-            }
         }
     ],
     "contributions": {
-        "total": 14,
+        "total": 16,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -414,7 +414,7 @@
             },
             {
                 "date": "2026-01-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-26",

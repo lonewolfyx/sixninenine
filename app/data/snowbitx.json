@@ -16,15 +16,15 @@
     },
     "pullRequest": [
         {
-            "number": 23526,
-            "title": "refactor(components): [badge] use factory default for offset prop",
-            "url": "https://github.com/element-plus/element-plus/pull/23526",
+            "number": 23528,
+            "title": "refactor(components): [config-provider] align shadow type",
+            "url": "https://github.com/element-plus/element-plus/pull/23528",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-25T06:16:51Z",
+            "changedFiles": 7,
+            "additions": 20,
+            "deletions": 14,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-25T08:54:17Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
@@ -40,17 +40,41 @@
             }
         },
         {
+            "number": 23526,
+            "title": "refactor(components): [badge] use factory default for `offset` prop",
+            "url": "https://github.com/element-plus/element-plus/pull/23526",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-01-25T06:16:51Z",
+            "mergedAt": "2026-01-25T07:52:24Z",
+            "closedAt": "2026-01-25T07:52:24Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23525,
-            "title": "test(components): [badge] add hidden visibility test",
+            "title": "test(components): [badge] add a test case for `hidden` prop",
             "url": "https://github.com/element-plus/element-plus/pull/23525",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 9,
             "deletions": 0,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 6,
             "createdAt": "2026-01-25T05:47:34Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-25T07:52:38Z",
+            "closedAt": "2026-01-25T07:52:38Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23452,
-            "title": "refactor(components): [statistic] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23452",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 56,
-            "deletions": 4,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-01-18T17:01:06Z",
-            "mergedAt": "2026-01-19T13:23:25Z",
-            "closedAt": "2026-01-19T13:23:26Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 64,
+        "total": 67,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -357,7 +357,7 @@
             },
             {
                 "date": "2026-01-25",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-01-26",

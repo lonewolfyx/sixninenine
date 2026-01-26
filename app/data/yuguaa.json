@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4",
         "pronouns": "he/him",
         "followers": 26,
-        "following": 22
+        "following": 23
     },
     "languages": [
         {
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 13,
+            "title": "fix: 更新 generateBlockId 函数以确保块 ID 唯一性",
+            "url": "https://github.com/kingshuaishuai/incremark/pull/13",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 18,
+            "deletions": 14,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-26T01:59:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "incremark",
+                "nameWithOwner": "kingshuaishuai/incremark",
+                "homepageUrl": "https://incremark.com",
+                "description": null,
+                "owner": {
+                    "login": "kingshuaishuai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25154825?u=226030c3826d86adeced12ee94cf8685ab5b3fec&v=4"
+                },
+                "url": "https://github.com/kingshuaishuai/incremark"
+            }
+        },
         {
             "number": 2236,
             "title": "Remove unused imports in editor.tsx",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 17,
-            "title": "fix: remove padding from inline code container",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/17",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-12-04T08:41:52Z",
-            "mergedAt": "2025-12-04T08:42:04Z",
-            "closedAt": "2025-12-04T08:42:04Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 12,
+        "total": 15,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -541,7 +541,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-01-27",

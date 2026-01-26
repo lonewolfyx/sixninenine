@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 912,
+            "title": "docs(cn): update `guide/browser/component-testing.md`",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/912",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 128,
+            "deletions": 124,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-25T18:56:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 910,
             "title": "docs(cn): update `guide/test-tags`",
             "url": "https://github.com/vitest-dev/docs-cn/pull/910",
@@ -58,14 +82,14 @@
             "number": 9518,
             "title": "docs: update `test-tags` feature introduction",
             "url": "https://github.com/vitest-dev/vitest/pull/9518",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 5,
             "createdAt": "2026-01-24T13:55:22Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-25T19:33:24Z",
+            "closedAt": "2026-01-25T19:33:24Z",
             "repository": {
                 "name": "vitest",
                 "nameWithOwner": "vitest-dev/vitest",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix(test): fix coverage config with vitest",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/11",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-30T13:11:52Z",
-            "mergedAt": "2025-12-30T14:36:11Z",
-            "closedAt": "2025-12-30T14:36:11Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 67,
+        "total": 69,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -376,7 +376,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-27",

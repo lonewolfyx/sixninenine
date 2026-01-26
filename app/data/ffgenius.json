@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4",
         "pronouns": "he/him",
         "followers": 29,
-        "following": 80
+        "following": 81
     },
     "languages": [
         {
@@ -72,6 +72,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 40,
+            "title": "chore(vue-jsx): upgrade jsx plugin to support Vite 8",
+            "url": "https://github.com/antdv-next/antdv-next/pull/40",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-26T02:30:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
         {
             "number": 39,
             "title": "docs: remove unnecessary descriptions",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/eslint-stylistic/eslint-stylistic"
             }
-        },
-        {
-            "number": 1,
-            "title": "test(createContext): add unit tests for createContext composable",
-            "url": "https://github.com/lonewolfyx/shadcn-vue-hooks/pull/1",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 726,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-13T07:37:17Z",
-            "mergedAt": "2025-12-13T07:44:40Z",
-            "closedAt": "2025-12-13T07:44:40Z",
-            "repository": {
-                "name": "shadcn-vue-hooks",
-                "nameWithOwner": "lonewolfyx/shadcn-vue-hooks",
-                "homepageUrl": "https://shadcn-vue-hooks.vercel.app",
-                "description": "A Vue Hooks Collection built with Shadcn Vue",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-vue-hooks"
-            }
         }
     ],
     "contributions": {
-        "total": 16,
+        "total": 17,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -418,7 +418,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-27",

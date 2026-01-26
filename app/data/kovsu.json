@@ -627,6 +627,54 @@
     },
     "pullRequest": [
         {
+            "number": 131,
+            "title": "feat: style improvement in package page",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/131",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-26T15:59:47Z",
+            "mergedAt": "2026-01-26T17:19:46Z",
+            "closedAt": "2026-01-26T17:19:47Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
+            "number": 128,
+            "title": "fix: update `i-carbon-rotate` to `i-carbon-rotate-180`",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/128",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-26T15:17:50Z",
+            "mergedAt": "2026-01-26T15:24:06Z",
+            "closedAt": "2026-01-26T15:24:06Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 18752,
             "title": "Fix range formatting for arrow functions as call argument",
             "url": "https://github.com/prettier/prettier/pull/18752",
@@ -817,58 +865,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 8977,
-            "title": "Fix `no-duplicate-selectors` false negatives for equivalent compound selectors",
-            "url": "https://github.com/stylelint/stylelint/pull/8977",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 171,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-19T03:05:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
-        },
-        {
-            "number": 8976,
-            "title": "Add `ignoreMediaFeatureNameValues` to `media-feature-name-value-no-unknown`",
-            "url": "https://github.com/stylelint/stylelint/pull/8976",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 110,
-            "deletions": 6,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-01-19T00:48:30Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "stylelint",
-                "nameWithOwner": "stylelint/stylelint",
-                "homepageUrl": "https://stylelint.io",
-                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
-                "owner": {
-                    "login": "stylelint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
-                },
-                "url": "https://github.com/stylelint/stylelint"
-            }
         }
     ],
     "contributions": {
-        "total": 83,
+        "total": 88,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -972,11 +972,11 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 2
+                "count": 6
             },
             {
                 "date": "2026-01-27",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-28",

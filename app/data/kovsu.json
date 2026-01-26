@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 18752,
+            "title": "Fix range formatting for arrow functions as call argument",
+            "url": "https://github.com/prettier/prettier/pull/18752",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 174,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-01-26T08:49:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 2015,
             "title": "docs: update flint rules documention",
             "url": "https://github.com/flint-fyi/flint/pull/2015",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 18680,
-            "title": "Fix playground not running reformat",
-            "url": "https://github.com/prettier/prettier/pull/18680",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-18T13:07:48Z",
-            "mergedAt": "2026-01-18T21:47:38Z",
-            "closedAt": "2026-01-18T21:47:38Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 82,
+        "total": 83,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -972,7 +972,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-27",

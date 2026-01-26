@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 17,
+            "title": "wip: add unit tests to all features",
+            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/17",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 170,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-26T07:11:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuedefer",
+                "nameWithOwner": "Alfred-Skyblue/vuedefer",
+                "homepageUrl": "https://vuedefer.pages.dev",
+                "description": "Vue lazy render component with viewport based mounting and update freezing.",
+                "owner": {
+                    "login": "Alfred-Skyblue",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
+                },
+                "url": "https://github.com/Alfred-Skyblue/vuedefer"
+            }
+        },
+        {
             "number": 912,
             "title": "docs(cn): update `guide/browser/component-testing.md`",
             "url": "https://github.com/vitest-dev/docs-cn/pull/912",
@@ -61,7 +85,7 @@
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 55,
-            "deletions": 55,
+            "deletions": 53,
             "totalCommentsCount": 3,
             "createdAt": "2026-01-24T14:11:13Z",
             "mergedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
             }
-        },
-        {
-            "number": 12,
-            "title": "chore: update the screenshot file",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/12",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 5,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-30T15:05:41Z",
-            "mergedAt": "2025-12-30T15:10:25Z",
-            "closedAt": "2025-12-30T15:10:25Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 69,
+        "total": 73,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -376,7 +376,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 2
+                "count": 6
             },
             {
                 "date": "2026-01-27",

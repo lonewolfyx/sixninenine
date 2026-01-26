@@ -196,6 +196,30 @@
     },
     "pullRequest": [
         {
+            "number": 16,
+            "title": "fix: mdast error type",
+            "url": "https://github.com/kingshuaishuai/incremark/pull/16",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-26T09:31:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "incremark",
+                "nameWithOwner": "kingshuaishuai/incremark",
+                "homepageUrl": "https://incremark.com",
+                "description": null,
+                "owner": {
+                    "login": "kingshuaishuai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25154825?u=226030c3826d86adeced12ee94cf8685ab5b3fec&v=4"
+                },
+                "url": "https://github.com/kingshuaishuai/incremark"
+            }
+        },
+        {
             "number": 13,
             "title": "fix: 更新 generateBlockId 函数以确保块 ID 唯一性",
             "url": "https://github.com/kingshuaishuai/incremark/pull/13",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/element-plus-x/x-markdown"
             }
-        },
-        {
-            "number": 18,
-            "title": "Fix/inline code",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/18",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 118,
-            "deletions": 489,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-04T09:38:54Z",
-            "mergedAt": "2025-12-04T09:39:20Z",
-            "closedAt": "2025-12-04T09:39:20Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 15,
+        "total": 17,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -541,7 +541,7 @@
             },
             {
                 "date": "2026-01-26",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-01-27",

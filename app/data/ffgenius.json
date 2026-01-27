@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 138,
+            "title": "chore: use oxlint and oxfmt",
+            "url": "https://github.com/Auto-Plugin/milkup/pull/138",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 32,
+            "deletions": 56,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-27T06:52:26Z",
+            "mergedAt": "2026-01-27T06:58:41Z",
+            "closedAt": "2026-01-27T06:58:41Z",
+            "repository": {
+                "name": "milkup",
+                "nameWithOwner": "Auto-Plugin/milkup",
+                "homepageUrl": "https://milkup.dev",
+                "description": "a free WYSIWYG desktop markdown editor",
+                "owner": {
+                    "login": "Auto-Plugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
+                },
+                "url": "https://github.com/Auto-Plugin/milkup"
+            }
+        },
+        {
             "number": 47,
             "title": "feat(docs): add StackBlitz demo for quick preview",
             "url": "https://github.com/antdv-next/antdv-next/pull/47",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/eslint-stylistic/eslint-stylistic"
             }
-        },
-        {
-            "number": 1086,
-            "title": "refactor(utils): simplify type guards, cleanup typings & docs",
-            "url": "https://github.com/eslint-stylistic/eslint-stylistic/pull/1086",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 9,
-            "deletions": 12,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-12-22T02:04:06Z",
-            "mergedAt": "2025-12-23T06:38:45Z",
-            "closedAt": "2025-12-23T06:38:45Z",
-            "repository": {
-                "name": "eslint-stylistic",
-                "nameWithOwner": "eslint-stylistic/eslint-stylistic",
-                "homepageUrl": "https://eslint.style",
-                "description": "Monorepo for ESLint Stylistic plugins and configs",
-                "owner": {
-                    "login": "eslint-stylistic",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/144717797?v=4"
-                },
-                "url": "https://github.com/eslint-stylistic/eslint-stylistic"
-            }
         }
     ],
     "contributions": {
-        "total": 21,
+        "total": 24,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -422,7 +422,7 @@
             },
             {
                 "date": "2026-01-27",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-01-28",

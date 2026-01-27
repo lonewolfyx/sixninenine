@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 18759,
+            "title": "Fix website doesn't show error in `doc` and `comment` panel",
+            "url": "https://github.com/prettier/prettier/pull/18759",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 8,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-27T06:23:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 152,
             "title": "fix: rotate the right direction",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/152",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1845,
-            "title": "feat(plugin-flint): add `unusedMessageIds` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/1845",
-            "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 287,
-            "deletions": 23,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-20T03:55:14Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 90,
+        "total": 91,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -976,7 +976,7 @@
             },
             {
                 "date": "2026-01-27",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-01-28",

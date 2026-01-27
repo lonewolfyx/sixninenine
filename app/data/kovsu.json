@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 70,
+        "followers": 71,
         "following": 22
     },
     "languages": [
@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 152,
+            "title": "fix: rotate the right direction",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/152",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-27T01:10:33Z",
+            "mergedAt": "2026-01-27T01:26:00Z",
+            "closedAt": "2026-01-27T01:26:00Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 131,
             "title": "feat: style improvement in package page",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/131",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1829,
-            "title": "feat(plugin-flint): add `nodePropertyInChecks` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/1829",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 114,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-19T06:53:37Z",
-            "mergedAt": "2026-01-19T17:10:09Z",
-            "closedAt": "2026-01-19T17:10:09Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 88,
+        "total": 90,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -976,7 +976,7 @@
             },
             {
                 "date": "2026-01-27",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-01-28",

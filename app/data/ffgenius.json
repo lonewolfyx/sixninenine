@@ -73,6 +73,54 @@
     },
     "pullRequest": [
         {
+            "number": 67,
+            "title": "test(alert): add unit test",
+            "url": "https://github.com/antdv-next/antdv-next/pull/67",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 2495,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-28T15:14:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 66,
+            "title": "ci: configure commit message validation and pre-commit lint",
+            "url": "https://github.com/antdv-next/antdv-next/pull/66",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 75,
+            "deletions": 16,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-28T13:40:28Z",
+            "mergedAt": "2026-01-28T14:49:01Z",
+            "closedAt": "2026-01-28T14:49:01Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 59,
             "title": "fix: type error and fix lint",
             "url": "https://github.com/antdv-next/antdv-next/pull/59",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 33,
-            "title": "docs: direction switching",
-            "url": "https://github.com/antdv-next/antdv-next/pull/33",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 26,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-23T16:28:38Z",
-            "mergedAt": "2026-01-23T16:40:56Z",
-            "closedAt": "2026-01-23T16:40:56Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 19,
-            "title": "feat: categorize pnpm workspace dependencies",
-            "url": "https://github.com/antdv-next/antdv-next/pull/19",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 1388,
-            "deletions": 1197,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-22T02:39:37Z",
-            "mergedAt": "2026-01-22T07:50:09Z",
-            "closedAt": "2026-01-22T07:50:09Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 32,
+        "total": 35,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -426,7 +426,7 @@
             },
             {
                 "date": "2026-01-28",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-01-29",

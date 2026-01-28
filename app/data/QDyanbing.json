@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 56785,
+            "title": "fix(Tree): showLine alignment with custom titleHeight",
+            "url": "https://github.com/ant-design/ant-design/pull/56785",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 2269,
+            "deletions": 8,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-28T13:04:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56759,
             "title": "fix(Typography): lower link selector specificity",
             "url": "https://github.com/ant-design/ant-design/pull/56759",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 19,
             "additions": 180,
             "deletions": 69,
             "totalCommentsCount": 9,
             "createdAt": "2026-01-27T08:42:46Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-28T08:01:52Z",
+            "closedAt": "2026-01-28T08:01:52Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -159,8 +183,8 @@
             "title": "[WIP] feat: add SKILLS",
             "url": "https://github.com/ant-design/ant-design/pull/56705",
             "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 321,
+            "changedFiles": 8,
+            "additions": 589,
             "deletions": 0,
             "totalCommentsCount": 10,
             "createdAt": "2026-01-22T03:00:56Z",
@@ -258,7 +282,7 @@
             "changedFiles": 126,
             "additions": 51283,
             "deletions": 14,
-            "totalCommentsCount": 24,
+            "totalCommentsCount": 28,
             "createdAt": "2026-01-14T00:53:53Z",
             "mergedAt": "2026-01-19T14:10:33Z",
             "closedAt": "2026-01-19T14:10:33Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56592,
-            "title": "docs(Table): add content semantic",
-            "url": "https://github.com/ant-design/ant-design/pull/56592",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-01-13T07:53:03Z",
-            "mergedAt": "2026-01-13T08:04:49Z",
-            "closedAt": "2026-01-13T08:04:49Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 580,
+        "total": 582,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -412,7 +412,7 @@
             },
             {
                 "date": "2026-01-28",
-                "count": 18
+                "count": 20
             },
             {
                 "date": "2026-01-29",

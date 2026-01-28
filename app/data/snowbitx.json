@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23544,
+            "title": "refactor(types): align component instance expose typings",
+            "url": "https://github.com/element-plus/element-plus/pull/23544",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 165,
+            "deletions": 16,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-28T12:24:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23536,
             "title": "feat(components): [time-picker] supplement type for TimePickerInstance",
             "url": "https://github.com/element-plus/element-plus/pull/23536",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/Alfred-Skyblue/vuedefer"
             }
-        },
-        {
-            "number": 23483,
-            "title": "refactor(components): [form/form-item] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23483",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 163,
-            "deletions": 10,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-01-19T17:36:22Z",
-            "mergedAt": "2026-01-20T07:35:38Z",
-            "closedAt": "2026-01-20T07:35:38Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 73,
+        "total": 74,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -369,7 +369,7 @@
             },
             {
                 "date": "2026-01-28",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-01-29",

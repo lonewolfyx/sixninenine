@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 18,
+            "title": "feat: register as Claude Code marketplace",
+            "url": "https://github.com/vuejs-ai/skills/pull/18",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 85,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-29T03:07:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "vuejs-ai/skills",
+                "homepageUrl": null,
+                "description": "Agent skills for Vue 3 development",
+                "owner": {
+                    "login": "vuejs-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257730754?v=4"
+                },
+                "url": "https://github.com/vuejs-ai/skills"
+            }
+        },
+        {
             "number": 3,
             "title": "chore: migrate eslint.config.js to eslint.config.ts",
             "url": "https://github.com/vueuse/skills/pull/3",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/unomcp/JueJin-MCP"
             }
-        },
-        {
-            "number": 9,
-            "title": "feat(tags): add tags for article",
-            "url": "https://github.com/unomcp/JueJin-MCP/pull/9",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 807,
-            "deletions": 11,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-16T13:40:14Z",
-            "mergedAt": "2025-12-17T15:50:09Z",
-            "closedAt": "2025-12-17T15:50:09Z",
-            "repository": {
-                "name": "JueJin-MCP",
-                "nameWithOwner": "unomcp/JueJin-MCP",
-                "homepageUrl": "",
-                "description": "MCP for juejin.cn ",
-                "owner": {
-                    "login": "unomcp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
-                },
-                "url": "https://github.com/unomcp/JueJin-MCP"
-            }
         }
     ],
     "contributions": {
-        "total": 44,
+        "total": 46,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -702,7 +702,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-30",

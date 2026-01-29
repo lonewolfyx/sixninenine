@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 72,
+        "followers": 71,
         "following": 22
     },
     "languages": [
@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 18779,
+            "title": "Improve long flow mapped type to across multiple line",
+            "url": "https://github.com/prettier/prettier/pull/18779",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 31,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-29T03:03:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 2156,
             "title": "feat(core): support nested .gitignore files in filtering",
             "url": "https://github.com/flint-fyi/flint/pull/2156",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1907,
-            "title": "feat(plugin-flint): add `testShorthands` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/1907",
-            "state": "MERGED",
-            "changedFiles": 52,
-            "additions": 648,
-            "deletions": 705,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-01-22T03:10:09Z",
-            "mergedAt": "2026-01-25T12:12:59Z",
-            "closedAt": "2026-01-25T12:12:59Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 99,
+        "total": 100,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -984,7 +984,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-30",

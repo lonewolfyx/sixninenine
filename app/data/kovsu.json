@@ -627,17 +627,41 @@
     },
     "pullRequest": [
         {
+            "number": 2186,
+            "title": "fix(comparsions): add missing .md suffix to eslint-plugin-eslint-plugin rule urls",
+            "url": "https://github.com/flint-fyi/flint/pull/2186",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 32,
+            "deletions": 32,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-29T03:42:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 18779,
             "title": "Improve long flow mapped type to across multiple line",
             "url": "https://github.com/prettier/prettier/pull/18779",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 31,
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 56,
             "deletions": 12,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 9,
             "createdAt": "2026-01-29T03:03:20Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-01-29T04:04:43Z",
+            "closedAt": "2026-01-29T04:04:43Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 1908,
-            "title": "feat(core): validate config rules on loading",
-            "url": "https://github.com/flint-fyi/flint/pull/1908",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 54,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-22T06:27:02Z",
-            "mergedAt": "2026-01-26T01:24:28Z",
-            "closedAt": "2026-01-26T01:24:28Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 100,
+        "total": 102,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -984,7 +984,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-01-30",

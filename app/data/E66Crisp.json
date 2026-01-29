@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat(devDependencies): Add the @antfu/ni dependency package.",
+            "url": "https://github.com/antfu/skills/pull/10",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-29T07:10:20Z",
+            "mergedAt": null,
+            "closedAt": "2026-01-29T07:14:14Z",
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "antfu/skills",
+                "homepageUrl": "",
+                "description": "Anthony Fu's curated collection of agent skills.",
+                "owner": {
+                    "login": "antfu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
+                },
+                "url": "https://github.com/antfu/skills"
+            }
+        },
+        {
             "number": 23549,
             "title": "fix(components): [affix] positioning under KeepAlive cache",
             "url": "https://github.com/element-plus/element-plus/pull/23549",
@@ -23,7 +47,7 @@
             "changedFiles": 1,
             "additions": 10,
             "deletions": 0,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2026-01-29T01:31:36Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23410,
-            "title": "refactor(components): [autocomplete] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23410",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 120,
-            "deletions": 25,
-            "totalCommentsCount": 23,
-            "createdAt": "2026-01-17T10:38:31Z",
-            "mergedAt": "2026-01-18T08:09:00Z",
-            "closedAt": "2026-01-18T08:09:00Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 97,
+        "total": 98,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -373,7 +373,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-01-30",

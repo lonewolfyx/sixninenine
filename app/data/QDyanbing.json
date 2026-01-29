@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56795,
+            "title": "chore(test): merge semantic tests into jest and drop dedicated config",
+            "url": "https://github.com/ant-design/ant-design/pull/56795",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 6,
+            "deletions": 42,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-01-29T03:48:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56785,
             "title": "fix(Tree): showLine alignment with custom titleHeight",
             "url": "https://github.com/ant-design/ant-design/pull/56785",
@@ -186,7 +210,7 @@
             "changedFiles": 8,
             "additions": 589,
             "deletions": 0,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 12,
             "createdAt": "2026-01-22T03:00:56Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56600,
-            "title": "feat: add semantic snap",
-            "url": "https://github.com/ant-design/ant-design/pull/56600",
-            "state": "MERGED",
-            "changedFiles": 126,
-            "additions": 51283,
-            "deletions": 14,
-            "totalCommentsCount": 29,
-            "createdAt": "2026-01-14T00:53:53Z",
-            "mergedAt": "2026-01-19T14:10:33Z",
-            "closedAt": "2026-01-19T14:10:33Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 582,
+        "total": 583,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -416,7 +416,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-30",

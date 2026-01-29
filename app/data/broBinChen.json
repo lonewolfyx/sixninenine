@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 660,
+            "title": "feat: add stop button to cancel AI generation",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/660",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 181,
+            "deletions": 141,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-29T04:53:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
+            "number": 659,
+            "title": "fix(i18n): add missing translation keys in zh-Hant.json",
+            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/659",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-29T04:34:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "next-ai-draw-io",
+                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
+                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
+                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+                "owner": {
+                    "login": "DayuanJiang",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
+                },
+                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+            }
+        },
+        {
             "number": 9,
             "title": "docs: Improve render freeze visualization in demo",
             "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/9",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/DayuanJiang/next-ai-draw-io"
             }
-        },
-        {
-            "number": 463,
-            "title": "feat: add copy button for tool call blocks",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/463",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 94,
-            "deletions": 11,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-12-30T12:20:30Z",
-            "mergedAt": "2025-12-30T14:45:50Z",
-            "closedAt": "2025-12-30T14:45:50Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
-        },
-        {
-            "number": 457,
-            "title": "i18n: add missing translations for chat UI components",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/457",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 122,
-            "deletions": 55,
-            "totalCommentsCount": 7,
-            "createdAt": "2025-12-30T06:44:32Z",
-            "mergedAt": "2025-12-30T11:52:58Z",
-            "closedAt": "2025-12-30T11:52:58Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
         }
     ],
     "contributions": {
-        "total": 17,
+        "total": 19,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -373,7 +373,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-30",

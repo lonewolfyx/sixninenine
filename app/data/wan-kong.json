@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 6,
+            "title": "feat: 以 \"/\" 开头的命令消息跳过系统提示词",
+            "url": "https://github.com/sliverp/qqbot/pull/6",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-01-29T08:16:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "qqbot",
+                "nameWithOwner": "sliverp/qqbot",
+                "homepageUrl": null,
+                "description": "qqbot",
+                "owner": {
+                    "login": "sliverp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/38134380?v=4"
+                },
+                "url": "https://github.com/sliverp/qqbot"
+            }
+        },
+        {
             "number": 113,
             "title": "fix(prompt-input): stopPropagation on drop",
             "url": "https://github.com/vuepont/ai-elements-vue/pull/113",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/shunnNet/vue-markdown"
             }
-        },
-        {
-            "number": 20620,
-            "title": "Add find-your-repo extension",
-            "url": "https://github.com/raycast/extensions/pull/20620",
-            "state": "CLOSED",
-            "changedFiles": 13,
-            "additions": 3973,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-24T11:10:17Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-24T11:10:56Z",
-            "repository": {
-                "name": "extensions",
-                "nameWithOwner": "raycast/extensions",
-                "homepageUrl": "https://developers.raycast.com",
-                "description": "Everything you need to extend Raycast.",
-                "owner": {
-                    "login": "raycast",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58117316?v=4"
-                },
-                "url": "https://github.com/raycast/extensions"
-            }
         }
     ],
     "contributions": {
-        "total": 34,
+        "total": 37,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -430,7 +430,7 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-01-30",

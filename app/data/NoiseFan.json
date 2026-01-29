@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 916,
+            "title": "docs(cn): update `guide/cli`",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/916",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 12,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-29T16:06:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 17,
             "title": "wip: add unit tests to all features",
             "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/17",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 13,
-            "title": "docs: add new logo file",
-            "url": "https://github.com/ScaffoldCore/pnpm-category-catalog/pull/13",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 57,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-02T05:08:43Z",
-            "mergedAt": "2026-01-02T05:13:58Z",
-            "closedAt": "2026-01-02T05:13:58Z",
-            "repository": {
-                "name": "pnpm-category-catalog",
-                "nameWithOwner": "ScaffoldCore/pnpm-category-catalog",
-                "homepageUrl": "",
-                "description": "A CLI tool for managing the pnpm workspace catalog, which helps you categorize the packages in the catalog and update the associated package.json reference.",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/pnpm-category-catalog"
-            }
         }
     ],
     "contributions": {
-        "total": 77,
+        "total": 80,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -388,11 +388,11 @@
             },
             {
                 "date": "2026-01-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-01-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-01-31",

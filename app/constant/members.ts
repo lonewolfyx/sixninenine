@@ -8,6 +8,7 @@ export const members: membersType[] = [
     { username: 'ilyaliao' }, // vueuse 团队成员
     { username: 'Bao0630' }, // ant-design-x-vue 团队成员
     { username: 'yuguaa', aliasName: '菠萝吹雪' }, // Element-Plus-X
+    { username: 'worryzyy', aliasName: '味蕾哥' }, // Element-Plus-X 团队成员
     { username: 'lonewolfyx' },
     { username: 'ArthurDarkstone', aliasName: '高手哥' }, // 高手哥
     { username: 'broBinChen', aliasName: '木木哥' }, // 木木哥
@@ -76,7 +77,7 @@ export const openSourceMembers: OpenSourceMembersType = {
         contributors: ['snowbitx'],
     },
     'Element Plus X': {
-        team: ['yuguaa'],
+        team: ['yuguaa', 'worryzyy'],
         contributors: ['Chang-Chen', 'RYGRIT'],
     },
     'Ant Design Vue': {

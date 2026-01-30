@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23571,
+            "title": "fix(components): [select] fix filtering with duplicate values",
+            "url": "https://github.com/element-plus/element-plus/pull/23571",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 21,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-01-30T17:19:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23561,
             "title": "fix(components): [upload] keep delete icon visible on focus-within",
             "url": "https://github.com/element-plus/element-plus/pull/23561",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23525,
-            "title": "test(components): [badge] add a test case for `hidden` prop",
-            "url": "https://github.com/element-plus/element-plus/pull/23525",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-01-25T05:47:34Z",
-            "mergedAt": "2026-01-25T07:52:38Z",
-            "closedAt": "2026-01-25T07:52:38Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 79,
+        "total": 80,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -381,7 +381,7 @@
             },
             {
                 "date": "2026-01-31",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-01",

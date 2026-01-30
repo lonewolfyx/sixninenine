@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 271,
+            "title": "fix: Optimize chat AI functions, including session management, history recording, model configuration, and chat interface",
+            "url": "https://github.com/xun082/DocFlow/pull/271",
+            "state": "OPEN",
+            "changedFiles": 18,
+            "additions": 4445,
+            "deletions": 4092,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-01-30T18:41:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "DocFlow",
+                "nameWithOwner": "xun082/DocFlow",
+                "homepageUrl": "https://www.codecrack.cn/",
+                "description": "AI-powered docs ✍️ Built with Tiptap & Next.js — real-time collab ⚡, smart writing 🤖, and a flexible plugin system 🔌",
+                "owner": {
+                    "login": "xun082",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/73689580?u=cb69b54830cec9091f4ff4d713cafb473967ad59&v=4"
+                },
+                "url": "https://github.com/xun082/DocFlow"
+            }
+        },
+        {
             "number": 267,
             "title": "feat: New AI chat dialogue function includes multiple models",
             "url": "https://github.com/xun082/DocFlow/pull/267",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 745,
-            "title": "fix: Optimize the multi-level title problem of the test context",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/745",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 19,
-            "deletions": 18,
-            "totalCommentsCount": 6,
-            "createdAt": "2025-10-30T08:34:17Z",
-            "mergedAt": "2025-11-01T06:25:05Z",
-            "closedAt": "2025-11-01T06:25:05Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 26,
+        "total": 27,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -431,7 +431,7 @@
             },
             {
                 "date": "2026-01-31",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-01",

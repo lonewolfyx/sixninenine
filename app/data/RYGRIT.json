@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 457,
+            "title": "fix: adjust ColumnPicker dropdown positioning for mobile",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/457",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-01-31T03:29:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 402,
             "title": "fix: button hover style isn't correct",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/402",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/vitejs/devtools"
             }
-        },
-        {
-            "number": 104,
-            "title": "fix .gitignore path issue to properly ignore vite/src/app/public/fonts files",
-            "url": "https://github.com/vitejs/devtools/pull/104",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-10-05T16:37:48Z",
-            "mergedAt": "2025-10-06T01:46:25Z",
-            "closedAt": "2025-10-06T01:46:26Z",
-            "repository": {
-                "name": "devtools",
-                "nameWithOwner": "vitejs/devtools",
-                "homepageUrl": "https://vite-devtools.netlify.app/",
-                "description": "DevTools for Vite (Rolldown). Working in Progress",
-                "owner": {
-                    "login": "vitejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
-                },
-                "url": "https://github.com/vitejs/devtools"
-            }
         }
     ],
     "contributions": {
-        "total": 7,
+        "total": 8,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -431,7 +431,7 @@
             },
             {
                 "date": "2026-01-31",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-01",

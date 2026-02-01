@@ -73,17 +73,65 @@
     },
     "pullRequest": [
         {
+            "number": 83,
+            "title": "feat(docs): compact mode",
+            "url": "https://github.com/antdv-next/antdv-next/pull/83",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 31,
+            "deletions": 15,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-01T15:03:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(happy-work-theme): init",
+            "url": "https://github.com/antdv-next/happy-work-theme/pull/1",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 2697,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-01T14:31:17Z",
+            "mergedAt": "2026-02-01T14:31:48Z",
+            "closedAt": "2026-02-01T14:31:49Z",
+            "repository": {
+                "name": "happy-work-theme",
+                "nameWithOwner": "antdv-next/happy-work-theme",
+                "homepageUrl": null,
+                "description": "Antdv Next Happy Work Theme",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/happy-work-theme"
+            }
+        },
+        {
             "number": 81,
             "title": "feat(docs): compact mode & happy word theme",
             "url": "https://github.com/antdv-next/antdv-next/pull/81",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 16,
             "additions": 787,
             "deletions": 49,
             "totalCommentsCount": 4,
             "createdAt": "2026-01-31T14:46:23Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-02-01T14:36:48Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 57,
-            "title": "docs: rename",
-            "url": "https://github.com/antdv-next/antdv-next/pull/57",
-            "state": "MERGED",
-            "changedFiles": 46,
-            "additions": 139,
-            "deletions": 196,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-27T13:51:42Z",
-            "mergedAt": "2026-01-27T14:12:42Z",
-            "closedAt": "2026-01-27T14:12:42Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 138,
-            "title": "chore: use oxlint and oxfmt",
-            "url": "https://github.com/Auto-Plugin/milkup/pull/138",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 32,
-            "deletions": 56,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-27T06:52:26Z",
-            "mergedAt": "2026-01-27T06:58:41Z",
-            "closedAt": "2026-01-27T06:58:41Z",
-            "repository": {
-                "name": "milkup",
-                "nameWithOwner": "Auto-Plugin/milkup",
-                "homepageUrl": "https://milkup.dev",
-                "description": "a free WYSIWYG desktop markdown editor",
-                "owner": {
-                    "login": "Auto-Plugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/131100916?v=4"
-                },
-                "url": "https://github.com/Auto-Plugin/milkup"
-            }
         }
     ],
     "contributions": {
-        "total": 47,
+        "total": 51,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -442,7 +442,7 @@
             },
             {
                 "date": "2026-02-01",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-02-02",

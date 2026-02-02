@@ -589,6 +589,30 @@
     },
     "pullRequest": [
         {
+            "number": 18830,
+            "title": "Add playground for main branch",
+            "url": "https://github.com/prettier/prettier/pull/18830",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 306,
+            "deletions": 131,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-02T03:36:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 2186,
             "title": "fix(comparsions): add missing .md suffix to eslint-plugin-eslint-plugin rule urls",
             "url": "https://github.com/flint-fyi/flint/pull/2186",
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 2015,
-            "title": "docs: update flint rules documention",
-            "url": "https://github.com/flint-fyi/flint/pull/2015",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 249,
-            "deletions": 3,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-23T07:39:32Z",
-            "mergedAt": "2026-01-24T10:09:46Z",
-            "closedAt": "2026-01-24T10:09:46Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 103,
+        "total": 104,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -962,7 +962,7 @@
             },
             {
                 "date": "2026-02-02",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-03",

@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 23587,
+            "title": "feat(components): [color-picker] add type hints for colorFormat prop",
+            "url": "https://github.com/element-plus/element-plus/pull/23587",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 4,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-02-02T09:47:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
+            "number": 23586,
+            "title": "fix(components): [input-number] Decimal point issue resolution",
+            "url": "https://github.com/element-plus/element-plus/pull/23586",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-02-02T09:43:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: add readme.md",
             "url": "https://github.com/E66Crisp/vue-migration-skills/pull/1",
@@ -43,14 +91,14 @@
             "number": 23565,
             "title": "fix(components): [input-number] Decimal point issue resolution",
             "url": "https://github.com/element-plus/element-plus/pull/23565",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 62,
             "deletions": 1,
             "totalCommentsCount": 6,
             "createdAt": "2026-01-30T08:49:36Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-02-02T09:32:10Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/Alfred-Skyblue/vuedefer"
             }
-        },
-        {
-            "number": 23457,
-            "title": "refactor(components): [avatar] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23457",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 61,
-            "deletions": 14,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-01-19T02:44:38Z",
-            "mergedAt": "2026-01-19T13:08:43Z",
-            "closedAt": "2026-01-19T13:08:44Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 23455,
-            "title": "refactor(components): [popconfirm] use type-based definitions",
-            "url": "https://github.com/element-plus/element-plus/pull/23455",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 88,
-            "deletions": 4,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-01-19T01:46:50Z",
-            "mergedAt": "2026-01-20T02:17:45Z",
-            "closedAt": "2026-01-20T02:17:45Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 115,
+        "total": 117,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -389,7 +389,7 @@
             },
             {
                 "date": "2026-02-02",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-02-03",

@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56842,
+            "title": "fix(button): make tokens take effect",
+            "url": "https://github.com/ant-design/ant-design/pull/56842",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 241,
+            "deletions": 45,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-02-03T01:59:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 2,
             "title": "chore: add readmd package optimize skills",
             "url": "https://github.com/ant-design/antd-skill/pull/2",
@@ -136,7 +160,7 @@
             "url": "https://github.com/ant-design/ant-design/pull/56785",
             "state": "OPEN",
             "changedFiles": 7,
-            "additions": 2269,
+            "additions": 2277,
             "deletions": 8,
             "totalCommentsCount": 14,
             "createdAt": "2026-01-28T13:04:14Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56680,
-            "title": "feat: add controlled collapsed support for Splitter.Panel",
-            "url": "https://github.com/ant-design/ant-design/pull/56680",
-            "state": "CLOSED",
-            "changedFiles": 9,
-            "additions": 261,
-            "deletions": 40,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-01-21T01:34:44Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-21T08:22:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 678,
+        "total": 679,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -436,7 +436,7 @@
             },
             {
                 "date": "2026-02-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-04",

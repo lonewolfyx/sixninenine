@@ -15,35 +15,35 @@
             "color": "#f1e05a",
             "size": 1177246,
             "repoCount": 22,
-            "progress": "55.70"
+            "progress": "55.45"
+        },
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 368487,
+            "repoCount": 12,
+            "progress": "17.35"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "17.19"
-        },
-        {
-            "name": "TypeScript",
-            "color": "#3178c6",
-            "size": 358876,
-            "repoCount": 12,
-            "progress": "16.98"
+            "progress": "17.11"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.23"
+            "progress": "8.20"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 39384,
             "repoCount": 12,
-            "progress": "1.86"
+            "progress": "1.85"
         },
         {
             "name": "Less",
@@ -195,6 +195,54 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 6,
+            "title": "feat: 添加 postinstall 脚本以自动生成 Prisma 客户端并部署迁移",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/6",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-02-03T08:40:05Z",
+            "mergedAt": "2026-02-03T08:40:18Z",
+            "closedAt": "2026-02-03T08:40:18Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
+        {
+            "number": 5,
+            "title": "Feat/repo",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/5",
+            "state": "CLOSED",
+            "changedFiles": 35,
+            "additions": 2272,
+            "deletions": 824,
+            "totalCommentsCount": 19,
+            "createdAt": "2026-02-03T08:29:10Z",
+            "mergedAt": null,
+            "closedAt": "2026-02-03T08:29:31Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 4,
             "title": "feat: 更新 GitLab 服务和审查逻辑，增强错误处理，支持行内评论，修改评论 ID 类型为字符串",
@@ -386,58 +434,10 @@
                 },
                 "url": "https://github.com/kingshuaishuai/incremark"
             }
-        },
-        {
-            "number": 13,
-            "title": "fix: 更新 generateBlockId 函数以确保块 ID 唯一性",
-            "url": "https://github.com/kingshuaishuai/incremark/pull/13",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 18,
-            "deletions": 14,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-26T01:59:57Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "incremark",
-                "nameWithOwner": "kingshuaishuai/incremark",
-                "homepageUrl": "https://incremark.com",
-                "description": null,
-                "owner": {
-                    "login": "kingshuaishuai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25154825?u=226030c3826d86adeced12ee94cf8685ab5b3fec&v=4"
-                },
-                "url": "https://github.com/kingshuaishuai/incremark"
-            }
-        },
-        {
-            "number": 2236,
-            "title": "Remove unused imports in editor.tsx",
-            "url": "https://github.com/Milkdown/milkdown/pull/2236",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-23T07:37:30Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-23T08:07:24Z",
-            "repository": {
-                "name": "milkdown",
-                "nameWithOwner": "Milkdown/milkdown",
-                "homepageUrl": "https://milkdown.dev",
-                "description": "🍼 Plugin driven WYSIWYG  markdown editor framework.",
-                "owner": {
-                    "login": "Milkdown",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/125342561?v=4"
-                },
-                "url": "https://github.com/Milkdown/milkdown"
-            }
         }
     ],
     "contributions": {
-        "total": 37,
+        "total": 53,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -573,7 +573,7 @@
             },
             {
                 "date": "2026-02-03",
-                "count": 6
+                "count": 22
             },
             {
                 "date": "2026-02-04",

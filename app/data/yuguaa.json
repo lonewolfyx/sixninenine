@@ -15,35 +15,35 @@
             "color": "#f1e05a",
             "size": 1177246,
             "repoCount": 22,
-            "progress": "56.50"
+            "progress": "55.70"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "17.44"
+            "progress": "17.19"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 328814,
+            "size": 358876,
             "repoCount": 12,
-            "progress": "15.78"
+            "progress": "16.98"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.35"
+            "progress": "8.23"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 39384,
             "repoCount": 12,
-            "progress": "1.89"
+            "progress": "1.86"
         },
         {
             "name": "Less",
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 4,
+            "title": "feat: 更新 GitLab 服务和审查逻辑，增强错误处理，支持行内评论，修改评论 ID 类型为字符串",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/4",
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 1668,
+            "deletions": 482,
+            "totalCommentsCount": 29,
+            "createdAt": "2026-02-03T05:49:38Z",
+            "mergedAt": "2026-02-03T05:51:03Z",
+            "closedAt": "2026-02-03T05:51:03Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 3,
             "title": "feat: 添加自定义 AI 模型配置到仓库，包括提供商、模型 ID、API 密钥及相关参数",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/Milkdown/milkdown"
             }
-        },
-        {
-            "number": 8,
-            "title": "docs: update terminology from \"Update Count\" to \"Timing\" in Demo",
-            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/8",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 11,
-            "deletions": 11,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-21T01:01:13Z",
-            "mergedAt": "2026-01-21T02:05:09Z",
-            "closedAt": "2026-01-21T02:05:09Z",
-            "repository": {
-                "name": "vuedefer",
-                "nameWithOwner": "Alfred-Skyblue/vuedefer",
-                "homepageUrl": "https://vuedefer.pages.dev",
-                "description": "Vue lazy render component with viewport based mounting and update freezing.",
-                "owner": {
-                    "login": "Alfred-Skyblue",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
-                },
-                "url": "https://github.com/Alfred-Skyblue/vuedefer"
-            }
         }
     ],
     "contributions": {
-        "total": 35,
+        "total": 37,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -573,7 +573,7 @@
             },
             {
                 "date": "2026-02-03",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2026-02-04",

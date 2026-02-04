@@ -6,7 +6,7 @@
         "url": "https://github.com/snowbitx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/109521682?u=903faa5cc9101a3cf32d4ceac0a750aec64a89b4&v=4",
         "pronouns": null,
-        "followers": 5,
+        "followers": 7,
         "following": 0
     },
     "languages": [],
@@ -15,6 +15,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 23600,
+            "title": "docs(components): [switch] fix inactive-action-icon attribute typo",
+            "url": "https://github.com/element-plus/element-plus/pull/23600",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-02-04T02:02:23Z",
+            "mergedAt": "2026-02-04T02:05:49Z",
+            "closedAt": "2026-02-04T02:05:49Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
         {
             "number": 23590,
             "title": "docs(components): [radio/checkbox] correct disabled type in props config",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23531,
-            "title": "feat(components): [time-picker] add `save-on-blur` prop",
-            "url": "https://github.com/element-plus/element-plus/pull/23531",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 49,
-            "deletions": 1,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-01-26T14:11:52Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 84,
+        "total": 86,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -397,7 +397,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-05",

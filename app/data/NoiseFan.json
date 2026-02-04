@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 23604,
+            "title": "docs(components): [select] fix `props` property type",
+            "url": "https://github.com/element-plus/element-plus/pull/23604",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-02-04T12:47:33Z",
+            "mergedAt": null,
+            "closedAt": "2026-02-04T14:19:06Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 916,
             "title": "docs(cn): update `guide/cli`",
             "url": "https://github.com/vitest-dev/docs-cn/pull/916",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 896,
-            "title": "docs(cn): merge docs-cn/sync-docs into docs-cn/dev",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/896",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 2363,
-            "deletions": 2731,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-09T10:17:38Z",
-            "mergedAt": "2026-01-09T12:08:48Z",
-            "closedAt": "2026-01-09T12:08:48Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 99,
+        "total": 100,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -412,7 +412,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-05",

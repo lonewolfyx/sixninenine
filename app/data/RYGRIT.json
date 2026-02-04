@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4",
         "pronouns": "",
         "followers": 4,
-        "following": 9
+        "following": 10
     },
     "languages": [
         {
@@ -65,6 +65,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 942,
+            "title": "fix(cli): cli windows compat",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/942",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-04T14:19:06Z",
+            "mergedAt": "2026-02-04T14:33:49Z",
+            "closedAt": "2026-02-04T14:33:49Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
+            "number": 941,
+            "title": "fix: add back button and centre icon on compare page",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/941",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 14,
+            "deletions": 10,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-02-04T13:41:40Z",
+            "mergedAt": "2026-02-04T14:40:49Z",
+            "closedAt": "2026-02-04T14:40:49Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
+            "number": 935,
+            "title": "fix: apply explicit seo meta tags globally",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/935",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 73,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-04T12:54:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
         {
             "number": 845,
             "title": "fix: explicit seo meta tags for social cards",
@@ -232,82 +304,10 @@
                 },
                 "url": "https://github.com/antfu/eslint-plugin-unimport"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: genpass subcommand",
-            "url": "https://github.com/RYGRIT/rust-cli/pull/3",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 644,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-08T14:22:33Z",
-            "mergedAt": "2025-12-08T14:23:45Z",
-            "closedAt": "2025-12-08T14:23:45Z",
-            "repository": {
-                "name": "rust-cli",
-                "nameWithOwner": "RYGRIT/rust-cli",
-                "homepageUrl": null,
-                "description": "Rust CLI",
-                "owner": {
-                    "login": "RYGRIT",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4"
-                },
-                "url": "https://github.com/RYGRIT/rust-cli"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat: implement csv subcommand to convert csv to json",
-            "url": "https://github.com/RYGRIT/rust-cli/pull/2",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 572,
-            "deletions": 17,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-07T07:15:32Z",
-            "mergedAt": "2025-12-07T09:16:09Z",
-            "closedAt": "2025-12-07T09:16:09Z",
-            "repository": {
-                "name": "rust-cli",
-                "nameWithOwner": "RYGRIT/rust-cli",
-                "homepageUrl": null,
-                "description": "Rust CLI",
-                "owner": {
-                    "login": "RYGRIT",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4"
-                },
-                "url": "https://github.com/RYGRIT/rust-cli"
-            }
-        },
-        {
-            "number": 1,
-            "title": "chore: update repository URL in cliff.toml",
-            "url": "https://github.com/RYGRIT/rust-cli/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-06T08:31:01Z",
-            "mergedAt": "2025-12-06T08:56:09Z",
-            "closedAt": "2025-12-06T08:56:09Z",
-            "repository": {
-                "name": "rust-cli",
-                "nameWithOwner": "RYGRIT/rust-cli",
-                "homepageUrl": null,
-                "description": "Rust CLI",
-                "owner": {
-                    "login": "RYGRIT",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4"
-                },
-                "url": "https://github.com/RYGRIT/rust-cli"
-            }
         }
     ],
     "contributions": {
-        "total": 16,
+        "total": 21,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -447,7 +447,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 2
+                "count": 7
             },
             {
                 "date": "2026-02-05",

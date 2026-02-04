@@ -15,35 +15,35 @@
             "color": "#f1e05a",
             "size": 1177246,
             "repoCount": 22,
-            "progress": "55.45"
+            "progress": "54.47"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 368487,
+            "size": 406171,
             "repoCount": 12,
-            "progress": "17.35"
+            "progress": "18.79"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "17.11"
+            "progress": "16.81"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.20"
+            "progress": "8.05"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 39384,
+            "size": 39545,
             "repoCount": 12,
-            "progress": "1.85"
+            "progress": "1.83"
         },
         {
             "name": "Less",
@@ -195,6 +195,78 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 9,
+            "title": "feat: 添加审查输出解析功能，支持统计行和严重问题提取",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/9",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 359,
+            "deletions": 169,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-04T10:10:47Z",
+            "mergedAt": "2026-02-04T10:11:34Z",
+            "closedAt": "2026-02-04T10:11:34Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
+        {
+            "number": 8,
+            "title": "feat: 优化审查重试接口参数处理，确保参数为 Promise 类型",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/8",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-04T08:18:52Z",
+            "mergedAt": "2026-02-04T08:19:05Z",
+            "closedAt": "2026-02-04T08:19:05Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
+        {
+            "number": 7,
+            "title": "Feat/diff",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/7",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 1012,
+            "deletions": 262,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-04T08:10:06Z",
+            "mergedAt": "2026-02-04T08:10:41Z",
+            "closedAt": "2026-02-04T08:10:41Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 6,
             "title": "feat: 添加 postinstall 脚本以自动生成 Prisma 客户端并部署迁移",
@@ -362,82 +434,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 31,
-            "title": "feat: 添加 worryzyy 的用户",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/31",
-            "state": "CLOSED",
-            "changedFiles": 8,
-            "additions": 163,
-            "deletions": 113,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-30T02:48:06Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-30T02:48:19Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
-        },
-        {
-            "number": 39,
-            "title": "shiki mermaid config",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/39",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 560,
-            "deletions": 67,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-28T01:57:08Z",
-            "mergedAt": "2026-01-28T01:57:40Z",
-            "closedAt": "2026-01-28T01:57:40Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
-        },
-        {
-            "number": 16,
-            "title": "fix: mdast error type",
-            "url": "https://github.com/kingshuaishuai/incremark/pull/16",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-26T09:31:27Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "incremark",
-                "nameWithOwner": "kingshuaishuai/incremark",
-                "homepageUrl": "https://incremark.com",
-                "description": null,
-                "owner": {
-                    "login": "kingshuaishuai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25154825?u=226030c3826d86adeced12ee94cf8685ab5b3fec&v=4"
-                },
-                "url": "https://github.com/kingshuaishuai/incremark"
-            }
         }
     ],
     "contributions": {
-        "total": 53,
+        "total": 65,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -577,7 +577,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 0
+                "count": 12
             },
             {
                 "date": "2026-02-05",

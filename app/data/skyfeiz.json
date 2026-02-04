@@ -189,6 +189,30 @@
     },
     "pullRequest": [
         {
+            "number": 94,
+            "title": "docs(components): add a copy button to the demo code.",
+            "url": "https://github.com/soybeanjs/soybean-ui/pull/94",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-04T13:02:02Z",
+            "mergedAt": "2026-02-04T13:04:19Z",
+            "closedAt": "2026-02-04T13:04:19Z",
+            "repository": {
+                "name": "soybean-ui",
+                "nameWithOwner": "soybeanjs/soybean-ui",
+                "homepageUrl": "https://ui.soybeanjs.cn",
+                "description": "An elegant and accessible UI library like shadcn for Vue3",
+                "owner": {
+                    "login": "soybeanjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
+                },
+                "url": "https://github.com/soybeanjs/soybean-ui"
+            }
+        },
+        {
             "number": 886,
             "title": "fix(projects): fix NButton props conflicts.",
             "url": "https://github.com/soybeanjs/soybean-admin/pull/886",
@@ -403,34 +427,10 @@
                 },
                 "url": "https://github.com/antfu/starter-vscode"
             }
-        },
-        {
-            "number": 23,
-            "title": "fix: typecheck failures and running pnpm i under Volta",
-            "url": "https://github.com/antfu/starter-vscode/pull/23",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 1,
-            "deletions": 11,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-06T03:06:50Z",
-            "mergedAt": "2026-01-06T03:47:45Z",
-            "closedAt": "2026-01-06T03:47:45Z",
-            "repository": {
-                "name": "starter-vscode",
-                "nameWithOwner": "antfu/starter-vscode",
-                "homepageUrl": "",
-                "description": "Starter template for VS Code Extension",
-                "owner": {
-                    "login": "antfu",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
-                },
-                "url": "https://github.com/antfu/starter-vscode"
-            }
         }
     ],
     "contributions": {
-        "total": 59,
+        "total": 61,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -570,7 +570,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-05",

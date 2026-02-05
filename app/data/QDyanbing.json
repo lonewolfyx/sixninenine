@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 56871,
+            "title": "feat(Menu): add tooltip option for Menu inline-collapsed items",
+            "url": "https://github.com/ant-design/ant-design/pull/56871",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 1325,
+            "deletions": 5,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-02-05T08:29:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 56842,
             "title": "fix(button): make tokens take effect",
             "url": "https://github.com/ant-design/ant-design/pull/56842",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/menu"
             }
-        },
-        {
-            "number": 56705,
-            "title": "feat: add SKILLS",
-            "url": "https://github.com/ant-design/ant-design/pull/56705",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 226,
-            "deletions": 0,
-            "totalCommentsCount": 20,
-            "createdAt": "2026-01-22T03:00:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 740,
+        "total": 743,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -444,7 +444,7 @@
             },
             {
                 "date": "2026-02-05",
-                "count": 20
+                "count": 23
             },
             {
                 "date": "2026-02-06",

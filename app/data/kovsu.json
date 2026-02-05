@@ -589,13 +589,37 @@
     },
     "pullRequest": [
         {
+            "number": 2286,
+            "title": "feat(plugin-flint): add `placeholderFormatting` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2286",
+            "state": "OPEN",
+            "changedFiles": 17,
+            "additions": 521,
+            "deletions": 108,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-05T07:48:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 18830,
             "title": "Add playground for current version",
             "url": "https://github.com/prettier/prettier/pull/18830",
             "state": "OPEN",
-            "changedFiles": 22,
-            "additions": 394,
-            "deletions": 167,
+            "changedFiles": 19,
+            "additions": 384,
+            "deletions": 164,
             "totalCommentsCount": 25,
             "createdAt": "2026-02-02T03:36:32Z",
             "mergedAt": null,
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 18752,
-            "title": "Fix range formatting for arrow functions as call argument",
-            "url": "https://github.com/prettier/prettier/pull/18752",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 174,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-26T08:49:55Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 106,
+        "total": 107,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -974,7 +974,7 @@
             },
             {
                 "date": "2026-02-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-06",

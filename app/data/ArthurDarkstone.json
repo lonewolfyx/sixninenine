@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat: 优化抽奖逻辑，增加随机赢家选择和剩余步骤计数",
+            "url": "https://github.com/vue3-camp/lottery/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-05T08:43:14Z",
+            "mergedAt": "2026-02-05T12:02:54Z",
+            "closedAt": "2026-02-05T12:02:54Z",
+            "repository": {
+                "name": "lottery",
+                "nameWithOwner": "vue3-camp/lottery",
+                "homepageUrl": "https://lottery-3mf.pages.dev/",
+                "description": "源码课抽奖程序",
+                "owner": {
+                    "login": "vue3-camp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/209567531?v=4"
+                },
+                "url": "https://github.com/vue3-camp/lottery"
+            }
+        },
+        {
             "number": 13,
             "title": "fix: update build:github script to include tsdown command",
             "url": "https://github.com/ArthurDarkstone/iprint/pull/13",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5061,
-            "title": "fix(tryOnScopeDispose): add optional failSilently parameter and updat…",
-            "url": "https://github.com/vueuse/vueuse/pull/5061",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-23T07:02:06Z",
-            "mergedAt": "2025-09-23T23:04:17Z",
-            "closedAt": "2025-09-23T23:04:17Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 0,
+        "total": 3,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -458,7 +458,7 @@
             },
             {
                 "date": "2026-02-05",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-06",

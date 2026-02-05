@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 14421,
+            "title": "chore: fix typo",
+            "url": "https://github.com/vuejs/core/pull/14421",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-05T09:10:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "core",
+                "nameWithOwner": "vuejs/core",
+                "homepageUrl": "https://vuejs.org/",
+                "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/core"
+            }
+        },
+        {
             "number": 23587,
             "title": "feat(components): [color-picker] add type hints for colorFormat prop",
             "url": "https://github.com/element-plus/element-plus/pull/23587",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 6,
-            "title": "fix(lazy-render):  `component.render` error caused by `comment` nodes",
-            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/6",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 57,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-20T16:08:09Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-21T06:05:56Z",
-            "repository": {
-                "name": "vuedefer",
-                "nameWithOwner": "Alfred-Skyblue/vuedefer",
-                "homepageUrl": "https://vuedefer.pages.dev",
-                "description": "Vue lazy render component with viewport based mounting and update freezing.",
-                "owner": {
-                    "login": "Alfred-Skyblue",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
-                },
-                "url": "https://github.com/Alfred-Skyblue/vuedefer"
-            }
         }
     ],
     "contributions": {
-        "total": 123,
+        "total": 145,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -397,11 +397,11 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 0
+                "count": 10
             },
             {
                 "date": "2026-02-05",
-                "count": 1
+                "count": 13
             },
             {
                 "date": "2026-02-06",

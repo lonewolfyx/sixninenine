@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1022,
+            "title": "fix(ui): fix squashed avatars & add missing mobile bluesky avatar",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1022",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 6,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-05T13:37:45Z",
+            "mergedAt": "2026-02-05T13:46:16Z",
+            "closedAt": "2026-02-05T13:46:16Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 942,
             "title": "fix(cli): cli windows compat",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/942",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 3,
-            "title": "fix: normalize paths in import checks",
-            "url": "https://github.com/antfu/eslint-plugin-unimport/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-11T14:27:07Z",
-            "mergedAt": "2025-12-14T05:02:08Z",
-            "closedAt": "2025-12-14T05:02:08Z",
-            "repository": {
-                "name": "eslint-plugin-unimport",
-                "nameWithOwner": "antfu/eslint-plugin-unimport",
-                "homepageUrl": "",
-                "description": "Insert imports automatically from Unimport in ESLint.",
-                "owner": {
-                    "login": "antfu",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
-                },
-                "url": "https://github.com/antfu/eslint-plugin-unimport"
-            }
         }
     ],
     "contributions": {
-        "total": 22,
+        "total": 24,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -451,7 +451,7 @@
             },
             {
                 "date": "2026-02-05",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-02-06",

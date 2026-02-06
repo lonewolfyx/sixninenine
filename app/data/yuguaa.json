@@ -15,35 +15,35 @@
             "color": "#f1e05a",
             "size": 1177246,
             "repoCount": 22,
-            "progress": "54.47"
+            "progress": "54.24"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 406171,
+            "size": 415611,
             "repoCount": 12,
-            "progress": "18.79"
+            "progress": "19.15"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "16.81"
+            "progress": "16.74"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.05"
+            "progress": "8.02"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 39545,
             "repoCount": 12,
-            "progress": "1.83"
+            "progress": "1.82"
         },
         {
             "name": "Less",
@@ -195,6 +195,54 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 11,
+            "title": "refactor: 优化代码格式，提升可读性",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/11",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 17,
+            "deletions": 18,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-06T02:07:51Z",
+            "mergedAt": "2026-02-06T02:08:07Z",
+            "closedAt": "2026-02-06T02:08:07Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
+        {
+            "number": 10,
+            "title": "Refactor code structure for improved readability and maintainability",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/10",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 7562,
+            "deletions": 673,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-06T01:50:01Z",
+            "mergedAt": "2026-02-06T01:50:15Z",
+            "closedAt": "2026-02-06T01:50:15Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 9,
             "title": "feat: 添加审查输出解析功能，支持统计行和严重问题提取",
@@ -386,58 +434,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: 简化仓库配置，移除分支配置表，添加自定义提示和监听分支字段",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/1",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 611,
-            "deletions": 87,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-02-02T15:29:09Z",
-            "mergedAt": "2026-02-02T15:29:31Z",
-            "closedAt": "2026-02-02T15:29:31Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
-        },
-        {
-            "number": 32,
-            "title": "feat: add worryzyy member information and team affiliation",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/32",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 14,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-30T02:56:47Z",
-            "mergedAt": "2026-01-30T05:36:51Z",
-            "closedAt": "2026-01-30T05:36:51Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 65,
+        "total": 71,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -585,7 +585,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-02-07",

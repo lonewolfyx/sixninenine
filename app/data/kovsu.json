@@ -589,14 +589,38 @@
     },
     "pullRequest": [
         {
+            "number": 8951,
+            "title": "Meat: skip `relative-ci` on forks",
+            "url": "https://github.com/refined-github/refined-github/pull/8951",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-06T02:22:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
             "number": 2286,
             "title": "feat(plugin-flint): add `placeholderFormatting` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2286",
             "state": "OPEN",
             "changedFiles": 17,
-            "additions": 521,
-            "deletions": 108,
-            "totalCommentsCount": 5,
+            "additions": 532,
+            "deletions": 111,
+            "totalCommentsCount": 14,
             "createdAt": "2026-02-05T07:48:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -803,34 +827,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 128,
-            "title": "fix: update `i-carbon-rotate` to `i-carbon-rotate-180`",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/128",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-26T15:17:50Z",
-            "mergedAt": "2026-01-26T15:24:06Z",
-            "closedAt": "2026-01-26T15:24:06Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 108,
+        "total": 109,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -978,7 +978,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-07",

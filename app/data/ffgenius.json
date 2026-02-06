@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 116,
+            "title": "refactor(i18n): centralize i18n files",
+            "url": "https://github.com/antdv-next/antdv-next/pull/116",
+            "state": "OPEN",
+            "changedFiles": 47,
+            "additions": 716,
+            "deletions": 510,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-06T16:40:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 107,
             "title": "fix: css variable calculation error",
             "url": "https://github.com/antdv-next/antdv-next/pull/107",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 7347,
-            "title": "feat(deps): migrate antdv to antdv-next",
-            "url": "https://github.com/vbenjs/vue-vben-admin/pull/7347",
-            "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 658,
-            "deletions": 59,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-01-31T07:19:50Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vue-vben-admin",
-                "nameWithOwner": "vbenjs/vue-vben-admin",
-                "homepageUrl": "https://www.vben.pro",
-                "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
-                "owner": {
-                    "login": "vbenjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/76995045?v=4"
-                },
-                "url": "https://github.com/vbenjs/vue-vben-admin"
-            }
         }
     ],
     "contributions": {
-        "total": 65,
+        "total": 66,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -466,7 +466,7 @@
             },
             {
                 "date": "2026-02-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-08",

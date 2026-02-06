@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1065,
+            "title": "chore: resolve broken alert rendering in nested list",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1065",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-06T02:32:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1022,
             "title": "fix(ui): fix squashed avatars & add missing mobile bluesky avatar",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1022",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 26,
-            "title": "Add RYGRIT to contributors and members lists",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/26",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-30T08:41:44Z",
-            "mergedAt": "2025-12-30T15:18:48Z",
-            "closedAt": "2025-12-30T15:18:48Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 25,
+        "total": 27,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -415,7 +415,7 @@
             },
             {
                 "date": "2026-01-27",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2026-01-28",
@@ -455,7 +455,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-07",

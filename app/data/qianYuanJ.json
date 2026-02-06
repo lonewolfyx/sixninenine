@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/87116441?u=29c42a77edda2bfc242bc92f9309f26110215dda&v=4",
         "pronouns": "he/him",
         "followers": 9,
-        "following": 65
+        "following": 66
     },
     "languages": [],
     "organizations": {
@@ -15,6 +15,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 109,
+            "title": "feat: 添加 prepare 脚本",
+            "url": "https://github.com/antdv-next/antdv-next/pull/109",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-06T01:16:53Z",
+            "mergedAt": "2026-02-06T01:53:11Z",
+            "closedAt": "2026-02-06T01:53:11Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
         {
             "number": 116,
             "title": "feat: 新增消耗活动进度监控组件",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/w1249178256/xyzw_web_helper"
             }
-        },
-        {
-            "number": 56,
-            "title": "chore(doc): add contributors for README",
-            "url": "https://github.com/uni-helper/uni-use/pull/56",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-09-16T13:44:23Z",
-            "mergedAt": "2025-09-16T14:09:21Z",
-            "closedAt": "2025-09-16T14:09:21Z",
-            "repository": {
-                "name": "uni-use",
-                "nameWithOwner": "uni-helper/uni-use",
-                "homepageUrl": "https://uni-helper.js.org/uni-use/",
-                "description": "uni-app (vue3) 组合式工具集",
-                "owner": {
-                    "login": "uni-helper",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
-                },
-                "url": "https://github.com/uni-helper/uni-use"
-            }
         }
     ],
     "contributions": {
-        "total": 2,
+        "total": 5,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -405,7 +405,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-07",

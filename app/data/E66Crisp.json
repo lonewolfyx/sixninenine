@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "fix(config): use process.cwd() instead of __dirname for correct path …",
+            "url": "https://github.com/skills-club/clear-skills/pull/1",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-06T03:00:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "clear-skills",
+                "nameWithOwner": "skills-club/clear-skills",
+                "homepageUrl": null,
+                "description": "Clear AI skills — remove skill files from the current project or globally",
+                "owner": {
+                    "login": "skills-club",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
+                },
+                "url": "https://github.com/skills-club/clear-skills"
+            }
+        },
+        {
             "number": 14421,
             "title": "chore: fix typo",
             "url": "https://github.com/vuejs/core/pull/14421",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23494,
-            "title": "fix(components): [carousel] avoid stopping autoplay after children change",
-            "url": "https://github.com/element-plus/element-plus/pull/23494",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 38,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-01-21T09:29:16Z",
-            "mergedAt": "2026-02-01T07:11:06Z",
-            "closedAt": "2026-02-01T07:11:06Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 152,
+        "total": 153,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -405,7 +405,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 7
+                "count": 8
             },
             {
                 "date": "2026-02-07",

@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1080,
+            "title": "fix: clickable rows & mobile scrollbar overflow & dynamic line width",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1080",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 23,
+            "deletions": 19,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-02-06T08:31:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 31,
             "title": "chore: update README description",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/31",
@@ -93,14 +117,14 @@
             "number": 1065,
             "title": "chore: resolve broken alert rendering in nested list",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1065",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 7,
             "createdAt": "2026-02-06T02:32:02Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-06T11:52:01Z",
+            "closedAt": "2026-02-06T11:52:01Z",
             "repository": {
                 "name": "npmx.dev",
                 "nameWithOwner": "npmx-dev/npmx.dev",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 402,
-            "title": "fix: button hover style isn't correct",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/402",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 16,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-30T08:59:54Z",
-            "mergedAt": "2026-01-30T10:29:55Z",
-            "closedAt": "2026-01-30T10:29:55Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 29,
+        "total": 31,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -455,7 +455,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 5
+                "count": 7
             },
             {
                 "date": "2026-02-07",

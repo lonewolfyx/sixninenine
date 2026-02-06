@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "chore: update README description",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/31",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-06T02:42:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 1065,
             "title": "chore: resolve broken alert rendering in nested list",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1065",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 380,
-            "title": "fix: styling issues in light mode",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/380",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-30T04:08:19Z",
-            "mergedAt": "2026-01-30T07:09:23Z",
-            "closedAt": "2026-01-30T07:09:23Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 27,
+        "total": 28,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -455,7 +455,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-02-07",

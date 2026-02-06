@@ -538,7 +538,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 2
+                    "totalCount": 3
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -568,6 +568,54 @@
         "totalCount": 11
     },
     "pullRequest": [
+        {
+            "number": 7,
+            "title": "chore(config): move renovate config to .github folder and update settings",
+            "url": "https://github.com/lonewolfyx/pkgrab/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-06T05:40:40Z",
+            "mergedAt": "2026-02-06T05:40:49Z",
+            "closedAt": "2026-02-06T05:40:49Z",
+            "repository": {
+                "name": "pkgrab",
+                "nameWithOwner": "lonewolfyx/pkgrab",
+                "homepageUrl": null,
+                "description": "📦 grab unused npm package names instantly",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/pkgrab"
+            }
+        },
+        {
+            "number": 8,
+            "title": "chore(config): update renovate configuration and move to .github dire…",
+            "url": "https://github.com/lonewolfyx/tsdown-preset/pull/8",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-06T05:30:47Z",
+            "mergedAt": "2026-02-06T05:31:07Z",
+            "closedAt": "2026-02-06T05:31:07Z",
+            "repository": {
+                "name": "tsdown-preset",
+                "nameWithOwner": "lonewolfyx/tsdown-preset",
+                "homepageUrl": "",
+                "description": "An opinionated preset for tsdown.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/tsdown-preset"
+            }
+        },
         {
             "number": 1,
             "title": "feat(build): add node library configuration function",
@@ -759,58 +807,10 @@
                 },
                 "url": "https://github.com/pheralb/svgl"
             }
-        },
-        {
-            "number": 872,
-            "title": "chore: new vitest brand logo",
-            "url": "https://github.com/pheralb/svgl/pull/872",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 31,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-14T14:46:00Z",
-            "mergedAt": "2026-01-14T17:40:36Z",
-            "closedAt": "2026-01-14T17:40:36Z",
-            "repository": {
-                "name": "svgl",
-                "nameWithOwner": "pheralb/svgl",
-                "homepageUrl": "https://svgl.app",
-                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
-                "owner": {
-                    "login": "pheralb",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
-                },
-                "url": "https://github.com/pheralb/svgl"
-            }
-        },
-        {
-            "number": 2,
-            "title": "refactor: Add generateShadcnRegistryItems functionality and optimize …",
-            "url": "https://github.com/ScaffoldCore/shadcn-vue-registry/pull/2",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 54,
-            "deletions": 25,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-12T13:24:44Z",
-            "mergedAt": "2026-01-12T13:25:06Z",
-            "closedAt": "2026-01-12T13:25:06Z",
-            "repository": {
-                "name": "shadcn-vue-registry",
-                "nameWithOwner": "ScaffoldCore/shadcn-vue-registry",
-                "homepageUrl": "",
-                "description": "⚙️ quickly construct the registry.json files required for shadcn-vue",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/shadcn-vue-registry"
-            }
         }
     ],
     "contributions": {
-        "total": 2209,
+        "total": 2231,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -958,7 +958,7 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 18
+                "count": 40
             },
             {
                 "date": "2026-02-07",

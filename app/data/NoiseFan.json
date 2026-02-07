@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
-            "number": 921,
-            "title": "chore: rm `vitepress-plugin-llms`",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/921",
+            "number": 1561,
+            "title": "chore: add tony's eslint rules",
+            "url": "https://github.com/vitejs/docs-cn/pull/1561",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 270,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-02-07T13:10:50Z",
+            "changedFiles": 35,
+            "additions": 3346,
+            "deletions": 961,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-07T15:45:20Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitejs/docs-cn",
+                "homepageUrl": "https://cn.vite.dev",
+                "description": "Chinese translation of vite.dev",
+                "owner": {
+                    "login": "vitejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
+                },
+                "url": "https://github.com/vitejs/docs-cn"
+            }
+        },
+        {
+            "number": 921,
+            "title": "chore: rm `vitepress-plugin-llms` dependency & add eslint rule",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/921",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 37,
+            "deletions": 270,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-07T13:10:50Z",
+            "mergedAt": "2026-02-07T16:37:52Z",
+            "closedAt": "2026-02-07T16:37:52Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 901,
-            "title": "docs(cn): upadate `readme.md`",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/901",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 7,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-14T14:29:58Z",
-            "mergedAt": "2026-01-14T22:30:34Z",
-            "closedAt": "2026-01-14T22:30:34Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 107,
+        "total": 109,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -424,11 +424,11 @@
             },
             {
                 "date": "2026-02-07",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-02-08",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-09",

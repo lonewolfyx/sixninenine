@@ -73,6 +73,54 @@
     },
     "pullRequest": [
         {
+            "number": 121,
+            "title": "test(select): add unit tests and supplement semantic DOM",
+            "url": "https://github.com/antdv-next/antdv-next/pull/121",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 7973,
+            "deletions": 42,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-07T10:56:36Z",
+            "mergedAt": "2026-02-07T12:14:58Z",
+            "closedAt": "2026-02-07T12:14:58Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 119,
+            "title": "test(auto-complete): add unit tests and supplement semantic DOM",
+            "url": "https://github.com/antdv-next/antdv-next/pull/119",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 2820,
+            "deletions": 10,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-07T08:43:38Z",
+            "mergedAt": "2026-02-07T09:22:50Z",
+            "closedAt": "2026-02-07T09:22:50Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 116,
             "title": "refactor(i18n): centralize i18n files",
             "url": "https://github.com/antdv-next/antdv-next/pull/116",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 80,
-            "title": "refactor(i18n): reorganize locale directory structure",
-            "url": "https://github.com/antdv-next/antdv-next/pull/80",
-            "state": "MERGED",
-            "changedFiles": 25,
-            "additions": 629,
-            "deletions": 354,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-31T09:58:55Z",
-            "mergedAt": "2026-01-31T10:00:50Z",
-            "closedAt": "2026-01-31T10:00:50Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 78,
-            "title": "refactor(i18n): reorganize locale directory structure",
-            "url": "https://github.com/antdv-next/antdv-next/pull/78",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 281,
-            "deletions": 353,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-31T08:46:06Z",
-            "mergedAt": "2026-01-31T09:51:13Z",
-            "closedAt": "2026-01-31T09:51:13Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 69,
+        "total": 78,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -466,7 +466,7 @@
             },
             {
                 "date": "2026-02-07",
-                "count": 4
+                "count": 13
             },
             {
                 "date": "2026-02-08",

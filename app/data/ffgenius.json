@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 124,
+            "title": "chore(i18n): extract inline locales into centralized files",
+            "url": "https://github.com/antdv-next/antdv-next/pull/124",
+            "state": "MERGED",
+            "changedFiles": 119,
+            "additions": 1530,
+            "deletions": 1538,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-08T07:36:27Z",
+            "mergedAt": "2026-02-08T11:26:43Z",
+            "closedAt": "2026-02-08T11:26:43Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 121,
             "title": "test(select): add unit tests and supplement semantic DOM",
             "url": "https://github.com/antdv-next/antdv-next/pull/121",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/happy-work-theme"
             }
-        },
-        {
-            "number": 81,
-            "title": "feat(docs): compact mode & happy word theme",
-            "url": "https://github.com/antdv-next/antdv-next/pull/81",
-            "state": "CLOSED",
-            "changedFiles": 16,
-            "additions": 787,
-            "deletions": 49,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-31T14:46:23Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-01T14:36:48Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 87,
+        "total": 90,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -470,7 +470,7 @@
             },
             {
                 "date": "2026-02-08",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-09",

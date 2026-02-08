@@ -15,14 +15,14 @@
             "color": "#e34c26",
             "size": 4348135,
             "repoCount": 10,
-            "progress": "78.72"
+            "progress": "78.66"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 432541,
             "repoCount": 8,
-            "progress": "7.83"
+            "progress": "7.82"
         },
         {
             "name": "Vue",
@@ -34,9 +34,9 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 168623,
+            "size": 173265,
             "repoCount": 6,
-            "progress": "3.05"
+            "progress": "3.13"
         },
         {
             "name": "Markdown",
@@ -50,7 +50,7 @@
             "color": "#663399",
             "size": 77070,
             "repoCount": 7,
-            "progress": "1.40"
+            "progress": "1.39"
         },
         {
             "name": "SCSS",
@@ -72,6 +72,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 7527,
+            "title": "feat(web): add antdv-next model",
+            "url": "https://github.com/vbenjs/vue-vben-admin/pull/7527",
+            "state": "OPEN",
+            "changedFiles": 93,
+            "additions": 4531,
+            "deletions": 12,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-02-08T15:12:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-vben-admin",
+                "nameWithOwner": "vbenjs/vue-vben-admin",
+                "homepageUrl": "https://www.vben.pro",
+                "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+                "owner": {
+                    "login": "vbenjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/76995045?v=4"
+                },
+                "url": "https://github.com/vbenjs/vue-vben-admin"
+            }
+        },
         {
             "number": 124,
             "title": "chore(i18n): extract inline locales into centralized files",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 1,
-            "title": "fix(happy-work-theme): init",
-            "url": "https://github.com/antdv-next/happy-work-theme/pull/1",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 2697,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-01T14:31:17Z",
-            "mergedAt": "2026-02-01T14:31:48Z",
-            "closedAt": "2026-02-01T14:31:49Z",
-            "repository": {
-                "name": "happy-work-theme",
-                "nameWithOwner": "antdv-next/happy-work-theme",
-                "homepageUrl": null,
-                "description": "Antdv Next Happy Work Theme",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/happy-work-theme"
-            }
         }
     ],
     "contributions": {
-        "total": 90,
+        "total": 92,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -470,7 +470,7 @@
             },
             {
                 "date": "2026-02-08",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-02-09",

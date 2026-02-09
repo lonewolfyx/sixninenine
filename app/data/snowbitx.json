@@ -16,14 +16,38 @@
     },
     "pullRequest": [
         {
+            "number": 23642,
+            "title": "docs(components): [timeline] fix color prop type",
+            "url": "https://github.com/element-plus/element-plus/pull/23642",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-09T13:52:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23635,
             "title": "fix(components): [time-select] prevent freeze when step is 00:00",
             "url": "https://github.com/element-plus/element-plus/pull/23635",
             "state": "OPEN",
             "changedFiles": 2,
-            "additions": 15,
+            "additions": 21,
             "deletions": 0,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 8,
             "createdAt": "2026-02-08T12:35:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23544,
-            "title": "feat(components): [drawer] supplement type for `DrawerInstance`",
-            "url": "https://github.com/element-plus/element-plus/pull/23544",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 19,
-            "createdAt": "2026-01-28T12:24:04Z",
-            "mergedAt": "2026-01-30T12:39:49Z",
-            "closedAt": "2026-01-30T12:39:49Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 95,
+        "total": 96,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -417,7 +417,7 @@
             },
             {
                 "date": "2026-02-09",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-02-10",

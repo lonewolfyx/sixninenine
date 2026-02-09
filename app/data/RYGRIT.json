@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1277,
+            "title": "fix(ui): implement clickable package table rows",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1277",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 20,
+            "deletions": 4,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-02-09T13:48:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1214,
             "title": "fix(search): sync keyword highlights and deduplicate filters",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1214",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 845,
-            "title": "fix: explicit seo meta tags for social cards",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/845",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-02-03T13:48:21Z",
-            "mergedAt": "2026-02-03T22:52:29Z",
-            "closedAt": "2026-02-03T22:52:29Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 35,
+        "total": 36,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -467,7 +467,7 @@
             },
             {
                 "date": "2026-02-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-10",

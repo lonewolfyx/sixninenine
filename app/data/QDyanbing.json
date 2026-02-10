@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 627646,
+            "size": 631948,
             "repoCount": 3,
-            "progress": "78.97"
+            "progress": "79.09"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 102007,
             "repoCount": 4,
-            "progress": "12.84"
+            "progress": "12.77"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.97"
+            "progress": "6.94"
         },
         {
             "name": "HTML",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 9451,
+            "title": "chore: upgrade antd to 6.3.0 and migrate Menu tooltip prop",
+            "url": "https://github.com/ant-design/pro-components/pull/9451",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 151,
+            "deletions": 85,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-10T06:28:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pro-components",
+                "nameWithOwner": "ant-design/pro-components",
+                "homepageUrl": "https://pro-components.antdigital.dev",
+                "description": "🏆 Use Ant Design like a Pro!",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/pro-components"
+            }
+        },
         {
             "number": 56871,
             "title": "feat(Menu): add tooltip option for Menu inline-collapsed items",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 849,
-            "title": "fix: add popupRender to SubMenuType",
-            "url": "https://github.com/react-component/menu/pull/849",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 6,
-            "deletions": 3,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-01-22T09:04:45Z",
-            "mergedAt": "2026-01-26T06:19:29Z",
-            "closedAt": "2026-01-26T06:19:29Z",
-            "repository": {
-                "name": "menu",
-                "nameWithOwner": "react-component/menu",
-                "homepageUrl": "https://menu.react-component.now.sh/",
-                "description": "React Menu",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/menu"
-            }
         }
     ],
     "contributions": {
-        "total": 826,
+        "total": 851,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -464,7 +464,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 0
+                "count": 25
             },
             {
                 "date": "2026-02-11",

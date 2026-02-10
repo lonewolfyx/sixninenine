@@ -73,6 +73,54 @@
     },
     "pullRequest": [
         {
+            "number": 142,
+            "title": "fix: eslint config type error",
+            "url": "https://github.com/antdv-next/antdv-next/pull/142",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 35,
+            "deletions": 28,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-10T07:35:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 141,
+            "title": "feat(docs): supplement `Badge.Ribbon` semantic dom",
+            "url": "https://github.com/antdv-next/antdv-next/pull/141",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 525,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-10T06:47:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 17,
             "title": "fix(trigger): sync openRef with mergedOpen reactively",
             "url": "https://github.com/antdv-next/vue-components/pull/17",
@@ -100,14 +148,14 @@
             "number": 7532,
             "title": "feat(playground): add antdv-next router link",
             "url": "https://github.com/vbenjs/vue-vben-admin/pull/7532",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 18,
             "deletions": 1,
             "totalCommentsCount": 4,
             "createdAt": "2026-02-09T07:16:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-10T05:09:34Z",
+            "closedAt": "2026-02-10T05:09:34Z",
             "repository": {
                 "name": "vue-vben-admin",
                 "nameWithOwner": "vbenjs/vue-vben-admin",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 98,
-            "title": "fix: incorrect import path",
-            "url": "https://github.com/antdv-next/antdv-next/pull/98",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-02-03T13:47:28Z",
-            "mergedAt": "2026-02-03T15:00:28Z",
-            "closedAt": "2026-02-03T15:00:28Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 93,
-            "title": "chore(deps): use tsx instead of esno",
-            "url": "https://github.com/antdv-next/antdv-next/pull/93",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 27,
-            "deletions": 23,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-02-03T09:50:27Z",
-            "mergedAt": "2026-02-03T10:30:58Z",
-            "closedAt": "2026-02-03T10:30:58Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 100,
+        "total": 103,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -478,7 +478,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-02-11",

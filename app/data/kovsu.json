@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2302,
+            "title": "fix: incorrect line numbers for rules that report during teardown",
+            "url": "https://github.com/flint-fyi/flint/pull/2302",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 17,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-10T06:07:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2301,
             "title": "feat: add `ruleCreationMethods` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2301",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 152,
-            "title": "fix: rotate the right direction",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/152",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 6,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-27T01:10:33Z",
-            "mergedAt": "2026-01-27T01:26:00Z",
-            "closedAt": "2026-01-27T01:26:00Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 116,
+        "total": 117,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1001,7 +1001,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-02-11",

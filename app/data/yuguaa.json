@@ -15,21 +15,21 @@
             "color": "#f1e05a",
             "size": 1177246,
             "repoCount": 22,
-            "progress": "54.24"
+            "progress": "54.28"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 415611,
+            "size": 414039,
             "repoCount": 12,
-            "progress": "19.15"
+            "progress": "19.09"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "16.74"
+            "progress": "16.75"
         },
         {
             "name": "HTML",
@@ -139,14 +139,14 @@
                 }
             },
             {
-                "name": "vue3-camp",
+                "name": "vuenginer",
                 "createdAt": "2025-04-29T01:17:56Z",
                 "avatarUrl": "https://avatars.githubusercontent.com/u/209567531?v=4",
                 "description": null,
                 "email": null,
                 "location": null,
-                "login": "vue3-camp",
-                "url": "https://github.com/vue3-camp",
+                "login": "vuenginer",
+                "url": "https://github.com/vuenginer",
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 12,
+            "title": "feat: 添加错误处理和日志记录功能，更新占位评论以显示错误信息",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/12",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 93,
+            "deletions": 133,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-10T02:55:52Z",
+            "mergedAt": "2026-02-10T02:56:02Z",
+            "closedAt": "2026-02-10T02:56:02Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 11,
             "title": "refactor: 优化代码格式，提升可读性",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 2,
-            "title": "fix: db control",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/2",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 9,
-            "deletions": 2,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-02-03T00:56:42Z",
-            "mergedAt": "2026-02-03T01:00:56Z",
-            "closedAt": "2026-02-03T01:00:56Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 71,
+        "total": 74,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -601,7 +601,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-11",

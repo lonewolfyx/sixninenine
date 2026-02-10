@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2301,
+            "title": "feat: add `ruleCreationMethods` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2301",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 150,
+            "deletions": 13,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-02-10T01:40:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 8951,
             "title": "Meta: skip `relative-ci` on forks",
             "url": "https://github.com/refined-github/refined-github/pull/8951",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 131,
-            "title": "feat: style improvement in package page",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/131",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-01-26T15:59:47Z",
-            "mergedAt": "2026-01-26T17:19:46Z",
-            "closedAt": "2026-01-26T17:19:47Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 115,
+        "total": 116,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1001,7 +1001,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-11",

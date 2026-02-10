@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1319,
+            "title": "refactor(LinkBase/ButtonBase): add inline prop & rename size prop for buttons and links",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1319",
+            "state": "OPEN",
+            "changedFiles": 23,
+            "additions": 263,
+            "deletions": 147,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-02-10T08:10:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1284,
             "title": "[need discussion]fix(ui): hide text on mobile devices to prevent inconsistent display on small screens",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1284",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 941,
-            "title": "fix: add back button and centre icon on compare page",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/941",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 14,
-            "deletions": 10,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-02-04T13:41:40Z",
-            "mergedAt": "2026-02-04T14:40:49Z",
-            "closedAt": "2026-02-04T14:40:49Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 38,
+        "total": 39,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -471,7 +471,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-11",

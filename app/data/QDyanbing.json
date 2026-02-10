@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 56928,
+            "title": "docs(Pagination): correct component size naming",
+            "url": "https://github.com/ant-design/ant-design/pull/56928",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 17,
+            "createdAt": "2026-02-10T07:49:12Z",
+            "mergedAt": "2026-02-10T13:18:45Z",
+            "closedAt": "2026-02-10T13:18:45Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 9451,
             "title": "chore: upgrade antd to 6.3.0 and migrate Menu tooltip prop",
             "url": "https://github.com/ant-design/pro-components/pull/9451",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 151,
             "deletions": 85,
             "totalCommentsCount": 3,
             "createdAt": "2026-02-10T06:28:15Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-10T08:20:36Z",
+            "closedAt": "2026-02-10T08:20:36Z",
             "repository": {
                 "name": "pro-components",
                 "nameWithOwner": "ant-design/pro-components",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56715,
-            "title": "fix: align pagination container items vertically",
-            "url": "https://github.com/ant-design/ant-design/pull/56715",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-01-22T09:25:19Z",
-            "mergedAt": "2026-01-23T01:08:45Z",
-            "closedAt": "2026-01-23T01:08:45Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 851,
+        "total": 854,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -464,7 +464,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 25
+                "count": 28
             },
             {
                 "date": "2026-02-11",

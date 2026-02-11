@@ -41,13 +41,13 @@
         },
         {
             "number": 23635,
-            "title": "fix(components): [time-select] prevent freeze when step is 00:00",
+            "title": "fix(components): [time-select] prevent freeze when step is invalid",
             "url": "https://github.com/element-plus/element-plus/pull/23635",
             "state": "OPEN",
             "changedFiles": 3,
-            "additions": 31,
-            "deletions": 8,
-            "totalCommentsCount": 12,
+            "additions": 35,
+            "deletions": 7,
+            "totalCommentsCount": 18,
             "createdAt": "2026-02-08T12:35:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -257,7 +257,7 @@
         }
     ],
     "contributions": {
-        "total": 97,
+        "total": 98,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -425,7 +425,7 @@
             },
             {
                 "date": "2026-02-11",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-02-12",

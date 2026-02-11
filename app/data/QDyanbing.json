@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 631948,
+            "size": 633224,
             "repoCount": 3,
-            "progress": "79.09"
+            "progress": "78.94"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 102007,
+            "size": 103864,
             "repoCount": 4,
-            "progress": "12.77"
+            "progress": "12.95"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.94"
+            "progress": "6.91"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 6520,
             "repoCount": 1,
-            "progress": "0.82"
+            "progress": "0.81"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1203,
+            "title": "fix: spaceKey preventDefault",
+            "url": "https://github.com/react-component/select/pull/1203",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 29,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-02-11T10:50:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://select-react-component.vercel.app/",
+                "description": "React Select",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/select"
+            }
+        },
         {
             "number": 56928,
             "title": "docs(Pagination): correct component size naming",
@@ -234,7 +258,7 @@
             "changedFiles": 7,
             "additions": 2337,
             "deletions": 8,
-            "totalCommentsCount": 16,
+            "totalCommentsCount": 17,
             "createdAt": "2026-01-28T13:04:14Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56722,
-            "title": "style: refactor pagination layout to inline-flex",
-            "url": "https://github.com/ant-design/ant-design/pull/56722",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 11,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-01-23T02:19:42Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-23T06:25:44Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 854,
+        "total": 875,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -468,7 +468,7 @@
             },
             {
                 "date": "2026-02-11",
-                "count": 0
+                "count": 21
             },
             {
                 "date": "2026-02-12",

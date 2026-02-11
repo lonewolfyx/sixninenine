@@ -13,30 +13,30 @@
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 1177246,
+            "size": 1178180,
             "repoCount": 22,
-            "progress": "54.24"
+            "progress": "54.26"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 415611,
             "repoCount": 12,
-            "progress": "19.15"
+            "progress": "19.14"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "16.74"
+            "progress": "16.73"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.02"
+            "progress": "8.01"
         },
         {
             "name": "CSS",
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 13,
+            "title": "feat: 添加 PM2 配置文件以支持应用管理和日志记录",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/13",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 25,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-11T03:38:05Z",
+            "mergedAt": "2026-02-11T03:38:19Z",
+            "closedAt": "2026-02-11T03:38:19Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 12,
             "title": "feat: 添加错误处理和日志记录功能，更新占位评论以显示错误信息",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: 添加自定义 AI 模型配置到仓库，包括提供商、模型 ID、API 密钥及相关参数",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/3",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 545,
-            "deletions": 280,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-02-03T01:56:16Z",
-            "mergedAt": "2026-02-03T01:56:38Z",
-            "closedAt": "2026-02-03T01:56:38Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 74,
+        "total": 77,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -605,7 +605,7 @@
             },
             {
                 "date": "2026-02-11",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-12",

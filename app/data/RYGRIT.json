@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1406,
+            "title": "fix(i18n): add zh-CN translations to entries that lack translations",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1406",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 163,
+            "deletions": 43,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-02-12T03:39:51Z",
+            "mergedAt": "2026-02-12T06:30:20Z",
+            "closedAt": "2026-02-12T06:30:20Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1370,
             "title": "fix: prevent trends date input from being disabled while typing",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1370",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1022,
-            "title": "fix(ui): fix squashed avatars & add missing mobile bluesky avatar",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1022",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 6,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-02-05T13:37:45Z",
-            "mergedAt": "2026-02-05T13:46:16Z",
-            "closedAt": "2026-02-05T13:46:16Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 43,
+        "total": 45,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -479,7 +479,7 @@
             },
             {
                 "date": "2026-02-12",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-02-13",

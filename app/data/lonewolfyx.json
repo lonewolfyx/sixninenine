@@ -15,14 +15,14 @@
             "color": "#41b883",
             "size": 859433,
             "repoCount": 15,
-            "progress": "57.91"
+            "progress": "57.88"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 453392,
+            "size": 454239,
             "repoCount": 28,
-            "progress": "30.55"
+            "progress": "30.59"
         },
         {
             "name": "CSS",
@@ -36,7 +36,7 @@
             "color": "#f1e05a",
             "size": 72518,
             "repoCount": 26,
-            "progress": "4.89"
+            "progress": "4.88"
         },
         {
             "name": "SCSS",
@@ -569,6 +569,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(lint): add oxlint rules generate script",
+            "url": "https://github.com/lonewolfyx/lint-rules/pull/2",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 6264,
+            "deletions": 14,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-12T01:53:50Z",
+            "mergedAt": "2026-02-12T01:54:45Z",
+            "closedAt": "2026-02-12T01:54:45Z",
+            "repository": {
+                "name": "lint-rules",
+                "nameWithOwner": "lonewolfyx/lint-rules",
+                "homepageUrl": "https://lint-rules.vercel.app",
+                "description": "All-in-one lint rules hub: ESLint + Plugins, Stylelint, Biome, Oxlint, OxFmt and other linters",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lint-rules"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(eslint): add ESLint rules generation script",
+            "url": "https://github.com/lonewolfyx/lint-rules/pull/1",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 13274,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-12T01:32:08Z",
+            "mergedAt": "2026-02-12T01:33:09Z",
+            "closedAt": "2026-02-12T01:33:09Z",
+            "repository": {
+                "name": "lint-rules",
+                "nameWithOwner": "lonewolfyx/lint-rules",
+                "homepageUrl": "https://lint-rules.vercel.app",
+                "description": "All-in-one lint rules hub: ESLint + Plugins, Stylelint, Biome, Oxlint, OxFmt and other linters",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=08ab731441ad3814fd836753d0a49c22fd3a04aa&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lint-rules"
+            }
+        },
+        {
             "number": 7,
             "title": "chore(config): move renovate config to .github folder and update settings",
             "url": "https://github.com/lonewolfyx/pkgrab/pull/7",
@@ -759,58 +807,10 @@
                 },
                 "url": "https://github.com/pheralb/svgl"
             }
-        },
-        {
-            "number": 874,
-            "title": "feat: add new vitejs brand logo",
-            "url": "https://github.com/pheralb/svgl/pull/874",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 64,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-14T14:51:37Z",
-            "mergedAt": "2026-01-14T17:41:37Z",
-            "closedAt": "2026-01-14T17:41:37Z",
-            "repository": {
-                "name": "svgl",
-                "nameWithOwner": "pheralb/svgl",
-                "homepageUrl": "https://svgl.app",
-                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
-                "owner": {
-                    "login": "pheralb",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
-                },
-                "url": "https://github.com/pheralb/svgl"
-            }
-        },
-        {
-            "number": 873,
-            "title": "feat: add new rolldown brand logo",
-            "url": "https://github.com/pheralb/svgl/pull/873",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 46,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-14T14:49:24Z",
-            "mergedAt": "2026-01-14T17:41:07Z",
-            "closedAt": "2026-01-14T17:41:07Z",
-            "repository": {
-                "name": "svgl",
-                "nameWithOwner": "pheralb/svgl",
-                "homepageUrl": "https://svgl.app",
-                "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
-                "owner": {
-                    "login": "pheralb",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?u=9d2ff92aac5c2884f3b3fe9bf2a227e5a24e2a7b&v=4"
-                },
-                "url": "https://github.com/pheralb/svgl"
-            }
         }
     ],
     "contributions": {
-        "total": 2548,
+        "total": 2564,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -978,11 +978,11 @@
             },
             {
                 "date": "2026-02-11",
-                "count": 39
+                "count": 48
             },
             {
                 "date": "2026-02-12",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-02-13",

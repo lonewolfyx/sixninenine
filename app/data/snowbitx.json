@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23655,
+            "title": "test(components): [image] add a test case for lazy image",
+            "url": "https://github.com/element-plus/element-plus/pull/23655",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 39,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-02-12T22:07:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23642,
             "title": "docs(components): [timeline] fix color prop type",
             "url": "https://github.com/element-plus/element-plus/pull/23642",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23554,
-            "title": "chore(components): [drawer] mark deprecate exposed afterEnter/afterLeave",
-            "url": "https://github.com/element-plus/element-plus/pull/23554",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-01-29T05:02:46Z",
-            "mergedAt": "2026-02-02T06:52:24Z",
-            "closedAt": "2026-02-02T06:52:24Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 98,
+        "total": 99,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -433,7 +433,7 @@
             },
             {
                 "date": "2026-02-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-14",

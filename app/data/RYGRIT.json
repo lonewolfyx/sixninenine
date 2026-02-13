@@ -6,8 +6,8 @@
         "url": "https://github.com/RYGRIT",
         "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4",
         "pronouns": "",
-        "followers": 4,
-        "following": 10
+        "followers": 5,
+        "following": 11
     },
     "languages": [
         {
@@ -65,6 +65,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1453,
+            "title": "feat: improve scroll-to-top behavior",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1453",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 104,
+            "deletions": 8,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-13T02:27:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
         {
             "number": 1406,
             "title": "fix(i18n): add zh-CN translations to entries that lack translations",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/vscode-npmx"
             }
-        },
-        {
-            "number": 1065,
-            "title": "chore: resolve broken alert rendering in nested list",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1065",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-02-06T02:32:02Z",
-            "mergedAt": "2026-02-06T11:52:01Z",
-            "closedAt": "2026-02-06T11:52:01Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 45,
+        "total": 46,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -483,7 +483,7 @@
             },
             {
                 "date": "2026-02-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-14",

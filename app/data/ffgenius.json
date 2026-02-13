@@ -6,7 +6,7 @@
         "url": "https://github.com/ffgenius",
         "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4",
         "pronouns": "he/him",
-        "followers": 31,
+        "followers": 32,
         "following": 81
     },
     "languages": [
@@ -73,17 +73,41 @@
     },
     "pullRequest": [
         {
+            "number": 178,
+            "title": "feat(docs): implement custom theme",
+            "url": "https://github.com/antdv-next/antdv-next/pull/178",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-13T04:04:43Z",
+            "mergedAt": "2026-02-13T04:09:24Z",
+            "closedAt": "2026-02-13T04:09:24Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 166,
             "title": "feat(docs): implement custom theme",
             "url": "https://github.com/antdv-next/antdv-next/pull/166",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 34,
             "additions": 1850,
             "deletions": 941,
             "totalCommentsCount": 6,
             "createdAt": "2026-02-12T04:04:37Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-13T03:45:53Z",
+            "closedAt": "2026-02-13T03:45:54Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 121,
-            "title": "test(select): add unit tests and supplement semantic DOM",
-            "url": "https://github.com/antdv-next/antdv-next/pull/121",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 7973,
-            "deletions": 42,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-02-07T10:56:36Z",
-            "mergedAt": "2026-02-07T12:14:58Z",
-            "closedAt": "2026-02-07T12:14:58Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 114,
+        "total": 117,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -490,7 +490,7 @@
             },
             {
                 "date": "2026-02-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-14",

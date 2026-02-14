@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4",
         "pronouns": "",
         "followers": 1,
-        "following": 4
+        "following": 5
     },
     "languages": [
         {
@@ -72,6 +72,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 931,
+            "title": "fix(wizard): typos",
+            "url": "https://github.com/nuxt/devtools/pull/931",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-14T09:11:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "devtools",
+                "nameWithOwner": "nuxt/devtools",
+                "homepageUrl": "https://devtools.nuxt.com",
+                "description": "Unleash Nuxt Developer Experience",
+                "owner": {
+                    "login": "nuxt",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
+                },
+                "url": "https://github.com/nuxt/devtools"
+            }
+        },
+        {
+            "number": 930,
+            "title": "fix(devtools): resolve non-props attributes warning for NuxtDevtoolsInspectPanel",
+            "url": "https://github.com/nuxt/devtools/pull/930",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-14T07:34:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "devtools",
+                "nameWithOwner": "nuxt/devtools",
+                "homepageUrl": "https://devtools.nuxt.com",
+                "description": "Unleash Nuxt Developer Experience",
+                "owner": {
+                    "login": "nuxt",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
+                },
+                "url": "https://github.com/nuxt/devtools"
+            }
+        },
         {
             "number": 10,
             "title": "feat: support deep freeze in lazy-render",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat(multi-step-loader): display the initialization button when error",
-            "url": "https://github.com/lonewolfyx/github-profile-visualized/pull/2",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 58,
-            "deletions": 45,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-11T04:26:21Z",
-            "mergedAt": null,
-            "closedAt": "2025-07-11T07:23:29Z",
-            "repository": {
-                "name": "github-profile-visualized",
-                "nameWithOwner": "lonewolfyx/github-profile-visualized",
-                "homepageUrl": "https://github-profile-visualized.vercel.app",
-                "description": "🫣 Elegant GitHub Profile Visualization, Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-profile-visualized"
-            }
-        },
-        {
-            "number": 4820,
-            "title": "feat(useFetch): support for custom abort reason",
-            "url": "https://github.com/vueuse/vueuse/pull/4820",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 18,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-15T07:33:41Z",
-            "mergedAt": "2025-06-19T08:14:27Z",
-            "closedAt": "2025-06-19T08:14:27Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 140,
+        "total": 142,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -494,7 +494,7 @@
             },
             {
                 "date": "2026-02-14",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-02-15",

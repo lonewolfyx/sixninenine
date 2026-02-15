@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2318,
+            "title": "feat: add optional `name` prop",
+            "url": "https://github.com/flint-fyi/flint/pull/2318",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 14,
+            "deletions": 7,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-15T13:15:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2302,
             "title": "fix: incorrect line numbers for rules that report during teardown",
             "url": "https://github.com/flint-fyi/flint/pull/2302",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 18759,
-            "title": "Fix website doesn't show error in `doc` and `comment` panel",
-            "url": "https://github.com/prettier/prettier/pull/18759",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 8,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-27T06:23:40Z",
-            "mergedAt": null,
-            "closedAt": "2026-01-27T09:37:49Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 117,
+        "total": 118,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1021,7 +1021,7 @@
             },
             {
                 "date": "2026-02-15",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-16",

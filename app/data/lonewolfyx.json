@@ -13,14 +13,14 @@
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 941102,
+            "size": 942157,
             "repoCount": 15,
-            "progress": "58.26"
+            "progress": "58.27"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 502439,
+            "size": 502860,
             "repoCount": 28,
             "progress": "31.10"
         },
@@ -36,7 +36,7 @@
             "color": "#f1e05a",
             "size": 72650,
             "repoCount": 26,
-            "progress": "4.50"
+            "progress": "4.49"
         },
         {
             "name": "SCSS",
@@ -569,6 +569,30 @@
     },
     "pullRequest": [
         {
+            "number": 7,
+            "title": "refactore project",
+            "url": "https://github.com/lonewolfyx/oxlint-config-generator/pull/7",
+            "state": "OPEN",
+            "changedFiles": 32,
+            "additions": 0,
+            "deletions": 7563,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-17T13:06:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "oxlint-config-generator",
+                "nameWithOwner": "lonewolfyx/oxlint-config-generator",
+                "homepageUrl": "https://oxlint-config-generator.vercel.app",
+                "description": "🛠️ A simple tool to generate OXLint configuration files with customizable options and rule presets, designed to streamline your code style enforcement.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/oxlint-config-generator"
+            }
+        },
+        {
             "number": 3,
             "title": "feat(app): new layout design",
             "url": "https://github.com/lonewolfyx/lint-rules/pull/3",
@@ -783,34 +807,10 @@
                 },
                 "url": "https://github.com/vuepont/elevenlabs-ui-vue"
             }
-        },
-        {
-            "number": 44,
-            "title": "fix(registry): include missing @types packages in devDependencies",
-            "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/44",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-21T02:32:35Z",
-            "mergedAt": "2026-01-26T02:06:25Z",
-            "closedAt": "2026-01-26T02:06:25Z",
-            "repository": {
-                "name": "elevenlabs-ui-vue",
-                "nameWithOwner": "vuepont/elevenlabs-ui-vue",
-                "homepageUrl": "http://elevenlabs-ui-vue.com/",
-                "description": "ElevenLabs UI Vue is a component library and custom registry built on top of shadcn-vue to help you build multimodal agents faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/elevenlabs-ui-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 2909,
+        "total": 2940,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -974,7 +974,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 48
+                "count": 49
             },
             {
                 "date": "2026-02-11",
@@ -1002,7 +1002,7 @@
             },
             {
                 "date": "2026-02-17",
-                "count": 22
+                "count": 52
             },
             {
                 "date": "2026-02-18",

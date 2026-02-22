@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2337,
+            "title": "fix: implement correct post-order :exit visitor semantics",
+            "url": "https://github.com/flint-fyi/flint/pull/2337",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 47,
+            "deletions": 26,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-02-22T14:35:24Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2318,
             "title": "feat: add optional `name` prop",
             "url": "https://github.com/flint-fyi/flint/pull/2318",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 18760,
-            "title": "Add parentheses to conditional types in type parameter constraint",
-            "url": "https://github.com/prettier/prettier/pull/18760",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 122,
-            "deletions": 1,
-            "totalCommentsCount": 17,
-            "createdAt": "2026-01-27T07:10:34Z",
-            "mergedAt": "2026-01-28T10:01:35Z",
-            "closedAt": "2026-01-28T10:01:35Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 120,
+        "total": 121,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1049,7 +1049,7 @@
             },
             {
                 "date": "2026-02-22",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-23",

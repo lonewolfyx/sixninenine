@@ -66,13 +66,37 @@
     },
     "pullRequest": [
         {
+            "number": 1579,
+            "title": "fix: add workaround for safari + `position: relative` on `<tr>`",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1579",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-02-22T16:55:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1453,
             "title": "feat: improve scroll-to-top behavior",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1453",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 110,
-            "deletions": 20,
+            "changedFiles": 3,
+            "additions": 140,
+            "deletions": 29,
             "totalCommentsCount": 22,
             "createdAt": "2026-02-13T02:27:49Z",
             "mergedAt": null,
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 31,
-            "title": "chore: update README description",
-            "url": "https://github.com/npmx-dev/vscode-npmx/pull/31",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 9,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-02-06T02:42:27Z",
-            "mergedAt": "2026-02-06T06:10:30Z",
-            "closedAt": "2026-02-06T06:10:30Z",
-            "repository": {
-                "name": "vscode-npmx",
-                "nameWithOwner": "npmx-dev/vscode-npmx",
-                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
-                "description": "A better browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/vscode-npmx"
-            }
         }
     ],
     "contributions": {
-        "total": 46,
+        "total": 47,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -523,7 +523,7 @@
             },
             {
                 "date": "2026-02-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-02-24",

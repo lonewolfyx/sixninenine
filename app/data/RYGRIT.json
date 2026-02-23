@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1597,
+            "title": "fix: add `clip-path` prevents the clickable area of ​​the last link from expanding below the table",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1597",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-02-23T04:43:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1579,
             "title": "fix: add workaround for safari + `position: relative` on `<tr>`",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1579",
@@ -73,7 +97,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-02-22T16:55:10Z",
             "mergedAt": "2026-02-23T02:20:42Z",
             "closedAt": "2026-02-23T02:20:42Z",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1080,
-            "title": "fix: clickable rows & mobile scrollbar overflow & dynamic line width",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1080",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 22,
-            "deletions": 15,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-02-06T08:31:58Z",
-            "mergedAt": "2026-02-07T12:45:31Z",
-            "closedAt": "2026-02-07T12:45:31Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 48,
+        "total": 49,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -523,7 +523,7 @@
             },
             {
                 "date": "2026-02-23",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-02-24",

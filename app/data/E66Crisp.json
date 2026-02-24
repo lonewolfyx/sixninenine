@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23681,
+            "title": "feat(components): [color-picker] add color format selector",
+            "url": "https://github.com/element-plus/element-plus/pull/23681",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 177,
+            "deletions": 23,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-02-24T09:29:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23677,
             "title": "refactor(components): [segmented] remove `intoAny` workaround",
             "url": "https://github.com/element-plus/element-plus/pull/23677",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23586,
-            "title": "fix(components): [input-number] Decimal point issue resolution",
-            "url": "https://github.com/element-plus/element-plus/pull/23586",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 82,
-            "deletions": 2,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-02-02T09:43:36Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-24T00:45:14Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 197,
+        "total": 198,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -477,7 +477,7 @@
             },
             {
                 "date": "2026-02-24",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-02-25",

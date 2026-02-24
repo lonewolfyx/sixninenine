@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "fix: update skills API limit to 10000 and add console log for skills",
+            "url": "https://github.com/skills-club/skills-live/pull/3",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-24T07:24:36Z",
+            "mergedAt": "2026-02-24T07:25:27Z",
+            "closedAt": "2026-02-24T07:25:27Z",
+            "repository": {
+                "name": "skills-live",
+                "nameWithOwner": "skills-club/skills-live",
+                "homepageUrl": "https://skills-club.cc",
+                "description": "Collect the best practice skills",
+                "owner": {
+                    "login": "skills-club",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
+                },
+                "url": "https://github.com/skills-club/skills-live"
+            }
+        },
+        {
             "number": 2,
             "title": "feat: add .env.example file",
             "url": "https://github.com/skills-club/skills-live/pull/2",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/unomcp/JueJin-MCP"
             }
-        },
-        {
-            "number": 12,
-            "title": "docs(README): enhance usage instructions",
-            "url": "https://github.com/unomcp/JueJin-MCP/pull/12",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 23,
-            "deletions": 13,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-12-19T14:05:00Z",
-            "mergedAt": "2025-12-19T14:05:09Z",
-            "closedAt": "2025-12-19T14:05:09Z",
-            "repository": {
-                "name": "JueJin-MCP",
-                "nameWithOwner": "unomcp/JueJin-MCP",
-                "homepageUrl": "",
-                "description": "MCP for juejin.cn ",
-                "owner": {
-                    "login": "unomcp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/205016027?v=4"
-                },
-                "url": "https://github.com/unomcp/JueJin-MCP"
-            }
         }
     ],
     "contributions": {
-        "total": 113,
+        "total": 115,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -806,7 +806,7 @@
             },
             {
                 "date": "2026-02-24",
-                "count": 8
+                "count": 10
             },
             {
                 "date": "2026-02-25",

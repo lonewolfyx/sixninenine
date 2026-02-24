@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 250,
+            "title": "feat(sponsor): optimize the style of the custom amount input box",
+            "url": "https://github.com/antdv-next/antdv-next/pull/250",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 37,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-24T06:28:26Z",
+            "mergedAt": "2026-02-24T06:35:11Z",
+            "closedAt": "2026-02-24T06:35:11Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 195,
             "title": "refactor: optimize project structure",
             "url": "https://github.com/antdv-next/antdv-next/pull/195",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 17,
-            "title": "fix(trigger): sync openRef with mergedOpen reactively",
-            "url": "https://github.com/antdv-next/vue-components/pull/17",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-09T14:02:06Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-10T01:11:28Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 124,
+        "total": 126,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -534,7 +534,7 @@
             },
             {
                 "date": "2026-02-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-25",

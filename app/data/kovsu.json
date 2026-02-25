@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 2360,
+            "title": "feat: add `testCaseNameDuplicates` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2360",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 321,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-25T06:20:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2357,
             "title": "fix: add lowercased changelog paths to  ignorePaths",
             "url": "https://github.com/flint-fyi/flint/pull/2357",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-02-24T15:48:59Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-02-25T03:58:30Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -623,14 +647,14 @@
             "number": 2356,
             "title": "refactor: use `:exit` visitors instead of manual tree traversal",
             "url": "https://github.com/flint-fyi/flint/pull/2356",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 176,
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 171,
             "deletions": 268,
             "totalCommentsCount": 4,
             "createdAt": "2026-02-24T15:04:41Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-25T03:49:28Z",
+            "closedAt": "2026-02-25T03:49:28Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -697,8 +721,8 @@
             "url": "https://github.com/flint-fyi/flint/pull/2302",
             "state": "OPEN",
             "changedFiles": 2,
-            "additions": 22,
-            "deletions": 12,
+            "additions": 9,
+            "deletions": 0,
             "totalCommentsCount": 12,
             "createdAt": "2026-02-10T06:07:59Z",
             "mergedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 2186,
-            "title": "fix(comparsions): add missing .md suffix to eslint-plugin-eslint-plugin rule urls",
-            "url": "https://github.com/flint-fyi/flint/pull/2186",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 32,
-            "deletions": 32,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-29T03:42:43Z",
-            "mergedAt": "2026-01-29T18:12:04Z",
-            "closedAt": "2026-01-29T18:12:04Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 126,
+        "total": 129,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1061,7 +1061,7 @@
             },
             {
                 "date": "2026-02-25",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-26",

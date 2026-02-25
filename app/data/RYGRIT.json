@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4",
         "pronouns": "",
         "followers": 5,
-        "following": 12
+        "following": 13
     },
     "languages": [
         {
@@ -65,6 +65,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1639,
+            "title": "fix: blank gap on collapsed weekly downloads",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1639",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-02-25T04:54:02Z",
+            "mergedAt": "2026-02-25T07:07:57Z",
+            "closedAt": "2026-02-25T07:07:57Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
         {
             "number": 1597,
             "title": "fix: add `clip-path` prevents the clickable area of ​​the last link from expanding below the table",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1150,
-            "title": "fix: icons disappear in Windows High Contrast Mode",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1150",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 90,
-            "deletions": 2,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-02-07T14:20:05Z",
-            "mergedAt": "2026-02-08T09:29:32Z",
-            "closedAt": "2026-02-08T09:29:32Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 52,
+        "total": 55,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -531,7 +531,7 @@
             },
             {
                 "date": "2026-02-25",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-02-26",

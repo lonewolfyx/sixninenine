@@ -596,6 +596,54 @@
     },
     "pullRequest": [
         {
+            "number": 13047,
+            "title": "fix: remove extra divider in settings",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13047",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-25T09:07:29Z",
+            "mergedAt": "2026-02-25T10:59:59Z",
+            "closedAt": "2026-02-25T10:59:59Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 13045,
+            "title": "fix: disable translate button when sending message is disabled",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13045",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-02-25T08:51:12Z",
+            "mergedAt": "2026-02-25T12:01:01Z",
+            "closedAt": "2026-02-25T12:01:01Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2360,
             "title": "feat: add `testCaseNameDuplicates` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2360",
@@ -603,7 +651,7 @@
             "changedFiles": 8,
             "additions": 321,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-02-25T06:20:10Z",
             "mergedAt": null,
             "closedAt": null,
@@ -721,9 +769,9 @@
             "url": "https://github.com/flint-fyi/flint/pull/2302",
             "state": "OPEN",
             "changedFiles": 2,
-            "additions": 9,
-            "deletions": 0,
-            "totalCommentsCount": 12,
+            "additions": 25,
+            "deletions": 6,
+            "totalCommentsCount": 13,
             "createdAt": "2026-02-10T06:07:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/refined-github/refined-github"
             }
-        },
-        {
-            "number": 2286,
-            "title": "feat(plugin-flint): add `placeholderFormatting` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2286",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 532,
-            "deletions": 111,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-02-05T07:48:59Z",
-            "mergedAt": "2026-02-09T13:21:38Z",
-            "closedAt": "2026-02-09T13:21:38Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 18830,
-            "title": "Add playground for current version",
-            "url": "https://github.com/prettier/prettier/pull/18830",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 409,
-            "deletions": 196,
-            "totalCommentsCount": 26,
-            "createdAt": "2026-02-02T03:36:32Z",
-            "mergedAt": "2026-02-05T14:29:59Z",
-            "closedAt": "2026-02-05T14:29:59Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 129,
+        "total": 133,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1061,7 +1061,7 @@
             },
             {
                 "date": "2026-02-25",
-                "count": 3
+                "count": 7
             },
             {
                 "date": "2026-02-26",

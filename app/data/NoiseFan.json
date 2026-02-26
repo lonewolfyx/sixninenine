@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 932,
+            "title": "docs(cn): update /api/describe",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/932",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 56,
+            "deletions": 58,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-26T16:02:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 931,
+            "title": "docs(v3): update /api/index",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/931",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-26T15:59:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 924,
             "title": "docs(cn): update `Render Function`",
             "url": "https://github.com/vitest-dev/docs-cn/pull/924",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 910,
-            "title": "docs(cn): update `guide/test-tags`",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/910",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 65,
-            "deletions": 63,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-01-24T14:11:13Z",
-            "mergedAt": "2026-01-28T04:21:11Z",
-            "closedAt": "2026-01-28T04:21:11Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 9518,
-            "title": "docs: update `test-tags` feature introduction",
-            "url": "https://github.com/vitest-dev/vitest/pull/9518",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-01-24T13:55:22Z",
-            "mergedAt": "2026-01-25T19:33:24Z",
-            "closedAt": "2026-01-25T19:33:24Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
         }
     ],
     "contributions": {
-        "total": 134,
+        "total": 137,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -500,11 +500,11 @@
             },
             {
                 "date": "2026-02-26",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-02-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-28",

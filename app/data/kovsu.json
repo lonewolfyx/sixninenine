@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 2361,
+            "title": "fix: normalize file dependencies to ensure cache hits",
+            "url": "https://github.com/flint-fyi/flint/pull/2361",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 17,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-02-26T06:37:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 13066,
             "title": "fix: filter hidden elements when exporting messages as images",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13066",
-            "state": "OPEN",
-            "changedFiles": 13,
-            "additions": 26,
-            "deletions": 1,
-            "totalCommentsCount": 0,
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 31,
+            "deletions": 3,
+            "totalCommentsCount": 6,
             "createdAt": "2026-02-26T02:29:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-26T06:30:07Z",
+            "closedAt": "2026-02-26T06:30:07Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -649,9 +673,9 @@
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13053",
             "state": "OPEN",
             "changedFiles": 12,
-            "additions": 55,
-            "deletions": 8,
-            "totalCommentsCount": 1,
+            "additions": 56,
+            "deletions": 9,
+            "totalCommentsCount": 6,
             "createdAt": "2026-02-25T14:06:03Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2318,
-            "title": "feat: add optional `name` prop",
-            "url": "https://github.com/flint-fyi/flint/pull/2318",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 14,
-            "deletions": 7,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-02-15T13:15:35Z",
-            "mergedAt": "2026-02-17T16:55:21Z",
-            "closedAt": "2026-02-17T16:55:21Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 139,
+        "total": 141,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1065,7 +1065,7 @@
             },
             {
                 "date": "2026-02-26",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2026-02-27",

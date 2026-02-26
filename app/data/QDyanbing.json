@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 606986,
+            "size": 608081,
             "repoCount": 3,
-            "progress": "76.83"
+            "progress": "76.80"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 117987,
             "repoCount": 5,
-            "progress": "14.93"
+            "progress": "14.90"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "7.02"
+            "progress": "7.00"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 6520,
+            "size": 7094,
             "repoCount": 1,
-            "progress": "0.83"
+            "progress": "0.90"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1215,
+            "title": "fix(select): merge raw trigger element event handlers",
+            "url": "https://github.com/react-component/select/pull/1215",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 38,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-02-26T03:27:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://select-react-component.vercel.app/",
+                "description": "React Select",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/select"
+            }
+        },
         {
             "number": 1214,
             "title": "fix: prevent dropdown from closing when mousedown on input in multiple mode",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56795,
-            "title": "chore(test): merge semantic tests into jest and drop dedicated config",
-            "url": "https://github.com/ant-design/ant-design/pull/56795",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 6,
-            "deletions": 42,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-01-29T03:48:49Z",
-            "mergedAt": "2026-01-29T07:30:08Z",
-            "closedAt": "2026-01-29T07:30:08Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1160,
+        "total": 1167,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -528,7 +528,7 @@
             },
             {
                 "date": "2026-02-26",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-02-27",

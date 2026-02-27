@@ -15,14 +15,14 @@
             "color": "#f1e05a",
             "size": 1178396,
             "repoCount": 22,
-            "progress": "53.90"
+            "progress": "53.89"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 430011,
+            "size": 430559,
             "repoCount": 12,
-            "progress": "19.67"
+            "progress": "19.69"
         },
         {
             "name": "Vue",
@@ -195,6 +195,30 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 16,
+            "title": "Fix/dashboard",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/16",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 140,
+            "deletions": 128,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-27T07:38:00Z",
+            "mergedAt": "2026-02-27T07:38:19Z",
+            "closedAt": "2026-02-27T07:38:19Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 15,
             "title": "feat: 增强代码审查功能，支持增量审查和问题分类，优化评论发布逻辑",
@@ -410,34 +434,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat: 添加 postinstall 脚本以自动生成 Prisma 客户端并部署迁移",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-02-03T08:40:05Z",
-            "mergedAt": "2026-02-03T08:40:18Z",
-            "closedAt": "2026-02-03T08:40:18Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 83,
+        "total": 90,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -669,7 +669,7 @@
             },
             {
                 "date": "2026-02-27",
-                "count": 6
+                "count": 13
             },
             {
                 "date": "2026-02-28",

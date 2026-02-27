@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1688,
+            "title": "fix(i18n): update zh-CN translations & add `package.trends.toggle_stack_mode` key",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1688",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 177,
+            "deletions": 22,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-02-27T08:53:43Z",
+            "mergedAt": "2026-02-27T10:12:28Z",
+            "closedAt": "2026-02-27T10:12:28Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 307,
             "title": "chore: fix npm badge use npmx",
             "url": "https://github.com/graphieros/vue-data-ui/pull/307",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1284,
-            "title": "[need discussion]fix(ui): hide text on mobile devices to prevent inconsistent display on small screens",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1284",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-02-09T15:49:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 61,
+        "total": 63,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -539,7 +539,7 @@
             },
             {
                 "date": "2026-02-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-28",

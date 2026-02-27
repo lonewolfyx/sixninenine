@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 2363,
+            "title": "fix: preserve report url through cache serialization",
+            "url": "https://github.com/flint-fyi/flint/pull/2363",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 8,
+            "deletions": 4,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-02-27T09:48:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 186,
             "title": "fix: double border when review card is collapsed",
             "url": "https://github.com/better-auth/better-hub/pull/186",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 3,
             "deletions": 3,
             "totalCommentsCount": 1,
             "createdAt": "2026-02-27T07:10:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-27T08:38:11Z",
+            "closedAt": "2026-02-27T08:38:11Z",
             "repository": {
                 "name": "better-hub",
                 "nameWithOwner": "better-auth/better-hub",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2356,
-            "title": "refactor: use `:exit` visitors instead of manual tree traversal",
-            "url": "https://github.com/flint-fyi/flint/pull/2356",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 171,
-            "deletions": 268,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-02-24T15:04:41Z",
-            "mergedAt": "2026-02-25T03:49:28Z",
-            "closedAt": "2026-02-25T03:49:28Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 146,
+        "total": 148,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1069,7 +1069,7 @@
             },
             {
                 "date": "2026-02-27",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-02-28",

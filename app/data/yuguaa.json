@@ -13,37 +13,37 @@
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 1178180,
+            "size": 1178396,
             "repoCount": 22,
-            "progress": "54.26"
+            "progress": "53.90"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 415611,
+            "size": 430011,
             "repoCount": 12,
-            "progress": "19.14"
+            "progress": "19.67"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 363366,
             "repoCount": 13,
-            "progress": "16.73"
+            "progress": "16.62"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 174022,
             "repoCount": 15,
-            "progress": "8.01"
+            "progress": "7.96"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 39545,
             "repoCount": 12,
-            "progress": "1.82"
+            "progress": "1.81"
         },
         {
             "name": "Less",
@@ -195,6 +195,54 @@
         "totalCount": 3
     },
     "pullRequest": [
+        {
+            "number": 15,
+            "title": "feat: 增强代码审查功能，支持增量审查和问题分类，优化评论发布逻辑",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/15",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 460,
+            "deletions": 88,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-27T01:45:55Z",
+            "mergedAt": "2026-02-27T01:47:55Z",
+            "closedAt": "2026-02-27T01:47:55Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
+        {
+            "number": 14,
+            "title": "feat: 添加新的 PM2 配置文件并删除旧文件，更新 .gitignore 以包含日志和数据库文件",
+            "url": "https://github.com/yuguaa/code-review-copilot/pull/14",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 12,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-27T00:56:58Z",
+            "mergedAt": "2026-02-27T00:57:14Z",
+            "closedAt": "2026-02-27T00:57:14Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "yuguaa/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "yuguaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
+                },
+                "url": "https://github.com/yuguaa/code-review-copilot"
+            }
+        },
         {
             "number": 13,
             "title": "feat: 添加 PM2 配置文件以支持应用管理和日志记录",
@@ -386,58 +434,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 5,
-            "title": "Feat/repo",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/5",
-            "state": "CLOSED",
-            "changedFiles": 35,
-            "additions": 2272,
-            "deletions": 824,
-            "totalCommentsCount": 19,
-            "createdAt": "2026-02-03T08:29:10Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-03T08:29:31Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat: 更新 GitLab 服务和审查逻辑，增强错误处理，支持行内评论，修改评论 ID 类型为字符串",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/4",
-            "state": "MERGED",
-            "changedFiles": 22,
-            "additions": 1668,
-            "deletions": 482,
-            "totalCommentsCount": 29,
-            "createdAt": "2026-02-03T05:49:38Z",
-            "mergedAt": "2026-02-03T05:51:03Z",
-            "closedAt": "2026-02-03T05:51:03Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 77,
+        "total": 83,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -669,7 +669,7 @@
             },
             {
                 "date": "2026-02-27",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-02-28",

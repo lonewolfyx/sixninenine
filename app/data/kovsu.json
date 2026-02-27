@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 186,
+            "title": "fix: double border when review card is collapsed",
+            "url": "https://github.com/better-auth/better-hub/pull/186",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-02-27T07:10:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "better-hub",
+                "nameWithOwner": "better-auth/better-hub",
+                "homepageUrl": "https://better-hub.com",
+                "description": "Re-imagining code collaboration for humans and agents",
+                "owner": {
+                    "login": "better-auth",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/163827765?v=4"
+                },
+                "url": "https://github.com/better-auth/better-hub"
+            }
+        },
+        {
             "number": 2361,
             "title": "fix: normalize file dependencies to ensure cache hits",
             "url": "https://github.com/flint-fyi/flint/pull/2361",
@@ -671,14 +695,14 @@
             "number": 13053,
             "title": "fix: call abort when closing message translation",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13053",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
             "additions": 67,
             "deletions": 15,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 11,
             "createdAt": "2026-02-25T14:06:03Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-02-27T03:21:41Z",
+            "closedAt": "2026-02-27T03:21:41Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2337,
-            "title": "fix: implement correct post-order :exit visitor semantics",
-            "url": "https://github.com/flint-fyi/flint/pull/2337",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 47,
-            "deletions": 26,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-02-22T14:35:24Z",
-            "mergedAt": "2026-02-23T02:08:29Z",
-            "closedAt": "2026-02-23T02:08:29Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 144,
+        "total": 146,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1069,7 +1069,7 @@
             },
             {
                 "date": "2026-02-27",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-02-28",

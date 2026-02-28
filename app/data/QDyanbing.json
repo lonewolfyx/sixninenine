@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57093,
+            "title": "fix(Skeleton): ConfigProvider componentSize not work",
+            "url": "https://github.com/ant-design/ant-design/pull/57093",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 71,
+            "deletions": 52,
+            "totalCommentsCount": 21,
+            "createdAt": "2026-02-28T01:26:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1215,
             "title": "fix(select): merge raw trigger element event handlers",
             "url": "https://github.com/react-component/select/pull/1215",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/antd-skill"
             }
-        },
-        {
-            "number": 56809,
-            "title": "chore: merge duplicate debug demos ",
-            "url": "https://github.com/ant-design/ant-design/pull/56809",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 0,
-            "deletions": 87,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-01-30T07:12:18Z",
-            "mergedAt": "2026-01-30T07:34:38Z",
-            "closedAt": "2026-01-30T07:34:38Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1201,
+        "total": 1202,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -536,7 +536,7 @@
             },
             {
                 "date": "2026-02-28",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-01",

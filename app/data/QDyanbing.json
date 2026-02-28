@@ -59,14 +59,62 @@
     },
     "pullRequest": [
         {
+            "number": 57099,
+            "title": "demo: correct size option values in API docs",
+            "url": "https://github.com/ant-design/ant-design/pull/57099",
+            "state": "OPEN",
+            "changedFiles": 26,
+            "additions": 45,
+            "deletions": 51,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-02-28T11:16:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57098,
+            "title": "docs: correct size option values in API docs",
+            "url": "https://github.com/ant-design/ant-design/pull/57098",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-02-28T09:19:11Z",
+            "mergedAt": "2026-02-28T09:43:40Z",
+            "closedAt": "2026-02-28T09:43:41Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57093,
             "title": "fix(Skeleton): ConfigProvider componentSize not work",
             "url": "https://github.com/ant-design/ant-design/pull/57093",
             "state": "OPEN",
             "changedFiles": 13,
-            "additions": 71,
+            "additions": 117,
             "deletions": 52,
-            "totalCommentsCount": 21,
+            "totalCommentsCount": 23,
             "createdAt": "2026-02-28T01:26:22Z",
             "mergedAt": null,
             "closedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 56842,
-            "title": "fix(button): make tokens take effect",
-            "url": "https://github.com/ant-design/ant-design/pull/56842",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 234,
-            "deletions": 43,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-02-03T01:59:41Z",
-            "mergedAt": "2026-02-03T06:18:27Z",
-            "closedAt": "2026-02-03T06:18:27Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 2,
-            "title": "chore: add readmd package optimize skills",
-            "url": "https://github.com/ant-design/antd-skill/pull/2",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 299,
-            "deletions": 62,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-02-02T01:34:02Z",
-            "mergedAt": "2026-02-02T06:52:30Z",
-            "closedAt": "2026-02-02T06:52:30Z",
-            "repository": {
-                "name": "antd-skill",
-                "nameWithOwner": "ant-design/antd-skill",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/antd-skill"
-            }
         }
     ],
     "contributions": {
-        "total": 1202,
+        "total": 1207,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -536,7 +536,7 @@
             },
             {
                 "date": "2026-02-28",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2026-03-01",

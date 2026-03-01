@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 13123,
+            "title": "fix: improve log message layout",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13123",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 17,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-01T05:28:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13114,
             "title": "fix: install or uninstall button state issues in plugin browser",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13114",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 13045,
-            "title": "fix: disable translate button when sending message is disabled",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13045",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-25T08:51:12Z",
-            "mergedAt": "2026-02-25T12:01:01Z",
-            "closedAt": "2026-02-25T12:01:01Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 151,
+        "total": 152,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1077,7 +1077,7 @@
             },
             {
                 "date": "2026-03-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-02",

@@ -15,35 +15,35 @@
             "color": "#3178c6",
             "size": 617252,
             "repoCount": 3,
-            "progress": "76.69"
+            "progress": "77.94"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 117987,
+            "size": 105044,
             "repoCount": 5,
-            "progress": "14.66"
+            "progress": "13.26"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.89"
+            "progress": "7.00"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 11079,
             "repoCount": 1,
-            "progress": "1.38"
+            "progress": "1.40"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.29"
+            "progress": "0.30"
         },
         {
             "name": "Shell",
@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57106,
+            "title": "fix: unify size className, add ConfigProvider size for Rate, support medium for Table",
+            "url": "https://github.com/ant-design/ant-design/pull/57106",
+            "state": "OPEN",
+            "changedFiles": 24,
+            "additions": 109,
+            "deletions": 92,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-03-01T12:18:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57105,
+            "title": "demo: audit and update size-related docs and demos across components",
+            "url": "https://github.com/ant-design/ant-design/pull/57105",
+            "state": "OPEN",
+            "changedFiles": 140,
+            "additions": 357,
+            "deletions": 357,
+            "totalCommentsCount": 15,
+            "createdAt": "2026-03-01T10:27:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57101,
             "title": "feat: add sourceSection and targetSection semantic dom support for Transfer",
             "url": "https://github.com/ant-design/ant-design/pull/57101",
@@ -66,7 +114,7 @@
             "changedFiles": 4,
             "additions": 263,
             "deletions": 6,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-02-28T15:46:12Z",
             "mergedAt": null,
             "closedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/select"
             }
-        },
-        {
-            "number": 56928,
-            "title": "docs(Pagination): correct component size naming",
-            "url": "https://github.com/ant-design/ant-design/pull/56928",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 17,
-            "createdAt": "2026-02-10T07:49:12Z",
-            "mergedAt": "2026-02-10T13:18:45Z",
-            "closedAt": "2026-02-10T13:18:45Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 9451,
-            "title": "chore: upgrade antd to 6.3.0 and migrate Menu tooltip prop",
-            "url": "https://github.com/ant-design/pro-components/pull/9451",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 151,
-            "deletions": 85,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-02-10T06:28:15Z",
-            "mergedAt": "2026-02-10T08:20:36Z",
-            "closedAt": "2026-02-10T08:20:36Z",
-            "repository": {
-                "name": "pro-components",
-                "nameWithOwner": "ant-design/pro-components",
-                "homepageUrl": "https://pro-components.antdigital.dev",
-                "description": "🏆 Use Ant Design like a Pro!",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/pro-components"
-            }
         }
     ],
     "contributions": {
-        "total": 1222,
+        "total": 1240,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -540,7 +540,7 @@
             },
             {
                 "date": "2026-03-01",
-                "count": 1
+                "count": 19
             },
             {
                 "date": "2026-03-02",

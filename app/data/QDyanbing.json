@@ -59,14 +59,38 @@
     },
     "pullRequest": [
         {
+            "number": 717,
+            "title": "fix(icons-react): center loading icon by removing display:inline-block from .anticon-spin",
+            "url": "https://github.com/ant-design/ant-design-icons/pull/717",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-03-02T03:25:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-icons",
+                "nameWithOwner": "ant-design/ant-design-icons",
+                "homepageUrl": "https://ant.design/components/icon/",
+                "description": "⭐ Ant Design SVG Icons",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design-icons"
+            }
+        },
+        {
             "number": 57106,
             "title": "fix: unify size className, add ConfigProvider size for Rate, support medium for Table",
             "url": "https://github.com/ant-design/ant-design/pull/57106",
             "state": "OPEN",
-            "changedFiles": 24,
-            "additions": 109,
-            "deletions": 92,
-            "totalCommentsCount": 10,
+            "changedFiles": 29,
+            "additions": 116,
+            "deletions": 101,
+            "totalCommentsCount": 11,
             "createdAt": "2026-03-01T12:18:13Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1203,
-            "title": "fix: spaceKey preventDefault",
-            "url": "https://github.com/react-component/select/pull/1203",
-            "state": "CLOSED",
-            "changedFiles": 3,
-            "additions": 29,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-02-11T10:50:55Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-17T09:46:32Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
         }
     ],
     "contributions": {
-        "total": 1241,
+        "total": 1242,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -544,7 +544,7 @@
             },
             {
                 "date": "2026-03-02",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-03-03",

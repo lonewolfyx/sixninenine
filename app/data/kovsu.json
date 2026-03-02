@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 13134,
+            "title": "fix: persist translation block cleanup to database on error",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13134",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-02T03:16:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13133,
             "title": "fix: optimize `HtmlArtifactsPopup` re-rendering",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13133",
@@ -699,7 +723,7 @@
             "changedFiles": 3,
             "additions": 8,
             "deletions": 4,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-02-27T09:48:05Z",
             "mergedAt": null,
             "closedAt": null,
@@ -799,30 +823,6 @@
             "createdAt": "2026-02-26T01:54:28Z",
             "mergedAt": "2026-02-26T03:01:24Z",
             "closedAt": "2026-02-26T03:01:24Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 13053,
-            "title": "fix: call abort when closing message translation",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13053",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 67,
-            "deletions": 15,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-02-25T14:06:03Z",
-            "mergedAt": "2026-02-27T03:21:41Z",
-            "closedAt": "2026-02-27T03:21:41Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -1065,7 +1065,7 @@
             },
             {
                 "date": "2026-02-26",
-                "count": 8
+                "count": 7
             },
             {
                 "date": "2026-02-27",
@@ -1081,7 +1081,7 @@
             },
             {
                 "date": "2026-03-02",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-03-03",

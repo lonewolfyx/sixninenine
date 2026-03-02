@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1831,
+            "title": "fix: add date in chart tooltip",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1831",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 25,
+            "deletions": 1,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-03-02T14:32:47Z",
+            "mergedAt": "2026-03-02T16:43:31Z",
+            "closedAt": "2026-03-02T16:43:31Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 1812,
             "title": "fix: debounce search results & centralized live region",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1812",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1579,
-            "title": "fix: add workaround for safari + `position: relative` on `<tr>`",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1579",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-02-22T16:55:10Z",
-            "mergedAt": "2026-02-23T02:20:42Z",
-            "closedAt": "2026-02-23T02:20:42Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 70,
+        "total": 72,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -551,11 +551,11 @@
             },
             {
                 "date": "2026-03-02",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-03-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-04",

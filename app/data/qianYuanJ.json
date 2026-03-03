@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/87116441?u=29c42a77edda2bfc242bc92f9309f26110215dda&v=4",
         "pronouns": "he/him",
         "followers": 9,
-        "following": 66
+        "following": 67
     },
     "languages": [],
     "organizations": {
@@ -15,6 +15,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56,
+            "title": "chore: update dependencies and migrate to vue-router",
+            "url": "https://github.com/antfu-collective/vitesse-lite/pull/56",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 3256,
+            "deletions": 2494,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-03T02:16:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitesse-lite",
+                "nameWithOwner": "antfu-collective/vitesse-lite",
+                "homepageUrl": "https://vitesse-lite.netlify.app/",
+                "description": "⛺️ Lightweight version of Vitesse",
+                "owner": {
+                    "login": "antfu-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/167634566?v=4"
+                },
+                "url": "https://github.com/antfu-collective/vitesse-lite"
+            }
+        },
         {
             "number": 109,
             "title": "feat: 添加 prepare 脚本",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/w1249178256/xyzw_web_helper"
             }
-        },
-        {
-            "number": 41,
-            "title": "fix: 功能修正和优化",
-            "url": "https://github.com/w1249178256/xyzw_web_helper/pull/41",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 1038,
-            "deletions": 1074,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-19T06:22:20Z",
-            "mergedAt": "2025-11-19T10:02:27Z",
-            "closedAt": "2025-11-19T10:02:27Z",
-            "repository": {
-                "name": "xyzw_web_helper",
-                "nameWithOwner": "w1249178256/xyzw_web_helper",
-                "homepageUrl": "https://jolly-field-054c3af00.1.azurestaticapps.net",
-                "description": "咸鱼之王web端",
-                "owner": {
-                    "login": "w1249178256",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/51258516?v=4"
-                },
-                "url": "https://github.com/w1249178256/xyzw_web_helper"
-            }
         }
     ],
     "contributions": {
-        "total": 8,
+        "total": 9,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -505,7 +505,7 @@
             },
             {
                 "date": "2026-03-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-04",

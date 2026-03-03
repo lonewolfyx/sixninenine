@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 13160,
+            "title": "fix: open external editor in new window instead of reusing existing one",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13160",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-03T03:20:57Z",
+            "mergedAt": "2026-03-03T03:47:16Z",
+            "closedAt": "2026-03-03T03:47:16Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13159,
             "title": "fix: support esc to close modal",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13159",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-03-03T02:26:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-03T04:49:30Z",
+            "closedAt": "2026-03-03T04:49:30Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -627,7 +651,7 @@
             "changedFiles": 14,
             "additions": 122,
             "deletions": 123,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-03-03T02:23:55Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/better-auth/better-hub"
             }
-        },
-        {
-            "number": 2361,
-            "title": "fix: normalize file dependencies to ensure cache hits",
-            "url": "https://github.com/flint-fyi/flint/pull/2361",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 17,
-            "deletions": 3,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-02-26T06:37:05Z",
-            "mergedAt": "2026-02-26T18:35:55Z",
-            "closedAt": "2026-02-26T18:35:55Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 159,
+        "total": 162,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1085,7 +1085,7 @@
             },
             {
                 "date": "2026-03-03",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-03-04",

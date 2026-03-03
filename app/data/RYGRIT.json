@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 60,
+            "title": "feat: supports clicking on dependency names to jump(DocumentLink)",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/60",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 84,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-03T08:35:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 1861,
             "title": "fix: pds page style bug",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1861",
@@ -73,7 +97,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 8,
             "createdAt": "2026-03-03T02:50:14Z",
             "mergedAt": null,
             "closedAt": null,
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1639,
-            "title": "fix: blank gap on collapsed weekly downloads",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1639",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-02-25T04:54:02Z",
-            "mergedAt": "2026-02-25T07:07:57Z",
-            "closedAt": "2026-02-25T07:07:57Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 73,
+        "total": 74,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -555,7 +555,7 @@
             },
             {
                 "date": "2026-03-03",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-03-04",

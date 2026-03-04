@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57144,
+            "title": "fix(Checkbox): keep checkbox same width in Group",
+            "url": "https://github.com/ant-design/ant-design/pull/57144",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 163,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-03-04T01:17:33Z",
+            "mergedAt": "2026-03-04T02:38:22Z",
+            "closedAt": "2026-03-04T02:38:22Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57127,
             "title": "refactor: use medium instead of default for size",
             "url": "https://github.com/ant-design/ant-design/pull/57127",
@@ -158,14 +182,14 @@
             "number": 57101,
             "title": "feat: add source and target semantic dom support for Transfer",
             "url": "https://github.com/ant-design/ant-design/pull/57101",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 1964,
             "deletions": 86,
             "totalCommentsCount": 14,
             "createdAt": "2026-02-28T15:46:12Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-04T03:12:45Z",
+            "closedAt": "2026-03-04T03:12:45Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/select"
             }
-        },
-        {
-            "number": 1214,
-            "title": "fix: prevent dropdown from closing when mousedown on input in multiple mode",
-            "url": "https://github.com/react-component/select/pull/1214",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 27,
-            "deletions": 2,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-02-25T07:57:51Z",
-            "mergedAt": "2026-02-26T09:55:22Z",
-            "closedAt": "2026-02-26T09:55:22Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
         }
     ],
     "contributions": {
-        "total": 1269,
+        "total": 1271,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -552,7 +552,7 @@
             },
             {
                 "date": "2026-03-04",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-05",

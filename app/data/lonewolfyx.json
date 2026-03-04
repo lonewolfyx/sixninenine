@@ -20,9 +20,9 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 502165,
+            "size": 502206,
             "repoCount": 28,
-            "progress": "31.40"
+            "progress": "31.41"
         },
         {
             "name": "CSS",
@@ -569,6 +569,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "fix(tools): move tsdown.config.ts and package.json from src directory to package root and close ts isolatedDeclarations option",
+            "url": "https://github.com/ffgenius/template-starter/pull/1",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 11,
+            "deletions": 43,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-04T04:10:51Z",
+            "mergedAt": "2026-03-04T04:37:19Z",
+            "closedAt": "2026-03-04T04:37:19Z",
+            "repository": {
+                "name": "template-starter",
+                "nameWithOwner": "ffgenius/template-starter",
+                "homepageUrl": null,
+                "description": "Quick start template based on monorepo",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
+                },
+                "url": "https://github.com/ffgenius/template-starter"
+            }
+        },
+        {
             "number": 7,
             "title": "refactore project",
             "url": "https://github.com/lonewolfyx/oxlint-config-generator/pull/7",
@@ -783,34 +807,10 @@
                 },
                 "url": "https://github.com/oxconfig/oxfmt-config"
             }
-        },
-        {
-            "number": 45,
-            "title": "fix(ComponentSource): correct import path replacement for @repo paths",
-            "url": "https://github.com/vuepont/elevenlabs-ui-vue/pull/45",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 14,
-            "deletions": 21,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-01-21T03:59:00Z",
-            "mergedAt": "2026-01-26T02:08:36Z",
-            "closedAt": "2026-01-26T02:08:36Z",
-            "repository": {
-                "name": "elevenlabs-ui-vue",
-                "nameWithOwner": "vuepont/elevenlabs-ui-vue",
-                "homepageUrl": "http://elevenlabs-ui-vue.com/",
-                "description": "ElevenLabs UI Vue is a component library and custom registry built on top of shadcn-vue to help you build multimodal agents faster.",
-                "owner": {
-                    "login": "vuepont",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/241883587?v=4"
-                },
-                "url": "https://github.com/vuepont/elevenlabs-ui-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 3737,
+        "total": 3758,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1058,11 +1058,11 @@
             },
             {
                 "date": "2026-03-03",
-                "count": 62
+                "count": 70
             },
             {
                 "date": "2026-03-04",
-                "count": 3
+                "count": 16
             },
             {
                 "date": "2026-03-05",

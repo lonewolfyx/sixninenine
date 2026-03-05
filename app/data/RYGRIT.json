@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 1949,
+            "title": "fix: separate class getters from methods in docs rendering",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/1949",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 196,
+            "deletions": 25,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-03-05T14:24:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 60,
             "title": "feat: supports clicking on dependency names to jump",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/60",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/graphieros/vue-data-ui"
             }
-        },
-        {
-            "number": 1663,
-            "title": "fix: unexpected `unknown` type for api docs format type",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1663",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 559,
-            "deletions": 16,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-02-26T10:52:48Z",
-            "mergedAt": "2026-02-26T11:11:37Z",
-            "closedAt": "2026-02-26T11:11:37Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 76,
+        "total": 77,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -563,7 +563,7 @@
             },
             {
                 "date": "2026-03-05",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-03-06",

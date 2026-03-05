@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 13224,
+            "title": "fix: duplicate error blocks in aborting",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13224",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 17,
+            "deletions": 7,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-05T02:22:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13196,
             "title": "fix: codemirror highlight crash",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13196",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 2363,
-            "title": "fix: preserve report url through cache serialization",
-            "url": "https://github.com/flint-fyi/flint/pull/2363",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 8,
-            "deletions": 4,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-02-27T09:48:05Z",
-            "mergedAt": "2026-03-04T03:55:17Z",
-            "closedAt": "2026-03-04T03:55:17Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 168,
+        "total": 169,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1093,7 +1093,7 @@
             },
             {
                 "date": "2026-03-05",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-03-06",

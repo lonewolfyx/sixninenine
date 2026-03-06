@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57194,
+            "title": "site: fix ThemePreview copy button in dark theme",
+            "url": "https://github.com/ant-design/ant-design/pull/57194",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 9,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-03-06T12:36:16Z",
+            "mergedAt": "2026-03-06T12:47:59Z",
+            "closedAt": "2026-03-06T12:47:59Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57171,
             "title": "fix(Radio): keep radio same width in Group",
             "url": "https://github.com/ant-design/ant-design/pull/57171",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57099,
-            "title": "demo: correct size option values in API docs",
-            "url": "https://github.com/ant-design/ant-design/pull/57099",
-            "state": "MERGED",
-            "changedFiles": 26,
-            "additions": 45,
-            "deletions": 51,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-02-28T11:16:20Z",
-            "mergedAt": "2026-03-02T08:15:11Z",
-            "closedAt": "2026-03-02T08:15:11Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1307,
+        "total": 1309,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -560,7 +560,7 @@
             },
             {
                 "date": "2026-03-06",
-                "count": 5
+                "count": 7
             },
             {
                 "date": "2026-03-07",

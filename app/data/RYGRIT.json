@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 66,
+            "title": "fix: resolve package versions with latest tag cap",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/66",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 99,
+            "deletions": 3,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-03-06T08:16:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 1949,
             "title": "fix: separate class getters from methods in docs rendering",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/1949",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 307,
-            "title": "chore: fix npm badge use npmx",
-            "url": "https://github.com/graphieros/vue-data-ui/pull/307",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-02-26T14:11:13Z",
-            "mergedAt": "2026-02-26T16:02:59Z",
-            "closedAt": "2026-02-26T16:02:59Z",
-            "repository": {
-                "name": "vue-data-ui",
-                "nameWithOwner": "graphieros/vue-data-ui",
-                "homepageUrl": "https://vue-data-ui.graphieros.com/",
-                "description": "An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling",
-                "owner": {
-                    "login": "graphieros",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/55991794?u=d1b7ae97d03ae89b303a01e7ff69ae46770086f2&v=4"
-                },
-                "url": "https://github.com/graphieros/vue-data-ui"
-            }
         }
     ],
     "contributions": {
-        "total": 78,
+        "total": 79,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -567,7 +567,7 @@
             },
             {
                 "date": "2026-03-06",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-03-07",

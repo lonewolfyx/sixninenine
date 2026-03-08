@@ -15,12 +15,12 @@
             "color": "#41b883",
             "size": 935300,
             "repoCount": 14,
-            "progress": "58.45"
+            "progress": "58.44"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 504590,
+            "size": 504635,
             "repoCount": 28,
             "progress": "31.53"
         },
@@ -821,6 +821,30 @@
     },
     "pullRequest": [
         {
+            "number": 16,
+            "title": "fix(config): tsdown inlineOnly configuration structure",
+            "url": "https://github.com/lonewolfyx/tsdown-preset/pull/16",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-08T05:50:38Z",
+            "mergedAt": "2026-03-08T05:50:49Z",
+            "closedAt": "2026-03-08T05:50:49Z",
+            "repository": {
+                "name": "tsdown-preset",
+                "nameWithOwner": "lonewolfyx/tsdown-preset",
+                "homepageUrl": "",
+                "description": "An opinionated preset for tsdown.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/tsdown-preset"
+            }
+        },
+        {
             "number": 1,
             "title": "fix(tools): move tsdown.config.ts and package.json from src directory to package root and close ts isolatedDeclarations option",
             "url": "https://github.com/ffgenius/template-starter/pull/1",
@@ -1035,34 +1059,10 @@
                 },
                 "url": "https://github.com/oxconfig/oxfmt-config"
             }
-        },
-        {
-            "number": 1,
-            "title": "style(formatter): Adjust the JSON file formatting configuration",
-            "url": "https://github.com/oxconfig/oxfmt-config/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-06T01:27:05Z",
-            "mergedAt": "2026-02-06T01:28:23Z",
-            "closedAt": "2026-02-06T01:28:23Z",
-            "repository": {
-                "name": "oxfmt-config",
-                "nameWithOwner": "oxconfig/oxfmt-config",
-                "homepageUrl": null,
-                "description": "An presumptuous oxfmt preset configuration",
-                "owner": {
-                    "login": "oxconfig",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/254920721?v=4"
-                },
-                "url": "https://github.com/oxconfig/oxfmt-config"
-            }
         }
     ],
     "contributions": {
-        "total": 3992,
+        "total": 4006,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1330,7 +1330,7 @@
             },
             {
                 "date": "2026-03-08",
-                "count": 6
+                "count": 20
             },
             {
                 "date": "2026-03-09",

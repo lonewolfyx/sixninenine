@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57228,
+            "title": "chore: add create-pr skill for ant-design PR workflow",
+            "url": "https://github.com/ant-design/ant-design/pull/57228",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 381,
+            "deletions": 0,
+            "totalCommentsCount": 25,
+            "createdAt": "2026-03-09T07:48:12Z",
+            "mergedAt": "2026-03-09T09:07:37Z",
+            "closedAt": "2026-03-09T09:07:37Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57203,
             "title": "chore: add commit-msg skill for generating commit messages",
             "url": "https://github.com/ant-design/ant-design/pull/57203",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57105,
-            "title": "demo: audit and update size-related docs and demos across components",
-            "url": "https://github.com/ant-design/ant-design/pull/57105",
-            "state": "MERGED",
-            "changedFiles": 295,
-            "additions": 686,
-            "deletions": 663,
-            "totalCommentsCount": 17,
-            "createdAt": "2026-03-01T10:27:29Z",
-            "mergedAt": "2026-03-02T09:48:56Z",
-            "closedAt": "2026-03-02T09:48:56Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1369,
+        "total": 1371,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -572,7 +572,7 @@
             },
             {
                 "date": "2026-03-09",
-                "count": 19
+                "count": 21
             },
             {
                 "date": "2026-03-10",

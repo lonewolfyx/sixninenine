@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 2015,
+            "title": "fix: fixed code line highlighting being overridden in light theme",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/2015",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-10T01:29:03Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 66,
             "title": "fix: resolve package versions with latest tag cap",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/66",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1688,
-            "title": "fix(i18n): update zh-CN translations & add `package.trends.toggle_stack_mode` key",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1688",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 177,
-            "deletions": 22,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-02-27T08:53:43Z",
-            "mergedAt": "2026-02-27T10:12:28Z",
-            "closedAt": "2026-02-27T10:12:28Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 80,
+        "total": 82,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -583,7 +583,7 @@
             },
             {
                 "date": "2026-03-10",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-11",

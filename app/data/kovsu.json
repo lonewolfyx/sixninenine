@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 12120,
+            "title": "fix(eslint-plugin): flag banned generics in extends or implements",
+            "url": "https://github.com/typescript-eslint/typescript-eslint/pull/12120",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 46,
+            "deletions": 2,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-03-10T03:24:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "typescript-eslint",
+                "nameWithOwner": "typescript-eslint/typescript-eslint",
+                "homepageUrl": "https://typescript-eslint.io",
+                "description": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
+                "owner": {
+                    "login": "typescript-eslint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/46634674?v=4"
+                },
+                "url": "https://github.com/typescript-eslint/typescript-eslint"
+            }
+        },
+        {
             "number": 13351,
             "title": "fix: replace `p` with `span` to resolve invalid nesting warning",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13351",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 0,
             "createdAt": "2026-03-10T02:57:18Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-10T05:02:03Z",
+            "closedAt": "2026-03-10T05:02:03Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 13160,
-            "title": "fix: open external editor in new window instead of reusing existing one",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13160",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-03T03:20:57Z",
-            "mergedAt": "2026-03-03T03:47:16Z",
-            "closedAt": "2026-03-03T03:47:16Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 189,
+        "total": 191,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1113,7 +1113,7 @@
             },
             {
                 "date": "2026-03-10",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-03-11",

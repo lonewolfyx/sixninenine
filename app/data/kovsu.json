@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
         "followers": 75,
-        "following": 24
+        "following": 25
     },
     "languages": [
         {
@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2415,
+            "title": "chore: move `UnsafeAnyRule` type to rules type file",
+            "url": "https://github.com/flint-fyi/flint/pull/2415",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 15,
+            "deletions": 15,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-11T03:38:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 13371,
             "title": "fix: preserve emoji when saving assistant to library",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13371",
@@ -603,7 +627,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-03-11T01:38:13Z",
             "mergedAt": null,
             "closedAt": null,
@@ -625,9 +649,9 @@
             "url": "https://github.com/flint-fyi/flint/pull/2407",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 589,
+            "additions": 598,
             "deletions": 70,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 11,
             "createdAt": "2026-03-10T15:58:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -809,30 +833,6 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
                 },
                 "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 13234,
-            "title": "feat: reset selected index when returning to home from feature routes",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13234",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-05T08:18:02Z",
-            "mergedAt": "2026-03-06T03:51:24Z",
-            "closedAt": "2026-03-06T03:51:24Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
             }
         }
     ],
@@ -1101,7 +1101,7 @@
             },
             {
                 "date": "2026-03-07",
-                "count": 3
+                "count": 2
             },
             {
                 "date": "2026-03-08",
@@ -1117,7 +1117,7 @@
             },
             {
                 "date": "2026-03-11",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-03-12",

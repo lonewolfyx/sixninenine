@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 308,
+            "title": "fix: avoid selecting disabled options via keyboard in Mentions",
+            "url": "https://github.com/react-component/mentions/pull/308",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 169,
+            "deletions": 7,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-03-12T08:02:38Z",
+            "mergedAt": "2026-03-12T09:07:59Z",
+            "closedAt": "2026-03-12T09:07:59Z",
+            "repository": {
+                "name": "mentions",
+                "nameWithOwner": "react-component/mentions",
+                "homepageUrl": "https://rc-mentions.react-component.now.sh",
+                "description": "React Mentions",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/mentions"
+            }
+        },
+        {
             "number": 57261,
             "title": "docs: improve create-pr skill with confirmation step and type/changelog guidance",
             "url": "https://github.com/ant-design/ant-design/pull/57261",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57144,
-            "title": "fix(Checkbox): keep checkbox same width in Group",
-            "url": "https://github.com/ant-design/ant-design/pull/57144",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 163,
-            "deletions": 0,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-04T01:17:33Z",
-            "mergedAt": "2026-03-04T02:38:22Z",
-            "closedAt": "2026-03-04T02:38:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1420,
+        "total": 1422,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -584,7 +584,7 @@
             },
             {
                 "date": "2026-03-12",
-                "count": 17
+                "count": 19
             },
             {
                 "date": "2026-03-13",

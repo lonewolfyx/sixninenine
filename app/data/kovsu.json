@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2418,
+            "title": "feat: enhance error handling by preventing undefined throws",
+            "url": "https://github.com/flint-fyi/flint/pull/2418",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 59,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-12T02:48:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2415,
             "title": "chore: move `UnsafeAnyRule` type to rules type file",
             "url": "https://github.com/flint-fyi/flint/pull/2415",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/dream-num/univer"
             }
-        },
-        {
-            "number": 2379,
-            "title": "feat: display summary statistics after linting",
-            "url": "https://github.com/flint-fyi/flint/pull/2379",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 47,
-            "deletions": 10,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-05T09:24:10Z",
-            "mergedAt": "2026-03-06T03:45:10Z",
-            "closedAt": "2026-03-06T03:45:10Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 196,
+        "total": 197,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1121,7 +1121,7 @@
             },
             {
                 "date": "2026-03-12",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-13",

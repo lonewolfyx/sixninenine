@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 57281,
+            "title": "feat(Tree): add `itemSwitcher` semantic for Tree and TreeSelect",
+            "url": "https://github.com/ant-design/ant-design/pull/57281",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 221,
+            "deletions": 10,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-03-13T05:32:29Z",
+            "mergedAt": "2026-03-13T05:40:28Z",
+            "closedAt": "2026-03-13T05:40:28Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1019,
             "title": "feat: add itemSwitcher semantic DOM support",
             "url": "https://github.com/react-component/tree/pull/1019",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 14,
             "deletions": 2,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 6,
             "createdAt": "2026-03-13T03:11:12Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-13T03:32:46Z",
+            "closedAt": "2026-03-13T03:32:46Z",
             "repository": {
                 "name": "tree",
                 "nameWithOwner": "react-component/tree",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57162,
-            "title": "fix(InputNumber): borderless variant doubled height",
-            "url": "https://github.com/ant-design/ant-design/pull/57162",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 1023,
-            "deletions": 0,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-03-05T01:26:56Z",
-            "mergedAt": "2026-03-05T10:55:12Z",
-            "closedAt": "2026-03-05T10:55:12Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1424,
+        "total": 1426,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -588,7 +588,7 @@
             },
             {
                 "date": "2026-03-13",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-03-14",

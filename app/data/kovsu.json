@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 13434,
+            "title": "fix: correctly pass poe web_search via extra_body when built-in search is enabled",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13434",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 27,
+            "deletions": 4,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-13T06:53:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13431,
             "title": "fix: render xml fenced svg blocks as svg previews",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13431",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 8,
             "deletions": 1,
             "totalCommentsCount": 0,
             "createdAt": "2026-03-13T02:54:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-13T04:13:05Z",
+            "closedAt": "2026-03-13T04:13:05Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 13284,
-            "title": "fix: aggregate knowledge base notifications to prevent toast storm",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13284",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 80,
-            "deletions": 35,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-07T12:58:32Z",
-            "mergedAt": "2026-03-07T14:35:39Z",
-            "closedAt": "2026-03-07T14:35:39Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 201,
+        "total": 204,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1125,7 +1125,7 @@
             },
             {
                 "date": "2026-03-13",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-03-14",

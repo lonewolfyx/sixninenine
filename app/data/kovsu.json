@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 13431,
+            "title": "fix: render xml fenced svg blocks as svg previews",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13431",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-13T02:54:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2418,
             "title": "feat: enhance error handling by preventing undefined throws",
             "url": "https://github.com/flint-fyi/flint/pull/2418",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 6650,
-            "title": "ci: skip on forks",
-            "url": "https://github.com/dream-num/univer/pull/6650",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-06T03:53:59Z",
-            "mergedAt": "2026-03-06T12:42:54Z",
-            "closedAt": "2026-03-06T12:42:54Z",
-            "repository": {
-                "name": "univer",
-                "nameWithOwner": "dream-num/univer",
-                "homepageUrl": "https://univer.ai",
-                "description": "Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natural language.",
-                "owner": {
-                    "login": "dream-num",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/61444807?v=4"
-                },
-                "url": "https://github.com/dream-num/univer"
-            }
         }
     ],
     "contributions": {
-        "total": 199,
+        "total": 201,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1125,7 +1125,7 @@
             },
             {
                 "date": "2026-03-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-14",

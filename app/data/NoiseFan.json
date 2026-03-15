@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "chore(vitest): complete vitest base config & command",
+            "url": "https://github.com/lonewolfyx/oxc-inspector/pull/1",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 98,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-15T14:18:10Z",
+            "mergedAt": "2026-03-15T14:18:34Z",
+            "closedAt": "2026-03-15T14:18:34Z",
+            "repository": {
+                "name": "oxc-inspector",
+                "nameWithOwner": "lonewolfyx/oxc-inspector",
+                "homepageUrl": "https://oxc-inspector.vercel.app",
+                "description": "A visual tool for inspecting and understanding your oxlint and oxfmt config",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/oxc-inspector"
+            }
+        },
+        {
             "number": 938,
             "title": "docs(cn): update guide/lifecycle",
             "url": "https://github.com/vitest-dev/docs-cn/pull/938",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/rmcache"
             }
-        },
-        {
-            "number": 14,
-            "title": "feat(cli): add --clean-locks flag for optional lock file cleanup",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/14",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-12T03:32:47Z",
-            "mergedAt": "2026-03-12T03:42:26Z",
-            "closedAt": "2026-03-12T03:42:26Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
         }
     ],
     "contributions": {
-        "total": 174,
+        "total": 176,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -568,7 +568,7 @@
             },
             {
                 "date": "2026-03-15",
-                "count": 12
+                "count": 14
             },
             {
                 "date": "2026-03-16",

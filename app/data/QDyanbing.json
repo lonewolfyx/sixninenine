@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 667596,
+            "size": 671314,
             "repoCount": 3,
-            "progress": "77.79"
+            "progress": "77.59"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105076,
             "repoCount": 5,
-            "progress": "12.24"
+            "progress": "12.14"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.46"
+            "progress": "6.41"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 26933,
+            "size": 30283,
             "repoCount": 1,
-            "progress": "3.14"
+            "progress": "3.50"
         },
         {
             "name": "Less",
@@ -58,6 +58,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57308,
+            "title": "docs: fix redundant characters in zh-CN blog and spec",
+            "url": "https://github.com/ant-design/ant-design/pull/57308",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-03-15T11:37:40Z",
+            "mergedAt": "2026-03-15T12:00:24Z",
+            "closedAt": "2026-03-15T12:00:24Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 1219,
+            "title": "fix: prevent onSelect firing twice on Enter when dropdown is open",
+            "url": "https://github.com/react-component/select/pull/1219",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 30,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-03-15T10:35:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://select-react-component.vercel.app/",
+                "description": "React Select",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/select"
+            }
+        },
         {
             "number": 57303,
             "title": "fix(Tree): correct custom switcherIcon className when showLine is enabled",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57228,
-            "title": "chore: add create-pr skill for ant-design PR workflow",
-            "url": "https://github.com/ant-design/ant-design/pull/57228",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 381,
-            "deletions": 0,
-            "totalCommentsCount": 25,
-            "createdAt": "2026-03-09T07:48:12Z",
-            "mergedAt": "2026-03-09T09:07:37Z",
-            "closedAt": "2026-03-09T09:07:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57203,
-            "title": "chore: add commit-msg skill for generating commit messages",
-            "url": "https://github.com/ant-design/ant-design/pull/57203",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 315,
-            "deletions": 0,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-03-07T14:01:18Z",
-            "mergedAt": "2026-03-07T14:41:04Z",
-            "closedAt": "2026-03-07T14:41:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1464,
+        "total": 1486,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -596,7 +596,7 @@
             },
             {
                 "date": "2026-03-15",
-                "count": 0
+                "count": 22
             },
             {
                 "date": "2026-03-16",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1296427,
+            "size": 1299890,
             "repoCount": 28,
-            "progress": "53.10"
+            "progress": "53.16"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 971992,
             "repoCount": 15,
-            "progress": "39.81"
+            "progress": "39.75"
         },
         {
             "name": "CSS",
@@ -36,7 +36,7 @@
             "color": "#f1e05a",
             "size": 73675,
             "repoCount": 27,
-            "progress": "3.02"
+            "progress": "3.01"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "Vitest",
+            "url": "https://github.com/lonewolfyx/oxc-inspector/pull/2",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 389,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-16T05:40:32Z",
+            "mergedAt": "2026-03-16T05:40:46Z",
+            "closedAt": "2026-03-16T05:40:46Z",
+            "repository": {
+                "name": "oxc-inspector",
+                "nameWithOwner": "lonewolfyx/oxc-inspector",
+                "homepageUrl": "https://oxc-inspector.vercel.app",
+                "description": "A visual tool for inspecting and understanding your oxlint and oxfmt config",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/oxc-inspector"
+            }
+        },
+        {
             "number": 16,
             "title": "fix(config): tsdown inlineOnly configuration structure",
             "url": "https://github.com/lonewolfyx/tsdown-preset/pull/16",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/tsdown-preset"
             }
-        },
-        {
-            "number": 2,
-            "title": "style(formatter): configure markdown print width in ox formatter",
-            "url": "https://github.com/oxconfig/oxfmt-config/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-06T01:35:18Z",
-            "mergedAt": "2026-02-06T01:37:13Z",
-            "closedAt": "2026-02-06T01:37:13Z",
-            "repository": {
-                "name": "oxfmt-config",
-                "nameWithOwner": "oxconfig/oxfmt-config",
-                "homepageUrl": null,
-                "description": "An presumptuous oxfmt preset configuration",
-                "owner": {
-                    "login": "oxconfig",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/254920721?v=4"
-                },
-                "url": "https://github.com/oxconfig/oxfmt-config"
-            }
         }
     ],
     "contributions": {
-        "total": 4573,
+        "total": 4581,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1359,7 +1359,7 @@
             },
             {
                 "date": "2026-03-16",
-                "count": 3
+                "count": 11
             },
             {
                 "date": "2026-03-17",

@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 23826,
+            "title": "fix(components): [select] support undefined and null values ts type",
+            "url": "https://github.com/element-plus/element-plus/pull/23826",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-16T15:01:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23573,
             "title": "feat(components): [el-sub-menu] add `expand` slot",
             "url": "https://github.com/element-plus/element-plus/pull/23573",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 350,
-            "title": "docs(docs): add blog to demo page",
-            "url": "https://github.com/pengzhanbo/vuepress-theme-plume/pull/350",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2024-11-21T08:34:42Z",
-            "mergedAt": "2024-11-21T09:47:51Z",
-            "closedAt": "2024-11-21T09:47:51Z",
-            "repository": {
-                "name": "vuepress-theme-plume",
-                "nameWithOwner": "pengzhanbo/vuepress-theme-plume",
-                "homepageUrl": "https://theme-plume.vuejs.press",
-                "description": "A vuepress theme.  Simple, feature-rich,  document & blog",
-                "owner": {
-                    "login": "pengzhanbo",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/16745751?u=0a8dbfd85816e552830026117d33cfa8aae4d313&v=4"
-                },
-                "url": "https://github.com/pengzhanbo/vuepress-theme-plume"
-            }
         }
     ],
     "contributions": {
-        "total": 74,
+        "total": 76,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -557,7 +557,7 @@
             },
             {
                 "date": "2026-03-16",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-17",

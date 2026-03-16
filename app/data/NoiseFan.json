@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 940,
+            "title": "docs(cn): update /guide/migration",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/940",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 58,
+            "deletions": 58,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-16T16:03:59Z",
+            "mergedAt": "2026-03-16T16:09:47Z",
+            "closedAt": "2026-03-16T16:09:47Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 1,
             "title": "chore(vitest): complete vitest base config & command",
             "url": "https://github.com/lonewolfyx/oxc-inspector/pull/1",
@@ -131,9 +155,9 @@
             "title": "docs(v3): update /api/index",
             "url": "https://github.com/vitest-dev/docs-cn/pull/936",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 22,
-            "deletions": 22,
+            "changedFiles": 2,
+            "additions": 25,
+            "deletions": 25,
             "totalCommentsCount": 3,
             "createdAt": "2026-03-14T17:33:14Z",
             "mergedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/rmcache"
             }
-        },
-        {
-            "number": 15,
-            "title": "docs: add description and chinese readme.md",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/15",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 199,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-12T03:53:02Z",
-            "mergedAt": "2026-03-12T03:56:25Z",
-            "closedAt": "2026-03-12T03:56:25Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
         }
     ],
     "contributions": {
-        "total": 177,
+        "total": 179,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -576,7 +576,7 @@
             },
             {
                 "date": "2026-03-17",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-18",

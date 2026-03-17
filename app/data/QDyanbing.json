@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 82,
+            "title": "fix: forward textarea styles to BaseInput and correct typings",
+            "url": "https://github.com/react-component/textarea/pull/82",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 53,
+            "deletions": 6,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-03-17T10:55:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "textarea",
+                "nameWithOwner": "react-component/textarea",
+                "homepageUrl": "",
+                "description": "React Textarea",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/textarea"
+            }
+        },
+        {
+            "number": 162,
+            "title": "feat: support semantic classNames and styles for clear",
+            "url": "https://github.com/react-component/input/pull/162",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 39,
+            "deletions": 6,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-03-17T09:37:29Z",
+            "mergedAt": "2026-03-17T10:02:12Z",
+            "closedAt": "2026-03-17T10:02:12Z",
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "",
+                "description": "React Input Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
             "number": 57331,
             "title": "feat(Tag): add semantic support for close icon",
             "url": "https://github.com/ant-design/ant-design/pull/57331",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/tree"
             }
-        },
-        {
-            "number": 308,
-            "title": "fix: avoid selecting disabled options via keyboard in Mentions",
-            "url": "https://github.com/react-component/mentions/pull/308",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 169,
-            "deletions": 7,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-03-12T08:02:38Z",
-            "mergedAt": "2026-03-12T09:07:59Z",
-            "closedAt": "2026-03-12T09:07:59Z",
-            "repository": {
-                "name": "mentions",
-                "nameWithOwner": "react-component/mentions",
-                "homepageUrl": "https://rc-mentions.react-component.now.sh",
-                "description": "React Mentions",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mentions"
-            }
-        },
-        {
-            "number": 57261,
-            "title": "docs: improve create-pr skill with confirmation step and type/changelog guidance",
-            "url": "https://github.com/ant-design/ant-design/pull/57261",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 243,
-            "deletions": 46,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-03-12T02:44:50Z",
-            "mergedAt": "2026-03-12T03:14:08Z",
-            "closedAt": "2026-03-12T03:14:08Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1519,
+        "total": 1524,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -604,7 +604,7 @@
             },
             {
                 "date": "2026-03-17",
-                "count": 13
+                "count": 18
             },
             {
                 "date": "2026-03-18",

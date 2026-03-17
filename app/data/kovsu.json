@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 9154,
+            "title": "Fix missing `ruleMetadata` when linting multiple files with overrides",
+            "url": "https://github.com/stylelint/stylelint/pull/9154",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 14,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-17T03:24:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "stylelint",
+                "nameWithOwner": "stylelint/stylelint",
+                "homepageUrl": "https://stylelint.io",
+                "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+                "owner": {
+                    "login": "stylelint",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10076935?v=4"
+                },
+                "url": "https://github.com/stylelint/stylelint"
+            }
+        },
+        {
             "number": 13502,
             "title": "refactor: migrate poe to openai responses api",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13502",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 12115,
-            "title": "chore(website): enable `fixedOverflowWidgets` in editor settings",
-            "url": "https://github.com/typescript-eslint/typescript-eslint/pull/12115",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-03-09T03:06:19Z",
-            "mergedAt": "2026-03-09T13:31:03Z",
-            "closedAt": "2026-03-09T13:31:03Z",
-            "repository": {
-                "name": "typescript-eslint",
-                "nameWithOwner": "typescript-eslint/typescript-eslint",
-                "homepageUrl": "https://typescript-eslint.io",
-                "description": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
-                "owner": {
-                    "login": "typescript-eslint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/46634674?v=4"
-                },
-                "url": "https://github.com/typescript-eslint/typescript-eslint"
-            }
         }
     ],
     "contributions": {
-        "total": 208,
+        "total": 209,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1141,7 +1141,7 @@
             },
             {
                 "date": "2026-03-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-18",

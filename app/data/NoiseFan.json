@@ -31,6 +31,78 @@
     },
     "pullRequest": [
         {
+            "number": 942,
+            "title": "docs(en): merge docs-cn/sync-docs into docs-cn/dev @ b72fc6b4",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/942",
+            "state": "MERGED",
+            "changedFiles": 91,
+            "additions": 3419,
+            "deletions": 2675,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-17T17:14:12Z",
+            "mergedAt": "2026-03-17T17:22:03Z",
+            "closedAt": "2026-03-17T17:22:03Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 941,
+            "title": "docs(en): merge docs-cn/sync-docs into docs-cn/dev @ b72fc6b4",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/941",
+            "state": "CLOSED",
+            "changedFiles": 91,
+            "additions": 1449,
+            "deletions": 121,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-17T17:02:59Z",
+            "mergedAt": null,
+            "closedAt": "2026-03-17T17:11:28Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 2,
+            "title": "test merge(sync-b72fc6b4-1)",
+            "url": "https://github.com/NoiseFan/vitest-docs-cn/pull/2",
+            "state": "MERGED",
+            "changedFiles": 91,
+            "additions": 3418,
+            "deletions": 2674,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-17T16:31:07Z",
+            "mergedAt": "2026-03-17T17:22:24Z",
+            "closedAt": "2026-03-17T17:22:24Z",
+            "repository": {
+                "name": "vitest-docs-cn",
+                "nameWithOwner": "NoiseFan/vitest-docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/vitest-docs-cn"
+            }
+        },
+        {
             "number": 940,
             "title": "docs(cn): update /guide/migration",
             "url": "https://github.com/vitest-dev/docs-cn/pull/940",
@@ -106,14 +178,14 @@
             "number": 9866,
             "title": "docs(lifecycle): update lifecycle document format",
             "url": "https://github.com/vitest-dev/vitest/pull/9866",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
-            "additions": 17,
-            "deletions": 17,
-            "totalCommentsCount": 3,
+            "additions": 13,
+            "deletions": 13,
+            "totalCommentsCount": 4,
             "createdAt": "2026-03-15T06:20:04Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-17T19:04:41Z",
+            "closedAt": "2026-03-17T19:04:41Z",
             "repository": {
                 "name": "vitest",
                 "nameWithOwner": "vitest-dev/vitest",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 934,
-            "title": "docs(cn): tanslate api/test",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/934",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 213,
-            "deletions": 218,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-14T16:14:00Z",
-            "mergedAt": "2026-03-15T02:33:34Z",
-            "closedAt": "2026-03-15T02:33:34Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 933,
-            "title": "docs(cn): update api/hooks",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/933",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 81,
-            "deletions": 81,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-14T16:05:07Z",
-            "mergedAt": "2026-03-15T02:56:09Z",
-            "closedAt": "2026-03-15T02:56:09Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 16,
-            "title": "docs: fix `readme.md` some style",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/16",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-12T06:12:16Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
         }
     ],
     "contributions": {
-        "total": 179,
+        "total": 187,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -580,7 +580,7 @@
             },
             {
                 "date": "2026-03-18",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-03-19",

@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "refactor: 从 ESLint 迁移到 Biome.js 并修复全部 lint 和类型错误",
+            "url": "https://github.com/wan-kong/code-review-copilot/pull/2",
+            "state": "MERGED",
+            "changedFiles": 71,
+            "additions": 12102,
+            "deletions": 12576,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-18T05:35:45Z",
+            "mergedAt": "2026-03-18T05:35:55Z",
+            "closedAt": "2026-03-18T05:35:55Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "wan-kong/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/code-review-copilot"
+            }
+        },
+        {
             "number": 1,
             "title": "Update beautiful-mermaid repository link in README",
             "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid/pull/1",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/shadcn-ui/ui"
             }
-        },
-        {
-            "number": 1508,
-            "title": "fix(sidebar): correct overflow for collapsible icon",
-            "url": "https://github.com/unovue/shadcn-vue/pull/1508",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 9,
-            "deletions": 9,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-10-28T01:35:57Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "shadcn-vue",
-                "nameWithOwner": "unovue/shadcn-vue",
-                "homepageUrl": "https://shadcn-vue.com",
-                "description": "Vue port of shadcn-ui",
-                "owner": {
-                    "login": "unovue",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/137486839?v=4"
-                },
-                "url": "https://github.com/unovue/shadcn-vue"
-            }
         }
     ],
     "contributions": {
-        "total": 83,
+        "total": 84,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -622,7 +622,7 @@
             },
             {
                 "date": "2026-03-18",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2026-03-19",

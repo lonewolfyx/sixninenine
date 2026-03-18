@@ -73,6 +73,54 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "Update beautiful-mermaid repository link in README",
+            "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-18T01:12:31Z",
+            "mergedAt": "2026-03-18T01:12:45Z",
+            "closedAt": "2026-03-18T01:12:45Z",
+            "repository": {
+                "name": "streamdown-beautiful-mermaid",
+                "nameWithOwner": "wan-kong/streamdown-beautiful-mermaid",
+                "homepageUrl": "",
+                "description": "A beautiful Mermaid diagram rendering plugin for Streamdown, powered by beautiful-mermaid.",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: 添加 Docker 部署支持",
+            "url": "https://github.com/wan-kong/code-review-copilot/pull/1",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 77,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-18T00:57:40Z",
+            "mergedAt": "2026-03-18T00:57:54Z",
+            "closedAt": "2026-03-18T00:57:54Z",
+            "repository": {
+                "name": "code-review-copilot",
+                "nameWithOwner": "wan-kong/code-review-copilot",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/code-review-copilot"
+            }
+        },
+        {
             "number": 6,
             "title": "feat: 以 \"/\" 开头的命令消息跳过系统提示词",
             "url": "https://github.com/sliverp/qqbot/pull/6",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/unovue/shadcn-vue"
             }
-        },
-        {
-            "number": 17,
-            "title": "feat:add vue markdown plugin",
-            "url": "https://github.com/monterail/vue-plugins/pull/17",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 18,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-09-04T05:10:56Z",
-            "mergedAt": "2025-09-10T12:45:53Z",
-            "closedAt": "2025-09-10T12:45:53Z",
-            "repository": {
-                "name": "vue-plugins",
-                "nameWithOwner": "monterail/vue-plugins",
-                "homepageUrl": "https://vue-plugins.org",
-                "description": "🧩 Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.",
-                "owner": {
-                    "login": "monterail",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/234138?v=4"
-                },
-                "url": "https://github.com/monterail/vue-plugins"
-            }
-        },
-        {
-            "number": 20,
-            "title": "feat: add parseIncomplete to automatically completes unterminated formatting",
-            "url": "https://github.com/shunnNet/vue-markdown/pull/20",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 1065,
-            "deletions": 12,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-08-25T06:56:55Z",
-            "mergedAt": null,
-            "closedAt": "2025-08-29T00:48:46Z",
-            "repository": {
-                "name": "vue-markdown",
-                "nameWithOwner": "shunnNet/vue-markdown",
-                "homepageUrl": "https://www.npmjs.com/package/@crazydos/vue-markdown",
-                "description": "Vue component that render markdown using unified",
-                "owner": {
-                    "login": "shunnNet",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/50241376?u=d1435a08e3d354bc5b4f89335dcb801fb7ce0262&v=4"
-                },
-                "url": "https://github.com/shunnNet/vue-markdown"
-            }
         }
     ],
     "contributions": {
-        "total": 79,
+        "total": 83,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -622,7 +622,7 @@
             },
             {
                 "date": "2026-03-18",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-03-19",

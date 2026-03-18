@@ -596,13 +596,37 @@
     },
     "pullRequest": [
         {
+            "number": 2450,
+            "title": "fix: restore lint cache hits",
+            "url": "https://github.com/flint-fyi/flint/pull/2450",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 4,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-18T01:29:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 13547,
             "title": "refactor: redesign v2 migration window UI with shadcn components",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13547",
             "state": "OPEN",
-            "changedFiles": 19,
-            "additions": 1555,
-            "deletions": 652,
+            "changedFiles": 24,
+            "additions": 1777,
+            "deletions": 675,
             "totalCommentsCount": 1,
             "createdAt": "2026-03-17T09:28:59Z",
             "mergedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 12120,
-            "title": "fix(eslint-plugin): flag banned generics in extends or implements",
-            "url": "https://github.com/typescript-eslint/typescript-eslint/pull/12120",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 46,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-10T03:24:06Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "typescript-eslint",
-                "nameWithOwner": "typescript-eslint/typescript-eslint",
-                "homepageUrl": "https://typescript-eslint.io",
-                "description": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
-                "owner": {
-                    "login": "typescript-eslint",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/46634674?v=4"
-                },
-                "url": "https://github.com/typescript-eslint/typescript-eslint"
-            }
         }
     ],
     "contributions": {
-        "total": 210,
+        "total": 212,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1145,7 +1145,7 @@
             },
             {
                 "date": "2026-03-18",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-19",

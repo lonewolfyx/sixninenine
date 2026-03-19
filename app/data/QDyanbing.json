@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57360,
+            "title": "fix(Menu): align vertical collapsed icons for large collapsedIconSize",
+            "url": "https://github.com/ant-design/ant-design/pull/57360",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 1082,
+            "deletions": 0,
+            "totalCommentsCount": 14,
+            "createdAt": "2026-03-19T01:48:26Z",
+            "mergedAt": "2026-03-19T03:16:48Z",
+            "closedAt": "2026-03-19T03:16:48Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57344,
             "title": "fix(Watermark): guard undefined onRemove callback in hook",
             "url": "https://github.com/ant-design/ant-design/pull/57344",
@@ -66,7 +90,7 @@
             "changedFiles": 1,
             "additions": 3,
             "deletions": 1,
-            "totalCommentsCount": 18,
+            "totalCommentsCount": 19,
             "createdAt": "2026-03-18T05:57:08Z",
             "mergedAt": "2026-03-18T06:36:04Z",
             "closedAt": "2026-03-18T06:36:04Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/select"
             }
-        },
-        {
-            "number": 57303,
-            "title": "fix(Tree): correct custom switcherIcon className when showLine is enabled",
-            "url": "https://github.com/ant-design/ant-design/pull/57303",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 12,
-            "deletions": 9,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-03-14T11:14:13Z",
-            "mergedAt": "2026-03-16T14:33:53Z",
-            "closedAt": "2026-03-16T14:33:53Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1539,
+        "total": 1541,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -612,7 +612,7 @@
             },
             {
                 "date": "2026-03-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-20",

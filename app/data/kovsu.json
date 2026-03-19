@@ -596,6 +596,54 @@
     },
     "pullRequest": [
         {
+            "number": 13633,
+            "title": "fix: align agent chat bubble layout with shared chat styles",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13633",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-19T09:06:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 13632,
+            "title": "fix: route copilot gpt-5.4 models to responses",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13632",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 41,
+            "deletions": 3,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-03-19T08:43:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2450,
             "title": "fix: restore lint cache hits",
             "url": "https://github.com/flint-fyi/flint/pull/2450",
@@ -648,8 +696,8 @@
             "title": "Fix missing `ruleMetadata` when linting multiple files with overrides",
             "url": "https://github.com/stylelint/stylelint/pull/9154",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 14,
+            "changedFiles": 3,
+            "additions": 42,
             "deletions": 4,
             "totalCommentsCount": 3,
             "createdAt": "2026-03-17T03:24:43Z",
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 13371,
-            "title": "fix: preserve emoji when saving assistant to library",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13371",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-11T01:38:13Z",
-            "mergedAt": "2026-03-12T15:45:08Z",
-            "closedAt": "2026-03-12T15:45:08Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 2407,
-            "title": "feat: add `testCaseNonStaticCode` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2407",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 598,
-            "deletions": 70,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-03-10T15:58:26Z",
-            "mergedAt": "2026-03-11T08:17:24Z",
-            "closedAt": "2026-03-11T08:17:24Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 213,
+        "total": 217,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1149,7 +1149,7 @@
             },
             {
                 "date": "2026-03-19",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-03-20",

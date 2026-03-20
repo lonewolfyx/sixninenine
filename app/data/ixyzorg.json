@@ -16,6 +16,30 @@
     },
     "pullRequest": [
         {
+            "number": 45,
+            "title": "feat: add user data",
+            "url": "https://github.com/lonewolfyx/sixninenine/pull/45",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-03-20T13:29:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sixninenine",
+                "nameWithOwner": "lonewolfyx/sixninenine",
+                "homepageUrl": "https://sixninenine.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/sixninenine"
+            }
+        },
+        {
             "number": 23855,
             "title": "docs: correct `toc-content-mask` element z-index layering",
             "url": "https://github.com/element-plus/element-plus/pull/23855",
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23143,
-            "title": "fix(components): [input] correct event type for v-model.number",
-            "url": "https://github.com/element-plus/element-plus/pull/23143",
-            "state": "CLOSED",
-            "changedFiles": 10,
-            "additions": 32,
-            "deletions": 29,
-            "totalCommentsCount": 10,
-            "createdAt": "2025-12-17T16:43:55Z",
-            "mergedAt": null,
-            "closedAt": "2025-12-20T07:24:33Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 81,
+        "total": 83,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -573,7 +573,7 @@
             },
             {
                 "date": "2026-03-20",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-03-21",

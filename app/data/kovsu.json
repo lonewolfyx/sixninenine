@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 13654,
+            "title": "feat: show model ids for duplicate names in model pickers",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13654",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 207,
+            "deletions": 73,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-20T02:10:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 13633,
             "title": "fix: align agent chat bubble layout with shared chat styles",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13633",
@@ -623,14 +647,14 @@
             "number": 13632,
             "title": "fix: route copilot gpt-5.4 models to responses",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13632",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 41,
             "deletions": 3,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 8,
             "createdAt": "2026-03-19T08:43:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-20T02:05:05Z",
+            "closedAt": "2026-03-20T02:05:05Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2415,
-            "title": "chore: move `UnsafeAnyRule` type to rules type file",
-            "url": "https://github.com/flint-fyi/flint/pull/2415",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 15,
-            "deletions": 15,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-03-11T03:38:08Z",
-            "mergedAt": "2026-03-14T15:45:45Z",
-            "closedAt": "2026-03-14T15:45:45Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 217,
+        "total": 219,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1153,7 +1153,7 @@
             },
             {
                 "date": "2026-03-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-21",

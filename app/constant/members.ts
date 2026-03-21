@@ -64,6 +64,7 @@ export const openSourceMembers: OpenSourceMembersType = {
             'snowbitx',
             'jsy-0526',
             'RYGRIT',
+            'ixyzorg'
         ],
     },
     'MDN Docs Cn': {
@@ -74,7 +75,7 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'Element Plus': {
         team: ['keeplearning66'],
-        contributors: ['snowbitx'],
+        contributors: ['snowbitx','ixyzorg'],
     },
     'Element Plus X': {
         team: ['yuguaa', 'worryzyy'],

@@ -523,6 +523,54 @@
     },
     "pullRequest": [
         {
+            "number": 908,
+            "title": "feat(antdv): support custom date library",
+            "url": "https://github.com/unplugin/unplugin-vue-components/pull/908",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 87,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-21T04:16:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-vue-components",
+                "nameWithOwner": "unplugin/unplugin-vue-components",
+                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
+                "description": "📲 On-demand components auto importing for Vue",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-vue-components"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(antdv): support custom date library",
+            "url": "https://github.com/ilyaliao/unplugin-vue-components/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 87,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-21T04:10:24Z",
+            "mergedAt": null,
+            "closedAt": "2026-03-21T04:14:12Z",
+            "repository": {
+                "name": "unplugin-vue-components",
+                "nameWithOwner": "ilyaliao/unplugin-vue-components",
+                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
+                "description": "📲 On-demand components auto importing for Vue",
+                "owner": {
+                    "login": "ilyaliao",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
+                },
+                "url": "https://github.com/ilyaliao/unplugin-vue-components"
+            }
+        },
+        {
             "number": 5206,
             "title": "docs(refAutoReset): clarify deep update",
             "url": "https://github.com/vueuse/vueuse/pull/5206",
@@ -713,58 +761,10 @@
                 },
                 "url": "https://github.com/unjs/mlly"
             }
-        },
-        {
-            "number": 4973,
-            "title": "perf(usePreferredLanguages): use shallowRef for better performance",
-            "url": "https://github.com/vueuse/vueuse/pull/4973",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-18T16:21:58Z",
-            "mergedAt": "2025-08-19T00:09:08Z",
-            "closedAt": "2025-08-19T00:09:08Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4970,
-            "title": "docs: recommend using tryOnScopeDispose instead of tryOnUnmounted",
-            "url": "https://github.com/vueuse/vueuse/pull/4970",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-16T17:07:45Z",
-            "mergedAt": "2025-08-17T04:56:59Z",
-            "closedAt": "2025-08-17T04:56:59Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 72,
+        "total": 74,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1084,7 +1084,7 @@
             },
             {
                 "date": "2026-03-21",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-03-22",

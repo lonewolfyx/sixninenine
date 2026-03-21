@@ -523,6 +523,30 @@
     },
     "pullRequest": [
         {
+            "number": 168,
+            "title": "refactor: migrate to tsdown",
+            "url": "https://github.com/antfu-collective/vite-plugin-inspect/pull/168",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 485,
+            "deletions": 885,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-21T08:24:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vite-plugin-inspect",
+                "nameWithOwner": "antfu-collective/vite-plugin-inspect",
+                "homepageUrl": "",
+                "description": "Inspect the intermediate state of Vite plugins",
+                "owner": {
+                    "login": "antfu-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/167634566?v=4"
+                },
+                "url": "https://github.com/antfu-collective/vite-plugin-inspect"
+            }
+        },
+        {
             "number": 908,
             "title": "feat(antdv): support custom date library",
             "url": "https://github.com/unplugin/unplugin-vue-components/pull/908",
@@ -737,34 +761,10 @@
                 },
                 "url": "https://github.com/unjs/mlly"
             }
-        },
-        {
-            "number": 320,
-            "title": "feat: support export default class in declaration exports",
-            "url": "https://github.com/unjs/mlly/pull/320",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 40,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-08-22T16:10:50Z",
-            "mergedAt": "2025-08-22T19:37:27Z",
-            "closedAt": "2025-08-22T19:37:27Z",
-            "repository": {
-                "name": "mlly",
-                "nameWithOwner": "unjs/mlly",
-                "homepageUrl": "",
-                "description": "🤝 Common ECMAScript module utils ",
-                "owner": {
-                    "login": "unjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/80154025?v=4"
-                },
-                "url": "https://github.com/unjs/mlly"
-            }
         }
     ],
     "contributions": {
-        "total": 74,
+        "total": 76,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1084,7 +1084,7 @@
             },
             {
                 "date": "2026-03-21",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-03-22",

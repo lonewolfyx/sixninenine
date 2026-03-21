@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 685723,
+            "size": 689007,
             "repoCount": 3,
-            "progress": "77.48"
+            "progress": "77.40"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105076,
             "repoCount": 5,
-            "progress": "11.87"
+            "progress": "11.80"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.26"
+            "progress": "6.23"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 35627,
+            "size": 37587,
             "repoCount": 1,
-            "progress": "4.03"
+            "progress": "4.22"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57389,
+            "title": "refactor: migrate TextArea internals to @rc-component/input",
+            "url": "https://github.com/ant-design/ant-design/pull/57389",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 6,
+            "deletions": 7,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-03-21T09:38:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 165,
             "title": "docs: remove stale Input.TextArea references",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/input"
             }
-        },
-        {
-            "number": 82,
-            "title": "fix: forward textarea styles to BaseInput and correct typings",
-            "url": "https://github.com/react-component/textarea/pull/82",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 53,
-            "deletions": 6,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-03-17T10:55:43Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "textarea",
-                "nameWithOwner": "react-component/textarea",
-                "homepageUrl": "",
-                "description": "React Textarea",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/textarea"
-            }
         }
     ],
     "contributions": {
-        "total": 1583,
+        "total": 1599,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -620,7 +620,7 @@
             },
             {
                 "date": "2026-03-21",
-                "count": 4
+                "count": 20
             },
             {
                 "date": "2026-03-22",

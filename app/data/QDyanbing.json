@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 165,
+            "title": "docs: remove stale Input.TextArea references",
+            "url": "https://github.com/react-component/input/pull/165",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 29,
+            "deletions": 29,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-21T01:57:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "",
+                "description": "React Input Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
+            "number": 309,
+            "title": "chore: remove @rc-component/textarea dependency",
+            "url": "https://github.com/react-component/mentions/pull/309",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 4,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-03-21T01:46:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "mentions",
+                "nameWithOwner": "react-component/mentions",
+                "homepageUrl": "https://rc-mentions.react-component.now.sh",
+                "description": "React Mentions",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/mentions"
+            }
+        },
+        {
+            "number": 164,
+            "title": "fix: correct TextArea import in tests",
+            "url": "https://github.com/react-component/input/pull/164",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 9,
+            "deletions": 29,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-03-20T15:52:26Z",
+            "mergedAt": "2026-03-20T16:05:55Z",
+            "closedAt": "2026-03-20T16:05:55Z",
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "",
+                "description": "React Input Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
             "number": 57377,
             "title": "chore: move codex skills symlink to .agents",
             "url": "https://github.com/ant-design/ant-design/pull/57377",
@@ -182,14 +254,14 @@
             "number": 163,
             "title": "refactor(input): merge textarea into rc-input and deduplicate shared logic",
             "url": "https://github.com/react-component/input/pull/163",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 29,
-            "additions": 2360,
+            "additions": 2351,
             "deletions": 77,
-            "totalCommentsCount": 32,
+            "totalCommentsCount": 34,
             "createdAt": "2026-03-18T02:37:45Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-20T15:27:40Z",
+            "closedAt": "2026-03-20T15:27:40Z",
             "repository": {
                 "name": "input",
                 "nameWithOwner": "react-component/input",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/textarea"
             }
-        },
-        {
-            "number": 162,
-            "title": "feat: support semantic classNames and styles for clear",
-            "url": "https://github.com/react-component/input/pull/162",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 39,
-            "deletions": 6,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-17T09:37:29Z",
-            "mergedAt": "2026-03-17T10:02:12Z",
-            "closedAt": "2026-03-17T10:02:12Z",
-            "repository": {
-                "name": "input",
-                "nameWithOwner": "react-component/input",
-                "homepageUrl": "",
-                "description": "React Input Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input"
-            }
-        },
-        {
-            "number": 57331,
-            "title": "feat(Tag): add semantic support for close icon",
-            "url": "https://github.com/ant-design/ant-design/pull/57331",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 157,
-            "deletions": 3,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-17T03:05:16Z",
-            "mergedAt": "2026-03-17T03:22:15Z",
-            "closedAt": "2026-03-17T03:22:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57314,
-            "title": "feat(ConfigProvider): support focusable for Modal and Drawer",
-            "url": "https://github.com/ant-design/ant-design/pull/57314",
-            "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 182,
-            "deletions": 7,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-16T02:28:28Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1577,
+        "total": 1582,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -616,11 +616,11 @@
             },
             {
                 "date": "2026-03-20",
-                "count": 21
+                "count": 23
             },
             {
                 "date": "2026-03-21",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-03-22",

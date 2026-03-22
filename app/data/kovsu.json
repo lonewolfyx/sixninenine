@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2483,
+            "title": "feat(plugin-flint): add `testCaseOnlyFlag` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2483",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 222,
+            "deletions": 9,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-22T14:48:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 13656,
             "title": "fix: move router ownership above TopView overlays",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13656",
@@ -771,7 +795,7 @@
             "changedFiles": 16,
             "additions": 238,
             "deletions": 441,
-            "totalCommentsCount": 21,
+            "totalCommentsCount": 22,
             "createdAt": "2026-03-16T07:17:13Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 13431,
-            "title": "fix: render xml fenced svg blocks as svg previews",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13431",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-13T02:54:59Z",
-            "mergedAt": "2026-03-13T04:13:05Z",
-            "closedAt": "2026-03-13T04:13:05Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 222,
+        "total": 223,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1161,7 +1161,7 @@
             },
             {
                 "date": "2026-03-22",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-03-23",

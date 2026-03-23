@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "fix: align ConfigProvider semantic style config typings",
+            "url": "https://github.com/QDyanbing/ant-design/pull/1",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 27,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-23T03:31:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "QDyanbing/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/ant-design"
+            }
+        },
+        {
+            "number": 57394,
+            "title": "site: refine ThemePreview styles for geek and glass themes",
+            "url": "https://github.com/ant-design/ant-design/pull/57394",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 36,
+            "deletions": 2,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-03-23T02:59:33Z",
+            "mergedAt": "2026-03-23T03:13:00Z",
+            "closedAt": "2026-03-23T03:13:00Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57391,
             "title": "feat(Input): add clear semantic segment for classNames and styles",
             "url": "https://github.com/ant-design/ant-design/pull/57391",
@@ -186,7 +234,7 @@
             "changedFiles": 10,
             "additions": 2,
             "deletions": 2,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 11,
             "createdAt": "2026-03-20T08:10:40Z",
             "mergedAt": "2026-03-20T08:41:06Z",
             "closedAt": "2026-03-20T08:41:06Z",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57344,
-            "title": "fix(Watermark): guard undefined onRemove callback in hook",
-            "url": "https://github.com/ant-design/ant-design/pull/57344",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 19,
-            "createdAt": "2026-03-18T05:57:08Z",
-            "mergedAt": "2026-03-18T06:36:04Z",
-            "closedAt": "2026-03-18T06:36:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57342,
-            "title": "fix(Table): avoid duplicated controlled popover when table measures header",
-            "url": "https://github.com/ant-design/ant-design/pull/57342",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 56,
-            "deletions": 4,
-            "totalCommentsCount": 21,
-            "createdAt": "2026-03-18T03:56:01Z",
-            "mergedAt": "2026-03-19T08:31:44Z",
-            "closedAt": "2026-03-19T08:31:44Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1620,
+        "total": 1623,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -628,7 +628,7 @@
             },
             {
                 "date": "2026-03-23",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-03-24",

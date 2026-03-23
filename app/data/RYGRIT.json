@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 2229,
+            "title": "fix: remove duplicate scroll-to-top button on docs page",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/2229",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-03-23T07:09:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 2166,
             "title": "feat: display yaml frontmatter as a table",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/2166",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 1831,
-            "title": "fix: add date in chart tooltip",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1831",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 25,
-            "deletions": 1,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-03-02T14:32:47Z",
-            "mergedAt": "2026-03-02T16:43:31Z",
-            "closedAt": "2026-03-02T16:43:31Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 93,
+        "total": 94,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -635,7 +635,7 @@
             },
             {
                 "date": "2026-03-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-24",

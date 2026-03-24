@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=aebc77cfff84b00dc63e336d4db7f1e002308039&v=4",
         "pronouns": "",
-        "followers": 75,
+        "followers": 76,
         "following": 26
     },
     "languages": [
@@ -596,6 +596,54 @@
     },
     "pullRequest": [
         {
+            "number": 2499,
+            "title": "fix(plugin-flint): support reportSourceCode in `unusedMessageIds`",
+            "url": "https://github.com/flint-fyi/flint/pull/2499",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 603,
+            "deletions": 56,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-24T03:11:24Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 18963,
+            "title": "Fix duplicate dangling comments in experimental ternaries",
+            "url": "https://github.com/prettier/prettier/pull/18963",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 184,
+            "deletions": 18,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-23T11:36:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 2483,
             "title": "feat(plugin-flint): add `testCaseOnlyFlag` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2483",
@@ -648,10 +696,10 @@
             "title": "feat: show model ids for duplicate names in model pickers",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13654",
             "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 211,
-            "deletions": 75,
-            "totalCommentsCount": 1,
+            "changedFiles": 9,
+            "additions": 156,
+            "deletions": 84,
+            "totalCommentsCount": 7,
             "createdAt": "2026-03-20T02:10:29Z",
             "mergedAt": null,
             "closedAt": null,
@@ -767,14 +815,14 @@
             "number": 9154,
             "title": "Fix missing `ruleMetadata` when linting multiple files with overrides",
             "url": "https://github.com/stylelint/stylelint/pull/9154",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 42,
             "deletions": 4,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2026-03-17T03:24:43Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-23T12:49:08Z",
+            "closedAt": "2026-03-23T12:49:08Z",
             "repository": {
                 "name": "stylelint",
                 "nameWithOwner": "stylelint/stylelint",
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/stylelint/stylelint"
             }
-        },
-        {
-            "number": 13502,
-            "title": "refactor: migrate poe to openai responses api",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13502",
-            "state": "OPEN",
-            "changedFiles": 15,
-            "additions": 250,
-            "deletions": 451,
-            "totalCommentsCount": 23,
-            "createdAt": "2026-03-16T07:17:13Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 13434,
-            "title": "fix: correctly pass poe web_search via extra_body when built-in search is enabled",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13434",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 76,
-            "deletions": 5,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-03-13T06:53:38Z",
-            "mergedAt": "2026-03-13T09:02:40Z",
-            "closedAt": "2026-03-13T09:02:40Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 224,
+        "total": 227,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1165,11 +1165,11 @@
             },
             {
                 "date": "2026-03-23",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-03-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-25",

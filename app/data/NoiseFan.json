@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
         "followers": 12,
-        "following": 11
+        "following": 10
     },
     "languages": [
         {
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 947,
+            "title": "docs(cn): update /config file",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/947",
+            "state": "OPEN",
+            "changedFiles": 80,
+            "additions": 426,
+            "deletions": 428,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-03-23T17:08:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
         {
             "number": 942,
             "title": "docs(en): merge docs-cn/sync-docs into docs-cn/dev @ b72fc6b4",
@@ -230,7 +254,7 @@
             "changedFiles": 2,
             "additions": 25,
             "deletions": 25,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 7,
             "createdAt": "2026-03-14T17:33:14Z",
             "mergedAt": null,
             "closedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 935,
-            "title": "docs(cn): update /api/advanced/test-module",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/935",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 13,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-14T17:15:41Z",
-            "mergedAt": "2026-03-14T17:22:59Z",
-            "closedAt": "2026-03-14T17:22:59Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 196,
+        "total": 197,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -604,7 +604,7 @@
             },
             {
                 "date": "2026-03-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-25",

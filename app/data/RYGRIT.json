@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4",
         "pronouns": "",
         "followers": 10,
-        "following": 22
+        "following": 18
     },
     "languages": [
         {
@@ -66,17 +66,41 @@
     },
     "pullRequest": [
         {
+            "number": 2231,
+            "title": "[WIP]chore: normalize import order across codebase",
+            "url": "https://github.com/npmx-dev/npmx.dev/pull/2231",
+            "state": "CLOSED",
+            "changedFiles": 96,
+            "additions": 211,
+            "deletions": 263,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-03-23T10:03:49Z",
+            "mergedAt": null,
+            "closedAt": "2026-03-24T01:16:26Z",
+            "repository": {
+                "name": "npmx.dev",
+                "nameWithOwner": "npmx-dev/npmx.dev",
+                "homepageUrl": "https://npmx.dev",
+                "description": "a fast, modern browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/npmx.dev"
+            }
+        },
+        {
             "number": 2229,
             "title": "fix: remove duplicate scroll-to-top button on docs page",
             "url": "https://github.com/npmx-dev/npmx.dev/pull/2229",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 3,
             "createdAt": "2026-03-23T07:09:13Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-23T16:39:26Z",
+            "closedAt": "2026-03-23T16:39:26Z",
             "repository": {
                 "name": "npmx.dev",
                 "nameWithOwner": "npmx-dev/npmx.dev",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/vscode-npmx"
             }
-        },
-        {
-            "number": 1861,
-            "title": "fix: pds page style bug",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/1861",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 46,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-03-03T02:50:14Z",
-            "mergedAt": "2026-03-13T11:29:23Z",
-            "closedAt": "2026-03-13T11:29:23Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 94,
+        "total": 97,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -635,11 +635,11 @@
             },
             {
                 "date": "2026-03-23",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-03-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-03-25",

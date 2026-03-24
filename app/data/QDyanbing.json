@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 696092,
+            "size": 697327,
             "repoCount": 3,
-            "progress": "77.19"
+            "progress": "77.10"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "11.69"
+            "progress": "11.66"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.15"
+            "progress": "6.13"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 41756,
+            "size": 43085,
             "repoCount": 1,
-            "progress": "4.63"
+            "progress": "4.76"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57411,
+            "title": "site: fix homepage ThemePreview style priority after build",
+            "url": "https://github.com/ant-design/ant-design/pull/57411",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 143,
+            "deletions": 52,
+            "totalCommentsCount": 28,
+            "createdAt": "2026-03-24T01:33:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57397,
             "title": "chore: fix changelog skill AGENTS.md references",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/input"
             }
-        },
-        {
-            "number": 57377,
-            "title": "chore: move codex skills symlink to .agents",
-            "url": "https://github.com/ant-design/ant-design/pull/57377",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-03-20T08:10:40Z",
-            "mergedAt": "2026-03-20T08:41:06Z",
-            "closedAt": "2026-03-20T08:41:06Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1641,
+        "total": 1655,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -632,7 +632,7 @@
             },
             {
                 "date": "2026-03-24",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-03-25",

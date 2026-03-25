@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 697327,
+            "size": 702682,
             "repoCount": 3,
-            "progress": "77.10"
+            "progress": "77.12"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "11.66"
+            "progress": "11.57"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "6.13"
+            "progress": "6.08"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 43085,
+            "size": 44506,
             "repoCount": 1,
-            "progress": "4.76"
+            "progress": "4.88"
         },
         {
             "name": "Less",
@@ -58,6 +58,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57425,
+            "title": "docs: clarify PR body language guidance in CLAUDE.md",
+            "url": "https://github.com/ant-design/ant-design/pull/57425",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 7,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-03-25T01:12:39Z",
+            "mergedAt": "2026-03-25T01:20:50Z",
+            "closedAt": "2026-03-25T01:20:50Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57424,
+            "title": "fix(Table): prevent rowSelection crash when selectedRowKeys becomes undefined",
+            "url": "https://github.com/ant-design/ant-design/pull/57424",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 37,
+            "deletions": 5,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-03-25T00:57:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57411,
             "title": "site: fix homepage ThemePreview style priority after build",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/input"
             }
-        },
-        {
-            "number": 309,
-            "title": "chore: remove @rc-component/textarea dependency",
-            "url": "https://github.com/react-component/mentions/pull/309",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 4,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-03-21T01:46:43Z",
-            "mergedAt": "2026-03-21T05:56:37Z",
-            "closedAt": "2026-03-21T05:56:37Z",
-            "repository": {
-                "name": "mentions",
-                "nameWithOwner": "react-component/mentions",
-                "homepageUrl": "https://rc-mentions.react-component.now.sh",
-                "description": "React Mentions",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mentions"
-            }
-        },
-        {
-            "number": 164,
-            "title": "fix: correct TextArea import in tests",
-            "url": "https://github.com/react-component/input/pull/164",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 9,
-            "deletions": 29,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-03-20T15:52:26Z",
-            "mergedAt": "2026-03-20T16:05:55Z",
-            "closedAt": "2026-03-20T16:05:55Z",
-            "repository": {
-                "name": "input",
-                "nameWithOwner": "react-component/input",
-                "homepageUrl": "",
-                "description": "React Input Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input"
-            }
         }
     ],
     "contributions": {
-        "total": 1656,
+        "total": 1676,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -636,7 +636,7 @@
             },
             {
                 "date": "2026-03-25",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-03-26",

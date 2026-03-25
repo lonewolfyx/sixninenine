@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57428,
+            "title": "fix: respect AutoComplete popupMatchSelectWidth={false}",
+            "url": "https://github.com/ant-design/ant-design/pull/57428",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-03-25T03:34:49Z",
+            "mergedAt": "2026-03-25T05:08:30Z",
+            "closedAt": "2026-03-25T05:08:30Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57425,
             "title": "docs: clarify PR body language guidance in CLAUDE.md",
             "url": "https://github.com/ant-design/ant-design/pull/57425",
@@ -90,7 +114,7 @@
             "changedFiles": 2,
             "additions": 37,
             "deletions": 5,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 14,
             "createdAt": "2026-03-25T00:57:44Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 165,
-            "title": "docs: remove stale Input.TextArea references",
-            "url": "https://github.com/react-component/input/pull/165",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 29,
-            "deletions": 29,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-03-21T01:57:46Z",
-            "mergedAt": "2026-03-22T05:14:46Z",
-            "closedAt": "2026-03-22T05:14:46Z",
-            "repository": {
-                "name": "input",
-                "nameWithOwner": "react-component/input",
-                "homepageUrl": "",
-                "description": "React Input Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input"
-            }
         }
     ],
     "contributions": {
-        "total": 1676,
+        "total": 1680,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -636,7 +636,7 @@
             },
             {
                 "date": "2026-03-25",
-                "count": 20
+                "count": 24
             },
             {
                 "date": "2026-03-26",

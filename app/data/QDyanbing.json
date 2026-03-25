@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 76,
+            "title": "fix: compose existing child refs in CSSMotion",
+            "url": "https://github.com/react-component/motion/pull/76",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 70,
+            "deletions": 26,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-03-25T09:35:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "motion",
+                "nameWithOwner": "react-component/motion",
+                "homepageUrl": "https://motion-seven.vercel.app",
+                "description": "⛷ CSS Animation for React",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/motion"
+            }
+        },
+        {
             "number": 57428,
             "title": "fix: respect AutoComplete popupMatchSelectWidth={false}",
             "url": "https://github.com/ant-design/ant-design/pull/57428",
@@ -110,14 +134,14 @@
             "number": 57424,
             "title": "fix(Table): prevent rowSelection crash when selectedRowKeys becomes undefined",
             "url": "https://github.com/ant-design/ant-design/pull/57424",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 37,
             "deletions": 5,
-            "totalCommentsCount": 14,
+            "totalCommentsCount": 15,
             "createdAt": "2026-03-25T00:57:44Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-25T08:07:05Z",
+            "closedAt": "2026-03-25T08:07:06Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57389,
-            "title": "refactor: migrate TextArea internals to @rc-component/input",
-            "url": "https://github.com/ant-design/ant-design/pull/57389",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 6,
-            "deletions": 7,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-03-21T09:38:13Z",
-            "mergedAt": "2026-03-21T15:47:53Z",
-            "closedAt": "2026-03-21T15:47:53Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1680,
+        "total": 1683,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -636,7 +636,7 @@
             },
             {
                 "date": "2026-03-25",
-                "count": 24
+                "count": 27
             },
             {
                 "date": "2026-03-26",

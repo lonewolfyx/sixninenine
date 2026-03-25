@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "style(semantic): remove unnecessary border styles from demo components",
+            "url": "https://github.com/antdv-next/x/pull/19",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-25T08:19:29Z",
+            "mergedAt": "2026-03-25T08:41:20Z",
+            "closedAt": "2026-03-25T08:41:20Z",
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "antdv-next/x",
+                "homepageUrl": "https://x.antdv-next.com",
+                "description": "Antdv Next X",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/x"
+            }
+        },
+        {
             "number": 2,
             "title": "Vitest",
             "url": "https://github.com/lonewolfyx/oxc-inspector/pull/2",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/tsdown-preset"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(build): add node library configuration function",
-            "url": "https://github.com/lonewolfyx/tsdown-preset/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-06T02:12:45Z",
-            "mergedAt": "2026-02-06T02:13:20Z",
-            "closedAt": "2026-02-06T02:13:20Z",
-            "repository": {
-                "name": "tsdown-preset",
-                "nameWithOwner": "lonewolfyx/tsdown-preset",
-                "homepageUrl": "",
-                "description": "An opinionated preset for tsdown.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/tsdown-preset"
-            }
         }
     ],
     "contributions": {
-        "total": 5018,
+        "total": 5033,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1395,7 +1395,7 @@
             },
             {
                 "date": "2026-03-25",
-                "count": 11
+                "count": 26
             },
             {
                 "date": "2026-03-26",

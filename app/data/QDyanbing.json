@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57440,
+            "title": "feat: support Typography copyable placement",
+            "url": "https://github.com/ant-design/ant-design/pull/57440",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 207,
+            "deletions": 9,
+            "totalCommentsCount": 18,
+            "createdAt": "2026-03-26T03:50:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 76,
             "title": "fix: compose existing child refs in CSSMotion",
             "url": "https://github.com/react-component/motion/pull/76",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57391,
-            "title": "feat(Input): add clear semantic segment for classNames and styles",
-            "url": "https://github.com/ant-design/ant-design/pull/57391",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 527,
-            "deletions": 6,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-22T10:05:58Z",
-            "mergedAt": "2026-03-22T10:27:05Z",
-            "closedAt": "2026-03-22T10:27:05Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1696,
+        "total": 1697,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -640,7 +640,7 @@
             },
             {
                 "date": "2026-03-26",
-                "count": 12
+                "count": 13
             },
             {
                 "date": "2026-03-27",

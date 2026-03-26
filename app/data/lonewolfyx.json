@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "docs(contributing): add English and Chinese contribution guides",
+            "url": "https://github.com/antdv-next/x/pull/25",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 141,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-03-26T07:24:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "antdv-next/x",
+                "homepageUrl": "https://x.antdv-next.com",
+                "description": "Antdv Next X",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/x"
+            }
+        },
+        {
+            "number": 415,
+            "title": "fix(docs): correct github edit paths",
+            "url": "https://github.com/antdv-next/antdv-next/pull/415",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-26T06:06:26Z",
+            "mergedAt": "2026-03-26T06:12:26Z",
+            "closedAt": "2026-03-26T06:12:26Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 22,
             "title": "feat(docs): add contributors component with GitHub integration",
             "url": "https://github.com/antdv-next/x/pull/22",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lint-rules"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(eslint): add ESLint rules generation script",
-            "url": "https://github.com/lonewolfyx/lint-rules/pull/1",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 13274,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-02-12T01:32:08Z",
-            "mergedAt": "2026-02-12T01:33:09Z",
-            "closedAt": "2026-02-12T01:33:09Z",
-            "repository": {
-                "name": "lint-rules",
-                "nameWithOwner": "lonewolfyx/lint-rules",
-                "homepageUrl": "https://lint-rules.vercel.app",
-                "description": "All-in-one lint rules hub: ESLint + Plugins, Stylelint, Biome, Oxlint, OxFmt and other linters",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lint-rules"
-            }
-        },
-        {
-            "number": 7,
-            "title": "chore(config): move renovate config to .github folder and update settings",
-            "url": "https://github.com/lonewolfyx/pkgrab/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-06T05:40:40Z",
-            "mergedAt": "2026-02-06T05:40:49Z",
-            "closedAt": "2026-02-06T05:40:49Z",
-            "repository": {
-                "name": "pkgrab",
-                "nameWithOwner": "lonewolfyx/pkgrab",
-                "homepageUrl": null,
-                "description": "📦 grab unused npm package names instantly",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/pkgrab"
-            }
         }
     ],
     "contributions": {
-        "total": 5056,
+        "total": 5067,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1399,7 +1399,7 @@
             },
             {
                 "date": "2026-03-26",
-                "count": 4
+                "count": 15
             },
             {
                 "date": "2026-03-27",

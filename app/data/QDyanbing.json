@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 57467,
+            "title": "fix: restore 5.x lint and Jest compatibility",
+            "url": "https://github.com/ant-design/ant-design/pull/57467",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 42,
+            "deletions": 5,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-03-27T05:33:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57440,
             "title": "feat: support Typography actions placement",
             "url": "https://github.com/ant-design/ant-design/pull/57440",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
-            "additions": 980,
-            "deletions": 7,
-            "totalCommentsCount": 38,
+            "additions": 249,
+            "deletions": 9,
+            "totalCommentsCount": 43,
             "createdAt": "2026-03-26T03:50:50Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-27T06:08:45Z",
+            "closedAt": "2026-03-27T06:08:46Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/QDyanbing/ant-design"
             }
-        },
-        {
-            "number": 57394,
-            "title": "site: refine ThemePreview styles for geek and glass themes",
-            "url": "https://github.com/ant-design/ant-design/pull/57394",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 36,
-            "deletions": 2,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-03-23T02:59:33Z",
-            "mergedAt": "2026-03-23T03:13:00Z",
-            "closedAt": "2026-03-23T03:13:00Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1708,
+        "total": 1709,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -644,7 +644,7 @@
             },
             {
                 "date": "2026-03-27",
-                "count": 10
+                "count": 11
             },
             {
                 "date": "2026-03-28",

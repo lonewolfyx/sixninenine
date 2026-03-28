@@ -16,14 +16,38 @@
     },
     "pullRequest": [
         {
+            "number": 23927,
+            "title": "refactor(components): [autocomplete] make component generic",
+            "url": "https://github.com/element-plus/element-plus/pull/23927",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 64,
+            "deletions": 64,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-03-28T16:44:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 23921,
-            "title": "feat(components): [input] add password-visible-change event",
+            "title": "feat(components): [input] expose passwordVisible",
             "url": "https://github.com/element-plus/element-plus/pull/23921",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 37,
-            "deletions": 13,
-            "totalCommentsCount": 5,
+            "changedFiles": 3,
+            "additions": 40,
+            "deletions": 12,
+            "totalCommentsCount": 12,
             "createdAt": "2026-03-28T02:09:22Z",
             "mergedAt": null,
             "closedAt": null,
@@ -230,34 +254,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23738,
-            "title": "fix(components): [tooltip] sync visible after disabled toggle",
-            "url": "https://github.com/element-plus/element-plus/pull/23738",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 29,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-03-07T08:32:12Z",
-            "mergedAt": "2026-03-09T13:36:26Z",
-            "closedAt": "2026-03-09T13:36:26Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 133,
+        "total": 134,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -609,7 +609,7 @@
             },
             {
                 "date": "2026-03-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-03-30",

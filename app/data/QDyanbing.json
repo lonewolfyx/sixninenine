@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 713218,
+            "size": 718976,
             "repoCount": 3,
-            "progress": "77.03"
+            "progress": "77.07"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "11.39"
+            "progress": "11.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.99"
+            "progress": "5.94"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 48724,
+            "size": 49889,
             "repoCount": 1,
-            "progress": "5.26"
+            "progress": "5.35"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57491,
+            "title": "fix: reset Image preview action button styles",
+            "url": "https://github.com/ant-design/ant-design/pull/57491",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-03-29T10:47:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57467,
             "title": "fix: restore 5.x lint and Jest compatibility",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1,
-            "title": "fix: align ConfigProvider semantic style config typings",
-            "url": "https://github.com/QDyanbing/ant-design/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 5,
-            "additions": 63,
-            "deletions": 15,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-23T03:31:29Z",
-            "mergedAt": null,
-            "closedAt": "2026-03-23T03:34:01Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "QDyanbing/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1729,
+        "total": 1749,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -652,7 +652,7 @@
             },
             {
                 "date": "2026-03-29",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-03-30",

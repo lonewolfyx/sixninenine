@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 54,
+            "title": "fix(docs): adaptive markdown theme mode",
+            "url": "https://github.com/antdv-next/x/pull/54",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 63,
+            "deletions": 22,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-03-30T13:30:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "antdv-next/x",
+                "homepageUrl": "https://x.antdv-next.com",
+                "description": "Antdv Next X",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/x"
+            }
+        },
+        {
             "number": 428,
             "title": "fix(docs): align sider menu dark theme tokens and background",
             "url": "https://github.com/antdv-next/antdv-next/pull/428",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 269,
-            "title": "feat: sync antd 6.3.1",
-            "url": "https://github.com/antdv-next/antdv-next/pull/269",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 25,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-02-26T08:30:16Z",
-            "mergedAt": "2026-02-26T11:24:08Z",
-            "closedAt": "2026-02-26T11:24:08Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 171,
+        "total": 172,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -670,7 +670,7 @@
             },
             {
                 "date": "2026-03-30",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-03-31",

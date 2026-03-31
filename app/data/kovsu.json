@@ -456,7 +456,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 4
+                    "totalCount": 5
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2518,
+            "title": "fix: separate intrinsic errors from any-like checks",
+            "url": "https://github.com/flint-fyi/flint/pull/2518",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 146,
+            "deletions": 47,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-03-31T08:22:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 13900,
             "title": "fix: prevent concurrent v2 migration starts",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13900",
@@ -627,7 +651,7 @@
             "changedFiles": 11,
             "additions": 220,
             "deletions": 13,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 3,
             "createdAt": "2026-03-30T06:24:50Z",
             "mergedAt": null,
             "closedAt": null,
@@ -651,7 +675,7 @@
             "changedFiles": 3,
             "additions": 43,
             "deletions": 23,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-03-30T03:51:08Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 18963,
-            "title": "Fix duplicate dangling comments in experimental ternaries",
-            "url": "https://github.com/prettier/prettier/pull/18963",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 184,
-            "deletions": 18,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-23T11:36:39Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 239,
+        "total": 241,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1197,7 +1197,7 @@
             },
             {
                 "date": "2026-03-31",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-01",

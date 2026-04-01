@@ -596,14 +596,62 @@
     },
     "pullRequest": [
         {
+            "number": 13951,
+            "title": "fix: reduce move-to submenu height to prevent overflow",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13951",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-01T03:39:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 13939,
+            "title": "fix: migrate epub to v2 async api",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/13939",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 20,
+            "deletions": 39,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-03-31T15:37:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2518,
             "title": "fix: separate intrinsic errors from any-like checks",
             "url": "https://github.com/flint-fyi/flint/pull/2518",
             "state": "OPEN",
             "changedFiles": 5,
-            "additions": 146,
-            "deletions": 47,
-            "totalCommentsCount": 4,
+            "additions": 149,
+            "deletions": 29,
+            "totalCommentsCount": 5,
             "createdAt": "2026-03-31T08:22:25Z",
             "mergedAt": null,
             "closedAt": null,
@@ -647,14 +695,14 @@
             "number": 13898,
             "title": "fix: reset migrator state before each migration retry",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/13898",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 11,
             "additions": 220,
             "deletions": 13,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-03-30T06:24:50Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-03-31T16:28:10Z",
+            "closedAt": "2026-03-31T16:28:10Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 13760,
-            "title": "fix: stabilize usePreference re-render and deduplicate API server status checks",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13760",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 27,
-            "deletions": 13,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-03-24T09:13:52Z",
-            "mergedAt": "2026-03-25T02:00:24Z",
-            "closedAt": "2026-03-25T02:00:24Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 2499,
-            "title": "fix(plugin-flint): support reportSourceCode in `unusedMessageIds`",
-            "url": "https://github.com/flint-fyi/flint/pull/2499",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 612,
-            "deletions": 56,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-03-24T03:11:24Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 241,
+        "total": 245,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1197,11 +1197,11 @@
             },
             {
                 "date": "2026-03-31",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-04-01",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-04-02",

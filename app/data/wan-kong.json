@@ -80,6 +80,30 @@
     },
     "pullRequest": [
         {
+            "number": 3776,
+            "title": "fix: 优化搜索逻辑，令牌数未超限时自动填充模糊搜索通配符",
+            "url": "https://github.com/QuantumNous/new-api/pull/3776",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 29,
+            "deletions": 21,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-02T03:42:18Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-02T04:33:48Z",
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "QuantumNous/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+                "owner": {
+                    "login": "QuantumNous",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
+                },
+                "url": "https://github.com/QuantumNous/new-api"
+            }
+        },
+        {
             "number": 6,
             "title": "docs: 添加在线演示链接",
             "url": "https://github.com/wan-kong/sf-symbols-online/pull/6",
@@ -294,34 +318,10 @@
                 },
                 "url": "https://github.com/wan-kong/code-review-copilot"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat: 以 \"/\" 开头的命令消息跳过系统提示词",
-            "url": "https://github.com/tencent-connect/openclaw-qqbot/pull/6",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-29T08:16:11Z",
-            "mergedAt": null,
-            "closedAt": "2026-02-03T11:42:32Z",
-            "repository": {
-                "name": "openclaw-qqbot",
-                "nameWithOwner": "tencent-connect/openclaw-qqbot",
-                "homepageUrl": null,
-                "description": "qqbot",
-                "owner": {
-                    "login": "tencent-connect",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/89066837?v=4"
-                },
-                "url": "https://github.com/tencent-connect/openclaw-qqbot"
-            }
         }
     ],
     "contributions": {
-        "total": 109,
+        "total": 112,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -689,7 +689,7 @@
             },
             {
                 "date": "2026-04-02",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-04-03",

@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57545,
+            "title": "feat: support columnDefaults for Table",
+            "url": "https://github.com/ant-design/ant-design/pull/57545",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 332,
+            "deletions": 3,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-04-02T06:40:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57540,
             "title": "fix: correct Cascader menu item ellipsis styles",
             "url": "https://github.com/ant-design/ant-design/pull/57540",
@@ -66,7 +90,7 @@
             "changedFiles": 7,
             "additions": 530,
             "deletions": 1,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 15,
             "createdAt": "2026-04-02T00:48:12Z",
             "mergedAt": null,
             "closedAt": null,
@@ -112,9 +136,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/57528",
             "state": "OPEN",
             "changedFiles": 5,
-            "additions": 145,
+            "additions": 131,
             "deletions": 10,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 9,
             "createdAt": "2026-04-01T10:29:47Z",
             "mergedAt": null,
             "closedAt": null,
@@ -134,14 +158,14 @@
             "number": 57511,
             "title": "fix: adapt shadow tokens for dark theme",
             "url": "https://github.com/ant-design/ant-design/pull/57511",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 8,
             "additions": 70,
             "deletions": 33,
             "totalCommentsCount": 21,
             "createdAt": "2026-03-31T01:00:03Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-02T06:20:00Z",
+            "closedAt": "2026-04-02T06:20:00Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -162,7 +186,7 @@
             "changedFiles": 8,
             "additions": 77,
             "deletions": 7,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 15,
             "createdAt": "2026-03-30T01:49:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -206,14 +230,14 @@
             "number": 57467,
             "title": "fix: restore 5.x lint and Jest compatibility",
             "url": "https://github.com/ant-design/ant-design/pull/57467",
-            "state": "OPEN",
-            "changedFiles": 9,
-            "additions": 134,
-            "deletions": 15,
-            "totalCommentsCount": 13,
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 145,
+            "deletions": 23,
+            "totalCommentsCount": 28,
             "createdAt": "2026-03-27T05:33:23Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-02T07:22:00Z",
+            "closedAt": "2026-04-02T07:22:00Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/motion"
             }
-        },
-        {
-            "number": 57428,
-            "title": "fix: respect AutoComplete popupMatchSelectWidth={false}",
-            "url": "https://github.com/ant-design/ant-design/pull/57428",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-03-25T03:34:49Z",
-            "mergedAt": "2026-03-25T05:08:30Z",
-            "closedAt": "2026-03-25T05:08:30Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1808,
+        "total": 1810,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -668,7 +668,7 @@
             },
             {
                 "date": "2026-04-02",
-                "count": 12
+                "count": 14
             },
             {
                 "date": "2026-04-03",

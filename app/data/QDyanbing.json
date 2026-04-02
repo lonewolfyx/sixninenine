@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57547,
+            "title": "fix(Table):V5  prevent rowSelection crash when selectedRowKeys becomes undefined",
+            "url": "https://github.com/ant-design/ant-design/pull/57547",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 37,
+            "deletions": 5,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-04-02T08:18:35Z",
+            "mergedAt": "2026-04-02T10:12:32Z",
+            "closedAt": "2026-04-02T10:12:32Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57545,
             "title": "feat: support columnDefaults for Table",
             "url": "https://github.com/ant-design/ant-design/pull/57545",
@@ -88,9 +112,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/57540",
             "state": "OPEN",
             "changedFiles": 7,
-            "additions": 530,
+            "additions": 263,
             "deletions": 1,
-            "totalCommentsCount": 15,
+            "totalCommentsCount": 23,
             "createdAt": "2026-04-02T00:48:12Z",
             "mergedAt": null,
             "closedAt": null,
@@ -114,7 +138,7 @@
             "changedFiles": 1,
             "additions": 6,
             "deletions": 0,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 11,
             "createdAt": "2026-04-01T11:01:40Z",
             "mergedAt": "2026-04-01T12:44:37Z",
             "closedAt": "2026-04-01T12:44:37Z",
@@ -134,14 +158,14 @@
             "number": 57528,
             "title": "feat(Popconfirm): add icon semantic support",
             "url": "https://github.com/ant-design/ant-design/pull/57528",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 131,
             "deletions": 10,
             "totalCommentsCount": 9,
             "createdAt": "2026-04-01T10:29:47Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-02T08:26:50Z",
+            "closedAt": "2026-04-02T08:26:50Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -184,7 +208,7 @@
             "url": "https://github.com/ant-design/ant-design/pull/57495",
             "state": "OPEN",
             "changedFiles": 8,
-            "additions": 77,
+            "additions": 62,
             "deletions": 7,
             "totalCommentsCount": 15,
             "createdAt": "2026-03-30T01:49:19Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 76,
-            "title": "fix: compose existing child refs in CSSMotion",
-            "url": "https://github.com/react-component/motion/pull/76",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 80,
-            "deletions": 22,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-25T09:35:19Z",
-            "mergedAt": "2026-03-25T14:25:40Z",
-            "closedAt": "2026-03-25T14:25:40Z",
-            "repository": {
-                "name": "motion",
-                "nameWithOwner": "react-component/motion",
-                "homepageUrl": "https://motion-seven.vercel.app",
-                "description": "⛷ CSS Animation for React",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/motion"
-            }
         }
     ],
     "contributions": {
-        "total": 1810,
+        "total": 1811,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -668,7 +668,7 @@
             },
             {
                 "date": "2026-04-02",
-                "count": 14
+                "count": 15
             },
             {
                 "date": "2026-04-03",

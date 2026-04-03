@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57559,
+            "title": "docs: refine create-pr trigger guidance by intent",
+            "url": "https://github.com/ant-design/ant-design/pull/57559",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 20,
+            "totalCommentsCount": 17,
+            "createdAt": "2026-04-03T06:24:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57557,
             "title": "docs: deprecate Cascader popupMenuColumnStyle in favor of styles.popup.listItem",
             "url": "https://github.com/ant-design/ant-design/pull/57557",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57467,
-            "title": "fix: restore 5.x lint and Jest compatibility",
-            "url": "https://github.com/ant-design/ant-design/pull/57467",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 145,
-            "deletions": 23,
-            "totalCommentsCount": 28,
-            "createdAt": "2026-03-27T05:33:23Z",
-            "mergedAt": "2026-04-02T07:22:00Z",
-            "closedAt": "2026-04-02T07:22:00Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1825,
+        "total": 1826,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -672,7 +672,7 @@
             },
             {
                 "date": "2026-04-03",
-                "count": 14
+                "count": 15
             },
             {
                 "date": "2026-04-04",

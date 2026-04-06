@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "refactor(build): remove build configuration and update package structure",
+            "url": "https://github.com/lonewolfyx/utils/pull/2",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 19,
+            "deletions": 80,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-06T13:22:38Z",
+            "mergedAt": "2026-04-06T13:22:47Z",
+            "closedAt": "2026-04-06T13:22:47Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": null,
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 57,
             "title": "style(layout): adjust main content margin on mobile screens",
             "url": "https://github.com/antdv-next/x/pull/57",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 415,
-            "title": "fix(docs): correct github edit paths",
-            "url": "https://github.com/antdv-next/antdv-next/pull/415",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 13,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-26T06:06:26Z",
-            "mergedAt": "2026-03-26T06:12:26Z",
-            "closedAt": "2026-03-26T06:12:26Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 5612,
+        "total": 5645,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1443,7 +1443,7 @@
             },
             {
                 "date": "2026-04-06",
-                "count": 19
+                "count": 52
             },
             {
                 "date": "2026-04-07",

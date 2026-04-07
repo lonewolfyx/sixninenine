@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 736542,
+            "size": 736562,
             "repoCount": 3,
             "progress": "77.11"
         },
@@ -58,6 +58,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 961,
+            "title": "feat: support confirmOnDoubleClick config for needConfirm",
+            "url": "https://github.com/react-component/picker/pull/961",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 112,
+            "deletions": 29,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-07T03:04:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://picker.react-component.now.sh/",
+                "description": "📅 All Date Pickers you need.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: support confirmOnDoubleClick config for needConfirm",
+            "url": "https://github.com/QDyanbing/rc-picker/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 7,
+            "additions": 112,
+            "deletions": 29,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-07T03:02:03Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-07T03:02:55Z",
+            "repository": {
+                "name": "rc-picker",
+                "nameWithOwner": "QDyanbing/rc-picker",
+                "homepageUrl": "https://picker.react-component.now.sh/",
+                "description": "📅 All Date Pickers you need.",
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/rc-picker"
+            }
+        },
+        {
+            "number": 57592,
+            "title": "fix(InputNumber): avoid hover style on disabled handlers",
+            "url": "https://github.com/ant-design/ant-design/pull/57592",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 770,
+            "deletions": 12,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-04-07T01:44:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57559,
             "title": "docs: refine create-pr trigger guidance by intent",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57511,
-            "title": "fix: adapt shadow tokens for dark theme",
-            "url": "https://github.com/ant-design/ant-design/pull/57511",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 70,
-            "deletions": 33,
-            "totalCommentsCount": 21,
-            "createdAt": "2026-03-31T01:00:03Z",
-            "mergedAt": "2026-04-02T06:20:00Z",
-            "closedAt": "2026-04-02T06:20:00Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57495,
-            "title": "feat(Button,Tag): support default colors for solid variants",
-            "url": "https://github.com/ant-design/ant-design/pull/57495",
-            "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 62,
-            "deletions": 7,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-03-30T01:49:19Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57491,
-            "title": "fix: reset Image preview action button styles",
-            "url": "https://github.com/ant-design/ant-design/pull/57491",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-03-29T10:47:02Z",
-            "mergedAt": "2026-03-30T06:25:33Z",
-            "closedAt": "2026-03-30T06:25:33Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1888,
+        "total": 1913,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -688,7 +688,7 @@
             },
             {
                 "date": "2026-04-07",
-                "count": 0
+                "count": 25
             },
             {
                 "date": "2026-04-08",

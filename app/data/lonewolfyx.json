@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1329354,
+            "size": 1329348,
             "repoCount": 28,
-            "progress": "54.44"
+            "progress": "54.42"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 945472,
+            "size": 945574,
             "repoCount": 15,
-            "progress": "38.72"
+            "progress": "38.71"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 88058,
             "repoCount": 15,
-            "progress": "3.61"
+            "progress": "3.60"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 72512,
+            "size": 73147,
             "repoCount": 26,
-            "progress": "2.97"
+            "progress": "2.99"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "chore: dependency upgrade",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/11",
+            "state": "MERGED",
+            "changedFiles": 41,
+            "additions": 2586,
+            "deletions": 1153,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-07T09:17:29Z",
+            "mergedAt": "2026-04-07T09:18:05Z",
+            "closedAt": "2026-04-07T09:18:05Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 2,
             "title": "refactor(build): remove build configuration and update package structure",
             "url": "https://github.com/lonewolfyx/utils/pull/2",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 25,
-            "title": "docs(contributing): add English and Chinese contribution guides",
-            "url": "https://github.com/antdv-next/x/pull/25",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 141,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-26T07:24:07Z",
-            "mergedAt": "2026-03-26T08:51:55Z",
-            "closedAt": "2026-03-26T08:51:55Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 5664,
+        "total": 5676,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1447,7 +1447,7 @@
             },
             {
                 "date": "2026-04-07",
-                "count": 10
+                "count": 22
             },
             {
                 "date": "2026-04-08",

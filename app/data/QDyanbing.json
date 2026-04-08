@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57611,
+            "title": "feat: support closable for Image preview mask",
+            "url": "https://github.com/ant-design/ant-design/pull/57611",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 107,
+            "deletions": 10,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-04-08T11:05:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 506,
+            "title": "[codex] support preview mask closable",
+            "url": "https://github.com/react-component/image/pull/506",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 32,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-08T08:38:36Z",
+            "mergedAt": "2026-04-08T08:57:05Z",
+            "closedAt": "2026-04-08T08:57:05Z",
+            "repository": {
+                "name": "image",
+                "nameWithOwner": "react-component/image",
+                "homepageUrl": "https://image-sepia.vercel.app",
+                "description": "🖼 React Image Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/image"
+            }
+        },
+        {
             "number": 57607,
             "title": "feat: add semantic DOM support for Form help, helpItem and extra",
             "url": "https://github.com/ant-design/ant-design/pull/57607",
@@ -110,14 +158,14 @@
             "number": 961,
             "title": "feat: support confirmOnDoubleClick config for needConfirm",
             "url": "https://github.com/react-component/picker/pull/961",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 7,
             "additions": 112,
             "deletions": 29,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-04-07T03:04:20Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-04-08T12:42:15Z",
             "repository": {
                 "name": "picker",
                 "nameWithOwner": "react-component/picker",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57545,
-            "title": "feat: support column for Table",
-            "url": "https://github.com/ant-design/ant-design/pull/57545",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 425,
-            "deletions": 2,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-04-02T06:40:59Z",
-            "mergedAt": "2026-04-07T13:51:15Z",
-            "closedAt": "2026-04-07T13:51:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57540,
-            "title": "fix: correct Cascader menu item ellipsis styles",
-            "url": "https://github.com/ant-design/ant-design/pull/57540",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 263,
-            "deletions": 1,
-            "totalCommentsCount": 23,
-            "createdAt": "2026-04-02T00:48:12Z",
-            "mergedAt": "2026-04-03T02:58:47Z",
-            "closedAt": "2026-04-03T02:58:47Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1930,
+        "total": 1933,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -692,7 +692,7 @@
             },
             {
                 "date": "2026-04-08",
-                "count": 17
+                "count": 20
             },
             {
                 "date": "2026-04-09",

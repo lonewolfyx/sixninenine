@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 57607,
+            "title": "feat: add semantic DOM support for Form help, helpItem and extra",
+            "url": "https://github.com/ant-design/ant-design/pull/57607",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 411,
+            "deletions": 10,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-04-08T07:22:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 326,
             "title": "fix: prevent selecting disabled items with keyboard navigation",
             "url": "https://github.com/react-component/segmented/pull/326",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 36,
             "deletions": 4,
             "totalCommentsCount": 9,
             "createdAt": "2026-04-08T01:54:52Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-08T06:48:00Z",
+            "closedAt": "2026-04-08T06:48:00Z",
             "repository": {
                 "name": "segmented",
                 "nameWithOwner": "react-component/segmented",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57529,
-            "title": "chore(skills): improve create-pr skill trigger phrases",
-            "url": "https://github.com/ant-design/ant-design/pull/57529",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-04-01T11:01:40Z",
-            "mergedAt": "2026-04-01T12:44:37Z",
-            "closedAt": "2026-04-01T12:44:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1928,
+        "total": 1930,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -692,7 +692,7 @@
             },
             {
                 "date": "2026-04-08",
-                "count": 15
+                "count": 17
             },
             {
                 "date": "2026-04-09",

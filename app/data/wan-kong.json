@@ -80,6 +80,30 @@
     },
     "pullRequest": [
         {
+            "number": 8866,
+            "title": "fix(i18n): complete and refine zh-CN translations",
+            "url": "https://github.com/makeplane/plane/pull/8866",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 267,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-08T02:26:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "plane",
+                "nameWithOwner": "makeplane/plane",
+                "homepageUrl": "http://plane.so",
+                "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+                "owner": {
+                    "login": "makeplane",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/115727700?v=4"
+                },
+                "url": "https://github.com/makeplane/plane"
+            }
+        },
+        {
             "number": 3776,
             "title": "fix: 优化搜索逻辑，令牌数未超限时自动填充模糊搜索通配符",
             "url": "https://github.com/QuantumNous/new-api/pull/3776",
@@ -294,34 +318,10 @@
                 },
                 "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: 添加 Docker 部署支持",
-            "url": "https://github.com/wan-kong/code-review-copilot/pull/1",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 77,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-18T00:57:40Z",
-            "mergedAt": "2026-03-18T00:57:54Z",
-            "closedAt": "2026-03-18T00:57:54Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "wan-kong/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 109,
+        "total": 113,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -709,11 +709,11 @@
             },
             {
                 "date": "2026-04-07",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-04-08",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-04-09",

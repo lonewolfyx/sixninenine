@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 2532,
+            "title": "chore: clean unnecessary directives",
+            "url": "https://github.com/flint-fyi/flint/pull/2532",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-08T03:09:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2523,
             "title": "chore: update debug-for-file to 0.3.0",
             "url": "https://github.com/flint-fyi/flint/pull/2523",
@@ -791,14 +815,14 @@
             "number": 2507,
             "title": "feat: add `pluginRuleOrdering` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2507",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
             "additions": 486,
             "deletions": 12,
             "totalCommentsCount": 8,
             "createdAt": "2026-03-26T09:41:20Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-08T00:27:48Z",
+            "closedAt": "2026-04-08T00:27:48Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 13797,
-            "title": "ci: restrict package release workflow to cherry-studio's main branch",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13797",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-26T01:13:12Z",
-            "mergedAt": "2026-03-26T05:23:54Z",
-            "closedAt": "2026-03-26T05:23:54Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 251,
+        "total": 255,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1229,7 +1229,7 @@
             },
             {
                 "date": "2026-04-08",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-04-09",

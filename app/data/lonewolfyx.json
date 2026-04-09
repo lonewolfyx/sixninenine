@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat: add Nuxt Aid community link",
+            "url": "https://github.com/nuxtjs/.github/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-09T06:17:20Z",
+            "mergedAt": "2026-04-09T06:17:31Z",
+            "closedAt": "2026-04-09T06:17:31Z",
+            "repository": {
+                "name": ".github",
+                "nameWithOwner": "nuxtjs/.github",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "nuxtjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/255548554?v=4"
+                },
+                "url": "https://github.com/nuxtjs/.github"
+            }
+        },
+        {
             "number": 67,
             "title": "docs(demos): update component demos to reflect antdv next x naming",
             "url": "https://github.com/antdv-next/x/pull/67",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 30,
-            "title": "feat(docs): add edit on github link to documentation pages",
-            "url": "https://github.com/antdv-next/x/pull/30",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 43,
-            "deletions": 17,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-26T08:18:55Z",
-            "mergedAt": "2026-03-26T08:54:19Z",
-            "closedAt": "2026-03-26T08:54:19Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 5755,
+        "total": 5763,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1455,7 +1455,7 @@
             },
             {
                 "date": "2026-04-09",
-                "count": 5
+                "count": 13
             },
             {
                 "date": "2026-04-10",

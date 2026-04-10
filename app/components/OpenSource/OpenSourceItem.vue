@@ -30,9 +30,6 @@
 </template>
 
 <script lang="ts" setup>
-// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-expect-error
-import VirtualMembers from 'virtual-members'
 import { Badge } from '~/components/ui/badge'
 import { members, openSourceMembers } from '~/constant/members'
 

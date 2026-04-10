@@ -64,8 +64,6 @@
 </template>
 
 <script lang="ts" setup>
-// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-expect-error
 import VirtualMembers from 'virtual-members'
 import { members, type OpenSourceTypes } from '~/constant/members'
 import { cn } from '~/lib/utils'

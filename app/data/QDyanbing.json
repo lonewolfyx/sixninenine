@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57628,
+            "title": "chore(skills): add test review skill",
+            "url": "https://github.com/ant-design/ant-design/pull/57628",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 181,
+            "deletions": 0,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-04-10T02:50:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57622,
             "title": "fix: prevent Space.Addon content from wrapping",
             "url": "https://github.com/ant-design/ant-design/pull/57622",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57557,
-            "title": "docs: deprecate Cascader popupMenuColumnStyle in favor of styles.popup.listItem",
-            "url": "https://github.com/ant-design/ant-design/pull/57557",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 51,
-            "deletions": 9,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-04-03T02:53:44Z",
-            "mergedAt": "2026-04-03T03:00:54Z",
-            "closedAt": "2026-04-03T03:00:54Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1947,
+        "total": 1948,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -700,7 +700,7 @@
             },
             {
                 "date": "2026-04-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-11",

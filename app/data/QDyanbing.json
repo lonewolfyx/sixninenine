@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 57634,
+            "title": "docs: unify API property headers in English docs",
+            "url": "https://github.com/ant-design/ant-design/pull/57634",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 14,
+            "deletions": 14,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-04-10T10:53:53Z",
+            "mergedAt": "2026-04-10T10:59:15Z",
+            "closedAt": "2026-04-10T10:59:15Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 81,
+            "title": "feat: support configurable lint import sources",
+            "url": "https://github.com/ant-design/ant-design-cli/pull/81",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 98,
+            "deletions": 6,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-04-10T10:52:03Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-cli",
+                "nameWithOwner": "ant-design/ant-design-cli",
+                "homepageUrl": "https://www.npmjs.com/@ant-design/cli",
+                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design-cli"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: support configurable lint import sources",
+            "url": "https://github.com/QDyanbing/ant-design-cli/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 99,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-10T10:49:55Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-10T10:50:38Z",
+            "repository": {
+                "name": "ant-design-cli",
+                "nameWithOwner": "QDyanbing/ant-design-cli",
+                "homepageUrl": "https://www.npmjs.com/@ant-design/cli",
+                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/ant-design-cli"
+            }
+        },
+        {
             "number": 57628,
             "title": "chore(skills): add test review skill",
             "url": "https://github.com/ant-design/ant-design/pull/57628",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/picker"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: support confirmOnDoubleClick config for needConfirm",
-            "url": "https://github.com/QDyanbing/rc-picker/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 7,
-            "additions": 112,
-            "deletions": 29,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-07T03:02:03Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-07T03:02:55Z",
-            "repository": {
-                "name": "rc-picker",
-                "nameWithOwner": "QDyanbing/rc-picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/rc-picker"
-            }
-        },
-        {
-            "number": 57592,
-            "title": "fix(InputNumber): avoid hover style on disabled handlers",
-            "url": "https://github.com/ant-design/ant-design/pull/57592",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 769,
-            "deletions": 17,
-            "totalCommentsCount": 20,
-            "createdAt": "2026-04-07T01:44:26Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57559,
-            "title": "docs: refine create-pr trigger guidance by intent",
-            "url": "https://github.com/ant-design/ant-design/pull/57559",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 20,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-04-03T06:24:22Z",
-            "mergedAt": "2026-04-03T14:52:42Z",
-            "closedAt": "2026-04-03T14:52:42Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 1964,
+        "total": 1969,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -700,7 +700,7 @@
             },
             {
                 "date": "2026-04-10",
-                "count": 17
+                "count": 22
             },
             {
                 "date": "2026-04-11",

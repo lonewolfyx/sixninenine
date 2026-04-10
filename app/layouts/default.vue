@@ -27,6 +27,24 @@
                                     <NavigationMenuLink
                                         :class="navigationMenuTriggerStyle()"
                                         class="text-xs lg:text-sm whitespace-nowrap"
+                                        href="/"
+                                    >
+                                        Home
+                                    </NavigationMenuLink>
+                                </NavigationMenuItem>
+                                <NavigationMenuItem>
+                                    <NavigationMenuLink
+                                        :class="navigationMenuTriggerStyle()"
+                                        class="text-xs lg:text-sm whitespace-nowrap"
+                                        href="/contributions"
+                                    >
+                                        Contributions
+                                    </NavigationMenuLink>
+                                </NavigationMenuItem>
+                                <NavigationMenuItem>
+                                    <NavigationMenuLink
+                                        :class="navigationMenuTriggerStyle()"
+                                        class="text-xs lg:text-sm whitespace-nowrap"
                                         href="https://awesome-alfred-skyblue.vercel.app"
                                         target="_blank"
                                     >

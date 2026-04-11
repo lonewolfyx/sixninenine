@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 43,
+            "title": "fix(trigger): manually remove axis-specific overflow properties from` popupStyle`",
+            "url": "https://github.com/antdv-next/vue-components/pull/43",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 169,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-11T06:21:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
             "number": 54,
             "title": "fix(docs): adaptive markdown theme mode",
             "url": "https://github.com/antdv-next/x/pull/54",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 23,
-            "title": "feat: sync antd 6.3.1",
-            "url": "https://github.com/antdv-next/vue-components/pull/23",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 32,
-            "deletions": 18,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-26T09:18:02Z",
-            "mergedAt": "2026-02-26T11:11:27Z",
-            "closedAt": "2026-02-26T11:11:27Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 175,
+        "total": 176,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -474,7 +474,7 @@
             },
             {
                 "date": "2026-02-09",
-                "count": 4
+                "count": 3
             },
             {
                 "date": "2026-02-10",
@@ -718,7 +718,7 @@
             },
             {
                 "date": "2026-04-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-12",

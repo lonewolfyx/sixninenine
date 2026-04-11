@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 105,
+            "title": "ci: exclude playground directory",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/105",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-11T00:45:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 103,
             "title": "fix: handle windows paths in umd-to-esm",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/103",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 75,
-            "title": "feat: add catalog name completion in package.json",
-            "url": "https://github.com/npmx-dev/vscode-npmx/pull/75",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 53,
-            "deletions": 3,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-11T14:20:02Z",
-            "mergedAt": "2026-03-13T03:20:10Z",
-            "closedAt": "2026-03-13T03:20:10Z",
-            "repository": {
-                "name": "vscode-npmx",
-                "nameWithOwner": "npmx-dev/vscode-npmx",
-                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
-                "description": "A better browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/vscode-npmx"
-            }
         }
     ],
     "contributions": {
-        "total": 106,
+        "total": 107,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -711,7 +711,7 @@
             },
             {
                 "date": "2026-04-11",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-12",

@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 615,
+            "title": "fix(align): restore overflowX and overflowY after force align",
+            "url": "https://github.com/react-component/trigger/pull/615",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 39,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-12T08:53:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trigger",
+                "nameWithOwner": "react-component/trigger",
+                "homepageUrl": "http://react-component.github.io/trigger/",
+                "description": "Abstract React Trigger",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/trigger"
+            }
+        },
+        {
             "number": 43,
             "title": "fix(trigger): manually remove axis-specific overflow properties from` popupStyle`",
             "url": "https://github.com/antdv-next/vue-components/pull/43",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 24,
-            "title": "fix(image): slot `cover` rendered correctly",
-            "url": "https://github.com/antdv-next/vue-components/pull/24",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-26T14:51:32Z",
-            "mergedAt": "2026-02-26T22:40:13Z",
-            "closedAt": "2026-02-26T22:40:13Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 177,
+        "total": 181,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -722,7 +722,7 @@
             },
             {
                 "date": "2026-04-12",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-04-13",

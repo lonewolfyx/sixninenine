@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 735126,
-            "repoCount": 3,
-            "progress": "77.08"
+            "size": 757188,
+            "repoCount": 4,
+            "progress": "77.57"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "11.05"
+            "progress": "10.80"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.81"
+            "progress": "5.68"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 54615,
-            "repoCount": 1,
-            "progress": "5.73"
+            "size": 54920,
+            "repoCount": 2,
+            "progress": "5.63"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.25"
+            "progress": "0.24"
         },
         {
             "name": "Shell",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57666,
+            "title": "feat(ColorPicker): export Panel as static component",
+            "url": "https://github.com/ant-design/ant-design/pull/57666",
+            "state": "OPEN",
+            "changedFiles": 26,
+            "additions": 1296,
+            "deletions": 297,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-04-12T12:28:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57634,
             "title": "docs: unify API property headers in English docs",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/segmented"
             }
-        },
-        {
-            "number": 961,
-            "title": "feat: support confirmOnDoubleClick config for needConfirm",
-            "url": "https://github.com/react-component/picker/pull/961",
-            "state": "CLOSED",
-            "changedFiles": 7,
-            "additions": 112,
-            "deletions": 29,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-07T03:04:20Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-08T12:42:15Z",
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
         }
     ],
     "contributions": {
-        "total": 1986,
+        "total": 2002,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -708,7 +708,7 @@
             },
             {
                 "date": "2026-04-12",
-                "count": 1
+                "count": 17
             },
             {
                 "date": "2026-04-13",

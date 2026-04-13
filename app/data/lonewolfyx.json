@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "refactor(eslint): migrate to Antfu ESLint configuration",
+            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/2",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 975,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-13T06:29:25Z",
+            "mergedAt": "2026-04-13T06:29:37Z",
+            "closedAt": "2026-04-13T06:29:37Z",
+            "repository": {
+                "name": "nuxt-template",
+                "nameWithOwner": "lonewolfyx-template/nuxt-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx-template",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-template/nuxt-template"
+            }
+        },
+        {
             "number": 12,
             "title": "feat(theme): add smooth color mode transition with view transitions api",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/12",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 49,
-            "title": "docs: update project name from Antd Next X to Antdv Next X",
-            "url": "https://github.com/antdv-next/x/pull/49",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 22,
-            "deletions": 22,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-28T05:46:39Z",
-            "mergedAt": "2026-03-28T06:03:37Z",
-            "closedAt": "2026-03-28T06:03:38Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 5928,
+        "total": 5936,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1471,7 +1471,7 @@
             },
             {
                 "date": "2026-04-13",
-                "count": 4
+                "count": 12
             },
             {
                 "date": "2026-04-14",

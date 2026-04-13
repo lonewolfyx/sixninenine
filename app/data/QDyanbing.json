@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57674,
+            "title": "docs: align API tables for deprecated props extraction",
+            "url": "https://github.com/ant-design/ant-design/pull/57674",
+            "state": "OPEN",
+            "changedFiles": 36,
+            "additions": 106,
+            "deletions": 36,
+            "totalCommentsCount": 34,
+            "createdAt": "2026-04-13T09:54:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57666,
             "title": "feat(ColorPicker): export Panel as static component",
             "url": "https://github.com/ant-design/ant-design/pull/57666",
@@ -110,14 +134,14 @@
             "number": 81,
             "title": "feat: support configurable lint import sources",
             "url": "https://github.com/ant-design/ant-design-cli/pull/81",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 122,
             "deletions": 8,
             "totalCommentsCount": 16,
             "createdAt": "2026-04-10T10:52:03Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-13T08:36:54Z",
+            "closedAt": "2026-04-13T08:36:54Z",
             "repository": {
                 "name": "ant-design-cli",
                 "nameWithOwner": "ant-design/ant-design-cli",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 326,
-            "title": "fix: prevent selecting disabled items with keyboard navigation",
-            "url": "https://github.com/react-component/segmented/pull/326",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-04-08T01:54:52Z",
-            "mergedAt": "2026-04-08T06:48:00Z",
-            "closedAt": "2026-04-08T06:48:00Z",
-            "repository": {
-                "name": "segmented",
-                "nameWithOwner": "react-component/segmented",
-                "homepageUrl": "https://react-component.github.io/segmented/",
-                "description": "React Segmented Controls",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/segmented"
-            }
         }
     ],
     "contributions": {
-        "total": 2020,
+        "total": 2022,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -712,7 +712,7 @@
             },
             {
                 "date": "2026-04-13",
-                "count": 18
+                "count": 20
             },
             {
                 "date": "2026-04-14",

@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 115,
+            "title": "Improve renamed event layout in issue and PR timelines",
+            "url": "https://github.com/stylessh/diffkit/pull/115",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 14,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-14T08:02:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "diffkit",
+                "nameWithOwner": "stylessh/diffkit",
+                "homepageUrl": "",
+                "description": "A fast, design-first GitHub dashboard for developers who want to stay on top of their pull requests, issues, and code reviews — without the noise.",
+                "owner": {
+                    "login": "stylessh",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/45767683?u=6ed9bb64769f9154e78d647b2d7b526fe729880f&v=4"
+                },
+                "url": "https://github.com/stylessh/diffkit"
+            }
+        },
+        {
+            "number": 114,
+            "title": "Refine PR merge and branch update permissions",
+            "url": "https://github.com/stylessh/diffkit/pull/114",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 21,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-14T07:20:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "diffkit",
+                "nameWithOwner": "stylessh/diffkit",
+                "homepageUrl": "",
+                "description": "A fast, design-first GitHub dashboard for developers who want to stay on top of their pull requests, issues, and code reviews — without the noise.",
+                "owner": {
+                    "login": "stylessh",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/45767683?u=6ed9bb64769f9154e78d647b2d7b526fe729880f&v=4"
+                },
+                "url": "https://github.com/stylessh/diffkit"
+            }
+        },
+        {
             "number": 19046,
             "title": "Fix broken closing tag of pre-like elements",
             "url": "https://github.com/prettier/prettier/pull/19046",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 2518,
-            "title": "fix: separate intrinsic errors from any-like checks",
-            "url": "https://github.com/flint-fyi/flint/pull/2518",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 149,
-            "deletions": 29,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-03-31T08:22:25Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 13900,
-            "title": "fix: prevent concurrent v2 migration starts",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13900",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 64,
-            "deletions": 99,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-30T07:57:04Z",
-            "mergedAt": "2026-03-31T02:12:34Z",
-            "closedAt": "2026-03-31T02:12:34Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 264,
+        "total": 266,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1250,7 +1250,7 @@
             },
             {
                 "date": "2026-04-14",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-04-15",

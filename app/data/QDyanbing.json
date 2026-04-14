@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57681,
+            "title": "docs: add missing 6.4.0 semantic DOM versions",
+            "url": "https://github.com/ant-design/ant-design/pull/57681",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 145,
+            "deletions": 25,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-04-14T10:33:04Z",
+            "mergedAt": "2026-04-14T10:42:15Z",
+            "closedAt": "2026-04-14T10:42:15Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 60,
+            "title": "fix: use logical suffix offset for rtl overflow",
+            "url": "https://github.com/react-component/overflow/pull/60",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-04-14T09:24:28Z",
+            "mergedAt": "2026-04-14T09:46:35Z",
+            "closedAt": "2026-04-14T09:46:36Z",
+            "repository": {
+                "name": "overflow",
+                "nameWithOwner": "react-component/overflow",
+                "homepageUrl": "overflow-git-master.react-component.vercel.app",
+                "description": "📦 Auto collapse box util component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/overflow"
+            }
+        },
+        {
             "number": 57674,
             "title": "docs: align API tables for deprecated props extraction",
             "url": "https://github.com/ant-design/ant-design/pull/57674",
@@ -66,7 +114,7 @@
             "changedFiles": 36,
             "additions": 106,
             "deletions": 36,
-            "totalCommentsCount": 34,
+            "totalCommentsCount": 36,
             "createdAt": "2026-04-13T09:54:10Z",
             "mergedAt": null,
             "closedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 506,
-            "title": "[codex] support preview mask closable",
-            "url": "https://github.com/react-component/image/pull/506",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 32,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-08T08:38:36Z",
-            "mergedAt": "2026-04-08T08:57:05Z",
-            "closedAt": "2026-04-08T08:57:05Z",
-            "repository": {
-                "name": "image",
-                "nameWithOwner": "react-component/image",
-                "homepageUrl": "https://image-sepia.vercel.app",
-                "description": "🖼 React Image Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/image"
-            }
-        },
-        {
-            "number": 57607,
-            "title": "feat: add semantic DOM support for Form help, helpItem and extra",
-            "url": "https://github.com/ant-design/ant-design/pull/57607",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 411,
-            "deletions": 10,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-04-08T07:22:40Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2038,
+        "total": 2041,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -716,7 +716,7 @@
             },
             {
                 "date": "2026-04-14",
-                "count": 15
+                "count": 18
             },
             {
                 "date": "2026-04-15",

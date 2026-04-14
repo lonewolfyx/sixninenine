@@ -172,7 +172,7 @@
                             "avatarUrl": "https://avatars.githubusercontent.com/u/6937879?u=a21c0550bce0ad4329b86b24a2c8a6b984ebf0a0&v=4",
                             "company": null,
                             "createdAt": "2014-03-13T06:24:38Z",
-                            "email": "tjz415800467@gmail.com",
+                            "email": "",
                             "location": null,
                             "twitterUsername": "tangjinzhou",
                             "url": "https://github.com/tangjinzhou",
@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 14246,
+            "title": "fix: update dify knowledge retrieval payload",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/14246",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-14T09:49:54Z",
+            "mergedAt": "2026-04-14T10:50:30Z",
+            "closedAt": "2026-04-14T10:50:30Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 115,
             "title": "Improve renamed event layout in issue and PR timelines",
             "url": "https://github.com/stylessh/diffkit/pull/115",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 13939,
-            "title": "fix: migrate epub to v2 async api",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/13939",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 20,
-            "deletions": 39,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-31T15:37:54Z",
-            "mergedAt": "2026-04-01T05:45:12Z",
-            "closedAt": "2026-04-01T05:45:12Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 266,
+        "total": 268,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1250,7 +1250,7 @@
             },
             {
                 "date": "2026-04-14",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2026-04-15",

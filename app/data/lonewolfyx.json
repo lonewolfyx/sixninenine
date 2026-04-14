@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "feat(utils): add number formatting utility with test coverage",
+            "url": "https://github.com/lonewolfyx/utils/pull/3",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 20,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-14T09:04:57Z",
+            "mergedAt": "2026-04-14T09:05:08Z",
+            "closedAt": "2026-04-14T09:05:08Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": null,
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 2,
             "title": "refactor(eslint): migrate to Antfu ESLint configuration",
             "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/2",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 50,
-            "title": "docs(sdk): update contribution guide link paths",
-            "url": "https://github.com/antdv-next/x/pull/50",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-28T06:14:04Z",
-            "mergedAt": "2026-03-28T06:55:42Z",
-            "closedAt": "2026-03-28T06:55:42Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 5974,
+        "total": 5986,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1475,7 +1475,7 @@
             },
             {
                 "date": "2026-04-14",
-                "count": 14
+                "count": 26
             },
             {
                 "date": "2026-04-15",

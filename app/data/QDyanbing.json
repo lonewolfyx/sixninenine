@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57689,
+            "title": "fix(Input): keep OTP masked value hidden when selected",
+            "url": "https://github.com/ant-design/ant-design/pull/57689",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-04-15T13:29:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57681,
             "title": "docs: add missing 6.4.0 semantic DOM versions",
             "url": "https://github.com/ant-design/ant-design/pull/57681",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57611,
-            "title": "feat: support closable for Image preview mask",
-            "url": "https://github.com/ant-design/ant-design/pull/57611",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 107,
-            "deletions": 10,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-04-08T11:05:11Z",
-            "mergedAt": "2026-04-08T15:18:36Z",
-            "closedAt": "2026-04-08T15:18:36Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2057,
+        "total": 2058,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -720,7 +720,7 @@
             },
             {
                 "date": "2026-04-15",
-                "count": 15
+                "count": 16
             },
             {
                 "date": "2026-04-16",

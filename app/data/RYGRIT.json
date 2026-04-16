@@ -66,6 +66,54 @@
     },
     "pullRequest": [
         {
+            "number": 3051,
+            "title": "docs: fix outdated OpenTelemetry example",
+            "url": "https://github.com/denoland/docs/pull/3051",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-16T03:50:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs",
+                "nameWithOwner": "denoland/docs",
+                "homepageUrl": "https://docs.deno.com",
+                "description": "Deno documentation, examples and API Reference. Powered by Lume.",
+                "owner": {
+                    "login": "denoland",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/42048915?v=4"
+                },
+                "url": "https://github.com/denoland/docs"
+            }
+        },
+        {
+            "number": 108,
+            "title": "ci(dependabot): apply playground exclusions to npm updates",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/108",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-16T01:22:47Z",
+            "mergedAt": "2026-04-16T01:42:21Z",
+            "closedAt": "2026-04-16T01:42:21Z",
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 106,
             "title": "feat: support bun package manager and bun workspaces",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/106",
@@ -256,58 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 2166,
-            "title": "feat: display yaml frontmatter as a table",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/2166",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 37,
-            "deletions": 4,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-03-20T08:34:19Z",
-            "mergedAt": "2026-03-21T04:44:35Z",
-            "closedAt": "2026-03-21T04:44:35Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
-        },
-        {
-            "number": 2161,
-            "title": "fix: lower z-index of file path header to prevent overlapping version dropdown",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/2161",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-03-20T02:53:34Z",
-            "mergedAt": "2026-03-20T06:13:26Z",
-            "closedAt": "2026-03-20T06:13:26Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 111,
+        "total": 115,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -731,7 +731,7 @@
             },
             {
                 "date": "2026-04-16",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-04-17",

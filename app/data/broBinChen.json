@@ -38,6 +38,54 @@
     },
     "pullRequest": [
         {
+            "number": 69277,
+            "title": "fix(gateway): surface stream:\"thinking\" events in chat broadcasts",
+            "url": "https://github.com/openclaw/openclaw/pull/69277",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 265,
+            "deletions": 12,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-04-20T08:58:29Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-20T12:04:51Z",
+            "repository": {
+                "name": "openclaw",
+                "nameWithOwner": "openclaw/openclaw",
+                "homepageUrl": "https://openclaw.ai",
+                "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+                "owner": {
+                    "login": "openclaw",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4"
+                },
+                "url": "https://github.com/openclaw/openclaw"
+            }
+        },
+        {
+            "number": 69275,
+            "title": "fix(acp): declare TOOL_EVENTS capability so live tool calls reach ACP clients",
+            "url": "https://github.com/openclaw/openclaw/pull/69275",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-20T08:56:22Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-20T12:04:59Z",
+            "repository": {
+                "name": "openclaw",
+                "nameWithOwner": "openclaw/openclaw",
+                "homepageUrl": "https://openclaw.ai",
+                "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+                "owner": {
+                    "login": "openclaw",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4"
+                },
+                "url": "https://github.com/openclaw/openclaw"
+            }
+        },
+        {
             "number": 660,
             "title": "feat: add stop button to cancel AI generation",
             "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/660",
@@ -228,58 +276,10 @@
                 },
                 "url": "https://github.com/DayuanJiang/next-ai-draw-io"
             }
-        },
-        {
-            "number": 27,
-            "title": "chore: update openSourceMembers",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/27",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-08T02:24:09Z",
-            "mergedAt": "2026-01-08T07:19:57Z",
-            "closedAt": "2026-01-08T07:19:57Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
-        },
-        {
-            "number": 528,
-            "title": "fix: add missing nanoid dependency",
-            "url": "https://github.com/DayuanJiang/next-ai-draw-io/pull/528",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-07T02:15:50Z",
-            "mergedAt": "2026-01-07T03:06:05Z",
-            "closedAt": "2026-01-07T03:06:05Z",
-            "repository": {
-                "name": "next-ai-draw-io",
-                "nameWithOwner": "DayuanJiang/next-ai-draw-io",
-                "homepageUrl": "https://next-ai-drawio.jiang.jp/",
-                "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-                "owner": {
-                    "login": "DayuanJiang",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4"
-                },
-                "url": "https://github.com/DayuanJiang/next-ai-draw-io"
-            }
         }
     ],
     "contributions": {
-        "total": 29,
+        "total": 32,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -719,7 +719,7 @@
             },
             {
                 "date": "2026-04-20",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-04-21",

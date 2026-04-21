@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 861253,
+            "size": 757602,
             "repoCount": 4,
-            "progress": "79.73"
+            "progress": "77.58"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "9.76"
+            "progress": "10.80"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.13"
+            "progress": "5.68"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 54920,
+            "size": 54922,
             "repoCount": 2,
-            "progress": "5.08"
+            "progress": "5.62"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.22"
+            "progress": "0.24"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 799,
             "repoCount": 2,
-            "progress": "0.07"
+            "progress": "0.08"
         }
     ],
     "organizations": {
@@ -58,6 +58,198 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 782,
+            "title": "fix: support Partial values in setFieldsValue",
+            "url": "https://github.com/react-component/field-form/pull/782",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-21T01:25:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
+        {
+            "number": 966,
+            "title": "fix: avoid submitting unconfirmed range values on blur",
+            "url": "https://github.com/react-component/picker/pull/966",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 59,
+            "deletions": 5,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-04-20T13:04:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://picker.react-component.now.sh/",
+                "description": "📅 All Date Pickers you need.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
+            "number": 57720,
+            "title": "feat: add BorderBeam component",
+            "url": "https://github.com/ant-design/ant-design/pull/57720",
+            "state": "OPEN",
+            "changedFiles": 37,
+            "additions": 2260,
+            "deletions": 0,
+            "totalCommentsCount": 23,
+            "createdAt": "2026-04-20T06:40:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57717,
+            "title": "fix(Tooltip): isolate ConfigProvider tooltip config for popover-injected instances",
+            "url": "https://github.com/ant-design/ant-design/pull/57717",
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 64,
+            "deletions": 6,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-04-19T10:33:25Z",
+            "mergedAt": null,
+            "closedAt": "2026-04-20T13:16:24Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 781,
+            "title": "fix: preserve null unions in setFieldsValue types",
+            "url": "https://github.com/react-component/field-form/pull/781",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 30,
+            "deletions": 9,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-04-18T13:40:47Z",
+            "mergedAt": "2026-04-19T06:06:15Z",
+            "closedAt": "2026-04-19T06:06:15Z",
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
+        {
+            "number": 57706,
+            "title": "feat(DatePicker): support tagRender in multiple mode",
+            "url": "https://github.com/ant-design/ant-design/pull/57706",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 69,
+            "deletions": 1,
+            "totalCommentsCount": 15,
+            "createdAt": "2026-04-17T08:25:59Z",
+            "mergedAt": "2026-04-17T08:50:07Z",
+            "closedAt": "2026-04-17T08:50:07Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 963,
+            "title": "feat: support tagRender in multiple picker",
+            "url": "https://github.com/react-component/picker/pull/963",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 145,
+            "deletions": 17,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-04-17T06:44:53Z",
+            "mergedAt": "2026-04-17T07:30:06Z",
+            "closedAt": "2026-04-17T07:30:06Z",
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://picker.react-component.now.sh/",
+                "description": "📅 All Date Pickers you need.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
+            "number": 57705,
+            "title": "fix(InputNumber): remove inner input border radius",
+            "url": "https://github.com/ant-design/ant-design/pull/57705",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-04-17T04:20:47Z",
+            "mergedAt": "2026-04-17T10:42:24Z",
+            "closedAt": "2026-04-17T10:42:24Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 57689,
             "title": "fix(Input): keep OTP masked value hidden when selected",
@@ -105,202 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 60,
-            "title": "fix: use logical suffix offset for rtl overflow",
-            "url": "https://github.com/react-component/overflow/pull/60",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-04-14T09:24:28Z",
-            "mergedAt": "2026-04-14T09:46:35Z",
-            "closedAt": "2026-04-14T09:46:36Z",
-            "repository": {
-                "name": "overflow",
-                "nameWithOwner": "react-component/overflow",
-                "homepageUrl": "overflow-git-master.react-component.vercel.app",
-                "description": "📦 Auto collapse box util component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/overflow"
-            }
-        },
-        {
-            "number": 57674,
-            "title": "docs: align API tables for deprecated props extraction",
-            "url": "https://github.com/ant-design/ant-design/pull/57674",
-            "state": "MERGED",
-            "changedFiles": 36,
-            "additions": 106,
-            "deletions": 36,
-            "totalCommentsCount": 36,
-            "createdAt": "2026-04-13T09:54:10Z",
-            "mergedAt": "2026-04-14T14:39:18Z",
-            "closedAt": "2026-04-14T14:39:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57666,
-            "title": "feat(ColorPicker): export Panel as static component",
-            "url": "https://github.com/ant-design/ant-design/pull/57666",
-            "state": "OPEN",
-            "changedFiles": 31,
-            "additions": 1719,
-            "deletions": 298,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-04-12T12:28:30Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57634,
-            "title": "docs: unify API property headers in English docs",
-            "url": "https://github.com/ant-design/ant-design/pull/57634",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 14,
-            "deletions": 14,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-04-10T10:53:53Z",
-            "mergedAt": "2026-04-10T10:59:15Z",
-            "closedAt": "2026-04-10T10:59:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 81,
-            "title": "feat: support configurable lint import sources",
-            "url": "https://github.com/ant-design/ant-design-cli/pull/81",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 122,
-            "deletions": 8,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-04-10T10:52:03Z",
-            "mergedAt": "2026-04-13T08:36:54Z",
-            "closedAt": "2026-04-13T08:36:54Z",
-            "repository": {
-                "name": "ant-design-cli",
-                "nameWithOwner": "ant-design/ant-design-cli",
-                "homepageUrl": "https://www.npmjs.com/@ant-design/cli",
-                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design-cli"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat: support configurable lint import sources",
-            "url": "https://github.com/QDyanbing/ant-design-cli/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 3,
-            "additions": 99,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-10T10:49:55Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-10T10:50:38Z",
-            "repository": {
-                "name": "ant-design-cli",
-                "nameWithOwner": "QDyanbing/ant-design-cli",
-                "homepageUrl": "https://www.npmjs.com/@ant-design/cli",
-                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/ant-design-cli"
-            }
-        },
-        {
-            "number": 57628,
-            "title": "chore(skills): add test review skill",
-            "url": "https://github.com/ant-design/ant-design/pull/57628",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 181,
-            "deletions": 0,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-04-10T02:50:42Z",
-            "mergedAt": "2026-04-13T03:24:36Z",
-            "closedAt": "2026-04-13T03:24:36Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57622,
-            "title": "fix: prevent Space.Addon content from wrapping",
-            "url": "https://github.com/ant-design/ant-design/pull/57622",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-04-09T10:25:22Z",
-            "mergedAt": "2026-04-13T02:28:22Z",
-            "closedAt": "2026-04-13T02:28:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2058,
+        "total": 2136,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -724,27 +724,27 @@
             },
             {
                 "date": "2026-04-16",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-04-17",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-04-18",
-                "count": 0
+                "count": 12
             },
             {
                 "date": "2026-04-19",
-                "count": 0
+                "count": 21
             },
             {
                 "date": "2026-04-20",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-04-21",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-22",

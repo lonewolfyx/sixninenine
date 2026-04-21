@@ -73,6 +73,102 @@
     },
     "pullRequest": [
         {
+            "number": 49,
+            "title": "fix(tree): avoid duplicate expandedKeys update on click",
+            "url": "https://github.com/antdv-next/vue-components/pull/49",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-19T13:44:27Z",
+            "mergedAt": "2026-04-19T22:46:33Z",
+            "closedAt": "2026-04-19T22:46:33Z",
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
+            "number": 48,
+            "title": "chore: align dts config and fast-color tsconfig",
+            "url": "https://github.com/antdv-next/vue-components/pull/48",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 26,
+            "deletions": 16,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-19T13:09:53Z",
+            "mergedAt": "2026-04-19T22:46:05Z",
+            "closedAt": "2026-04-19T22:46:05Z",
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
+            "number": 470,
+            "title": "fix(drawer): keep Esc close behavior when getContainer is false",
+            "url": "https://github.com/antdv-next/antdv-next/pull/470",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 12,
+            "deletions": 84,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-04-18T02:37:53Z",
+            "mergedAt": "2026-04-18T07:51:16Z",
+            "closedAt": "2026-04-18T07:51:16Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 46,
+            "title": "fix(drawer): keep Esc close behavior when getContainer is false",
+            "url": "https://github.com/antdv-next/vue-components/pull/46",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 24,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-17T16:11:42Z",
+            "mergedAt": "2026-04-18T02:01:43Z",
+            "closedAt": "2026-04-18T02:01:43Z",
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
             "number": 45,
             "title": "fix(virtual-list): prevent Firefox scroll bleed in virtual holder",
             "url": "https://github.com/antdv-next/vue-components/pull/45",
@@ -215,106 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 46,
-            "title": "fix(docs): homepage theme and scrollbar position",
-            "url": "https://github.com/antdv-next/x/pull/46",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 1214,
-            "deletions": 1531,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-28T05:01:39Z",
-            "mergedAt": "2026-03-28T05:02:14Z",
-            "closedAt": "2026-03-28T05:02:14Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
-        },
-        {
-            "number": 45,
-            "title": "docs(homePage): optimize and refine the homepage of the document",
-            "url": "https://github.com/antdv-next/x/pull/45",
-            "state": "MERGED",
-            "changedFiles": 29,
-            "additions": 3601,
-            "deletions": 545,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-27T14:36:19Z",
-            "mergedAt": "2026-03-28T03:05:18Z",
-            "closedAt": "2026-03-28T03:05:18Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
-        },
-        {
-            "number": 397,
-            "title": "feat(preview-theme): use `antdv-style` and copy the theme code",
-            "url": "https://github.com/antdv-next/antdv-next/pull/397",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 643,
-            "deletions": 229,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-20T15:50:11Z",
-            "mergedAt": "2026-03-20T22:20:45Z",
-            "closedAt": "2026-03-20T22:20:45Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 365,
-            "title": "feat(editor): use antd theme editor",
-            "url": "https://github.com/antdv-next/antdv-next/pull/365",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 37,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-13T15:08:06Z",
-            "mergedAt": "2026-03-13T18:51:00Z",
-            "closedAt": "2026-03-13T18:51:00Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 182,
+        "total": 192,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -742,19 +742,19 @@
             },
             {
                 "date": "2026-04-17",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-18",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-04-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-21",

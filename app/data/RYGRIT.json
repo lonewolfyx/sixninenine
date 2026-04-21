@@ -1,7 +1,7 @@
 {
     "userInfo": {
         "login": "RYGRIT",
-        "name": "Bowen Hu",
+        "name": "hu",
         "bio": "",
         "url": "https://github.com/RYGRIT",
         "avatarUrl": "https://avatars.githubusercontent.com/u/62373365?u=7b7d467587b8a818c219b52c323b8bd3b8965b56&v=4",
@@ -66,8 +66,32 @@
     },
     "pullRequest": [
         {
+            "number": 115,
+            "title": "ci: add ignore rule for playground/** dependabot updates",
+            "url": "https://github.com/npmx-dev/vscode-npmx/pull/115",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-17T06:57:00Z",
+            "mergedAt": "2026-04-17T09:54:14Z",
+            "closedAt": "2026-04-17T09:54:14Z",
+            "repository": {
+                "name": "vscode-npmx",
+                "nameWithOwner": "npmx-dev/vscode-npmx",
+                "homepageUrl": "https://marketplace.visualstudio.com/items?itemName=npmx-dev.vscode-npmx",
+                "description": "A better browser for the npm registry",
+                "owner": {
+                    "login": "npmx-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
+                },
+                "url": "https://github.com/npmx-dev/vscode-npmx"
+            }
+        },
+        {
             "number": 3051,
-            "title": "docs: fix outdated OpenTelemetry example",
+            "title": "docs: fix outdated OpenTelemetry api example",
             "url": "https://github.com/denoland/docs/pull/3051",
             "state": "OPEN",
             "changedFiles": 1,
@@ -118,10 +142,10 @@
             "title": "feat: support bun package manager and bun workspaces",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/106",
             "state": "OPEN",
-            "changedFiles": 14,
-            "additions": 491,
-            "deletions": 26,
-            "totalCommentsCount": 5,
+            "changedFiles": 17,
+            "additions": 510,
+            "deletions": 29,
+            "totalCommentsCount": 14,
             "createdAt": "2026-04-14T09:57:31Z",
             "mergedAt": null,
             "closedAt": null,
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 2229,
-            "title": "fix: remove duplicate scroll-to-top button on docs page",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/2229",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-03-23T07:09:13Z",
-            "mergedAt": "2026-03-23T16:39:26Z",
-            "closedAt": "2026-03-23T16:39:26Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 115,
+        "total": 122,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -735,7 +735,7 @@
             },
             {
                 "date": "2026-04-17",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-04-18",
@@ -747,7 +747,7 @@
             },
             {
                 "date": "2026-04-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-21",

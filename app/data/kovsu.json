@@ -593,17 +593,65 @@
     },
     "pullRequest": [
         {
+            "number": 14410,
+            "title": "feat: show installed state for skill search results",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/14410",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 32,
+            "deletions": 15,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-20T07:00:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 14304,
+            "title": "fix: sync builtin agent prompt updates to sessions",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/14304",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-16T08:21:36Z",
+            "mergedAt": "2026-04-16T19:23:25Z",
+            "closedAt": "2026-04-16T19:23:25Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 128,
             "title": "feat: persist selected clone protocol in code explorer",
             "url": "https://github.com/stylessh/diffkit/pull/128",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 56,
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 112,
             "deletions": 1,
             "totalCommentsCount": 0,
             "createdAt": "2026-04-15T03:07:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-16T22:31:33Z",
+            "closedAt": "2026-04-16T22:31:33Z",
             "repository": {
                 "name": "diffkit",
                 "nameWithOwner": "stylessh/diffkit",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 14117,
-            "title": "fix: restore rich editor search state and scrolling",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/14117",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-08T06:36:57Z",
-            "mergedAt": "2026-04-09T03:29:44Z",
-            "closedAt": "2026-04-09T03:29:44Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 2532,
-            "title": "chore: clean unnecessary directives",
-            "url": "https://github.com/flint-fyi/flint/pull/2532",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-08T03:09:56Z",
-            "mergedAt": "2026-04-08T09:00:07Z",
-            "closedAt": "2026-04-08T09:00:07Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 272,
+        "total": 279,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1254,15 +1254,15 @@
             },
             {
                 "date": "2026-04-15",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-04-16",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-04-17",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-04-18",
@@ -1274,7 +1274,7 @@
             },
             {
                 "date": "2026-04-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-21",

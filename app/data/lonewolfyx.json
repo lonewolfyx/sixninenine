@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1565079,
+            "size": 1565051,
             "repoCount": 29,
             "progress": "50.07"
         },
@@ -367,7 +367,7 @@
                             "id": "MDQ6VXNlcjM2MDE5NzAy",
                             "login": "Mashirl",
                             "name": "Mashirl",
-                            "bio": "GPG Fingerprint: 2BF1 1CA8 093C 1671 FB64  9BEC FEA1 83B4 E16B EEA2",
+                            "bio": "Less is more / GPG Fingerprint: 2BF1 1CA8 093C 1671 FB64  9BEC FEA1 83B4 E16B EEA2",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/36019702?u=4c33284f5f004ea80811d8589e8eb6520b4ef053&v=4",
                             "company": null,
                             "createdAt": "2018-02-01T01:28:55Z",
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "chore(build): adjust nitro externals configuration for development mode",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-21T12:10:38Z",
+            "mergedAt": "2026-04-21T12:10:47Z",
+            "closedAt": "2026-04-21T12:10:47Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 19,
+            "title": "docs(readme): update README with project overview and stats",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/19",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 68,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-21T08:32:40Z",
+            "mergedAt": "2026-04-21T08:33:04Z",
+            "closedAt": "2026-04-21T08:33:04Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 18,
+            "title": "chore(license): add MIT license file",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/18",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 21,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-21T08:32:30Z",
+            "mergedAt": "2026-04-21T08:32:53Z",
+            "closedAt": "2026-04-21T08:32:53Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 17,
             "title": "docs(blog): add guide for converting Nuxt project into CLI tool",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/17",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 13,
-            "title": "feat(source): add ai usage board to open source projects",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/13",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-19T07:11:55Z",
-            "mergedAt": "2026-04-19T07:12:11Z",
-            "closedAt": "2026-04-19T07:12:11Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(utils): add number formatting utility with test coverage",
-            "url": "https://github.com/lonewolfyx/utils/pull/3",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 20,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-14T09:04:57Z",
-            "mergedAt": "2026-04-14T09:05:08Z",
-            "closedAt": "2026-04-14T09:05:08Z",
-            "repository": {
-                "name": "utils",
-                "nameWithOwner": "lonewolfyx/utils",
-                "homepageUrl": null,
-                "description": "Collection of common JavaScript / TypeScript utils",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/utils"
-            }
-        },
-        {
-            "number": 2,
-            "title": "refactor(eslint): migrate to Antfu ESLint configuration",
-            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/2",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 975,
-            "deletions": 13,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-13T06:29:25Z",
-            "mergedAt": "2026-04-13T06:29:37Z",
-            "closedAt": "2026-04-13T06:29:37Z",
-            "repository": {
-                "name": "nuxt-template",
-                "nameWithOwner": "lonewolfyx-template/nuxt-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/nuxt-template"
-            }
         }
     ],
     "contributions": {
-        "total": 6387,
+        "total": 6401,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1503,7 +1503,7 @@
             },
             {
                 "date": "2026-04-21",
-                "count": 19
+                "count": 33
             },
             {
                 "date": "2026-04-22",

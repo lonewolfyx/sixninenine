@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1563788,
+            "size": 1565079,
             "repoCount": 29,
-            "progress": "50.10"
+            "progress": "50.07"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1375116,
+            "size": 1378463,
             "repoCount": 17,
-            "progress": "44.05"
+            "progress": "44.10"
         },
         {
             "name": "CSS",
@@ -290,7 +290,7 @@
                             }
                         }
                     ],
-                    "totalCount": 269
+                    "totalCount": 270
                 }
             },
             {
@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 17,
+            "title": "docs(blog): add guide for converting Nuxt project into CLI tool",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/17",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 297,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-21T07:16:44Z",
+            "mergedAt": "2026-04-21T07:16:52Z",
+            "closedAt": "2026-04-21T07:16:52Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 16,
+            "title": "fix(nuxt): integrate shiki for enhanced code highlighting",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/16",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-21T07:09:29Z",
+            "mergedAt": "2026-04-21T07:09:38Z",
+            "closedAt": "2026-04-21T07:09:38Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 15,
+            "title": "feat(config): add user configuration composable with cookie persistence",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/15",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 30,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-21T06:03:44Z",
+            "mergedAt": "2026-04-21T06:04:14Z",
+            "closedAt": "2026-04-21T06:04:14Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 14,
+            "title": "feat(ui): add tabs component with content, list, and trigger subcomponents",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/14",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 99,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-21T06:03:27Z",
+            "mergedAt": "2026-04-21T06:04:06Z",
+            "closedAt": "2026-04-21T06:04:06Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 46,
             "title": "fix(members): optimization account is frozen",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/46",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/nuxt-template"
             }
-        },
-        {
-            "number": 12,
-            "title": "feat(theme): add smooth color mode transition with view transitions api",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/12",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 80,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-10T01:54:41Z",
-            "mergedAt": "2026-04-10T01:54:50Z",
-            "closedAt": "2026-04-10T01:54:50Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat: add Nuxt Aid community link",
-            "url": "https://github.com/nuxtjs/.github/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-09T06:17:20Z",
-            "mergedAt": "2026-04-09T06:17:31Z",
-            "closedAt": "2026-04-09T06:17:31Z",
-            "repository": {
-                "name": ".github",
-                "nameWithOwner": "nuxtjs/.github",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "nuxtjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/255548554?v=4"
-                },
-                "url": "https://github.com/nuxtjs/.github"
-            }
-        },
-        {
-            "number": 67,
-            "title": "docs(demos): update component demos to reflect antdv next x naming",
-            "url": "https://github.com/antdv-next/x/pull/67",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 9,
-            "deletions": 9,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-09T02:46:50Z",
-            "mergedAt": "2026-04-09T08:27:24Z",
-            "closedAt": "2026-04-09T08:27:24Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
-        },
-        {
-            "number": 11,
-            "title": "chore: dependency upgrade",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/11",
-            "state": "MERGED",
-            "changedFiles": 41,
-            "additions": 2586,
-            "deletions": 1153,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-07T09:17:29Z",
-            "mergedAt": "2026-04-07T09:18:05Z",
-            "closedAt": "2026-04-07T09:18:05Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 6374,
+        "total": 6387,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1503,7 +1503,7 @@
             },
             {
                 "date": "2026-04-21",
-                "count": 6
+                "count": 19
             },
             {
                 "date": "2026-04-22",

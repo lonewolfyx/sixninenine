@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57736,
+            "title": "docs: clarify semantic demo and .dumi import rules",
+            "url": "https://github.com/ant-design/ant-design/pull/57736",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 5,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-04-22T01:29:31Z",
+            "mergedAt": "2026-04-22T01:35:51Z",
+            "closedAt": "2026-04-22T01:35:51Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57735,
             "title": "fix(Card): avoid rendering empty body when content is absent",
             "url": "https://github.com/ant-design/ant-design/pull/57735",
@@ -136,9 +160,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/57720",
             "state": "OPEN",
             "changedFiles": 40,
-            "additions": 3029,
+            "additions": 3433,
             "deletions": 0,
-            "totalCommentsCount": 56,
+            "totalCommentsCount": 57,
             "createdAt": "2026-04-20T06:40:38Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57689,
-            "title": "fix(Input): keep OTP masked value hidden when selected",
-            "url": "https://github.com/ant-design/ant-design/pull/57689",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-04-15T13:29:38Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2148,
+        "total": 2150,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -748,7 +748,7 @@
             },
             {
                 "date": "2026-04-22",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-04-23",

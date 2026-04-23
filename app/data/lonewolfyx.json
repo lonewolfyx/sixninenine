@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1565051,
+            "size": 1634892,
             "repoCount": 29,
-            "progress": "50.07"
+            "progress": "50.57"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1378463,
+            "size": 1415507,
             "repoCount": 17,
-            "progress": "44.10"
+            "progress": "43.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 100197,
             "repoCount": 17,
-            "progress": "3.21"
+            "progress": "3.10"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 75626,
             "repoCount": 27,
-            "progress": "2.42"
+            "progress": "2.34"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 4924,
             "repoCount": 3,
-            "progress": "0.16"
+            "progress": "0.15"
         },
         {
             "name": "HTML",
@@ -819,6 +819,102 @@
     "pullRequest": [
         {
             "number": 3,
+            "title": "chore(workflow): remove pnpm version specification from GitHub Actions",
+            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/3",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-23T15:39:23Z",
+            "mergedAt": "2026-04-23T15:39:32Z",
+            "closedAt": "2026-04-23T15:39:32Z",
+            "repository": {
+                "name": "nuxt-template",
+                "nameWithOwner": "lonewolfyx-template/nuxt-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx-template",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-template/nuxt-template"
+            }
+        },
+        {
+            "number": 6,
+            "title": "chore(ci): remove pnpm version specification from GitHub Actions",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/6",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-23T15:31:45Z",
+            "mergedAt": "2026-04-23T15:35:15Z",
+            "closedAt": "2026-04-23T15:35:15Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 5,
+            "title": "chore(package): configure npm registry settings for public publishing",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/5",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-23T15:29:18Z",
+            "mergedAt": "2026-04-23T15:29:33Z",
+            "closedAt": "2026-04-23T15:29:33Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat(project): support proejct dashboard with analytics and visualization",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/4",
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 3238,
+            "deletions": 126,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-23T14:25:32Z",
+            "mergedAt": "2026-04-23T15:24:01Z",
+            "closedAt": "2026-04-23T15:24:01Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 3,
             "title": "chore(build): adjust nitro externals configuration for development mode",
             "url": "https://github.com/lonewolfyx/usage-board/pull/3",
             "state": "MERGED",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
-        },
-        {
-            "number": 14,
-            "title": "feat(ui): add tabs component with content, list, and trigger subcomponents",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/14",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 99,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-21T06:03:27Z",
-            "mergedAt": "2026-04-21T06:04:06Z",
-            "closedAt": "2026-04-21T06:04:06Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 46,
-            "title": "fix(members): optimization account is frozen",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/46",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-21T01:54:53Z",
-            "mergedAt": "2026-04-21T01:55:03Z",
-            "closedAt": "2026-04-21T01:55:03Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
-        },
-        {
-            "number": 2,
-            "title": "fix(server): update server configuration to use correct root directory",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-20T08:40:33Z",
-            "mergedAt": "2026-04-20T08:40:43Z",
-            "closedAt": "2026-04-20T08:40:43Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 1,
-            "title": "refactor(server): serve usage data through Nitro runtime",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/1",
-            "state": "MERGED",
-            "changedFiles": 31,
-            "additions": 190,
-            "deletions": 406,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-20T08:22:25Z",
-            "mergedAt": "2026-04-20T08:25:33Z",
-            "closedAt": "2026-04-20T08:25:33Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 6470,
+        "total": 6487,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1511,7 +1511,7 @@
             },
             {
                 "date": "2026-04-23",
-                "count": 18
+                "count": 35
             },
             {
                 "date": "2026-04-24",

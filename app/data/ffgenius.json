@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 51,
+            "title": "Revert \"fix(trigger): manually remove axis-specific overflow propertes from`popupStyle` (#43)\"",
+            "url": "https://github.com/antdv-next/vue-components/pull/51",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 169,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-23T14:47:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
             "number": 49,
             "title": "fix(tree): avoid duplicate expandedKeys update on click",
             "url": "https://github.com/antdv-next/vue-components/pull/49",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 47,
-            "title": "chore: ignore auto generated types files",
-            "url": "https://github.com/antdv-next/x/pull/47",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 4,
-            "deletions": 86,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-28T05:17:10Z",
-            "mergedAt": "2026-03-28T06:04:01Z",
-            "closedAt": "2026-03-28T06:04:01Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 193,
+        "total": 195,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -766,7 +766,7 @@
             },
             {
                 "date": "2026-04-23",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-24",

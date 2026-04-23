@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 1482,
+            "title": "fix: apply expandedRowClassName to virtual tree rows",
+            "url": "https://github.com/react-component/table/pull/1482",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 29,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-23T14:30:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "table",
+                "nameWithOwner": "react-component/table",
+                "homepageUrl": "https://table-react-component.vercel.app",
+                "description": "React Table",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/table"
+            }
+        },
+        {
             "number": 57736,
             "title": "docs: clarify semantic demo and .dumi import rules",
             "url": "https://github.com/ant-design/ant-design/pull/57736",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/picker"
             }
-        },
-        {
-            "number": 57705,
-            "title": "fix(InputNumber): remove inner input border radius",
-            "url": "https://github.com/ant-design/ant-design/pull/57705",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-04-17T04:20:47Z",
-            "mergedAt": "2026-04-17T10:42:24Z",
-            "closedAt": "2026-04-17T10:42:24Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2171,
+        "total": 2172,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -752,7 +752,7 @@
             },
             {
                 "date": "2026-04-23",
-                "count": 10
+                "count": 11
             },
             {
                 "date": "2026-04-24",

@@ -13,65 +13,72 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 619536,
-            "repoCount": 18,
-            "progress": "53.20"
+            "size": 1681948,
+            "repoCount": 19,
+            "progress": "75.22"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 343394,
             "repoCount": 10,
-            "progress": "29.49"
+            "progress": "15.36"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 76107,
-            "repoCount": 16,
-            "progress": "6.54"
+            "size": 76248,
+            "repoCount": 17,
+            "progress": "3.41"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 48919,
-            "repoCount": 15,
-            "progress": "4.20"
+            "size": 55606,
+            "repoCount": 16,
+            "progress": "2.49"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "2.56"
+            "progress": "1.33"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 28206,
             "repoCount": 14,
-            "progress": "2.42"
+            "progress": "1.26"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 17696,
             "repoCount": 1,
-            "progress": "1.52"
+            "progress": "0.79"
+        },
+        {
+            "name": "MDX",
+            "color": "#fcb32c",
+            "size": 2394,
+            "repoCount": 1,
+            "progress": "0.11"
         },
         {
             "name": "PHP",
             "color": "#4F5D95",
             "size": 403,
             "repoCount": 1,
-            "progress": "0.03"
+            "progress": "0.02"
         },
         {
             "name": "Dockerfile",
             "color": "#384d54",
             "size": 386,
             "repoCount": 1,
-            "progress": "0.03"
+            "progress": "0.02"
         }
     ],
     "organizations": {
@@ -79,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 2,
+            "title": "feat: add documentation pages and UI component enhancements",
+            "url": "https://github.com/wan-kong/full-stack-starter/pull/2",
+            "state": "MERGED",
+            "changedFiles": 38,
+            "additions": 1899,
+            "deletions": 303,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-23T01:12:44Z",
+            "mergedAt": "2026-04-23T01:12:55Z",
+            "closedAt": "2026-04-23T01:12:55Z",
+            "repository": {
+                "name": "full-stack-starter",
+                "nameWithOwner": "wan-kong/full-stack-starter",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/full-stack-starter"
+            }
+        },
+        {
+            "number": 1,
+            "title": "refactor: 重构服务器架构，采用插件化设计",
+            "url": "https://github.com/wan-kong/full-stack-starter/pull/1",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 261,
+            "deletions": 74,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-10T09:48:09Z",
+            "mergedAt": "2026-04-10T09:49:00Z",
+            "closedAt": "2026-04-10T09:49:00Z",
+            "repository": {
+                "name": "full-stack-starter",
+                "nameWithOwner": "wan-kong/full-stack-starter",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/full-stack-starter"
+            }
+        },
         {
             "number": 8866,
             "title": "fix(i18n): complete and refine zh-CN translations",
@@ -270,58 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/sf-symbols-online"
             }
-        },
-        {
-            "number": 2,
-            "title": "refactor: 从 ESLint 迁移到 Biome.js 并修复全部 lint 和类型错误",
-            "url": "https://github.com/wan-kong/code-review-copilot/pull/2",
-            "state": "MERGED",
-            "changedFiles": 71,
-            "additions": 12102,
-            "deletions": 12576,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-18T05:35:45Z",
-            "mergedAt": "2026-03-18T05:35:55Z",
-            "closedAt": "2026-03-18T05:35:55Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "wan-kong/code-review-copilot",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/code-review-copilot"
-            }
-        },
-        {
-            "number": 1,
-            "title": "Update beautiful-mermaid repository link in README",
-            "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-18T01:12:31Z",
-            "mergedAt": "2026-03-18T01:12:45Z",
-            "closedAt": "2026-03-18T01:12:45Z",
-            "repository": {
-                "name": "streamdown-beautiful-mermaid",
-                "nameWithOwner": "wan-kong/streamdown-beautiful-mermaid",
-                "homepageUrl": "",
-                "description": "A beautiful Mermaid diagram rendering plugin for Streamdown, powered by beautiful-mermaid.",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/streamdown-beautiful-mermaid"
-            }
         }
     ],
     "contributions": {
-        "total": 133,
+        "total": 135,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -773,7 +780,7 @@
             },
             {
                 "date": "2026-04-23",
-                "count": 6
+                "count": 8
             },
             {
                 "date": "2026-04-24",

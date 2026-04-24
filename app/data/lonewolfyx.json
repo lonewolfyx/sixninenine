@@ -20,9 +20,9 @@
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1422431,
+            "size": 1422523,
             "repoCount": 17,
-            "progress": "43.86"
+            "progress": "43.87"
         },
         {
             "name": "CSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "fix(charts): adjust y-axis tick text formatting in session analysis panel",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/10",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-24T06:07:09Z",
+            "mergedAt": "2026-04-24T06:07:18Z",
+            "closedAt": "2026-04-24T06:07:18Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 9,
             "title": "feat(platform): update sorting logic and pagination for usage data",
             "url": "https://github.com/lonewolfyx/usage-board/pull/9",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
-        },
-        {
-            "number": 18,
-            "title": "chore(license): add MIT license file",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/18",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 21,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-04-21T08:32:30Z",
-            "mergedAt": "2026-04-21T08:32:53Z",
-            "closedAt": "2026-04-21T08:32:53Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 6506,
+        "total": 6514,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1515,7 +1515,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 11
+                "count": 19
             },
             {
                 "date": "2026-04-25",

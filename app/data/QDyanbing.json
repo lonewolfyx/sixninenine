@@ -59,14 +59,38 @@
     },
     "pullRequest": [
         {
+            "number": 57763,
+            "title": "docs(Tree): clarify switcherIcon rotation in showLine mode",
+            "url": "https://github.com/ant-design/ant-design/pull/57763",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 15,
+            "deletions": 3,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-04-24T05:31:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57759,
-            "title": "feat(ConfigProvider): support message rtl config",
+            "title": "docs(Message): migrate component config docs",
             "url": "https://github.com/ant-design/ant-design/pull/57759",
             "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 67,
-            "deletions": 46,
-            "totalCommentsCount": 8,
+            "changedFiles": 4,
+            "additions": 44,
+            "deletions": 43,
+            "totalCommentsCount": 9,
             "createdAt": "2026-04-24T01:41:32Z",
             "mergedAt": null,
             "closedAt": null,
@@ -207,10 +231,10 @@
             "title": "feat: add BorderBeam component",
             "url": "https://github.com/ant-design/ant-design/pull/57720",
             "state": "OPEN",
-            "changedFiles": 40,
-            "additions": 3433,
+            "changedFiles": 41,
+            "additions": 3932,
             "deletions": 0,
-            "totalCommentsCount": 60,
+            "totalCommentsCount": 62,
             "createdAt": "2026-04-20T06:40:38Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/field-form"
             }
-        },
-        {
-            "number": 57706,
-            "title": "feat(DatePicker): support tagRender in multiple mode",
-            "url": "https://github.com/ant-design/ant-design/pull/57706",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 69,
-            "deletions": 1,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-04-17T08:25:59Z",
-            "mergedAt": "2026-04-17T08:50:07Z",
-            "closedAt": "2026-04-17T08:50:07Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2174,
+        "total": 2175,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -756,7 +756,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-04-25",

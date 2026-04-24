@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 57759,
+            "title": "feat(ConfigProvider): support message rtl config",
+            "url": "https://github.com/ant-design/ant-design/pull/57759",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 67,
+            "deletions": 46,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-04-24T01:41:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1482,
             "title": "fix: apply expandedRowClassName to virtual tree rows",
             "url": "https://github.com/react-component/table/pull/1482",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 29,
             "deletions": 2,
             "totalCommentsCount": 3,
             "createdAt": "2026-04-23T14:30:16Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-24T02:01:28Z",
+            "closedAt": "2026-04-24T02:01:28Z",
             "repository": {
                 "name": "table",
                 "nameWithOwner": "react-component/table",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 963,
-            "title": "feat: support tagRender in multiple picker",
-            "url": "https://github.com/react-component/picker/pull/963",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 145,
-            "deletions": 17,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-04-17T06:44:53Z",
-            "mergedAt": "2026-04-17T07:30:06Z",
-            "closedAt": "2026-04-17T07:30:06Z",
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
         }
     ],
     "contributions": {
-        "total": 2172,
+        "total": 2174,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -756,7 +756,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-25",

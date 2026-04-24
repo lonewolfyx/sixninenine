@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2591,
+            "title": "feat(package-json): add `binNameCasing` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2591",
+            "state": "OPEN",
+            "changedFiles": 19,
+            "additions": 317,
+            "deletions": 14,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-04-24T12:18:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 14518,
             "title": "feat: add  adaptive thinking support for opus 4.7 model",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/14518",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/stylessh/diffkit"
             }
-        },
-        {
-            "number": 19046,
-            "title": "Fix broken closing tag of pre-like elements",
-            "url": "https://github.com/prettier/prettier/pull/19046",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 179,
-            "deletions": 136,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-04-14T01:19:28Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 282,
+        "total": 283,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1290,7 +1290,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-25",

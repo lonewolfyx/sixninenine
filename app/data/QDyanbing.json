@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 57769,
+            "title": "fix(Select): restore showArrowPaddingInlineEnd for content gap",
+            "url": "https://github.com/ant-design/ant-design/pull/57769",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 1,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-04-24T10:48:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57763,
             "title": "docs(Tree): clarify switcherIcon rotation in showLine mode",
             "url": "https://github.com/ant-design/ant-design/pull/57763",
@@ -66,7 +90,7 @@
             "changedFiles": 5,
             "additions": 15,
             "deletions": 3,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 12,
             "createdAt": "2026-04-24T05:31:34Z",
             "mergedAt": null,
             "closedAt": null,
@@ -231,10 +255,10 @@
             "title": "feat: add BorderBeam component",
             "url": "https://github.com/ant-design/ant-design/pull/57720",
             "state": "OPEN",
-            "changedFiles": 41,
-            "additions": 3932,
+            "changedFiles": 34,
+            "additions": 2691,
             "deletions": 0,
-            "totalCommentsCount": 62,
+            "totalCommentsCount": 67,
             "createdAt": "2026-04-20T06:40:38Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 781,
-            "title": "fix: preserve null unions in setFieldsValue types",
-            "url": "https://github.com/react-component/field-form/pull/781",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 30,
-            "deletions": 9,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-04-18T13:40:47Z",
-            "mergedAt": "2026-04-19T06:06:15Z",
-            "closedAt": "2026-04-19T06:06:15Z",
-            "repository": {
-                "name": "field-form",
-                "nameWithOwner": "react-component/field-form",
-                "homepageUrl": "https://field-form.react-component.now.sh/",
-                "description": "⚡️ React Performance First Form Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/field-form"
-            }
         }
     ],
     "contributions": {
-        "total": 2175,
+        "total": 2176,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -756,7 +756,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-04-25",

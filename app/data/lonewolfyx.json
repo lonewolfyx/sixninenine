@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(agents): add bob agents support",
+            "url": "https://github.com/skills-club/clear-skills/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-24T13:54:18Z",
+            "mergedAt": "2026-04-24T13:54:27Z",
+            "closedAt": "2026-04-24T13:54:27Z",
+            "repository": {
+                "name": "clear-skills",
+                "nameWithOwner": "skills-club/clear-skills",
+                "homepageUrl": null,
+                "description": "Clear AI skills — remove skill files from the current project or globally",
+                "owner": {
+                    "login": "skills-club",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
+                },
+                "url": "https://github.com/skills-club/clear-skills"
+            }
+        },
+        {
             "number": 10,
             "title": "fix(charts): adjust y-axis tick text formatting in session analysis panel",
             "url": "https://github.com/lonewolfyx/usage-board/pull/10",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 19,
-            "title": "docs(readme): update README with project overview and stats",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/19",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 68,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-21T08:32:40Z",
-            "mergedAt": "2026-04-21T08:33:04Z",
-            "closedAt": "2026-04-21T08:33:04Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 6514,
+        "total": 6524,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1515,7 +1515,7 @@
             },
             {
                 "date": "2026-04-24",
-                "count": 19
+                "count": 29
             },
             {
                 "date": "2026-04-25",

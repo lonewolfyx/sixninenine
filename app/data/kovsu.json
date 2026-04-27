@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 14647,
+            "title": "fix: prevent virtual draggable list setup warning",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/14647",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-27T08:04:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2618,
             "title": "feat(json-language): improve JSON node types",
             "url": "https://github.com/flint-fyi/flint/pull/2618",
@@ -600,7 +624,7 @@
             "changedFiles": 8,
             "additions": 111,
             "deletions": 80,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-04-27T03:03:52Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 115,
-            "title": "Improve renamed event layout in issue and PR timelines",
-            "url": "https://github.com/stylessh/diffkit/pull/115",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 28,
-            "deletions": 20,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-14T08:02:44Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-16T00:41:14Z",
-            "repository": {
-                "name": "diffkit",
-                "nameWithOwner": "stylessh/diffkit",
-                "homepageUrl": "",
-                "description": "A fast, design-first GitHub dashboard for developers who want to stay on top of their pull requests, issues, and code reviews — without the noise.",
-                "owner": {
-                    "login": "stylessh",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/45767683?u=6ed9bb64769f9154e78d647b2d7b526fe729880f&v=4"
-                },
-                "url": "https://github.com/stylessh/diffkit"
-            }
         }
     ],
     "contributions": {
-        "total": 285,
+        "total": 286,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1302,7 +1302,7 @@
             },
             {
                 "date": "2026-04-27",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-04-28",

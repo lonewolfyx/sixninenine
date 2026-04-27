@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat: add `valid-heading-anchor` rule",
+            "url": "https://github.com/NoiseFan/eslint-plugin-vitepress/pull/1",
+            "state": "OPEN",
+            "changedFiles": 17,
+            "additions": 473,
+            "deletions": 357,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-27T08:34:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-vitepress",
+                "nameWithOwner": "NoiseFan/eslint-plugin-vitepress",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-vitepress"
+            }
+        },
+        {
             "number": 958,
             "title": "docs(cn): complement the missing translation",
             "url": "https://github.com/vitest-dev/docs-cn/pull/958",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 9866,
-            "title": "docs(lifecycle): update lifecycle document format",
-            "url": "https://github.com/vitest-dev/vitest/pull/9866",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 13,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-15T06:20:04Z",
-            "mergedAt": "2026-03-17T19:04:41Z",
-            "closedAt": "2026-03-17T19:04:41Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
         }
     ],
     "contributions": {
-        "total": 252,
+        "total": 253,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -740,7 +740,7 @@
             },
             {
                 "date": "2026-04-27",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-04-28",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 16275,
+            "size": 22310,
             "repoCount": 2,
-            "progress": "94.09"
+            "progress": "95.62"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "5.91"
+            "progress": "4.38"
         }
     ],
     "organizations": {
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 3,
+            "title": "feat: add `valid-heading-anchor` refactor `no-missing-heading-anchor`",
+            "url": "https://github.com/NoiseFan/eslint-plugin-vitepress/pull/3",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 314,
+            "deletions": 97,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-27T18:10:07Z",
+            "mergedAt": "2026-04-27T18:17:37Z",
+            "closedAt": "2026-04-27T18:17:37Z",
+            "repository": {
+                "name": "eslint-plugin-vitepress",
+                "nameWithOwner": "NoiseFan/eslint-plugin-vitepress",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-vitepress"
+            }
+        },
         {
             "number": 2,
             "title": "chore(ci): Add automated fixes and CI workflows",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1,
-            "title": "chore(vitest): complete vitest base config & command",
-            "url": "https://github.com/lonewolfyx/oxc-inspector/pull/1",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 98,
-            "deletions": 11,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-15T14:18:10Z",
-            "mergedAt": "2026-03-15T14:18:34Z",
-            "closedAt": "2026-03-15T14:18:34Z",
-            "repository": {
-                "name": "oxc-inspector",
-                "nameWithOwner": "lonewolfyx/oxc-inspector",
-                "homepageUrl": "https://oxc-inspector.vercel.app",
-                "description": "A visual tool for inspecting and understanding your oxlint and oxfmt config",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/oxc-inspector"
-            }
         }
     ],
     "contributions": {
-        "total": 256,
+        "total": 258,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -744,7 +744,7 @@
             },
             {
                 "date": "2026-04-28",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-29",

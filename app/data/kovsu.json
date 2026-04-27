@@ -593,14 +593,38 @@
     },
     "pullRequest": [
         {
+            "number": 2618,
+            "title": "feat(json-language): improve JSON node types",
+            "url": "https://github.com/flint-fyi/flint/pull/2618",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 111,
+            "deletions": 80,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-04-27T03:03:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2591,
             "title": "feat(package-json): add `binNameCasing` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2591",
             "state": "OPEN",
-            "changedFiles": 19,
-            "additions": 317,
-            "deletions": 14,
-            "totalCommentsCount": 3,
+            "changedFiles": 8,
+            "additions": 216,
+            "deletions": 1,
+            "totalCommentsCount": 5,
             "createdAt": "2026-04-24T12:18:20Z",
             "mergedAt": null,
             "closedAt": null,
@@ -646,9 +670,9 @@
             "url": "https://github.com/CherryHQ/cherry-studio/pull/14464",
             "state": "OPEN",
             "changedFiles": 3,
-            "additions": 569,
-            "deletions": 8,
-            "totalCommentsCount": 4,
+            "additions": 1175,
+            "deletions": 10,
+            "totalCommentsCount": 5,
             "createdAt": "2026-04-22T03:53:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/stylessh/diffkit"
             }
-        },
-        {
-            "number": 114,
-            "title": "Refine PR merge and branch update permissions",
-            "url": "https://github.com/stylessh/diffkit/pull/114",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 83,
-            "deletions": 11,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-14T07:20:19Z",
-            "mergedAt": "2026-04-14T19:30:46Z",
-            "closedAt": "2026-04-14T19:30:46Z",
-            "repository": {
-                "name": "diffkit",
-                "nameWithOwner": "stylessh/diffkit",
-                "homepageUrl": "",
-                "description": "A fast, design-first GitHub dashboard for developers who want to stay on top of their pull requests, issues, and code reviews — without the noise.",
-                "owner": {
-                    "login": "stylessh",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/45767683?u=6ed9bb64769f9154e78d647b2d7b526fe729880f&v=4"
-                },
-                "url": "https://github.com/stylessh/diffkit"
-            }
         }
     ],
     "contributions": {
-        "total": 283,
+        "total": 285,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1302,7 +1302,7 @@
             },
             {
                 "date": "2026-04-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-04-28",

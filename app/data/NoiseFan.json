@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 10276,
+            "size": 16275,
             "repoCount": 2,
-            "progress": "90.95"
+            "progress": "94.09"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "9.05"
+            "progress": "5.91"
         }
     ],
     "organizations": {
@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "chore(ci): Add automated fixes and CI workflows",
+            "url": "https://github.com/NoiseFan/eslint-plugin-vitepress/pull/2",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 379,
+            "deletions": 23,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-27T09:27:19Z",
+            "mergedAt": "2026-04-27T09:40:12Z",
+            "closedAt": "2026-04-27T09:40:12Z",
+            "repository": {
+                "name": "eslint-plugin-vitepress",
+                "nameWithOwner": "NoiseFan/eslint-plugin-vitepress",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-vitepress"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: add `valid-heading-anchor` rule",
             "url": "https://github.com/NoiseFan/eslint-plugin-vitepress/pull/1",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 17,
             "additions": 473,
             "deletions": 357,
             "totalCommentsCount": 0,
             "createdAt": "2026-04-27T08:34:51Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-27T09:15:32Z",
+            "closedAt": "2026-04-27T09:15:32Z",
             "repository": {
                 "name": "eslint-plugin-vitepress",
                 "nameWithOwner": "NoiseFan/eslint-plugin-vitepress",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/oxc-inspector"
             }
-        },
-        {
-            "number": 938,
-            "title": "docs(cn): update guide/lifecycle",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/938",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 166,
-            "deletions": 166,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-03-15T06:22:40Z",
-            "mergedAt": "2026-03-15T10:55:13Z",
-            "closedAt": "2026-03-15T10:55:13Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 253,
+        "total": 256,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -740,7 +740,7 @@
             },
             {
                 "date": "2026-04-27",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-04-28",

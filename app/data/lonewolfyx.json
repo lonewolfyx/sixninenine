@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1631417,
+            "size": 1631566,
             "repoCount": 29,
-            "progress": "50.42"
+            "progress": "50.19"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1422523,
+            "size": 1437395,
             "repoCount": 17,
-            "progress": "43.97"
+            "progress": "44.22"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 100197,
+            "size": 100476,
             "repoCount": 17,
-            "progress": "3.10"
+            "progress": "3.09"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 74600,
             "repoCount": 26,
-            "progress": "2.31"
+            "progress": "2.29"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat(particle): add particle effect component and page",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/1",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 415,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-28T13:10:47Z",
+            "mergedAt": "2026-04-28T13:11:04Z",
+            "closedAt": "2026-04-28T13:11:04Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
             "number": 2,
             "title": "feat(agents): add bob agents support",
             "url": "https://github.com/skills-club/clear-skills/pull/2",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 3,
-            "title": "chore(build): adjust nitro externals configuration for development mode",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-21T12:10:38Z",
-            "mergedAt": "2026-04-21T12:10:47Z",
-            "closedAt": "2026-04-21T12:10:47Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 6696,
+        "total": 6708,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1531,7 +1531,7 @@
             },
             {
                 "date": "2026-04-28",
-                "count": 30
+                "count": 42
             },
             {
                 "date": "2026-04-29",

@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 768432,
+            "size": 774256,
             "repoCount": 4,
-            "progress": "77.83"
+            "progress": "77.96"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "10.68"
+            "progress": "10.61"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.61"
+            "progress": "5.58"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 54922,
             "repoCount": 2,
-            "progress": "5.56"
+            "progress": "5.53"
         },
         {
             "name": "Less",
@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 13308,
+            "title": "fix(plugins): resolve antd icons package metadata",
+            "url": "https://github.com/umijs/umi/pull/13308",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-28T08:43:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "umi",
+                "nameWithOwner": "umijs/umi",
+                "homepageUrl": "https://umijs.org",
+                "description": "A framework in react community ✨",
+                "owner": {
+                    "login": "umijs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/33895495?v=4"
+                },
+                "url": "https://github.com/umijs/umi"
+            }
+        },
+        {
             "number": 57803,
             "title": "fix(ConfigProvider): make css var prefix follow prefixCls",
             "url": "https://github.com/ant-design/ant-design/pull/57803",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 17,
             "deletions": 2,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-04-28T03:18:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-28T06:10:12Z",
+            "closedAt": "2026-04-28T06:10:12Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -86,14 +110,14 @@
             "number": 57769,
             "title": "fix(Select): restore showArrowPaddingInlineEnd for content gap",
             "url": "https://github.com/ant-design/ant-design/pull/57769",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 6,
             "deletions": 1,
             "totalCommentsCount": 23,
             "createdAt": "2026-04-24T10:48:22Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-28T05:52:25Z",
+            "closedAt": "2026-04-28T05:52:25Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/picker"
             }
-        },
-        {
-            "number": 57720,
-            "title": "feat: add BorderBeam component",
-            "url": "https://github.com/ant-design/ant-design/pull/57720",
-            "state": "OPEN",
-            "changedFiles": 34,
-            "additions": 2789,
-            "deletions": 0,
-            "totalCommentsCount": 77,
-            "createdAt": "2026-04-20T06:40:38Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2220,
+        "total": 2245,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -772,7 +772,7 @@
             },
             {
                 "date": "2026-04-28",
-                "count": 2
+                "count": 27
             },
             {
                 "date": "2026-04-29",

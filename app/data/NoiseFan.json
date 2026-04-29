@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 37224,
+            "size": 38153,
             "repoCount": 2,
-            "progress": "97.33"
+            "progress": "97.39"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "2.67"
+            "progress": "2.61"
         }
     ],
     "organizations": {
@@ -30,6 +30,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 7,
+            "title": "refactor(anchor): consolidate anchor rules and refactor anchor utilities",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/7",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 156,
+            "deletions": 152,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-29T17:53:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-docs-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+            }
+        },
+        {
+            "number": 6,
+            "title": "feat: add recommended rules",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/6",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 152,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-04-29T15:24:06Z",
+            "mergedAt": "2026-04-29T15:25:06Z",
+            "closedAt": "2026-04-29T15:25:06Z",
+            "repository": {
+                "name": "eslint-plugin-docs-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+            }
+        },
         {
             "number": 5,
             "title": "chore: rename packge-name and rename rules",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 942,
-            "title": "docs(en): merge docs-cn/sync-docs into docs-cn/dev @ b72fc6b4",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/942",
-            "state": "MERGED",
-            "changedFiles": 91,
-            "additions": 3419,
-            "deletions": 2675,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-17T17:14:12Z",
-            "mergedAt": "2026-03-17T17:22:03Z",
-            "closedAt": "2026-03-17T17:22:03Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 941,
-            "title": "docs(en): merge docs-cn/sync-docs into docs-cn/dev @ b72fc6b4",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/941",
-            "state": "CLOSED",
-            "changedFiles": 91,
-            "additions": 1449,
-            "deletions": 121,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-17T17:02:59Z",
-            "mergedAt": null,
-            "closedAt": "2026-03-17T17:11:28Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 272,
+        "total": 275,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -748,11 +748,11 @@
             },
             {
                 "date": "2026-04-29",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-04-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-01",

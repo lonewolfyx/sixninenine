@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 774256,
+            "size": 777360,
             "repoCount": 4,
-            "progress": "77.96"
+            "progress": "78.03"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "10.61"
+            "progress": "10.58"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.58"
+            "progress": "5.56"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 54922,
             "repoCount": 2,
-            "progress": "5.53"
+            "progress": "5.51"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 57810,
+            "title": "docs: fix TimePicker Chinese demo title",
+            "url": "https://github.com/ant-design/ant-design/pull/57810",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-04-29T07:01:54Z",
+            "mergedAt": "2026-04-29T07:09:02Z",
+            "closedAt": "2026-04-29T07:09:02Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 13308,
             "title": "fix(plugins): resolve antd icons package metadata",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/field-form"
             }
-        },
-        {
-            "number": 966,
-            "title": "fix: avoid submitting unconfirmed range values on blur",
-            "url": "https://github.com/react-component/picker/pull/966",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 262,
-            "deletions": 4,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-04-20T13:04:04Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
         }
     ],
     "contributions": {
-        "total": 2246,
+        "total": 2261,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -776,7 +776,7 @@
             },
             {
                 "date": "2026-04-29",
-                "count": 1
+                "count": 16
             },
             {
                 "date": "2026-04-30",

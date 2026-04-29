@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1631566,
+            "size": 1631814,
             "repoCount": 29,
-            "progress": "50.19"
+            "progress": "49.97"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1437395,
+            "size": 1452002,
             "repoCount": 17,
-            "progress": "44.22"
+            "progress": "44.46"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 100476,
             "repoCount": 17,
-            "progress": "3.09"
+            "progress": "3.08"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 74600,
             "repoCount": 26,
-            "progress": "2.29"
+            "progress": "2.28"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(contribution-graph): add GitHub contribution graph visualization component",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/2",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 459,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-04-29T07:12:20Z",
+            "mergedAt": "2026-04-29T07:13:01Z",
+            "closedAt": "2026-04-29T07:13:01Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
             "number": 1,
             "title": "feat(particle): add particle effect component and page",
             "url": "https://github.com/lonewolfyx/vue-playground/pull/1",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 4,
-            "title": "feat(project): support proejct dashboard with analytics and visualization",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/4",
-            "state": "MERGED",
-            "changedFiles": 21,
-            "additions": 3238,
-            "deletions": 126,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T14:25:32Z",
-            "mergedAt": "2026-04-23T15:24:01Z",
-            "closedAt": "2026-04-23T15:24:01Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 6725,
+        "total": 6733,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1535,7 +1535,7 @@
             },
             {
                 "date": "2026-04-29",
-                "count": 4
+                "count": 12
             },
             {
                 "date": "2026-04-30",

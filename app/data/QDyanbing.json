@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57818,
+            "title": "fix(Menu): correct item extra layout with icon",
+            "url": "https://github.com/ant-design/ant-design/pull/57818",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-04-29T13:27:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57813,
+            "title": "fix: ensure Watermark covers Table fixed columns by default",
+            "url": "https://github.com/ant-design/ant-design/pull/57813",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 863,
+            "deletions": 23,
+            "totalCommentsCount": 19,
+            "createdAt": "2026-04-29T08:54:09Z",
+            "mergedAt": "2026-04-29T10:28:33Z",
+            "closedAt": "2026-04-29T10:28:33Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57810,
             "title": "docs: fix TimePicker Chinese demo title",
             "url": "https://github.com/ant-design/ant-design/pull/57810",
@@ -66,7 +114,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-04-29T07:01:54Z",
             "mergedAt": "2026-04-29T07:09:02Z",
             "closedAt": "2026-04-29T07:09:02Z",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57735,
-            "title": "fix(Card): avoid rendering empty body when content is absent",
-            "url": "https://github.com/ant-design/ant-design/pull/57735",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 105,
-            "deletions": 17,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-04-21T15:57:04Z",
-            "mergedAt": "2026-04-21T16:06:56Z",
-            "closedAt": "2026-04-21T16:06:56Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 782,
-            "title": "fix: support Partial values in setFieldsValue",
-            "url": "https://github.com/react-component/field-form/pull/782",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-21T01:25:44Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "field-form",
-                "nameWithOwner": "react-component/field-form",
-                "homepageUrl": "https://field-form.react-component.now.sh/",
-                "description": "⚡️ React Performance First Form Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/field-form"
-            }
         }
     ],
     "contributions": {
-        "total": 2261,
+        "total": 2264,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -776,7 +776,7 @@
             },
             {
                 "date": "2026-04-29",
-                "count": 16
+                "count": 19
             },
             {
                 "date": "2026-04-30",

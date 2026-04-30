@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 777360,
+            "size": 780654,
             "repoCount": 4,
-            "progress": "78.03"
+            "progress": "78.10"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "10.58"
+            "progress": "10.55"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.56"
+            "progress": "5.55"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 54922,
             "repoCount": 2,
-            "progress": "5.51"
+            "progress": "5.49"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.24"
+            "progress": "0.23"
         },
         {
             "name": "Shell",
@@ -59,14 +59,38 @@
     },
     "pullRequest": [
         {
+            "number": 863,
+            "title": "fix: wrap item label when extra exists",
+            "url": "https://github.com/react-component/menu/pull/863",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 5,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-04-30T06:18:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "menu",
+                "nameWithOwner": "react-component/menu",
+                "homepageUrl": "https://menu.react-component.now.sh/",
+                "description": "React Menu",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/menu"
+            }
+        },
+        {
             "number": 57823,
             "title": "fix(Menu): correct item extra ellipsis and tooltip padding",
             "url": "https://github.com/ant-design/ant-design/pull/57823",
             "state": "OPEN",
-            "changedFiles": 13,
-            "additions": 1527,
-            "deletions": 20,
-            "totalCommentsCount": 14,
+            "changedFiles": 14,
+            "additions": 1530,
+            "deletions": 21,
+            "totalCommentsCount": 26,
             "createdAt": "2026-04-30T03:07:51Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57759,
-            "title": "docs(Message): migrate component config docs",
-            "url": "https://github.com/ant-design/ant-design/pull/57759",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 44,
-            "deletions": 43,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-04-24T01:41:32Z",
-            "mergedAt": "2026-04-24T15:35:02Z",
-            "closedAt": "2026-04-24T15:35:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2268,
+        "total": 2279,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -780,7 +780,7 @@
             },
             {
                 "date": "2026-04-30",
-                "count": 4
+                "count": 15
             },
             {
                 "date": "2026-05-01",

@@ -59,17 +59,65 @@
     },
     "pullRequest": [
         {
+            "number": 57823,
+            "title": "fix(Menu): correct item extra ellipsis and tooltip padding",
+            "url": "https://github.com/ant-design/ant-design/pull/57823",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 1527,
+            "deletions": 20,
+            "totalCommentsCount": 14,
+            "createdAt": "2026-04-30T03:07:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57821,
+            "title": "fix(Notification): reserve close spacing without title",
+            "url": "https://github.com/ant-design/ant-design/pull/57821",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 8,
+            "totalCommentsCount": 19,
+            "createdAt": "2026-04-30T01:32:17Z",
+            "mergedAt": "2026-04-30T02:54:19Z",
+            "closedAt": "2026-04-30T02:54:19Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57818,
             "title": "fix(Menu): correct item extra layout with icon",
             "url": "https://github.com/ant-design/ant-design/pull/57818",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 11,
             "deletions": 0,
             "totalCommentsCount": 8,
             "createdAt": "2026-04-29T13:27:07Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-04-30T01:56:26Z",
+            "closedAt": "2026-04-30T01:56:26Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1482,
-            "title": "fix: apply expandedRowClassName to virtual tree rows",
-            "url": "https://github.com/react-component/table/pull/1482",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 29,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-23T14:30:16Z",
-            "mergedAt": "2026-04-24T02:01:28Z",
-            "closedAt": "2026-04-24T02:01:28Z",
-            "repository": {
-                "name": "table",
-                "nameWithOwner": "react-component/table",
-                "homepageUrl": "https://table-react-component.vercel.app",
-                "description": "React Table",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/table"
-            }
-        },
-        {
-            "number": 57736,
-            "title": "docs: clarify semantic demo and .dumi import rules",
-            "url": "https://github.com/ant-design/ant-design/pull/57736",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 5,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-04-22T01:29:31Z",
-            "mergedAt": "2026-04-22T01:35:51Z",
-            "closedAt": "2026-04-22T01:35:51Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2264,
+        "total": 2268,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -780,7 +780,7 @@
             },
             {
                 "date": "2026-04-30",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-01",

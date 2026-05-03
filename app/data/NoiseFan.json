@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 65128,
+            "size": 65201,
             "repoCount": 2,
-            "progress": "98.45"
+            "progress": "98.46"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "1.55"
+            "progress": "1.54"
         }
     ],
     "organizations": {
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 11,
+            "title": "chore: tighten release readiness checks",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/11",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 16,
+            "deletions": 12,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-03T02:56:09Z",
+            "mergedAt": "2026-05-03T02:57:08Z",
+            "closedAt": "2026-05-03T02:57:08Z",
+            "repository": {
+                "name": "eslint-plugin-docs-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+            }
+        },
         {
             "number": 10,
             "title": "test: add unit test coverage",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: add `valid-heading-anchor` rule",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/1",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 473,
-            "deletions": 357,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-27T08:34:51Z",
-            "mergedAt": "2026-04-27T09:15:32Z",
-            "closedAt": "2026-04-27T09:15:32Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
         }
     ],
     "contributions": {
-        "total": 290,
+        "total": 292,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -764,7 +764,7 @@
             },
             {
                 "date": "2026-05-03",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-05-04",

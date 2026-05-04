@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 66637,
+            "size": 66572,
             "repoCount": 2,
             "progress": "98.49"
         },
@@ -31,17 +31,65 @@
     },
     "pullRequest": [
         {
-            "number": 13,
-            "title": "fix(valid-heading-anchor): enable yaml frontmatter parsing, resolve frontmatter error",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/13",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 27,
-            "deletions": 72,
+            "number": 1,
+            "title": "fix(markdown): inline single-commit scope entries",
+            "url": "https://github.com/ScaffoldCore/genereleaselog/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 7,
             "totalCommentsCount": 0,
-            "createdAt": "2026-05-04T08:18:57Z",
+            "createdAt": "2026-05-04T12:18:19Z",
+            "mergedAt": "2026-05-04T13:01:54Z",
+            "closedAt": "2026-05-04T13:01:54Z",
+            "repository": {
+                "name": "genereleaselog",
+                "nameWithOwner": "ScaffoldCore/genereleaselog",
+                "homepageUrl": null,
+                "description": "🎨 Generate the Release log in accordance with the GitHub Conventional Commits",
+                "owner": {
+                    "login": "ScaffoldCore",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
+                },
+                "url": "https://github.com/ScaffoldCore/genereleaselog"
+            }
+        },
+        {
+            "number": 968,
+            "title": "chore: add `eslint-plugin-docs-style` to v4 branch",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/968",
+            "state": "OPEN",
+            "changedFiles": 44,
+            "additions": 102,
+            "deletions": 180,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-04T11:49:41Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 13,
+            "title": "fix(valid-heading-anchor): ignore yaml frontmatter headings",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/13",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 57,
+            "deletions": 54,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-04T08:18:57Z",
+            "mergedAt": "2026-05-04T09:37:36Z",
+            "closedAt": "2026-05-04T09:37:36Z",
             "repository": {
                 "name": "eslint-plugin-docs-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
             }
-        },
-        {
-            "number": 5,
-            "title": "chore: rename packge-name and rename rules",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/5",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 22,
-            "deletions": 18,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-28T16:36:46Z",
-            "mergedAt": "2026-04-28T17:09:42Z",
-            "closedAt": "2026-04-28T17:09:42Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat: add space-between-link rule and refactor types",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/4",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 507,
-            "deletions": 39,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-28T15:39:23Z",
-            "mergedAt": "2026-04-28T16:23:38Z",
-            "closedAt": "2026-04-28T16:23:38Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
         }
     ],
     "contributions": {
-        "total": 295,
+        "total": 306,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -768,7 +768,7 @@
             },
             {
                 "date": "2026-05-04",
-                "count": 3
+                "count": 14
             },
             {
                 "date": "2026-05-05",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 65201,
+            "size": 66637,
             "repoCount": 2,
-            "progress": "98.46"
+            "progress": "98.49"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "1.54"
+            "progress": "1.51"
         }
     ],
     "organizations": {
@@ -30,6 +30,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 13,
+            "title": "fix(valid-heading-anchor): enable yaml frontmatter parsing, resolve frontmatter error",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/13",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 27,
+            "deletions": 72,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-04T08:18:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-docs-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+            }
+        },
+        {
+            "number": 12,
+            "title": "test: add integration tests",
+            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/12",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 137,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-04T05:37:20Z",
+            "mergedAt": "2026-05-04T08:19:42Z",
+            "closedAt": "2026-05-04T08:19:42Z",
+            "repository": {
+                "name": "eslint-plugin-docs-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
+                "homepageUrl": null,
+                "description": "eslint plugin for vitepress",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+            }
+        },
         {
             "number": 11,
             "title": "chore: tighten release readiness checks",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: add `valid-heading-anchor` refactor `no-missing-heading-anchor`",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/3",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 314,
-            "deletions": 97,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-27T18:10:07Z",
-            "mergedAt": "2026-04-27T18:17:37Z",
-            "closedAt": "2026-04-27T18:17:37Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 2,
-            "title": "chore(ci): Add automated fixes and CI workflows",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/2",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 379,
-            "deletions": 23,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-27T09:27:19Z",
-            "mergedAt": "2026-04-27T09:40:12Z",
-            "closedAt": "2026-04-27T09:40:12Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
         }
     ],
     "contributions": {
-        "total": 292,
+        "total": 295,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -768,7 +768,7 @@
             },
             {
                 "date": "2026-05-04",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-05-05",

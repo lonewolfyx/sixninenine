@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2746,
+            "title": "feat(package-json): add `dependencyUniqueness` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2746",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 638,
+            "deletions": 7,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-04T07:47:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2633,
             "title": "fix: update fixable message format in summary output",
             "url": "https://github.com/flint-fyi/flint/pull/2633",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 128,
-            "title": "feat: persist selected clone protocol in code explorer",
-            "url": "https://github.com/stylessh/diffkit/pull/128",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 112,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-15T03:07:31Z",
-            "mergedAt": "2026-04-16T22:31:33Z",
-            "closedAt": "2026-04-16T22:31:33Z",
-            "repository": {
-                "name": "diffkit",
-                "nameWithOwner": "stylessh/diffkit",
-                "homepageUrl": "",
-                "description": "A fast, design-first GitHub dashboard for developers who want to stay on top of their pull requests, issues, and code reviews — without the noise.",
-                "owner": {
-                    "login": "stylessh",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/45767683?u=6ed9bb64769f9154e78d647b2d7b526fe729880f&v=4"
-                },
-                "url": "https://github.com/stylessh/diffkit"
-            }
         }
     ],
     "contributions": {
-        "total": 292,
+        "total": 293,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1330,7 +1330,7 @@
             },
             {
                 "date": "2026-05-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-05",

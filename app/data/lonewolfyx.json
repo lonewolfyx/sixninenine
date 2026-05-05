@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "refactor(homepage): redesign homepage with layout and component showcase",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/3",
+            "state": "CLOSED",
+            "changedFiles": 10,
+            "additions": 177,
+            "deletions": 34,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-05T14:05:00Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-05T14:05:21Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
             "number": 2,
             "title": "feat(contribution-graph): add GitHub contribution graph visualization component",
             "url": "https://github.com/lonewolfyx/vue-playground/pull/2",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 5,
-            "title": "chore(package): configure npm registry settings for public publishing",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/5",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T15:29:18Z",
-            "mergedAt": "2026-04-23T15:29:33Z",
-            "closedAt": "2026-04-23T15:29:33Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 6986,
+        "total": 6999,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1559,7 +1559,7 @@
             },
             {
                 "date": "2026-05-05",
-                "count": 9
+                "count": 22
             },
             {
                 "date": "2026-05-06",

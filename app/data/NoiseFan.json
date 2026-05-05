@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 66823,
+            "size": 66799,
             "repoCount": 2,
             "progress": "98.49"
         },
@@ -31,9 +31,129 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "chore(ci): trigger ci.yml when merging main branches",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/19",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-05T16:47:41Z",
+            "mergedAt": "2026-05-05T16:50:00Z",
+            "closedAt": "2026-05-05T16:50:00Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: add default language for commit message",
+            "url": "https://github.com/Fan-s-Collective/git-commit-skills/pull/1",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 24,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-05T12:38:58Z",
+            "mergedAt": "2026-05-05T12:39:08Z",
+            "closedAt": "2026-05-05T12:39:08Z",
+            "repository": {
+                "name": "git-commit-skills",
+                "nameWithOwner": "Fan-s-Collective/git-commit-skills",
+                "homepageUrl": null,
+                "description": "An agent skill for writing Conventional Commit messages from staged or unstaged git changes.",
+                "owner": {
+                    "login": "Fan-s-Collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/242322023?v=4"
+                },
+                "url": "https://github.com/Fan-s-Collective/git-commit-skills"
+            }
+        },
+        {
+            "number": 18,
+            "title": "ci: add codecov upload & split PR release checks",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/18",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 106,
+            "deletions": 53,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-05T12:12:00Z",
+            "mergedAt": "2026-05-05T12:31:56Z",
+            "closedAt": "2026-05-05T12:31:56Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 17,
+            "title": "docs(readme): reorganize usage and setup documentation",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/17",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 62,
+            "deletions": 52,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-05T12:10:58Z",
+            "mergedAt": "2026-05-05T12:11:38Z",
+            "closedAt": "2026-05-05T12:11:38Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 16,
+            "title": "feat!: rename package to eslint-plugin-md-style",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/16",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 31,
+            "deletions": 31,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-05T11:21:47Z",
+            "mergedAt": "2026-05-05T11:24:06Z",
+            "closedAt": "2026-05-05T11:24:06Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 15,
             "title": "refactor: add type annotations & optimize redundant functions",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/15",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/15",
             "state": "MERGED",
             "changedFiles": 7,
             "additions": 97,
@@ -43,21 +163,21 @@
             "mergedAt": "2026-05-05T02:42:15Z",
             "closedAt": "2026-05-05T02:42:15Z",
             "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
                 "owner": {
                     "login": "NoiseFan",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
                 },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
         },
         {
             "number": 14,
             "title": "fix(anchor): relax like-anchor matching for dotted headings",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/14",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/14",
             "state": "MERGED",
             "changedFiles": 5,
             "additions": 16,
@@ -67,15 +187,15 @@
             "mergedAt": "2026-05-04T16:34:51Z",
             "closedAt": "2026-05-04T16:34:51Z",
             "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
                 "owner": {
                     "login": "NoiseFan",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
                 },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
         },
         {
@@ -129,7 +249,7 @@
         {
             "number": 13,
             "title": "fix(valid-heading-anchor): ignore yaml frontmatter headings",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/13",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/13",
             "state": "MERGED",
             "changedFiles": 6,
             "additions": 57,
@@ -139,140 +259,20 @@
             "mergedAt": "2026-05-04T09:37:36Z",
             "closedAt": "2026-05-04T09:37:36Z",
             "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
                 "owner": {
                     "login": "NoiseFan",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
                 },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 12,
-            "title": "test: add integration tests",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/12",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 137,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-04T05:37:20Z",
-            "mergedAt": "2026-05-04T08:19:42Z",
-            "closedAt": "2026-05-04T08:19:42Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 11,
-            "title": "chore: tighten release readiness checks",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/11",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 16,
-            "deletions": 12,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-03T02:56:09Z",
-            "mergedAt": "2026-05-03T02:57:08Z",
-            "closedAt": "2026-05-03T02:57:08Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 10,
-            "title": "test: add unit test coverage",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/10",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 139,
-            "deletions": 15,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-02T17:06:35Z",
-            "mergedAt": "2026-05-02T17:07:46Z",
-            "closedAt": "2026-05-02T17:07:46Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 9,
-            "title": "docs: add documentation for rules",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/9",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 110,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-02T15:24:50Z",
-            "mergedAt": "2026-05-02T15:25:40Z",
-            "closedAt": "2026-05-02T15:25:40Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
-            }
-        },
-        {
-            "number": 8,
-            "title": "test(space-between-link): add faild case",
-            "url": "https://github.com/NoiseFan/eslint-plugin-docs-style/pull/8",
-            "state": "MERGED",
-            "changedFiles": 21,
-            "additions": 2388,
-            "deletions": 1768,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-30T08:48:27Z",
-            "mergedAt": "2026-05-02T14:59:19Z",
-            "closedAt": "2026-05-02T14:59:19Z",
-            "repository": {
-                "name": "eslint-plugin-docs-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-docs-style",
-                "homepageUrl": null,
-                "description": "eslint plugin for vitepress",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-docs-style"
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
         }
     ],
     "contributions": {
-        "total": 312,
+        "total": 331,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -772,11 +772,11 @@
             },
             {
                 "date": "2026-05-05",
-                "count": 6
+                "count": 23
             },
             {
                 "date": "2026-05-06",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-07",

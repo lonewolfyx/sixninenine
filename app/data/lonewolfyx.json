@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1648140,
+            "size": 1648286,
             "repoCount": 29,
             "progress": "51.18"
         },
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(config): add eslint lint scripts to package.json",
+            "url": "https://github.com/lonewolfyx/setup/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-06T03:20:04Z",
+            "mergedAt": "2026-05-06T03:20:13Z",
+            "closedAt": "2026-05-06T03:20:13Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(task): add jiti as development dependency",
+            "url": "https://github.com/lonewolfyx/setup/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-06T03:13:07Z",
+            "mergedAt": "2026-05-06T03:13:25Z",
+            "closedAt": "2026-05-06T03:13:25Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat(homepage): redesign homepage with layout structure and component showcase",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/4",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 150,
+            "deletions": 34,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-06T01:44:20Z",
+            "mergedAt": "2026-05-06T01:44:38Z",
+            "closedAt": "2026-05-06T01:44:38Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
             "number": 3,
             "title": "refactor(homepage): redesign homepage with layout and component showcase",
             "url": "https://github.com/lonewolfyx/vue-playground/pull/3",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 7,
-            "title": "feat(charts): enhance model usage panel with interactive hover guides",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 165,
-            "deletions": 37,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-24T01:43:46Z",
-            "mergedAt": "2026-04-24T01:44:41Z",
-            "closedAt": "2026-04-24T01:44:41Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 3,
-            "title": "chore(workflow): remove pnpm version specification from GitHub Actions",
-            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 1,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T15:39:23Z",
-            "mergedAt": "2026-04-23T15:39:32Z",
-            "closedAt": "2026-04-23T15:39:32Z",
-            "repository": {
-                "name": "nuxt-template",
-                "nameWithOwner": "lonewolfyx-template/nuxt-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/nuxt-template"
-            }
-        },
-        {
-            "number": 6,
-            "title": "chore(ci): remove pnpm version specification from GitHub Actions",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/6",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T15:31:45Z",
-            "mergedAt": "2026-04-23T15:35:15Z",
-            "closedAt": "2026-04-23T15:35:15Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 6999,
+        "total": 7018,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1559,11 +1559,11 @@
             },
             {
                 "date": "2026-05-05",
-                "count": 22
+                "count": 29
             },
             {
                 "date": "2026-05-06",
-                "count": 0
+                "count": 12
             },
             {
                 "date": "2026-05-07",

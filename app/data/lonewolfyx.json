@@ -15,14 +15,14 @@
             "color": "#3178c6",
             "size": 1649463,
             "repoCount": 29,
-            "progress": "50.94"
+            "progress": "50.93"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1410907,
+            "size": 1411884,
             "repoCount": 15,
-            "progress": "43.58"
+            "progress": "43.59"
         },
         {
             "name": "CSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 21,
+            "title": "feat(stack): convert stack items to clickable links with external redirects",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/21",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 24,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-06T09:19:57Z",
+            "mergedAt": "2026-05-06T09:20:16Z",
+            "closedAt": "2026-05-06T09:20:16Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 20,
             "title": "feat(homepage): redesign homepage layout with terminal-style bio and tech stack",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/20",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/skills-club/clear-skills"
             }
-        },
-        {
-            "number": 10,
-            "title": "fix(charts): adjust y-axis tick text formatting in session analysis panel",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-24T06:07:09Z",
-            "mergedAt": "2026-04-24T06:07:18Z",
-            "closedAt": "2026-04-24T06:07:18Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7030,
+        "total": 7044,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1563,7 +1563,7 @@
             },
             {
                 "date": "2026-05-06",
-                "count": 24
+                "count": 38
             },
             {
                 "date": "2026-05-07",

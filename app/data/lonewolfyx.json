@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1648286,
+            "size": 1649463,
             "repoCount": 29,
-            "progress": "51.18"
+            "progress": "50.94"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1394834,
+            "size": 1410907,
             "repoCount": 15,
-            "progress": "43.31"
+            "progress": "43.58"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 16,
-            "progress": "2.98"
+            "progress": "2.96"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 74881,
             "repoCount": 27,
-            "progress": "2.33"
+            "progress": "2.31"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 20,
+            "title": "feat(homepage): redesign homepage layout with terminal-style bio and tech stack",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/20",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 603,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-06T09:09:46Z",
+            "mergedAt": "2026-05-06T09:10:14Z",
+            "closedAt": "2026-05-06T09:10:14Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 3,
+            "title": "fix(task): remove main field and update package.json configuration",
+            "url": "https://github.com/lonewolfyx/setup/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-06T05:32:50Z",
+            "mergedAt": "2026-05-06T05:34:07Z",
+            "closedAt": "2026-05-06T05:34:07Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
             "number": 2,
             "title": "feat(config): add eslint lint scripts to package.json",
             "url": "https://github.com/lonewolfyx/setup/pull/2",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 9,
-            "title": "feat(platform): update sorting logic and pagination for usage data",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/9",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 75,
-            "deletions": 25,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-24T02:30:22Z",
-            "mergedAt": "2026-04-24T02:30:56Z",
-            "closedAt": "2026-04-24T02:30:56Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 8,
-            "title": "feat(dashboard): add tooltip details to overview cards with formatted metrics",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/8",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 73,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-24T02:04:35Z",
-            "mergedAt": "2026-04-24T02:05:10Z",
-            "closedAt": "2026-04-24T02:05:10Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7018,
+        "total": 7030,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1563,7 +1563,7 @@
             },
             {
                 "date": "2026-05-06",
-                "count": 12
+                "count": 24
             },
             {
                 "date": "2026-05-07",

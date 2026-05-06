@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 20,
+            "title": "feat(space-between-inline-elemnt): support inline elements",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/20",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 477,
+            "deletions": 230,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-06T06:44:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 19,
             "title": "chore(ci): trigger ci.yml when merging main branches",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/19",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 13,
-            "title": "fix(valid-heading-anchor): ignore yaml frontmatter headings",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/13",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 57,
-            "deletions": 54,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-04T08:18:57Z",
-            "mergedAt": "2026-05-04T09:37:36Z",
-            "closedAt": "2026-05-04T09:37:36Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 331,
+        "total": 332,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -776,7 +776,7 @@
             },
             {
                 "date": "2026-05-06",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-05-07",

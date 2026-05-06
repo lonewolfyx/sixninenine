@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 52,
+            "title": "fix(markdown): remove direct shikijs core dependency",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/52",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 85,
+            "deletions": 62,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-06T07:31:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
+            "number": 51,
+            "title": "Fix/hanyu 26 0506",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/51",
+            "state": "CLOSED",
+            "changedFiles": 7,
+            "additions": 94,
+            "deletions": 71,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-06T07:12:04Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-06T07:19:28Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 48,
             "title": "fix(code-block): improve line wrapping with line numbers",
             "url": "https://github.com/element-plus-x/x-markdown/pull/48",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
-        },
-        {
-            "number": 26,
-            "title": "fix: 修复useMermaidZoom滚动bug",
-            "url": "https://github.com/element-plus-x/x-markdown/pull/26",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 256,
-            "deletions": 388,
-            "totalCommentsCount": 5,
-            "createdAt": "2025-12-08T07:03:42Z",
-            "mergedAt": "2025-12-11T02:01:46Z",
-            "closedAt": "2025-12-11T02:01:46Z",
-            "repository": {
-                "name": "x-markdown",
-                "nameWithOwner": "element-plus-x/x-markdown",
-                "homepageUrl": "https://x-markdown.netlify.app/",
-                "description": "markdown渲染器",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/x-markdown"
-            }
-        },
-        {
-            "number": 15,
-            "title": "fix: update user data",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/15",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-12-08T05:54:19Z",
-            "mergedAt": "2025-12-08T09:16:08Z",
-            "closedAt": "2025-12-08T09:16:08Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 14,
+        "total": 16,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -761,7 +761,7 @@
             },
             {
                 "date": "2026-05-06",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-07",

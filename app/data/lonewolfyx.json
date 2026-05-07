@@ -13,14 +13,14 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1649463,
+            "size": 1649853,
             "repoCount": 29,
             "progress": "50.93"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1411884,
+            "size": 1412016,
             "repoCount": 15,
             "progress": "43.59"
         },
@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 22,
+            "title": "fix(blogs): update blog post back link styling and icon",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/22",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-07T01:48:19Z",
+            "mergedAt": "2026-05-07T01:48:28Z",
+            "closedAt": "2026-05-07T01:48:29Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 18,
+            "title": "feat(publish): configure npm registry settings in package.json",
+            "url": "https://github.com/lonewolfyx/pkgrab/pull/18",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 23,
+            "deletions": 8,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-07T01:27:31Z",
+            "mergedAt": "2026-05-07T01:27:38Z",
+            "closedAt": "2026-05-07T01:27:38Z",
+            "repository": {
+                "name": "pkgrab",
+                "nameWithOwner": "lonewolfyx/pkgrab",
+                "homepageUrl": null,
+                "description": "📦 grab unused npm package names instantly",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/pkgrab"
+            }
+        },
+        {
+            "number": 17,
+            "title": "chore: remove renovate configuration file",
+            "url": "https://github.com/lonewolfyx/pkgrab/pull/17",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 7,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-07T01:19:49Z",
+            "mergedAt": "2026-05-07T01:20:08Z",
+            "closedAt": "2026-05-07T01:20:08Z",
+            "repository": {
+                "name": "pkgrab",
+                "nameWithOwner": "lonewolfyx/pkgrab",
+                "homepageUrl": null,
+                "description": "📦 grab unused npm package names instantly",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/pkgrab"
+            }
+        },
+        {
+            "number": 5,
+            "title": "style(contribution-graph): update color theme implementation",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/5",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 30,
+            "deletions": 21,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-07T01:15:41Z",
+            "mergedAt": "2026-05-07T01:15:51Z",
+            "closedAt": "2026-05-07T01:15:51Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
             "number": 21,
             "title": "feat(stack): convert stack items to clickable links with external redirects",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/21",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/vue-playground"
             }
-        },
-        {
-            "number": 3,
-            "title": "refactor(homepage): redesign homepage with layout and component showcase",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/3",
-            "state": "CLOSED",
-            "changedFiles": 10,
-            "additions": 177,
-            "deletions": 34,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-05T14:05:00Z",
-            "mergedAt": null,
-            "closedAt": "2026-05-05T14:05:21Z",
-            "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-playground"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(contribution-graph): add GitHub contribution graph visualization component",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/2",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 459,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-29T07:12:20Z",
-            "mergedAt": "2026-04-29T07:13:01Z",
-            "closedAt": "2026-04-29T07:13:01Z",
-            "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-playground"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(particle): add particle effect component and page",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/1",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 415,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-28T13:10:47Z",
-            "mergedAt": "2026-04-28T13:11:04Z",
-            "closedAt": "2026-04-28T13:11:04Z",
-            "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-playground"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(agents): add bob agents support",
-            "url": "https://github.com/skills-club/clear-skills/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-24T13:54:18Z",
-            "mergedAt": "2026-04-24T13:54:27Z",
-            "closedAt": "2026-04-24T13:54:27Z",
-            "repository": {
-                "name": "clear-skills",
-                "nameWithOwner": "skills-club/clear-skills",
-                "homepageUrl": null,
-                "description": "Clear AI skills — remove skill files from the current project or globally",
-                "owner": {
-                    "login": "skills-club",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
-                },
-                "url": "https://github.com/skills-club/clear-skills"
-            }
         }
     ],
     "contributions": {
-        "total": 7044,
+        "total": 7063,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1563,11 +1563,11 @@
             },
             {
                 "date": "2026-05-06",
-                "count": 38
+                "count": 44
             },
             {
                 "date": "2026-05-07",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-05-08",

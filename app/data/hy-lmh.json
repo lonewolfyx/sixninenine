@@ -16,6 +16,54 @@
     },
     "pullRequest": [
         {
+            "number": 54,
+            "title": "fix: fix the shiki error",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/54",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 71,
+            "deletions": 70,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-07T10:27:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
+            "number": 53,
+            "title": "Fix the Shiki issue",
+            "url": "https://github.com/element-plus-x/x-markdown/pull/53",
+            "state": "CLOSED",
+            "changedFiles": 6,
+            "additions": 44,
+            "deletions": 63,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-07T09:49:16Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-07T09:58:45Z",
+            "repository": {
+                "name": "x-markdown",
+                "nameWithOwner": "element-plus-x/x-markdown",
+                "homepageUrl": "https://x-markdown.netlify.app/",
+                "description": "markdown渲染器",
+                "owner": {
+                    "login": "element-plus-x",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
+                },
+                "url": "https://github.com/element-plus-x/x-markdown"
+            }
+        },
+        {
             "number": 52,
             "title": "fix(markdown): remove direct shikijs core dependency",
             "url": "https://github.com/element-plus-x/x-markdown/pull/52",
@@ -206,58 +254,10 @@
                 },
                 "url": "https://github.com/Alfred-Skyblue/vuedefer"
             }
-        },
-        {
-            "number": 400,
-            "title": "fix(composables): mermaid download optimization",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/400",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 28,
-            "deletions": 24,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-08T08:12:33Z",
-            "mergedAt": "2025-12-14T08:54:04Z",
-            "closedAt": "2025-12-14T08:54:04Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
-        },
-        {
-            "number": 399,
-            "title": "fix(useMermaidZoom): fix the scrolling issue",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/399",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 35,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-08T07:36:50Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 17,
+        "total": 20,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -765,7 +765,7 @@
             },
             {
                 "date": "2026-05-07",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-05-08",

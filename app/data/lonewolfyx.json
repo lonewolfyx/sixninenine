@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1643626,
+            "size": 1647373,
             "repoCount": 29,
-            "progress": "50.55"
+            "progress": "50.58"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1427774,
+            "size": 1429302,
             "repoCount": 16,
-            "progress": "43.91"
+            "progress": "43.88"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 97138,
             "repoCount": 17,
-            "progress": "2.99"
+            "progress": "2.98"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 75964,
             "repoCount": 28,
-            "progress": "2.34"
+            "progress": "2.33"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "fix(github): update contribution graph to use Tailwind CSS classes",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/23",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 38,
+            "deletions": 33,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-08T08:06:28Z",
+            "mergedAt": "2026-05-08T08:06:37Z",
+            "closedAt": "2026-05-08T08:06:37Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 8,
+            "title": "fix(cli): consolidate task imports into single index file",
+            "url": "https://github.com/lonewolfyx/setup/pull/8",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-08T07:37:45Z",
+            "mergedAt": "2026-05-08T07:37:54Z",
+            "closedAt": "2026-05-08T07:37:54Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 7,
+            "title": "feat(project): add GitHub Workflows creation functionality",
+            "url": "https://github.com/lonewolfyx/setup/pull/7",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 151,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-08T07:18:26Z",
+            "mergedAt": "2026-05-08T07:18:57Z",
+            "closedAt": "2026-05-08T07:18:57Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 6,
+            "title": "refactor(core): update functions to use config object instead of individual parameters",
+            "url": "https://github.com/lonewolfyx/setup/pull/6",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 56,
+            "deletions": 61,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-08T06:19:42Z",
+            "mergedAt": "2026-05-08T06:20:03Z",
+            "closedAt": "2026-05-08T06:20:03Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
             "number": 5,
             "title": "refactor(cli): replace manual progress tracking with scheduled task system",
             "url": "https://github.com/lonewolfyx/setup/pull/5",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/vue-playground"
             }
-        },
-        {
-            "number": 21,
-            "title": "feat(stack): convert stack items to clickable links with external redirects",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/21",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 24,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-06T09:19:57Z",
-            "mergedAt": "2026-05-06T09:20:16Z",
-            "closedAt": "2026-05-06T09:20:16Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 20,
-            "title": "feat(homepage): redesign homepage layout with terminal-style bio and tech stack",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/20",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 603,
-            "deletions": 13,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-06T09:09:46Z",
-            "mergedAt": "2026-05-06T09:10:14Z",
-            "closedAt": "2026-05-06T09:10:14Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 3,
-            "title": "fix(task): remove main field and update package.json configuration",
-            "url": "https://github.com/lonewolfyx/setup/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-06T05:32:50Z",
-            "mergedAt": "2026-05-06T05:34:07Z",
-            "closedAt": "2026-05-06T05:34:07Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(config): add eslint lint scripts to package.json",
-            "url": "https://github.com/lonewolfyx/setup/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-06T03:20:04Z",
-            "mergedAt": "2026-05-06T03:20:13Z",
-            "closedAt": "2026-05-06T03:20:13Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7121,
+        "total": 7136,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1571,7 +1571,7 @@
             },
             {
                 "date": "2026-05-08",
-                "count": 5
+                "count": 20
             },
             {
                 "date": "2026-05-09",

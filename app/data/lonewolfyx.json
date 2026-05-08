@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1643653,
+            "size": 1643626,
             "repoCount": 29,
             "progress": "50.55"
         },
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 5,
+            "title": "refactor(cli): replace manual progress tracking with scheduled task system",
+            "url": "https://github.com/lonewolfyx/setup/pull/5",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 45,
+            "deletions": 58,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-08T02:37:09Z",
+            "mergedAt": "2026-05-08T02:37:21Z",
+            "closedAt": "2026-05-08T02:37:21Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
             "number": 4,
             "title": "chore(package): add prepare script for git hooks",
             "url": "https://github.com/lonewolfyx/setup/pull/4",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(task): add jiti as development dependency",
-            "url": "https://github.com/lonewolfyx/setup/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-06T03:13:07Z",
-            "mergedAt": "2026-05-06T03:13:25Z",
-            "closedAt": "2026-05-06T03:13:25Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7109,
+        "total": 7121,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1567,11 +1567,11 @@
             },
             {
                 "date": "2026-05-07",
-                "count": 58
+                "count": 65
             },
             {
                 "date": "2026-05-08",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-05-09",

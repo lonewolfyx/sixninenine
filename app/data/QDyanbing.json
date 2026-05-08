@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57887,
+            "title": "docs: clarify changelog scope for PR reviews",
+            "url": "https://github.com/ant-design/ant-design/pull/57887",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-08T01:29:28Z",
+            "mergedAt": "2026-05-08T02:42:23Z",
+            "closedAt": "2026-05-08T02:42:23Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57886,
+            "title": "feat(Watermark): support per-line font styles for content",
+            "url": "https://github.com/ant-design/ant-design/pull/57886",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 203,
+            "deletions": 56,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-05-08T01:14:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57878,
             "title": "fix(Alert): align icon and close button for title-only alerts",
             "url": "https://github.com/ant-design/ant-design/pull/57878",
@@ -86,14 +134,14 @@
             "number": 57875,
             "title": "docs(Tour): complete API documentation",
             "url": "https://github.com/ant-design/ant-design/pull/57875",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 7,
             "deletions": 6,
             "totalCommentsCount": 13,
             "createdAt": "2026-05-07T08:43:56Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-08T02:43:19Z",
+            "closedAt": "2026-05-08T02:43:19Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57810,
-            "title": "docs: fix TimePicker Chinese demo title",
-            "url": "https://github.com/ant-design/ant-design/pull/57810",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-04-29T07:01:54Z",
-            "mergedAt": "2026-04-29T07:09:02Z",
-            "closedAt": "2026-04-29T07:09:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 13308,
-            "title": "fix(plugins): resolve antd icons package metadata",
-            "url": "https://github.com/umijs/umi/pull/13308",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-04-28T08:43:37Z",
-            "mergedAt": "2026-04-29T03:22:28Z",
-            "closedAt": "2026-04-29T03:22:28Z",
-            "repository": {
-                "name": "umi",
-                "nameWithOwner": "umijs/umi",
-                "homepageUrl": "https://umijs.org",
-                "description": "A framework in react community ✨",
-                "owner": {
-                    "login": "umijs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/33895495?v=4"
-                },
-                "url": "https://github.com/umijs/umi"
-            }
         }
     ],
     "contributions": {
-        "total": 2390,
+        "total": 2394,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -812,7 +812,7 @@
             },
             {
                 "date": "2026-05-08",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-09",

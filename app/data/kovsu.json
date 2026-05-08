@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2761,
+            "title": "fix: sort reports by source position before returning",
+            "url": "https://github.com/flint-fyi/flint/pull/2761",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 47,
+            "deletions": 26,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-08T01:00:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2759,
             "title": "feat(package-json): add `attribution` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2759",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 14518,
-            "title": "feat: add  adaptive thinking support for opus 4.7 model",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/14518",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 127,
-            "deletions": 8,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T07:29:09Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 302,
+        "total": 303,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1346,7 +1346,7 @@
             },
             {
                 "date": "2026-05-08",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-09",

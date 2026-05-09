@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1648803,
+            "size": 1647968,
             "repoCount": 29,
-            "progress": "50.64"
+            "progress": "50.63"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1427800,
             "repoCount": 16,
-            "progress": "43.86"
+            "progress": "43.87"
         },
         {
             "name": "CSS",
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 6,
+            "title": "feat(docs): extract locale configurations to separate JSON files",
+            "url": "https://github.com/lonewolfyx/utils/pull/6",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 90,
+            "deletions": 89,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-09T13:42:42Z",
+            "mergedAt": "2026-05-09T13:42:50Z",
+            "closedAt": "2026-05-09T13:42:50Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": null,
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
+            "number": 5,
+            "title": "docs: add comprehensive documentation site with VitePress",
+            "url": "https://github.com/lonewolfyx/utils/pull/5",
+            "state": "MERGED",
+            "changedFiles": 20,
+            "additions": 2283,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-09T13:19:49Z",
+            "mergedAt": "2026-05-09T13:20:24Z",
+            "closedAt": "2026-05-09T13:20:24Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": null,
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat(core): add sequential task scheduler with chainable API",
+            "url": "https://github.com/lonewolfyx/utils/pull/4",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 143,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-09T09:06:03Z",
+            "mergedAt": "2026-05-09T09:06:20Z",
+            "closedAt": "2026-05-09T09:06:20Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": null,
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 17,
             "title": "feat(cli): add loading indicators to cleanup process",
             "url": "https://github.com/lonewolfyx/rmcache/pull/17",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 7,
-            "title": "feat(project): add GitHub Workflows creation functionality",
-            "url": "https://github.com/lonewolfyx/setup/pull/7",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 151,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-08T07:18:26Z",
-            "mergedAt": "2026-05-08T07:18:57Z",
-            "closedAt": "2026-05-08T07:18:57Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 6,
-            "title": "refactor(core): update functions to use config object instead of individual parameters",
-            "url": "https://github.com/lonewolfyx/setup/pull/6",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 56,
-            "deletions": 61,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-08T06:19:42Z",
-            "mergedAt": "2026-05-08T06:20:03Z",
-            "closedAt": "2026-05-08T06:20:03Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 5,
-            "title": "refactor(cli): replace manual progress tracking with scheduled task system",
-            "url": "https://github.com/lonewolfyx/setup/pull/5",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 45,
-            "deletions": 58,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-08T02:37:09Z",
-            "mergedAt": "2026-05-08T02:37:21Z",
-            "closedAt": "2026-05-08T02:37:21Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7215,
+        "total": 7231,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1575,7 +1575,7 @@
             },
             {
                 "date": "2026-05-09",
-                "count": 31
+                "count": 47
             },
             {
                 "date": "2026-05-10",

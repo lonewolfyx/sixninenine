@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 324,
+            "title": "style(DataTable): add backdrop filter for improved visual effect",
+            "url": "https://github.com/vitejs/devtools/pull/324",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-09T02:41:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "devtools",
+                "nameWithOwner": "vitejs/devtools",
+                "homepageUrl": "https://devtools.vite.dev/",
+                "description": "DevTools for Vite (Rolldown). ",
+                "owner": {
+                    "login": "vitejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
+                },
+                "url": "https://github.com/vitejs/devtools"
+            }
+        },
+        {
             "number": 11,
             "title": "feat: enhance Markdown link handling and relative path",
             "url": "https://github.com/skills-club/skills-live/pull/11",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/vueuse/skills"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat: add marketplace configuration for vueuse-skills plugin",
-            "url": "https://github.com/vueuse/skills/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 26,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-26T02:27:36Z",
-            "mergedAt": "2026-01-27T18:50:17Z",
-            "closedAt": "2026-01-27T18:50:17Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "vueuse/skills",
-                "homepageUrl": "",
-                "description": "Agent Skills for VueUse",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/skills"
-            }
         }
     ],
     "contributions": {
-        "total": 254,
+        "total": 255,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1102,7 +1102,7 @@
             },
             {
                 "date": "2026-05-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-10",

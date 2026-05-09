@@ -13,9 +13,9 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1647373,
+            "size": 1647931,
             "repoCount": 29,
-            "progress": "50.62"
+            "progress": "50.63"
         },
         {
             "name": "Vue",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 17,
+            "title": "feat(cli): add loading indicators to cleanup process",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/17",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 17,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-09T01:51:15Z",
+            "mergedAt": "2026-05-09T01:51:36Z",
+            "closedAt": "2026-05-09T01:51:36Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
             "number": 27,
             "title": "style(graph): make contribution graph responsive with dynamic font sizing",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/27",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 4,
-            "title": "chore(package): add prepare script for git hooks",
-            "url": "https://github.com/lonewolfyx/setup/pull/4",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-07T06:33:13Z",
-            "mergedAt": "2026-05-07T06:33:23Z",
-            "closedAt": "2026-05-07T06:33:23Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7159,
+        "total": 7173,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1571,11 +1571,11 @@
             },
             {
                 "date": "2026-05-08",
-                "count": 43
+                "count": 50
             },
             {
                 "date": "2026-05-09",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-05-10",

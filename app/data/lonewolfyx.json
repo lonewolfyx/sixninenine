@@ -20,7 +20,7 @@
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1427800,
+            "size": 1427796,
             "repoCount": 16,
             "progress": "43.87"
         },
@@ -290,7 +290,7 @@
                             }
                         }
                     ],
-                    "totalCount": 272
+                    "totalCount": 273
                 }
             },
             {
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 28,
+            "title": "fix(homepage): rename terminal bio command to display activity log",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/28",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-11T03:20:45Z",
+            "mergedAt": "2026-05-11T03:20:58Z",
+            "closedAt": "2026-05-11T03:20:58Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 6,
             "title": "feat(docs): extract locale configurations to separate JSON files",
             "url": "https://github.com/lonewolfyx/utils/pull/6",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
-        },
-        {
-            "number": 8,
-            "title": "fix(cli): consolidate task imports into single index file",
-            "url": "https://github.com/lonewolfyx/setup/pull/8",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 9,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-08T07:37:45Z",
-            "mergedAt": "2026-05-08T07:37:54Z",
-            "closedAt": "2026-05-08T07:37:54Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7280,
+        "total": 7295,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1579,11 +1579,11 @@
             },
             {
                 "date": "2026-05-10",
-                "count": 27
+                "count": 36
             },
             {
                 "date": "2026-05-11",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-05-12",

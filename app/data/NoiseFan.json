@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 21,
+            "title": "docs(readme): clarify ESLint and antfu config version requirements",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/21",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 14,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-11T06:13:08Z",
+            "mergedAt": "2026-05-11T06:17:00Z",
+            "closedAt": "2026-05-11T06:17:00Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 20,
             "title": "feat(space-between-inline-elemnt): support inline elements",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/20",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/ScaffoldCore/genereleaselog"
             }
-        },
-        {
-            "number": 968,
-            "title": "chore: add `eslint-plugin-md-style` to v4 branch",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/968",
-            "state": "OPEN",
-            "changedFiles": 44,
-            "additions": 102,
-            "deletions": 180,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-04T11:49:41Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 337,
+        "total": 341,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -796,7 +796,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-05-12",

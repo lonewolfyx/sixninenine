@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 57919,
+            "title": "demo: fix static message style in component demos",
+            "url": "https://github.com/ant-design/ant-design/pull/57919",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 475,
+            "deletions": 393,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-05-11T08:41:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57917,
+            "title": "fix(Radio): support uncontrolled checked state",
+            "url": "https://github.com/ant-design/ant-design/pull/57917",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 33,
+            "deletions": 10,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-05-11T05:59:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1222,
             "title": "fix: render select input as text combobox",
             "url": "https://github.com/react-component/select/pull/1222",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 863,
-            "title": "fix: wrap item label when extra exists",
-            "url": "https://github.com/react-component/menu/pull/863",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 5,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-04-30T06:18:26Z",
-            "mergedAt": "2026-05-06T02:45:26Z",
-            "closedAt": "2026-05-06T02:45:26Z",
-            "repository": {
-                "name": "menu",
-                "nameWithOwner": "react-component/menu",
-                "homepageUrl": "https://menu.react-component.now.sh/",
-                "description": "React Menu",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/menu"
-            }
-        },
-        {
-            "number": 57823,
-            "title": "fix(Menu): correct item extra ellipsis and tooltip padding",
-            "url": "https://github.com/ant-design/ant-design/pull/57823",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 1496,
-            "deletions": 16,
-            "totalCommentsCount": 31,
-            "createdAt": "2026-04-30T03:07:51Z",
-            "mergedAt": "2026-05-06T08:51:50Z",
-            "closedAt": "2026-05-06T08:51:50Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2445,
+        "total": 2447,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -824,7 +824,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-12",

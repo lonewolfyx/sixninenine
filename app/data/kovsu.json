@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 15002,
+            "title": "fix: recognize ctrl by uniKey value",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15002",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-11T10:13:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2782,
             "title": "feat(package-json): add `emptyFields` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2782",
@@ -600,7 +624,7 @@
             "changedFiles": 9,
             "additions": 644,
             "deletions": 105,
-            "totalCommentsCount": 11,
+            "totalCommentsCount": 13,
             "createdAt": "2026-05-11T07:33:49Z",
             "mergedAt": null,
             "closedAt": null,
@@ -624,7 +648,7 @@
             "changedFiles": 1,
             "additions": 28,
             "deletions": 37,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-05-11T00:52:48Z",
             "mergedAt": null,
             "closedAt": null,
@@ -716,14 +740,14 @@
             "number": 2749,
             "title": "chore: adjust test timeout for e2e tests",
             "url": "https://github.com/flint-fyi/flint/pull/2749",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 5,
             "createdAt": "2026-05-05T01:52:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-11T13:46:51Z",
+            "closedAt": "2026-05-11T13:46:51Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 14647,
-            "title": "fix: prevent virtual draggable list setup warning",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/14647",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-27T08:04:04Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-28T03:20:51Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 307,
+        "total": 308,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1358,7 +1358,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-05-12",

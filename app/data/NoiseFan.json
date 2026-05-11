@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 22,
+            "title": "feat(space-between-cjk-and-alphanumeric): cjk alphanumeric spacing rule",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/22",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 145,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-11T12:35:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 21,
             "title": "docs(readme): clarify ESLint and antfu config version requirements",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/21",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 1,
-            "title": "fix(markdown): inline single-commit scope entries",
-            "url": "https://github.com/ScaffoldCore/genereleaselog/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-04T12:18:19Z",
-            "mergedAt": "2026-05-04T13:01:54Z",
-            "closedAt": "2026-05-04T13:01:54Z",
-            "repository": {
-                "name": "genereleaselog",
-                "nameWithOwner": "ScaffoldCore/genereleaselog",
-                "homepageUrl": null,
-                "description": "🎨 Generate the Release log in accordance with the GitHub Conventional Commits",
-                "owner": {
-                    "login": "ScaffoldCore",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/214796166?v=4"
-                },
-                "url": "https://github.com/ScaffoldCore/genereleaselog"
-            }
         }
     ],
     "contributions": {
-        "total": 341,
+        "total": 342,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -796,7 +796,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 5
+                "count": 6
             },
             {
                 "date": "2026-05-12",

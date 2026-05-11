@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "refactor(monorepo): update workspace configuration and eslint",
+            "url": "https://github.com/BillionsBobby/agenttrader-arena/pull/23",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 3,
+            "deletions": 32,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-11T12:41:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "agenttrader-arena",
+                "nameWithOwner": "BillionsBobby/agenttrader-arena",
+                "homepageUrl": "https://agenttrader.io/",
+                "description": "Open-source public arena, agent protocol, and market-data workers for trading agents.",
+                "owner": {
+                    "login": "BillionsBobby",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/133582031?u=d472036b510ebf5508450391a36020e602f53962&v=4"
+                },
+                "url": "https://github.com/BillionsBobby/agenttrader-arena"
+            }
+        },
+        {
             "number": 22,
             "title": "refactor(monorepo): migrate project to monorepo structure",
             "url": "https://github.com/BillionsBobby/agenttrader-arena/pull/22",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/skills-club/skills-live"
             }
-        },
-        {
-            "number": 18,
-            "title": "feat: register as Claude Code marketplace",
-            "url": "https://github.com/vuejs-ai/skills/pull/18",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 85,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-29T03:07:40Z",
-            "mergedAt": "2026-01-30T12:58:21Z",
-            "closedAt": "2026-01-30T12:58:21Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "vuejs-ai/skills",
-                "homepageUrl": null,
-                "description": "Agent skills for Vue 3 development",
-                "owner": {
-                    "login": "vuejs-ai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257730754?v=4"
-                },
-                "url": "https://github.com/vuejs-ai/skills"
-            }
         }
     ],
     "contributions": {
-        "total": 258,
+        "total": 260,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1110,7 +1110,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-05-12",

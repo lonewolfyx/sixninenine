@@ -101,6 +101,30 @@
     },
     "pullRequest": [
         {
+            "number": 8571,
+            "title": "fix(select): remove aria-controls when overlay is closed",
+            "url": "https://github.com/primefaces/primevue/pull/8571",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-11T14:05:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "primevue",
+                "nameWithOwner": "primefaces/primevue",
+                "homepageUrl": "https://primevue.org",
+                "description": "Next Generation Vue UI Component Library",
+                "owner": {
+                    "login": "primefaces",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/3494069?v=4"
+                },
+                "url": "https://github.com/primefaces/primevue"
+            }
+        },
+        {
             "number": 4,
             "title": "fix(moodboard): show % négatif on worst list + raw counts",
             "url": "https://github.com/lbineau/emoratio/pull/4",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/jeremycolin/stream-overlays"
             }
-        },
-        {
-            "number": 22,
-            "title": "Lbineau folder addition",
-            "url": "https://github.com/jeremycolin/stream-overlays/pull/22",
-            "state": "MERGED",
-            "changedFiles": 123,
-            "additions": 233,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2023-10-15T23:12:29Z",
-            "mergedAt": "2023-10-16T11:53:04Z",
-            "closedAt": "2023-10-16T11:53:04Z",
-            "repository": {
-                "name": "stream-overlays",
-                "nameWithOwner": "jeremycolin/stream-overlays",
-                "homepageUrl": null,
-                "description": "Easy to setup overlays for your streams",
-                "owner": {
-                    "login": "jeremycolin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/3767697?u=ccaa71590d29cbf14d2dd2acc788e194cb606ec0&v=4"
-                },
-                "url": "https://github.com/jeremycolin/stream-overlays"
-            }
         }
     ],
     "contributions": {
-        "total": 29,
+        "total": 31,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -866,7 +866,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-12",

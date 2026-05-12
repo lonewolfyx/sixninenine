@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1647968,
+            "size": 1652557,
             "repoCount": 29,
-            "progress": "50.63"
+            "progress": "50.70"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1427796,
             "repoCount": 16,
-            "progress": "43.87"
+            "progress": "43.80"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.95"
+            "progress": "2.94"
         },
         {
             "name": "JavaScript",
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat(cli): add .gitignore file creation to project setup",
+            "url": "https://github.com/lonewolfyx/setup/pull/10",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 150,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-12T08:08:34Z",
+            "mergedAt": "2026-05-12T08:11:04Z",
+            "closedAt": "2026-05-12T08:11:04Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 8,
+            "title": "feat(docs): enhance documentation site with custom styling and UI components",
+            "url": "https://github.com/lonewolfyx/utils/pull/8",
+            "state": "MERGED",
+            "changedFiles": 62,
+            "additions": 2115,
+            "deletions": 258,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-12T07:04:54Z",
+            "mergedAt": "2026-05-12T07:18:31Z",
+            "closedAt": "2026-05-12T07:18:31Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 19,
             "title": "chore: switch `lint-staged` with `nano-staged`",
             "url": "https://github.com/lonewolfyx/pkgrab/pull/19",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 30,
-            "title": "chore: switch lint-staged with nano-staged",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/30",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 192,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-11T17:08:53Z",
-            "mergedAt": "2026-05-11T17:09:03Z",
-            "closedAt": "2026-05-11T17:09:03Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 29,
-            "title": "docs(blogs): add guide for disabling VitePress base style",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/29",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 94,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-11T08:43:51Z",
-            "mergedAt": "2026-05-11T08:44:00Z",
-            "closedAt": "2026-05-11T08:44:00Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 7340,
+        "total": 7355,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1587,7 +1587,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 21
+                "count": 36
             },
             {
                 "date": "2026-05-13",

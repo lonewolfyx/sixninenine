@@ -13,44 +13,51 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1124075,
+            "size": 1124972,
             "repoCount": 20,
-            "progress": "66.28"
+            "progress": "66.12"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 338077,
             "repoCount": 9,
-            "progress": "19.93"
+            "progress": "19.87"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 76436,
             "repoCount": 19,
-            "progress": "4.51"
+            "progress": "4.49"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 64063,
             "repoCount": 17,
-            "progress": "3.78"
+            "progress": "3.77"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "1.76"
+            "progress": "1.75"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 27392,
             "repoCount": 13,
-            "progress": "1.62"
+            "progress": "1.61"
+        },
+        {
+            "name": "MDX",
+            "color": "#fcb32c",
+            "size": 21595,
+            "repoCount": 2,
+            "progress": "1.27"
         },
         {
             "name": "Shell",
@@ -58,13 +65,6 @@
             "size": 17696,
             "repoCount": 1,
             "progress": "1.04"
-        },
-        {
-            "name": "MDX",
-            "color": "#fcb32c",
-            "size": 16986,
-            "repoCount": 2,
-            "progress": "1.00"
         },
         {
             "name": "Dockerfile",
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 2,
+            "title": "feat: 添加设计风格文档和环境变量文章",
+            "url": "https://github.com/wan-kong/wankong.top/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 370,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-12T01:41:07Z",
+            "mergedAt": "2026-05-12T01:41:16Z",
+            "closedAt": "2026-05-12T01:41:16Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: 新增豆包去水印产品",
+            "url": "https://github.com/wan-kong/wankong.top/pull/1",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 778,
+            "deletions": 24,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-12T01:37:28Z",
+            "mergedAt": "2026-05-12T01:37:41Z",
+            "closedAt": "2026-05-12T01:37:41Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
         {
             "number": 3,
             "title": "feat(db): use drizzle as db orm",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/sf-symbols-online"
             }
-        },
-        {
-            "number": 3,
-            "title": "chore: 移除未使用的 env 包",
-            "url": "https://github.com/wan-kong/sf-symbols-online/pull/3",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 3,
-            "deletions": 49,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-26T06:58:45Z",
-            "mergedAt": "2026-03-26T06:59:34Z",
-            "closedAt": "2026-03-26T06:59:34Z",
-            "repository": {
-                "name": "sf-symbols-online",
-                "nameWithOwner": "wan-kong/sf-symbols-online",
-                "homepageUrl": "https://sf-symbols-online-web.vercel.app",
-                "description": "🍎 A beautiful online browser for Apple's SF Symbols - 1,672 icons with instant search, category filter, and dark mode",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/sf-symbols-online"
-            }
-        },
-        {
-            "number": 2,
-            "title": "fix: create output directory before writing manifest",
-            "url": "https://github.com/wan-kong/sf-symbols-online/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-26T06:53:13Z",
-            "mergedAt": "2026-03-26T06:59:20Z",
-            "closedAt": "2026-03-26T06:59:20Z",
-            "repository": {
-                "name": "sf-symbols-online",
-                "nameWithOwner": "wan-kong/sf-symbols-online",
-                "homepageUrl": "https://sf-symbols-online-web.vercel.app",
-                "description": "🍎 A beautiful online browser for Apple's SF Symbols - 1,672 icons with instant search, category filter, and dark mode",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/sf-symbols-online"
-            }
         }
     ],
     "contributions": {
-        "total": 156,
+        "total": 161,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -856,7 +856,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-05-13",

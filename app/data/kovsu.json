@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2786,
+            "title": "feat(package-json): add `exportsSubpathsStyle` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2786",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 398,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-12T03:46:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 15002,
             "title": "fix: recognize ctrl by uniKey value",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15002",
@@ -620,14 +644,14 @@
             "number": 2782,
             "title": "feat(package-json): add `emptyFields` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2782",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 644,
             "deletions": 105,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 15,
             "createdAt": "2026-05-11T07:33:49Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-12T00:27:28Z",
+            "closedAt": "2026-05-12T00:27:29Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -648,7 +672,7 @@
             "changedFiles": 1,
             "additions": 28,
             "deletions": 37,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-05-11T00:52:48Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 14693,
-            "title": "fix(agents): respect MCP timeout settings in proxy",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/14693",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 25,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-28T07:31:21Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 308,
+        "total": 310,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1362,7 +1362,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-13",

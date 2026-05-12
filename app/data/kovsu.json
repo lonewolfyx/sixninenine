@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2787,
+            "title": "feat: add packageJson rules to flint configuration",
+            "url": "https://github.com/flint-fyi/flint/pull/2787",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-12T09:36:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2786,
             "title": "feat(package-json): add `exportsSubpathsStyle` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2786",
@@ -648,7 +672,7 @@
             "changedFiles": 9,
             "additions": 644,
             "deletions": 105,
-            "totalCommentsCount": 15,
+            "totalCommentsCount": 16,
             "createdAt": "2026-05-11T07:33:49Z",
             "mergedAt": "2026-05-12T00:27:28Z",
             "closedAt": "2026-05-12T00:27:29Z",
@@ -672,7 +696,7 @@
             "changedFiles": 1,
             "additions": 28,
             "deletions": 37,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 10,
             "createdAt": "2026-05-11T00:52:48Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2633,
-            "title": "fix: update fixable message format in summary output",
-            "url": "https://github.com/flint-fyi/flint/pull/2633",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 7,
-            "deletions": 10,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-04-28T07:47:57Z",
-            "mergedAt": "2026-05-06T07:02:12Z",
-            "closedAt": "2026-05-06T07:02:12Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 310,
+        "total": 311,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1362,7 +1362,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-05-13",

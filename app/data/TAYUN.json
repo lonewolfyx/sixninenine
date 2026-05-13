@@ -248,6 +248,30 @@
     },
     "pullRequest": [
         {
+            "number": 73,
+            "title": "Fix directory path in README for building from source",
+            "url": "https://github.com/excalidraw/excalidraw-mcp/pull/73",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-13T07:56:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "excalidraw-mcp",
+                "nameWithOwner": "excalidraw/excalidraw-mcp",
+                "homepageUrl": "https://mcp.excalidraw.com",
+                "description": "Fast and streamable Excalidraw MCP App",
+                "owner": {
+                    "login": "excalidraw",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4"
+                },
+                "url": "https://github.com/excalidraw/excalidraw-mcp"
+            }
+        },
+        {
             "number": 5,
             "title": "Add new team member TAYUN to sponsors list",
             "url": "https://github.com/Moonofweisheng/sponsors/pull/5",
@@ -462,34 +486,10 @@
                 },
                 "url": "https://github.com/alovajs/alovajs.github.io"
             }
-        },
-        {
-            "number": 126,
-            "title": "feat(wormhole): enhances the Apifox plugin with more flexible export options and additional parameters support.",
-            "url": "https://github.com/alovajs/devtools/pull/126",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 197,
-            "deletions": 22,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-11-21T02:44:46Z",
-            "mergedAt": "2025-11-24T08:53:54Z",
-            "closedAt": "2025-11-24T08:53:54Z",
-            "repository": {
-                "name": "devtools",
-                "nameWithOwner": "alovajs/devtools",
-                "homepageUrl": "https://alova.js.org/tutorial/getting-started/openapi-integration",
-                "description": "Editor devtools for alova.js",
-                "owner": {
-                    "login": "alovajs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
-                },
-                "url": "https://github.com/alovajs/devtools"
-            }
         }
     ],
     "contributions": {
-        "total": 164,
+        "total": 166,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1021,7 +1021,7 @@
             },
             {
                 "date": "2026-05-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-14",

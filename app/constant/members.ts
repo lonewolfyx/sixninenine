@@ -23,7 +23,7 @@ export const members: membersType[] = [
     { username: 'qianYuanJ' },
     { username: 'TAYUN', aliasName: '云阁' },
     { username: 'jsy-0526', aliasName: '阳哥' }, // 阳哥
-    { username: 'wan-kong' },
+    { username: 'wan-kong', aliasName: '晚空' },
     { username: 'penghangtao' },
     { username: 'lbineau' },
     { username: 'Chang-Chen' },

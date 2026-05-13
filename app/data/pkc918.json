@@ -345,6 +345,30 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "build: add Dockerfile and docker-compose for web and worker services",
+            "url": "https://github.com/BillionsBobby/agenttrader-arena/pull/25",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 97,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-13T03:19:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "agenttrader-arena",
+                "nameWithOwner": "BillionsBobby/agenttrader-arena",
+                "homepageUrl": "https://agenttrader.io/",
+                "description": "Open-source public arena, agent protocol, and market-data workers for trading agents.",
+                "owner": {
+                    "login": "BillionsBobby",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/133582031?u=d472036b510ebf5508450391a36020e602f53962&v=4"
+                },
+                "url": "https://github.com/BillionsBobby/agenttrader-arena"
+            }
+        },
+        {
             "number": 23,
             "title": "refactor(monorepo): update workspace configuration and eslint",
             "url": "https://github.com/BillionsBobby/agenttrader-arena/pull/23",
@@ -559,34 +583,10 @@
                 },
                 "url": "https://github.com/skills-club/skills-live"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: render md",
-            "url": "https://github.com/skills-club/skills-live/pull/1",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 440,
-            "deletions": 16,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-24T02:32:17Z",
-            "mergedAt": "2026-02-24T02:32:33Z",
-            "closedAt": "2026-02-24T02:32:33Z",
-            "repository": {
-                "name": "skills-live",
-                "nameWithOwner": "skills-club/skills-live",
-                "homepageUrl": "https://skills-club.cc",
-                "description": "Collect the best practice skills",
-                "owner": {
-                    "login": "skills-club",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
-                },
-                "url": "https://github.com/skills-club/skills-live"
-            }
         }
     ],
     "contributions": {
-        "total": 266,
+        "total": 269,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1118,7 +1118,7 @@
             },
             {
                 "date": "2026-05-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-05-14",

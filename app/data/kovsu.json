@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
         "pronouns": "",
-        "followers": 78,
+        "followers": 77,
         "following": 26
     },
     "languages": [
@@ -593,17 +593,65 @@
     },
     "pullRequest": [
         {
+            "number": 2789,
+            "title": "feat(package-json): add `peerDependenciesInstallation` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2789",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 216,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-13T03:40:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 2788,
+            "title": "feat(package-json): add `filesRedundancy` rule",
+            "url": "https://github.com/flint-fyi/flint/pull/2788",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 691,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-13T03:01:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2787,
             "title": "feat: add packageJson rules to flint configuration",
             "url": "https://github.com/flint-fyi/flint/pull/2787",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 8,
             "deletions": 1,
             "totalCommentsCount": 5,
             "createdAt": "2026-05-12T09:36:02Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-13T00:34:13Z",
+            "closedAt": "2026-05-13T00:34:13Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/JoshuaKGoldberg/debug-for-file"
             }
-        },
-        {
-            "number": 2749,
-            "title": "chore: adjust test timeout for e2e tests",
-            "url": "https://github.com/flint-fyi/flint/pull/2749",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-05-05T01:52:31Z",
-            "mergedAt": "2026-05-11T13:46:51Z",
-            "closedAt": "2026-05-11T13:46:51Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2746,
-            "title": "feat(package-json): add `dependencyUniqueness` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2746",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 638,
-            "deletions": 7,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-05-04T07:47:27Z",
-            "mergedAt": "2026-05-06T07:04:17Z",
-            "closedAt": "2026-05-06T07:04:17Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 311,
+        "total": 314,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1366,7 +1366,7 @@
             },
             {
                 "date": "2026-05-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-05-14",

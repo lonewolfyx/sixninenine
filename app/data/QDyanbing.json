@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 391,
+            "title": "fix: export notification list types",
+            "url": "https://github.com/react-component/notification/pull/391",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-14T15:06:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "notification",
+                "nameWithOwner": "react-component/notification",
+                "homepageUrl": "https://notification-react-component.vercel.app/",
+                "description": "React Notification",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/notification"
+            }
+        },
+        {
+            "number": 57976,
+            "title": "fix: avoid deep rc notification runtime import",
+            "url": "https://github.com/ant-design/ant-design/pull/57976",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 4,
+            "deletions": 3,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-05-14T13:28:37Z",
+            "mergedAt": "2026-05-14T14:21:19Z",
+            "closedAt": "2026-05-14T14:21:19Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 57969,
+            "title": "fix(BorderBeam): prevent beam from breaking at corners",
+            "url": "https://github.com/ant-design/ant-design/pull/57969",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-05-14T09:27:41Z",
+            "mergedAt": "2026-05-14T09:33:00Z",
+            "closedAt": "2026-05-14T09:33:00Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 57963,
             "title": "docs: fix api table column inconsistencies",
             "url": "https://github.com/ant-design/ant-design/pull/57963",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57897,
-            "title": "fix(Select): use token font family on root",
-            "url": "https://github.com/ant-design/ant-design/pull/57897",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-05-09T01:09:37Z",
-            "mergedAt": "2026-05-09T02:56:25Z",
-            "closedAt": "2026-05-09T02:56:25Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57887,
-            "title": "docs: clarify changelog scope for PR reviews",
-            "url": "https://github.com/ant-design/ant-design/pull/57887",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-08T01:29:28Z",
-            "mergedAt": "2026-05-08T02:42:23Z",
-            "closedAt": "2026-05-08T02:42:23Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57886,
-            "title": "feat(Watermark): support per-line font styles for content",
-            "url": "https://github.com/ant-design/ant-design/pull/57886",
-            "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 203,
-            "deletions": 56,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-05-08T01:14:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2533,
+        "total": 2539,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -836,7 +836,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 18
+                "count": 24
             },
             {
                 "date": "2026-05-15",

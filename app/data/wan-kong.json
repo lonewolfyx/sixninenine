@@ -87,6 +87,30 @@
     },
     "pullRequest": [
         {
+            "number": 12,
+            "title": "fix: use pathToFileURL for dynamic import on Windows",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/12",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 17,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T09:18:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 47,
             "title": "feat: add wan-kong's aliasName",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/47",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/sf-symbols-online"
             }
-        },
-        {
-            "number": 5,
-            "title": "chore: 移除 vercel.json 配置文件",
-            "url": "https://github.com/wan-kong/sf-symbols-online/pull/5",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 7,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-26T07:14:29Z",
-            "mergedAt": "2026-03-26T07:14:46Z",
-            "closedAt": "2026-03-26T07:14:46Z",
-            "repository": {
-                "name": "sf-symbols-online",
-                "nameWithOwner": "wan-kong/sf-symbols-online",
-                "homepageUrl": "https://sf-symbols-online-web.vercel.app",
-                "description": "🍎 A beautiful online browser for Apple's SF Symbols - 1,672 icons with instant search, category filter, and dark mode",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/sf-symbols-online"
-            }
         }
     ],
     "contributions": {
-        "total": 170,
+        "total": 171,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -864,7 +864,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-05-15",

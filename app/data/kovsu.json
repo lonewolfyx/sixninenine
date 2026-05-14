@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 15089,
+            "title": "hotfix: add environment variable for claude code provider management",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15089",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-14T10:01:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2795,
             "title": "feat(package-json): add `repositoryDirectoryValidity` rule",
             "url": "https://github.com/flint-fyi/flint/pull/2795",
@@ -600,7 +624,7 @@
             "changedFiles": 8,
             "additions": 269,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-05-14T02:26:30Z",
             "mergedAt": null,
             "closedAt": null,
@@ -648,7 +672,7 @@
             "changedFiles": 6,
             "additions": 334,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 4,
             "createdAt": "2026-05-14T01:12:08Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2781,
-            "title": "fix: remove unnecessary footer tag",
-            "url": "https://github.com/flint-fyi/flint/pull/2781",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 28,
-            "deletions": 37,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-11T00:52:48Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 318,
+        "total": 319,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1370,7 +1370,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2026-05-15",

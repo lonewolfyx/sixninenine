@@ -13,9 +13,9 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1654059,
+            "size": 1654238,
             "repoCount": 29,
-            "progress": "50.72"
+            "progress": "50.73"
         },
         {
             "name": "Vue",
@@ -818,6 +818,150 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "chore(lint): enable typescript support in eslint configuration",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T03:11:22Z",
+            "mergedAt": "2026-05-14T03:11:31Z",
+            "closedAt": "2026-05-14T03:11:31Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 21,
+            "title": "fix(cli): set default value for lock option to false",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/21",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T02:17:11Z",
+            "mergedAt": "2026-05-14T02:17:27Z",
+            "closedAt": "2026-05-14T02:17:27Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
+            "number": 20,
+            "title": "feat(constants): add `cache` junk files directory",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/20",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T02:14:04Z",
+            "mergedAt": "2026-05-14T02:14:19Z",
+            "closedAt": "2026-05-14T02:14:19Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
+            "number": 19,
+            "title": "feat(cli): update file traversal to include dot files and add blacklist filtering",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/19",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T02:04:08Z",
+            "mergedAt": "2026-05-14T02:05:30Z",
+            "closedAt": "2026-05-14T02:05:30Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
+            "number": 10,
+            "title": "feat: switch `lint-staged` with `nano-staged`",
+            "url": "https://github.com/lonewolfyx/utils/pull/10",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 213,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T01:44:41Z",
+            "mergedAt": "2026-05-14T01:44:53Z",
+            "closedAt": "2026-05-14T01:44:54Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat(promise): add importDefault utility function",
+            "url": "https://github.com/lonewolfyx/utils/pull/9",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 153,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T01:33:18Z",
+            "mergedAt": "2026-05-14T01:33:36Z",
+            "closedAt": "2026-05-14T01:33:36Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 11,
             "title": "fix(githooks): switch `lint-staged` with `nano-staged` for pre-commit hooks",
             "url": "https://github.com/lonewolfyx/setup/pull/11",
@@ -912,154 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/clear-branch"
             }
-        },
-        {
-            "number": 8,
-            "title": "fix(git): ensure default branch checkout before fetching branches",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T07:25:05Z",
-            "mergedAt": "2026-05-13T07:25:17Z",
-            "closedAt": "2026-05-13T07:25:17Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 7,
-            "title": "fix(git): replace current branch logic with default branch detection",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 16,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T07:20:57Z",
-            "mergedAt": "2026-05-13T07:21:07Z",
-            "closedAt": "2026-05-13T07:21:07Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 6,
-            "title": "feat(cli): enhance CLI startup with colorful intro and outro",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T06:16:03Z",
-            "mergedAt": "2026-05-13T06:16:14Z",
-            "closedAt": "2026-05-13T06:16:14Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 5,
-            "title": "fix(cli): replace custom confirmation prompt with direct clack integration",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/5",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 18,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T06:11:42Z",
-            "mergedAt": "2026-05-13T06:13:25Z",
-            "closedAt": "2026-05-13T06:13:25Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 4,
-            "title": "fix(git): remove console log statement",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/4",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T06:04:42Z",
-            "mergedAt": "2026-05-13T06:04:53Z",
-            "closedAt": "2026-05-13T06:04:53Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(progress): enhance branch deletion progress indicator",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T06:02:38Z",
-            "mergedAt": "2026-05-13T06:02:50Z",
-            "closedAt": "2026-05-13T06:02:50Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 7425,
+        "total": 7447,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1591,11 +1591,11 @@
             },
             {
                 "date": "2026-05-13",
-                "count": 52
+                "count": 57
             },
             {
                 "date": "2026-05-14",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-05-15",

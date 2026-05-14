@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 534,
+            "title": "ci: restrict deploy-site workflow to upstream repository",
+            "url": "https://github.com/antdv-next/antdv-next/pull/534",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T08:50:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 51,
             "title": "Revert \"fix(trigger): manually remove axis-specific overflow propertes from`popupStyle` (#43)\"",
             "url": "https://github.com/antdv-next/vue-components/pull/51",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/x"
             }
-        },
-        {
-            "number": 428,
-            "title": "fix(docs): align sider menu dark theme tokens and background",
-            "url": "https://github.com/antdv-next/antdv-next/pull/428",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-28T08:54:51Z",
-            "mergedAt": "2026-03-30T00:51:29Z",
-            "closedAt": "2026-03-30T00:51:30Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 198,
+        "total": 199,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -850,7 +850,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-15",

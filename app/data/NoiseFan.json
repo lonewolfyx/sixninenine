@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 81357,
+            "size": 100805,
             "repoCount": 2,
-            "progress": "98.76"
+            "progress": "99.00"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "1.24"
+            "progress": "1.00"
         }
     ],
     "organizations": {
@@ -31,17 +31,89 @@
     },
     "pullRequest": [
         {
-            "number": 22,
-            "title": "feat(space-around-word): cjk alphanumeric spacing rule",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/22",
+            "number": 26,
+            "title": "chore: update dependencies",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/26",
             "state": "OPEN",
-            "changedFiles": 21,
-            "additions": 1139,
+            "changedFiles": 3,
+            "additions": 1076,
+            "deletions": 1025,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T09:02:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 24,
+            "title": "fix(valid-heading-anchor): collapse repeated spaces in normalized heading anchors",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/24",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 12,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T07:22:48Z",
+            "mergedAt": "2026-05-14T08:11:41Z",
+            "closedAt": "2026-05-14T08:11:41Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 23,
+            "title": "feat!: rename `space-between-inline-element` to `space-around-inline-element`",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/23",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 16,
+            "deletions": 16,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T07:02:59Z",
+            "mergedAt": "2026-05-14T07:07:20Z",
+            "closedAt": "2026-05-14T07:07:20Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 22,
+            "title": "feat(space-around-word): cjk & latin alphabet spacing rule",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/22",
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 1160,
             "deletions": 17,
             "totalCommentsCount": 1,
             "createdAt": "2026-05-11T12:35:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-14T06:40:22Z",
+            "closedAt": "2026-05-14T06:40:22Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 16,
-            "title": "feat!: rename package to eslint-plugin-md-style",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/16",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 31,
-            "deletions": 31,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-05T11:21:47Z",
-            "mergedAt": "2026-05-05T11:24:06Z",
-            "closedAt": "2026-05-05T11:24:06Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 15,
-            "title": "refactor: add type annotations & optimize redundant functions",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/15",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 97,
-            "deletions": 23,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-05T02:41:07Z",
-            "mergedAt": "2026-05-05T02:42:15Z",
-            "closedAt": "2026-05-05T02:42:15Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 14,
-            "title": "fix(anchor): relax like-anchor matching for dotted headings",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/14",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 16,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-04T16:33:50Z",
-            "mergedAt": "2026-05-04T16:34:51Z",
-            "closedAt": "2026-05-04T16:34:51Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 342,
+        "total": 348,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -808,7 +808,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-05-15",

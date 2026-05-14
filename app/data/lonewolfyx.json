@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "refactor(types): introduce ValueOf utility type and update type definitions",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/25",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 34,
+            "deletions": 27,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T08:53:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 4,
+            "title": "refactor(cli): switch `npx` to `@antfu/ni/nlx` perform shadcn-vue component installation",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/4",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 65,
+            "deletions": 22,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T08:16:39Z",
+            "mergedAt": "2026-05-14T08:17:20Z",
+            "closedAt": "2026-05-14T08:17:20Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 3,
+            "title": "refactor(utils): replace fs.readdir with glob for subdirectory listing",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T07:26:22Z",
+            "mergedAt": "2026-05-14T07:26:38Z",
+            "closedAt": "2026-05-14T07:26:38Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 2,
+            "title": "feat(cli): add filter for already installed component libraries",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/2",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 117,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T07:15:39Z",
+            "mergedAt": "2026-05-14T07:18:30Z",
+            "closedAt": "2026-05-14T07:18:30Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
             "number": 1,
             "title": "chore(lint): enable typescript support in eslint configuration",
             "url": "https://github.com/lonewolfyx/shadcn-install/pull/1",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/utils"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix(githooks): switch `lint-staged` with `nano-staged` for pre-commit hooks",
-            "url": "https://github.com/lonewolfyx/setup/pull/11",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T09:03:54Z",
-            "mergedAt": "2026-05-13T09:04:07Z",
-            "closedAt": "2026-05-13T09:04:07Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 31,
-            "title": "feat(project): add clear-branch project to open source list",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/31",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-13T08:54:08Z",
-            "mergedAt": "2026-05-13T08:54:22Z",
-            "closedAt": "2026-05-13T08:54:22Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 10,
-            "title": "feat(cli): add spinner feedback for branch retrieval",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T08:09:58Z",
-            "mergedAt": "2026-05-13T08:10:21Z",
-            "closedAt": "2026-05-13T08:10:21Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 9,
-            "title": "fix(git): simplify branch deletion logic",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/9",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-13T08:03:03Z",
-            "mergedAt": "2026-05-13T08:03:13Z",
-            "closedAt": "2026-05-13T08:03:13Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 7447,
+        "total": 7461,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1595,7 +1595,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 17
+                "count": 31
             },
             {
                 "date": "2026-05-15",

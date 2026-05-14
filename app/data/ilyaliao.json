@@ -29,7 +29,7 @@
             "color": "#41b883",
             "size": 424385,
             "repoCount": 16,
-            "progress": "19.87"
+            "progress": "19.86"
         },
         {
             "name": "MDX",
@@ -69,9 +69,9 @@
         {
             "name": "Ruby",
             "color": "#701516",
-            "size": 868,
+            "size": 1031,
             "repoCount": 1,
-            "progress": "0.04"
+            "progress": "0.05"
         },
         {
             "name": "SCSS",
@@ -583,6 +583,54 @@
     },
     "pullRequest": [
         {
+            "number": 622,
+            "title": "perf: precompile picomatch matchers once per context",
+            "url": "https://github.com/unplugin/unplugin-auto-import/pull/622",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T19:05:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-auto-import",
+                "nameWithOwner": "unplugin/unplugin-auto-import",
+                "homepageUrl": "",
+                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-auto-import"
+            }
+        },
+        {
+            "number": 912,
+            "title": "perf: hoist slash() call out of matchGlobs loop",
+            "url": "https://github.com/unplugin/unplugin-vue-components/pull/912",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T18:18:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-vue-components",
+                "nameWithOwner": "unplugin/unplugin-vue-components",
+                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
+                "description": "📲 On-demand components auto importing for Vue",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-vue-components"
+            }
+        },
+        {
             "number": 168,
             "title": "refactor: migrate to tsdown",
             "url": "https://github.com/antfu-collective/vite-plugin-inspect/pull/168",
@@ -773,58 +821,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 588,
-            "title": "fix: dirs hot reload without wildcards",
-            "url": "https://github.com/unplugin/unplugin-auto-import/pull/588",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 33,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-27T14:26:06Z",
-            "mergedAt": "2025-08-28T02:36:01Z",
-            "closedAt": "2025-08-28T02:36:01Z",
-            "repository": {
-                "name": "unplugin-auto-import",
-                "nameWithOwner": "unplugin/unplugin-auto-import",
-                "homepageUrl": "",
-                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-auto-import"
-            }
-        },
-        {
-            "number": 322,
-            "title": "fix: `EXPORT_DEFAULT_RE` to capture named exports",
-            "url": "https://github.com/unjs/mlly/pull/322",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-08-24T07:42:08Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "mlly",
-                "nameWithOwner": "unjs/mlly",
-                "homepageUrl": "",
-                "description": "🤝 Common ECMAScript module utils ",
-                "owner": {
-                    "login": "unjs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/80154025?v=4"
-                },
-                "url": "https://github.com/unjs/mlly"
-            }
         }
     ],
     "contributions": {
-        "total": 342,
+        "total": 349,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1360,11 +1360,11 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-05-15",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-05-16",

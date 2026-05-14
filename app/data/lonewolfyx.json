@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1650883,
+            "size": 1654799,
             "repoCount": 29,
-            "progress": "50.67"
+            "progress": "50.73"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1427796,
             "repoCount": 16,
-            "progress": "43.83"
+            "progress": "43.77"
         },
         {
             "name": "CSS",
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "docs(readme): add documentation for local-pkg-bin package",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 22,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T15:54:31Z",
+            "mergedAt": "2026-05-14T15:55:16Z",
+            "closedAt": "2026-05-14T15:55:16Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
+            }
+        },
+        {
+            "number": 2,
+            "title": "feat(build): configure package exports and build system",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 23,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T15:50:47Z",
+            "mergedAt": "2026-05-14T15:51:38Z",
+            "closedAt": "2026-05-14T15:51:38Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(core): add package bin resolution functionality",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/1",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 120,
+            "deletions": 8,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-14T15:47:05Z",
+            "mergedAt": "2026-05-14T15:47:37Z",
+            "closedAt": "2026-05-14T15:47:38Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
+            }
+        },
+        {
             "number": 25,
             "title": "refactor(types): introduce ValueOf utility type and update type definitions",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/25",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/rmcache"
             }
-        },
-        {
-            "number": 19,
-            "title": "feat(cli): update file traversal to include dot files and add blacklist filtering",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/19",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T02:04:08Z",
-            "mergedAt": "2026-05-14T02:05:30Z",
-            "closedAt": "2026-05-14T02:05:30Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
-        },
-        {
-            "number": 10,
-            "title": "feat: switch `lint-staged` with `nano-staged`",
-            "url": "https://github.com/lonewolfyx/utils/pull/10",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 213,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-14T01:44:41Z",
-            "mergedAt": "2026-05-14T01:44:53Z",
-            "closedAt": "2026-05-14T01:44:54Z",
-            "repository": {
-                "name": "utils",
-                "nameWithOwner": "lonewolfyx/utils",
-                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
-                "description": "Collection of common JavaScript / TypeScript utils",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/utils"
-            }
-        },
-        {
-            "number": 9,
-            "title": "feat(promise): add importDefault utility function",
-            "url": "https://github.com/lonewolfyx/utils/pull/9",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 153,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-14T01:33:18Z",
-            "mergedAt": "2026-05-14T01:33:36Z",
-            "closedAt": "2026-05-14T01:33:36Z",
-            "repository": {
-                "name": "utils",
-                "nameWithOwner": "lonewolfyx/utils",
-                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
-                "description": "Collection of common JavaScript / TypeScript utils",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/utils"
-            }
         }
     ],
     "contributions": {
-        "total": 7470,
+        "total": 7483,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1595,7 +1595,7 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 40
+                "count": 53
             },
             {
                 "date": "2026-05-15",

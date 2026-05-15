@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 5,
+            "title": "refactor(check): optimize package version resolution with batch processing",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/5",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 498,
+            "deletions": 119,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T17:58:00Z",
+            "mergedAt": "2026-05-15T17:58:12Z",
+            "closedAt": "2026-05-15T17:58:12Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 4,
+            "title": "refactor(cli): migrate to citty for command line argument parsing",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/4",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 179,
+            "deletions": 194,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T17:19:28Z",
+            "mergedAt": "2026-05-15T17:22:15Z",
+            "closedAt": "2026-05-15T17:22:15Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 3,
+            "title": "fix(cli): restore runtime flow and stable test script",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/3",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 141,
+            "deletions": 52,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-15T16:18:54Z",
+            "mergedAt": "2026-05-15T16:19:05Z",
+            "closedAt": "2026-05-15T16:19:05Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 2,
+            "title": "refactor(cli): restructure CLI implementation and update build configuration",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/2",
+            "state": "MERGED",
+            "changedFiles": 50,
+            "additions": 3559,
+            "deletions": 329,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T16:05:20Z",
+            "mergedAt": "2026-05-15T16:06:05Z",
+            "closedAt": "2026-05-15T16:06:05Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 11,
             "title": "fix(prompt): move progress indicator before delete branch",
             "url": "https://github.com/lonewolfyx/clear-branch/pull/11",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/local-pkg-bin"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat(build): configure package exports and build system",
-            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 23,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T15:50:47Z",
-            "mergedAt": "2026-05-14T15:51:38Z",
-            "closedAt": "2026-05-14T15:51:38Z",
-            "repository": {
-                "name": "local-pkg-bin",
-                "nameWithOwner": "lonewolfyx/local-pkg-bin",
-                "homepageUrl": null,
-                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/local-pkg-bin"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(core): add package bin resolution functionality",
-            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/1",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 120,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-14T15:47:05Z",
-            "mergedAt": "2026-05-14T15:47:37Z",
-            "closedAt": "2026-05-14T15:47:38Z",
-            "repository": {
-                "name": "local-pkg-bin",
-                "nameWithOwner": "lonewolfyx/local-pkg-bin",
-                "homepageUrl": null,
-                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/local-pkg-bin"
-            }
-        },
-        {
-            "number": 25,
-            "title": "refactor(types): introduce ValueOf utility type and update type definitions",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/25",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 34,
-            "deletions": 27,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T08:53:19Z",
-            "mergedAt": "2026-05-14T09:16:14Z",
-            "closedAt": "2026-05-14T09:16:14Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 4,
-            "title": "refactor(cli): switch `npx` to `@antfu/ni/nlx` perform shadcn-vue component installation",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/4",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 65,
-            "deletions": 22,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T08:16:39Z",
-            "mergedAt": "2026-05-14T08:17:20Z",
-            "closedAt": "2026-05-14T08:17:20Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
         }
     ],
     "contributions": {
-        "total": 7519,
+        "total": 7535,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1599,11 +1599,11 @@
             },
             {
                 "date": "2026-05-15",
-                "count": 30
+                "count": 38
             },
             {
                 "date": "2026-05-16",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-05-17",

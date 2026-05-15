@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1654799,
+            "size": 1657940,
             "repoCount": 29,
-            "progress": "50.73"
+            "progress": "50.78"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1427796,
             "repoCount": 16,
-            "progress": "43.77"
+            "progress": "43.73"
         },
         {
             "name": "CSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 4,
+            "title": "feat: add options.paths to resolvePackageBin for caller-specified resolution",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/4",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 95,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T03:06:05Z",
+            "mergedAt": "2026-05-15T03:06:13Z",
+            "closedAt": "2026-05-15T03:06:14Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
+            }
+        },
+        {
             "number": 3,
             "title": "docs(readme): add documentation for local-pkg-bin package",
             "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/3",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/rmcache"
             }
-        },
-        {
-            "number": 20,
-            "title": "feat(constants): add `cache` junk files directory",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/20",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T02:14:04Z",
-            "mergedAt": "2026-05-14T02:14:19Z",
-            "closedAt": "2026-05-14T02:14:19Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
         }
     ],
     "contributions": {
-        "total": 7483,
+        "total": 7496,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1595,11 +1595,11 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 53
+                "count": 58
             },
             {
                 "date": "2026-05-15",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-05-16",

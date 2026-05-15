@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 392,
+            "title": "chore: forbid package es lib imports",
+            "url": "https://github.com/react-component/notification/pull/392",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 26,
+            "deletions": 5,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-15T02:01:01Z",
+            "mergedAt": "2026-05-15T02:32:51Z",
+            "closedAt": "2026-05-15T02:32:51Z",
+            "repository": {
+                "name": "notification",
+                "nameWithOwner": "react-component/notification",
+                "homepageUrl": "https://notification-react-component.vercel.app/",
+                "description": "React Notification",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/notification"
+            }
+        },
+        {
+            "number": 761,
+            "title": "[codex] expose additional utilities from package entry",
+            "url": "https://github.com/react-component/util/pull/761",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 49,
+            "deletions": 4,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-05-15T01:08:21Z",
+            "mergedAt": "2026-05-15T01:49:51Z",
+            "closedAt": "2026-05-15T01:49:51Z",
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "util.vercel.app",
+                "description": "Common Utils For React Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 391,
             "title": "fix: export notification list types",
             "url": "https://github.com/react-component/notification/pull/391",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1222,
-            "title": "fix: render select input as text combobox",
-            "url": "https://github.com/react-component/select/pull/1222",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 24,
-            "deletions": 19,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-10T07:43:20Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
-        },
-        {
-            "number": 57899,
-            "title": "demo: fix List virtual demo message style",
-            "url": "https://github.com/ant-design/ant-design/pull/57899",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 25,
-            "deletions": 21,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-09T05:44:12Z",
-            "mergedAt": "2026-05-09T06:12:38Z",
-            "closedAt": "2026-05-09T06:12:38Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2540,
+        "total": 2544,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -840,7 +840,7 @@
             },
             {
                 "date": "2026-05-15",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-16",

@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 976,
+            "title": "docs(cn): update  guide",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/976",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 50,
+            "deletions": 47,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-05-15T14:06:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 975,
+            "title": "chore: update dependencies",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/975",
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 2574,
+            "deletions": 1889,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-15T11:44:56Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-15T12:22:26Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 28,
             "title": "chore: add root AGENT.md",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/28",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 19,
-            "title": "chore(ci): trigger ci.yml when merging main branches",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/19",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-05T16:47:41Z",
-            "mergedAt": "2026-05-05T16:50:00Z",
-            "closedAt": "2026-05-05T16:50:00Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat: add default language for commit message",
-            "url": "https://github.com/Fan-s-Collective/git-commit-skills/pull/1",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 24,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-05T12:38:58Z",
-            "mergedAt": "2026-05-05T12:39:08Z",
-            "closedAt": "2026-05-05T12:39:08Z",
-            "repository": {
-                "name": "git-commit-skills",
-                "nameWithOwner": "Fan-s-Collective/git-commit-skills",
-                "homepageUrl": null,
-                "description": "An agent skill for writing Conventional Commit messages from staged or unstaged git changes.",
-                "owner": {
-                    "login": "Fan-s-Collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/242322023?v=4"
-                },
-                "url": "https://github.com/Fan-s-Collective/git-commit-skills"
-            }
         }
     ],
     "contributions": {
-        "total": 354,
+        "total": 356,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -812,7 +812,7 @@
             },
             {
                 "date": "2026-05-15",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-05-16",

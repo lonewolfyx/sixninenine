@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 36,
+            "title": "chore: forbid rc deep imports",
+            "url": "https://github.com/react-component/portal/pull/36",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 52,
+            "deletions": 32,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-15T08:13:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "portal",
+                "nameWithOwner": "react-component/portal",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/portal"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix: 改用 rc 包根入口导入",
+            "url": "https://github.com/QDyanbing/rc-portal/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 8,
+            "additions": 52,
+            "deletions": 32,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T07:59:07Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-15T08:11:58Z",
+            "repository": {
+                "name": "rc-portal",
+                "nameWithOwner": "QDyanbing/rc-portal",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/rc-portal"
+            }
+        },
+        {
+            "number": 54,
+            "title": "chore: forbid rc deep imports",
+            "url": "https://github.com/react-component/context/pull/54",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 30,
+            "deletions": 8,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-05-15T06:55:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "context",
+                "nameWithOwner": "react-component/context",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/context"
+            }
+        },
+        {
             "number": 392,
             "title": "chore: forbid package es lib imports",
             "url": "https://github.com/react-component/notification/pull/392",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57943,
-            "title": "fix(Space): fix compact item hover border overlap",
-            "url": "https://github.com/ant-design/ant-design/pull/57943",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 18,
-            "deletions": 6,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-13T00:35:55Z",
-            "mergedAt": "2026-05-13T02:25:28Z",
-            "closedAt": "2026-05-13T02:25:28Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57919,
-            "title": "demo: fix static message style in component demos",
-            "url": "https://github.com/ant-design/ant-design/pull/57919",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 475,
-            "deletions": 393,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-05-11T08:41:19Z",
-            "mergedAt": "2026-05-12T02:14:07Z",
-            "closedAt": "2026-05-12T02:14:07Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 57917,
-            "title": "fix(Radio): support uncontrolled checked state",
-            "url": "https://github.com/ant-design/ant-design/pull/57917",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 2,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-05-11T05:59:43Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2544,
+        "total": 2551,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -840,7 +840,7 @@
             },
             {
                 "date": "2026-05-15",
-                "count": 4
+                "count": 11
             },
             {
                 "date": "2026-05-16",

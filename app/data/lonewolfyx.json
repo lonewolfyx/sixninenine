@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1657940,
+            "size": 1666978,
             "repoCount": 29,
-            "progress": "50.78"
+            "progress": "50.92"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1427796,
             "repoCount": 16,
-            "progress": "43.73"
+            "progress": "43.61"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.94"
+            "progress": "2.93"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 76067,
+            "size": 76010,
             "repoCount": 28,
-            "progress": "2.33"
+            "progress": "2.32"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "fix(prompt): move progress indicator before delete branch",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/11",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T05:31:43Z",
+            "mergedAt": "2026-05-15T05:32:03Z",
+            "closedAt": "2026-05-15T05:32:03Z",
+            "repository": {
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
+                "homepageUrl": null,
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-branch"
+            }
+        },
+        {
+            "number": 22,
+            "title": "fix(cli): move progress indicator before rimraf",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/22",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T05:30:33Z",
+            "mergedAt": "2026-05-15T05:31:12Z",
+            "closedAt": "2026-05-15T05:31:12Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
+            "number": 6,
+            "title": "fix(cli): move progress indicator before component installation",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/6",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T05:28:58Z",
+            "mergedAt": "2026-05-15T05:31:08Z",
+            "closedAt": "2026-05-15T05:31:08Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 5,
+            "title": "feat(cli): switch `mlly` with `local-pkg-bin` for package resolution",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/5",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 18,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T05:24:03Z",
+            "mergedAt": "2026-05-15T05:24:17Z",
+            "closedAt": "2026-05-15T05:24:17Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
             "number": 4,
             "title": "feat: add options.paths to resolvePackageBin for caller-specified resolution",
             "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/4",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/shadcn-install"
             }
-        },
-        {
-            "number": 3,
-            "title": "refactor(utils): replace fs.readdir with glob for subdirectory listing",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T07:26:22Z",
-            "mergedAt": "2026-05-14T07:26:38Z",
-            "closedAt": "2026-05-14T07:26:38Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(cli): add filter for already installed component libraries",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/2",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 117,
-            "deletions": 13,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T07:15:39Z",
-            "mergedAt": "2026-05-14T07:18:30Z",
-            "closedAt": "2026-05-14T07:18:30Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 1,
-            "title": "chore(lint): enable typescript support in eslint configuration",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T03:11:22Z",
-            "mergedAt": "2026-05-14T03:11:31Z",
-            "closedAt": "2026-05-14T03:11:31Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 21,
-            "title": "fix(cli): set default value for lock option to false",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/21",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T02:17:11Z",
-            "mergedAt": "2026-05-14T02:17:27Z",
-            "closedAt": "2026-05-14T02:17:27Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
         }
     ],
     "contributions": {
-        "total": 7496,
+        "total": 7513,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1395,7 +1395,7 @@
             },
             {
                 "date": "2026-03-25",
-                "count": 44
+                "count": 45
             },
             {
                 "date": "2026-03-26",
@@ -1599,7 +1599,7 @@
             },
             {
                 "date": "2026-05-15",
-                "count": 8
+                "count": 24
             },
             {
                 "date": "2026-05-16",

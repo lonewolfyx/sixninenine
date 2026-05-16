@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "refactor(config): restructure configuration module with dedicated package handlers",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/10",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 332,
+            "deletions": 297,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-16T18:13:59Z",
+            "mergedAt": "2026-05-16T18:14:27Z",
+            "closedAt": "2026-05-16T18:14:27Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 9,
+            "title": "refactor(core): extract utility functions and simplify dependency handling",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/9",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 71,
+            "deletions": 89,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-16T14:46:48Z",
+            "mergedAt": "2026-05-16T14:47:03Z",
+            "closedAt": "2026-05-16T14:47:03Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 8,
             "title": "docs(skills): add bumpkg performance budget documentation",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/8",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/clear-branch"
             }
-        },
-        {
-            "number": 22,
-            "title": "fix(cli): move progress indicator before rimraf",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/22",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T05:30:33Z",
-            "mergedAt": "2026-05-15T05:31:12Z",
-            "closedAt": "2026-05-15T05:31:12Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
-        },
-        {
-            "number": 6,
-            "title": "fix(cli): move progress indicator before component installation",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T05:28:58Z",
-            "mergedAt": "2026-05-15T05:31:08Z",
-            "closedAt": "2026-05-15T05:31:08Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
         }
     ],
     "contributions": {
-        "total": 7564,
+        "total": 7578,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1603,11 +1603,11 @@
             },
             {
                 "date": "2026-05-16",
-                "count": 31
+                "count": 43
             },
             {
                 "date": "2026-05-17",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-18",

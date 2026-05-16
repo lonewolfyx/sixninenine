@@ -31,13 +31,37 @@
     },
     "pullRequest": [
         {
+            "number": 977,
+            "title": "docs(cn): update home page translate",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/977",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 12,
+            "deletions": 12,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-16T19:33:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 976,
             "title": "docs(cn): update  guide",
             "url": "https://github.com/vitest-dev/docs-cn/pull/976",
             "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 337,
-            "deletions": 336,
+            "changedFiles": 14,
+            "additions": 559,
+            "deletions": 558,
             "totalCommentsCount": 4,
             "createdAt": "2026-05-15T14:06:01Z",
             "mergedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 20,
-            "title": "feat(space-between-inline-elemnt): support inline elements",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/20",
-            "state": "MERGED",
-            "changedFiles": 41,
-            "additions": 1256,
-            "deletions": 665,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-06T06:44:47Z",
-            "mergedAt": "2026-05-10T20:18:41Z",
-            "closedAt": "2026-05-10T20:18:41Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 356,
+        "total": 357,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-05-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-18",

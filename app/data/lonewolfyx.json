@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 8,
+            "title": "docs(skills): add bumpkg performance budget documentation",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/8",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 55,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-16T11:03:07Z",
+            "mergedAt": "2026-05-16T11:03:16Z",
+            "closedAt": "2026-05-16T11:03:16Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 7,
+            "title": "feat(registry): add registry detection and caching support",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/7",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 390,
+            "deletions": 103,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-16T11:01:45Z",
+            "mergedAt": "2026-05-16T11:01:58Z",
+            "closedAt": "2026-05-16T11:01:58Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 6,
+            "title": "refactor(core): optimize dependency checking and improve npm registry integration",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/6",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 425,
+            "deletions": 151,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-16T09:12:09Z",
+            "mergedAt": "2026-05-16T09:14:02Z",
+            "closedAt": "2026-05-16T09:14:02Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 5,
             "title": "refactor(check): optimize package version resolution with batch processing",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/5",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/shadcn-install"
             }
-        },
-        {
-            "number": 5,
-            "title": "feat(cli): switch `mlly` with `local-pkg-bin` for package resolution",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/5",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 18,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T05:24:03Z",
-            "mergedAt": "2026-05-15T05:24:17Z",
-            "closedAt": "2026-05-15T05:24:17Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat: add options.paths to resolvePackageBin for caller-specified resolution",
-            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 95,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T03:06:05Z",
-            "mergedAt": "2026-05-15T03:06:13Z",
-            "closedAt": "2026-05-15T03:06:14Z",
-            "repository": {
-                "name": "local-pkg-bin",
-                "nameWithOwner": "lonewolfyx/local-pkg-bin",
-                "homepageUrl": null,
-                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/local-pkg-bin"
-            }
-        },
-        {
-            "number": 3,
-            "title": "docs(readme): add documentation for local-pkg-bin package",
-            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 22,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T15:54:31Z",
-            "mergedAt": "2026-05-14T15:55:16Z",
-            "closedAt": "2026-05-14T15:55:16Z",
-            "repository": {
-                "name": "local-pkg-bin",
-                "nameWithOwner": "lonewolfyx/local-pkg-bin",
-                "homepageUrl": null,
-                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/local-pkg-bin"
-            }
         }
     ],
     "contributions": {
-        "total": 7550,
+        "total": 7564,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1603,7 +1603,7 @@
             },
             {
                 "date": "2026-05-16",
-                "count": 17
+                "count": 31
             },
             {
                 "date": "2026-05-17",

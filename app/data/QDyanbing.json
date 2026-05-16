@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 18,
+            "title": "chore: forbid rc deep imports in build",
+            "url": "https://github.com/react-component/father-plugin/pull/18",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 29,
+            "deletions": 2,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-05-16T02:14:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "father-plugin",
+                "nameWithOwner": "react-component/father-plugin",
+                "homepageUrl": null,
+                "description": "father plugin for all react-component project",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/father-plugin"
+            }
+        },
+        {
             "number": 57990,
             "title": "fix(Select): correct search input font styles in Safari",
             "url": "https://github.com/ant-design/ant-design/pull/57990",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 57969,
-            "title": "fix(BorderBeam): prevent beam from breaking at corners",
-            "url": "https://github.com/ant-design/ant-design/pull/57969",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-14T09:27:41Z",
-            "mergedAt": "2026-05-14T09:33:00Z",
-            "closedAt": "2026-05-14T09:33:00Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2553,
+        "total": 2555,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -844,7 +844,7 @@
             },
             {
                 "date": "2026-05-16",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-17",

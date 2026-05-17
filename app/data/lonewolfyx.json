@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 12,
+            "title": "refactor(cli): standardize column headers and improve error handling",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/12",
+            "state": "MERGED",
+            "changedFiles": 28,
+            "additions": 595,
+            "deletions": 317,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-17T15:54:12Z",
+            "mergedAt": "2026-05-17T15:54:21Z",
+            "closedAt": "2026-05-17T15:54:21Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 11,
             "title": "feat(cli): enhance dependency update display with major version info",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/11",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/bumpkg"
             }
-        },
-        {
-            "number": 2,
-            "title": "refactor(cli): restructure CLI implementation and update build configuration",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/2",
-            "state": "MERGED",
-            "changedFiles": 50,
-            "additions": 3559,
-            "deletions": 329,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T16:05:20Z",
-            "mergedAt": "2026-05-15T16:06:05Z",
-            "closedAt": "2026-05-15T16:06:05Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
         }
     ],
     "contributions": {
-        "total": 7605,
+        "total": 7617,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1607,7 +1607,7 @@
             },
             {
                 "date": "2026-05-17",
-                "count": 20
+                "count": 32
             },
             {
                 "date": "2026-05-18",

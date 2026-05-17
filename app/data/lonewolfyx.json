@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "feat(cli): enhance dependency update display with major version info",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/11",
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 516,
+            "deletions": 177,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-17T08:57:06Z",
+            "mergedAt": "2026-05-17T08:57:29Z",
+            "closedAt": "2026-05-17T08:57:29Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 10,
             "title": "refactor(config): restructure configuration module with dedicated package handlers",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/10",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/bumpkg"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix(prompt): move progress indicator before delete branch",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/11",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T05:31:43Z",
-            "mergedAt": "2026-05-15T05:32:03Z",
-            "closedAt": "2026-05-15T05:32:03Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 7595,
+        "total": 7605,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1607,7 +1607,7 @@
             },
             {
                 "date": "2026-05-17",
-                "count": 10
+                "count": 20
             },
             {
                 "date": "2026-05-18",

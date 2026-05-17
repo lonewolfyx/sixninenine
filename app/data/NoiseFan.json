@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 980,
+            "title": "docs(cn): update /guide",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/980",
+            "state": "OPEN",
+            "changedFiles": 35,
+            "additions": 298,
+            "deletions": 269,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-17T10:01:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 979,
             "title": "docs(cn): update guide/browser/aria-snapshots.md",
             "url": "https://github.com/vitest-dev/docs-cn/pull/979",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 23,
-            "title": "feat!: rename `space-between-inline-element` to `space-around-inline-element`",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/23",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 16,
-            "deletions": 16,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T07:02:59Z",
-            "mergedAt": "2026-05-14T07:07:20Z",
-            "closedAt": "2026-05-14T07:07:20Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 363,
+        "total": 364,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-05-17",
-                "count": 7
+                "count": 8
             },
             {
                 "date": "2026-05-18",

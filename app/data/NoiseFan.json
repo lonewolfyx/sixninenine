@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 978,
+            "title": "docs(cn): update home page translate",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/978",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-17T04:36:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 977,
             "title": "docs(cn): update home page translate",
             "url": "https://github.com/vitest-dev/docs-cn/pull/977",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 12,
             "deletions": 12,
             "totalCommentsCount": 3,
             "createdAt": "2026-05-16T19:33:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-16T20:45:25Z",
+            "closedAt": "2026-05-16T20:45:25Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -58,14 +82,14 @@
             "number": 976,
             "title": "docs(cn): update  guide",
             "url": "https://github.com/vitest-dev/docs-cn/pull/976",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 14,
-            "additions": 559,
-            "deletions": 558,
+            "additions": 560,
+            "deletions": 559,
             "totalCommentsCount": 4,
             "createdAt": "2026-05-15T14:06:01Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-17T04:37:19Z",
+            "closedAt": "2026-05-17T04:37:19Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 21,
-            "title": "docs(readme): clarify ESLint and antfu config version requirements",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/21",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 14,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-11T06:13:08Z",
-            "mergedAt": "2026-05-11T06:17:00Z",
-            "closedAt": "2026-05-11T06:17:00Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 357,
+        "total": 360,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -820,7 +820,7 @@
             },
             {
                 "date": "2026-05-17",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-05-18",

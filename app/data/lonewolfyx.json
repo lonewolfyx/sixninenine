@@ -818,17 +818,17 @@
     },
     "pullRequest": [
         {
-            "number": 12,
-            "title": "refactor(cli): standardize column headers and improve error handling",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/12",
+            "number": 23,
+            "title": "chore: removes deprecated CLI and config modules with associated tests",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/23",
             "state": "MERGED",
-            "changedFiles": 28,
-            "additions": 595,
-            "deletions": 317,
+            "changedFiles": 26,
+            "additions": 0,
+            "deletions": 2582,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-17T15:54:12Z",
-            "mergedAt": "2026-05-17T15:54:21Z",
-            "closedAt": "2026-05-17T15:54:21Z",
+            "createdAt": "2026-05-18T09:21:57Z",
+            "mergedAt": "2026-05-18T09:22:15Z",
+            "closedAt": "2026-05-18T09:22:15Z",
             "repository": {
                 "name": "bumpkg",
                 "nameWithOwner": "lonewolfyx/bumpkg",
@@ -842,209 +842,209 @@
             }
         },
         {
-            "number": 11,
-            "title": "feat(cli): enhance dependency update display with major version info",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/11",
-            "state": "MERGED",
-            "changedFiles": 22,
-            "additions": 516,
-            "deletions": 177,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-17T08:57:06Z",
-            "mergedAt": "2026-05-17T08:57:29Z",
-            "closedAt": "2026-05-17T08:57:29Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 10,
-            "title": "refactor(config): restructure configuration module with dedicated package handlers",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/10",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 332,
-            "deletions": 297,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-16T18:13:59Z",
-            "mergedAt": "2026-05-16T18:14:27Z",
-            "closedAt": "2026-05-16T18:14:27Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 9,
-            "title": "refactor(core): extract utility functions and simplify dependency handling",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/9",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 71,
-            "deletions": 89,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-16T14:46:48Z",
-            "mergedAt": "2026-05-16T14:47:03Z",
-            "closedAt": "2026-05-16T14:47:03Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 8,
-            "title": "docs(skills): add bumpkg performance budget documentation",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 55,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-16T11:03:07Z",
-            "mergedAt": "2026-05-16T11:03:16Z",
-            "closedAt": "2026-05-16T11:03:16Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 7,
-            "title": "feat(registry): add registry detection and caching support",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/7",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 390,
-            "deletions": 103,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-16T11:01:45Z",
-            "mergedAt": "2026-05-16T11:01:58Z",
-            "closedAt": "2026-05-16T11:01:58Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 6,
-            "title": "refactor(core): optimize dependency checking and improve npm registry integration",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/6",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 425,
-            "deletions": 151,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-16T09:12:09Z",
-            "mergedAt": "2026-05-16T09:14:02Z",
-            "closedAt": "2026-05-16T09:14:02Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 5,
-            "title": "refactor(check): optimize package version resolution with batch processing",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/5",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 498,
-            "deletions": 119,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T17:58:00Z",
-            "mergedAt": "2026-05-15T17:58:12Z",
-            "closedAt": "2026-05-15T17:58:12Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 4,
-            "title": "refactor(cli): migrate to citty for command line argument parsing",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/4",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 179,
-            "deletions": 194,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T17:19:28Z",
-            "mergedAt": "2026-05-15T17:22:15Z",
-            "closedAt": "2026-05-15T17:22:15Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 3,
-            "title": "fix(cli): restore runtime flow and stable test script",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/3",
+            "number": 22,
+            "title": "chore(test): remove unused test case for major flag in CLI",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/22",
             "state": "MERGED",
             "changedFiles": 2,
-            "additions": 141,
-            "deletions": 52,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-15T16:18:54Z",
-            "mergedAt": "2026-05-15T16:19:05Z",
-            "closedAt": "2026-05-15T16:19:05Z",
+            "additions": 0,
+            "deletions": 373,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T09:18:36Z",
+            "mergedAt": "2026-05-18T09:19:24Z",
+            "closedAt": "2026-05-18T09:19:24Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 21,
+            "title": "docs(readme): update documentation with detailed project overview",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/21",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 35,
+            "deletions": 23,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-18T08:50:45Z",
+            "mergedAt": "2026-05-18T08:50:53Z",
+            "closedAt": "2026-05-18T08:50:53Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 20,
+            "title": "fix(check): simplify dependency update checking logic",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/20",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 42,
+            "deletions": 176,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T08:39:32Z",
+            "mergedAt": "2026-05-18T08:39:40Z",
+            "closedAt": "2026-05-18T08:39:40Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 19,
+            "title": "feat(cli): add dependency type tracking and display for catalog entries",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/19",
+            "state": "MERGED",
+            "changedFiles": 17,
+            "additions": 445,
+            "deletions": 145,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T07:01:26Z",
+            "mergedAt": "2026-05-18T07:01:36Z",
+            "closedAt": "2026-05-18T07:01:37Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 18,
+            "title": "fix(config): extract package context properties for better readability",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/18",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 52,
+            "deletions": 31,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-18T06:19:44Z",
+            "mergedAt": "2026-05-18T06:20:31Z",
+            "closedAt": "2026-05-18T06:20:31Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 17,
+            "title": "chore(lock): remove unused getLockFilePaths function",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/17",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 15,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T06:08:59Z",
+            "mergedAt": "2026-05-18T06:09:06Z",
+            "closedAt": "2026-05-18T06:09:06Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 16,
+            "title": "refactor(lock): replace getLockFilePaths with direct path mapping",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/16",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T06:06:01Z",
+            "mergedAt": "2026-05-18T06:06:13Z",
+            "closedAt": "2026-05-18T06:06:13Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 15,
+            "title": "refactor(package): move countPathSegments function inside getPackageManagement",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/15",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T05:58:55Z",
+            "mergedAt": "2026-05-18T05:59:08Z",
+            "closedAt": "2026-05-18T05:59:08Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 14,
+            "title": "refactor(project): replace readYarnConfig with readYamlConfig utility",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/14",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 10,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T05:55:08Z",
+            "mergedAt": "2026-05-18T05:55:19Z",
+            "closedAt": "2026-05-18T05:55:19Z",
             "repository": {
                 "name": "bumpkg",
                 "nameWithOwner": "lonewolfyx/bumpkg",
@@ -1059,7 +1059,7 @@
         }
     ],
     "contributions": {
-        "total": 7627,
+        "total": 7654,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1611,7 +1611,7 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 4
+                "count": 31
             },
             {
                 "date": "2026-05-19",

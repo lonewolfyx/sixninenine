@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 765,
+            "title": "chore: export util root APIs",
+            "url": "https://github.com/react-component/util/pull/765",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-18T07:52:08Z",
+            "mergedAt": "2026-05-18T08:47:26Z",
+            "closedAt": "2026-05-18T08:47:26Z",
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "util.vercel.app",
+                "description": "Common Utils For React Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 18,
             "title": "chore: forbid rc deep imports in build",
             "url": "https://github.com/react-component/father-plugin/pull/18",
@@ -110,14 +134,14 @@
             "number": 77,
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/motion/pull/77",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 10,
             "additions": 17,
             "deletions": 19,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-05-15T14:14:45Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-18T06:59:43Z",
+            "closedAt": "2026-05-18T06:59:43Z",
             "repository": {
                 "name": "motion",
                 "nameWithOwner": "react-component/motion",
@@ -134,14 +158,14 @@
             "number": 36,
             "title": "chore: forbid rc deep imports",
             "url": "https://github.com/react-component/portal/pull/36",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 29,
             "deletions": 32,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 6,
             "createdAt": "2026-05-15T08:13:18Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-18T07:01:30Z",
+            "closedAt": "2026-05-18T07:01:31Z",
             "repository": {
                 "name": "portal",
                 "nameWithOwner": "react-component/portal",
@@ -182,14 +206,14 @@
             "number": 54,
             "title": "chore: forbid rc deep imports",
             "url": "https://github.com/react-component/context/pull/54",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 9,
             "deletions": 9,
             "totalCommentsCount": 8,
             "createdAt": "2026-05-15T06:55:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-18T06:57:15Z",
+            "closedAt": "2026-05-18T06:57:15Z",
             "repository": {
                 "name": "context",
                 "nameWithOwner": "react-component/context",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/notification"
             }
-        },
-        {
-            "number": 57976,
-            "title": "fix: avoid deep rc notification runtime import",
-            "url": "https://github.com/ant-design/ant-design/pull/57976",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-05-14T13:28:37Z",
-            "mergedAt": "2026-05-14T14:21:19Z",
-            "closedAt": "2026-05-14T14:21:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2588,
+        "total": 2613,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -852,7 +852,7 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 2
+                "count": 27
             },
             {
                 "date": "2026-05-19",

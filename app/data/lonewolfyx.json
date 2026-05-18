@@ -290,7 +290,7 @@
                             }
                         }
                     ],
-                    "totalCount": 272
+                    "totalCount": 273
                 }
             },
             {
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "fix(cli): replace console methods with clack prompts logging",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/27",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 10,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-18T16:04:55Z",
+            "mergedAt": "2026-05-18T16:05:05Z",
+            "closedAt": "2026-05-18T16:05:05Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 26,
             "title": "feat(cli): replace console.log with clack note for better UI",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/26",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/bumpkg"
             }
-        },
-        {
-            "number": 18,
-            "title": "fix(config): extract package context properties for better readability",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/18",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 52,
-            "deletions": 31,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T06:19:44Z",
-            "mergedAt": "2026-05-18T06:20:31Z",
-            "closedAt": "2026-05-18T06:20:31Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
         }
     ],
     "contributions": {
-        "total": 7666,
+        "total": 7675,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1611,11 +1611,11 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 41
+                "count": 46
             },
             {
                 "date": "2026-05-19",
-                "count": 2
+                "count": 6
             },
             {
                 "date": "2026-05-20",

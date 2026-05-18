@@ -818,6 +818,102 @@
     },
     "pullRequest": [
         {
+            "number": 26,
+            "title": "feat(cli): replace console.log with clack note for better UI",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/26",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T16:00:06Z",
+            "mergedAt": "2026-05-18T16:00:16Z",
+            "closedAt": "2026-05-18T16:00:16Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 6,
+            "title": "feat(workflow): add n8n workflow builder component with UI library",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/6",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 734,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-18T15:58:12Z",
+            "mergedAt": "2026-05-18T15:58:21Z",
+            "closedAt": "2026-05-18T15:58:21Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
+            "number": 25,
+            "title": "refactor(npm): update package resolution logic with project config",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/25",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 35,
+            "deletions": 51,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T15:54:25Z",
+            "mergedAt": "2026-05-18T15:54:55Z",
+            "closedAt": "2026-05-18T15:54:55Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
+            "number": 24,
+            "title": "feat(npm): add progress tracking to package metadata fetching",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/24",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 20,
+            "deletions": 10,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-18T14:44:02Z",
+            "mergedAt": "2026-05-18T14:45:04Z",
+            "closedAt": "2026-05-18T14:45:04Z",
+            "repository": {
+                "name": "bumpkg",
+                "nameWithOwner": "lonewolfyx/bumpkg",
+                "homepageUrl": null,
+                "description": "Bump your dusty deps to latest",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/bumpkg"
+            }
+        },
+        {
             "number": 23,
             "title": "chore: removes deprecated CLI and config modules with associated tests",
             "url": "https://github.com/lonewolfyx/bumpkg/pull/23",
@@ -960,106 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/bumpkg"
             }
-        },
-        {
-            "number": 17,
-            "title": "chore(lock): remove unused getLockFilePaths function",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/17",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 1,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T06:08:59Z",
-            "mergedAt": "2026-05-18T06:09:06Z",
-            "closedAt": "2026-05-18T06:09:06Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 16,
-            "title": "refactor(lock): replace getLockFilePaths with direct path mapping",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/16",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T06:06:01Z",
-            "mergedAt": "2026-05-18T06:06:13Z",
-            "closedAt": "2026-05-18T06:06:13Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 15,
-            "title": "refactor(package): move countPathSegments function inside getPackageManagement",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/15",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T05:58:55Z",
-            "mergedAt": "2026-05-18T05:59:08Z",
-            "closedAt": "2026-05-18T05:59:08Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 14,
-            "title": "refactor(project): replace readYarnConfig with readYamlConfig utility",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/14",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 10,
-            "deletions": 11,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T05:55:08Z",
-            "mergedAt": "2026-05-18T05:55:19Z",
-            "closedAt": "2026-05-18T05:55:19Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
         }
     ],
     "contributions": {
-        "total": 7654,
+        "total": 7666,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1611,11 +1611,11 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 31
+                "count": 41
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-20",

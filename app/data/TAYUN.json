@@ -248,6 +248,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "fix: prevent layout shift when switching between home and tags pages",
+            "url": "https://github.com/Charles7c/vitepress-theme-blog-charles7c-s2/pull/1",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-19T06:55:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitepress-theme-blog-charles7c-s2",
+                "nameWithOwner": "Charles7c/vitepress-theme-blog-charles7c-s2",
+                "homepageUrl": "https://charles7c.top",
+                "description": "基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，标签页、归档页、导航页面。",
+                "owner": {
+                    "login": "Charles7c",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25446948?u=7cfc12945c3aaca44f3047f846e668f18da18506&v=4"
+                },
+                "url": "https://github.com/Charles7c/vitepress-theme-blog-charles7c-s2"
+            }
+        },
+        {
             "number": 73,
             "title": "Fix directory path in README for building from source",
             "url": "https://github.com/excalidraw/excalidraw-mcp/pull/73",
@@ -462,34 +486,10 @@
                 },
                 "url": "https://github.com/alovajs/alovajs.github.io"
             }
-        },
-        {
-            "number": 81,
-            "title": "docs(plugin): update import path for createPlugin",
-            "url": "https://github.com/alovajs/alovajs.github.io/pull/81",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-21T05:55:23Z",
-            "mergedAt": "2025-11-26T01:41:38Z",
-            "closedAt": "2025-11-26T01:41:38Z",
-            "repository": {
-                "name": "alovajs.github.io",
-                "nameWithOwner": "alovajs/alovajs.github.io",
-                "homepageUrl": "http://alova.js.org/",
-                "description": "The official website of alova",
-                "owner": {
-                    "login": "alovajs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
-                },
-                "url": "https://github.com/alovajs/alovajs.github.io"
-            }
         }
     ],
     "contributions": {
-        "total": 171,
+        "total": 173,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1045,7 +1045,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-20",

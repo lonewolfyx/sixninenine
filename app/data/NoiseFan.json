@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 99710,
+            "size": 99766,
             "repoCount": 2,
-            "progress": "98.98"
+            "progress": "98.99"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1023,
             "repoCount": 1,
-            "progress": "1.02"
+            "progress": "1.01"
         }
     ],
     "organizations": {
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 29,
+            "title": "fix: enable yaml frontmatter in bundled configs",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/29",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 13,
+            "deletions": 12,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-19T07:08:36Z",
+            "mergedAt": "2026-05-19T07:09:54Z",
+            "closedAt": "2026-05-19T07:09:54Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
         {
             "number": 981,
             "title": "docs(cn): update guide/browser/playwright-traces.md",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 27,
-            "title": "feat: add new rules `space-around-number`",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/27",
-            "state": "OPEN",
-            "changedFiles": 17,
-            "additions": 501,
-            "deletions": 122,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-14T14:55:06Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 369,
+        "total": 374,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -824,11 +824,11 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-20",

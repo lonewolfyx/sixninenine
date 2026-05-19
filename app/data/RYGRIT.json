@@ -66,6 +66,30 @@
     },
     "pullRequest": [
         {
+            "number": 2540,
+            "title": "fix(cmdline): match forward-slash PATH entries in Windows shellcmd filter",
+            "url": "https://github.com/saghen/blink.cmp/pull/2540",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-19T08:56:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "blink.cmp",
+                "nameWithOwner": "saghen/blink.cmp",
+                "homepageUrl": "https://cmp.saghen.dev",
+                "description": "Performant, batteries-included completion plugin for Neovim ",
+                "owner": {
+                    "login": "saghen",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/10467983?u=4a4ae3fab529171b67cbc9f3c009445020cd9516&v=4"
+                },
+                "url": "https://github.com/saghen/blink.cmp"
+            }
+        },
+        {
             "number": 115,
             "title": "ci: add ignore rule for playground/** dependabot updates",
             "url": "https://github.com/npmx-dev/vscode-npmx/pull/115",
@@ -280,34 +304,10 @@
                 },
                 "url": "https://github.com/npmx-dev/npmx.dev"
             }
-        },
-        {
-            "number": 2231,
-            "title": "[WIP]chore: normalize import order across codebase",
-            "url": "https://github.com/npmx-dev/npmx.dev/pull/2231",
-            "state": "CLOSED",
-            "changedFiles": 96,
-            "additions": 211,
-            "deletions": 263,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-03-23T10:03:49Z",
-            "mergedAt": null,
-            "closedAt": "2026-03-24T01:16:26Z",
-            "repository": {
-                "name": "npmx.dev",
-                "nameWithOwner": "npmx-dev/npmx.dev",
-                "homepageUrl": "https://npmx.dev",
-                "description": "a fast, modern browser for the npm registry",
-                "owner": {
-                    "login": "npmx-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/257109910?v=4"
-                },
-                "url": "https://github.com/npmx-dev/npmx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 124,
+        "total": 126,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -863,7 +863,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-20",

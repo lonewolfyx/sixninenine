@@ -290,7 +290,7 @@
                             }
                         }
                     ],
-                    "totalCount": 273
+                    "totalCount": 274
                 }
             },
             {
@@ -818,51 +818,75 @@
     },
     "pullRequest": [
         {
-            "number": 27,
-            "title": "fix(cli): replace console methods with clack prompts logging",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/27",
+            "number": 1,
+            "title": "feat(template): add createReusableTemplate hook for defining reusable templates",
+            "url": "https://github.com/lonewolfyx/vue-hooks/pull/1",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 10,
+            "changedFiles": 8,
+            "additions": 257,
+            "deletions": 1,
             "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T16:04:55Z",
-            "mergedAt": "2026-05-18T16:05:05Z",
-            "closedAt": "2026-05-18T16:05:05Z",
+            "createdAt": "2026-05-19T09:23:46Z",
+            "mergedAt": "2026-05-19T09:24:08Z",
+            "closedAt": "2026-05-19T09:24:08Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "name": "vue-hooks",
+                "nameWithOwner": "lonewolfyx/vue-hooks",
+                "homepageUrl": "https://vue-hooks.vercel.app",
+                "description": "lonewolfyx's Collection of Vue Composition Utilities",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/vue-hooks"
             }
         },
         {
-            "number": 26,
-            "title": "feat(cli): replace console.log with clack note for better UI",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/26",
+            "number": 8,
+            "title": "feat(timeline): add animated curved timeline component with SVG implementation",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/8",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T16:00:06Z",
-            "mergedAt": "2026-05-18T16:00:16Z",
-            "closedAt": "2026-05-18T16:00:16Z",
+            "changedFiles": 2,
+            "additions": 592,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-19T08:41:07Z",
+            "mergedAt": "2026-05-19T08:41:19Z",
+            "closedAt": "2026-05-19T08:41:19Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/vue-playground"
+            }
+        },
+        {
+            "number": 7,
+            "title": "feat(workflow): add workflow",
+            "url": "https://github.com/lonewolfyx/vue-playground/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1368,
+            "deletions": 185,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-19T07:08:28Z",
+            "mergedAt": "2026-05-19T07:08:44Z",
+            "closedAt": "2026-05-19T07:08:44Z",
+            "repository": {
+                "name": "vue-playground",
+                "nameWithOwner": "lonewolfyx/vue-playground",
+                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
+                "description": "Debugging some vue demo components for your own use",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vue-playground"
             }
         },
         {
@@ -890,176 +914,152 @@
             }
         },
         {
-            "number": 25,
-            "title": "refactor(npm): update package resolution logic with project config",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/25",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 35,
-            "deletions": 51,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T15:54:25Z",
-            "mergedAt": "2026-05-18T15:54:55Z",
-            "closedAt": "2026-05-18T15:54:55Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 24,
-            "title": "feat(npm): add progress tracking to package metadata fetching",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/24",
+            "number": 11,
+            "title": "fix(prompt): move progress indicator before delete branch",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/11",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 20,
-            "deletions": 10,
+            "additions": 2,
+            "deletions": 6,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T14:44:02Z",
-            "mergedAt": "2026-05-18T14:45:04Z",
-            "closedAt": "2026-05-18T14:45:04Z",
+            "createdAt": "2026-05-15T05:31:43Z",
+            "mergedAt": "2026-05-15T05:32:03Z",
+            "closedAt": "2026-05-15T05:32:03Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
                 "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 23,
-            "title": "chore: removes deprecated CLI and config modules with associated tests",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/23",
-            "state": "MERGED",
-            "changedFiles": 26,
-            "additions": 0,
-            "deletions": 2582,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T09:21:57Z",
-            "mergedAt": "2026-05-18T09:22:15Z",
-            "closedAt": "2026-05-18T09:22:15Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/clear-branch"
             }
         },
         {
             "number": 22,
-            "title": "chore(test): remove unused test case for major flag in CLI",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/22",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 0,
-            "deletions": 373,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T09:18:36Z",
-            "mergedAt": "2026-05-18T09:19:24Z",
-            "closedAt": "2026-05-18T09:19:24Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 21,
-            "title": "docs(readme): update documentation with detailed project overview",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/21",
+            "title": "fix(cli): move progress indicator before rimraf",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/22",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 35,
-            "deletions": 23,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T08:50:45Z",
-            "mergedAt": "2026-05-18T08:50:53Z",
-            "closedAt": "2026-05-18T08:50:53Z",
+            "additions": 1,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T05:30:33Z",
+            "mergedAt": "2026-05-15T05:31:12Z",
+            "closedAt": "2026-05-15T05:31:12Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/rmcache"
             }
         },
         {
-            "number": 20,
-            "title": "fix(check): simplify dependency update checking logic",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/20",
+            "number": 6,
+            "title": "fix(cli): move progress indicator before component installation",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/6",
             "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 42,
-            "deletions": 176,
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T08:39:32Z",
-            "mergedAt": "2026-05-18T08:39:40Z",
-            "closedAt": "2026-05-18T08:39:40Z",
+            "createdAt": "2026-05-15T05:28:58Z",
+            "mergedAt": "2026-05-15T05:31:08Z",
+            "closedAt": "2026-05-15T05:31:08Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
                 "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/shadcn-install"
             }
         },
         {
-            "number": 19,
-            "title": "feat(cli): add dependency type tracking and display for catalog entries",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/19",
+            "number": 5,
+            "title": "feat(cli): switch `mlly` with `local-pkg-bin` for package resolution",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/5",
             "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 445,
-            "deletions": 145,
+            "changedFiles": 3,
+            "additions": 18,
+            "deletions": 5,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T07:01:26Z",
-            "mergedAt": "2026-05-18T07:01:36Z",
-            "closedAt": "2026-05-18T07:01:37Z",
+            "createdAt": "2026-05-15T05:24:03Z",
+            "mergedAt": "2026-05-15T05:24:17Z",
+            "closedAt": "2026-05-15T05:24:17Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
                 "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat: add options.paths to resolvePackageBin for caller-specified resolution",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/4",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 95,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-15T03:06:05Z",
+            "mergedAt": "2026-05-15T03:06:13Z",
+            "closedAt": "2026-05-15T03:06:14Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
+            }
+        },
+        {
+            "number": 3,
+            "title": "docs(readme): add documentation for local-pkg-bin package",
+            "url": "https://github.com/lonewolfyx/local-pkg-bin/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 22,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-14T15:54:31Z",
+            "mergedAt": "2026-05-14T15:55:16Z",
+            "closedAt": "2026-05-14T15:55:16Z",
+            "repository": {
+                "name": "local-pkg-bin",
+                "nameWithOwner": "lonewolfyx/local-pkg-bin",
+                "homepageUrl": null,
+                "description": "Easily retrieve the absolute paths of executable binaries provided by your project's local npm packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/local-pkg-bin"
             }
         }
     ],
     "contributions": {
-        "total": 7684,
+        "total": 7695,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1615,7 +1615,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 10
+                "count": 21
             },
             {
                 "date": "2026-05-20",

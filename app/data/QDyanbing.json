@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 58057,
+            "title": "site: replace deprecated Drawer width prop",
+            "url": "https://github.com/ant-design/ant-design/pull/58057",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-19T09:59:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58056,
+            "title": "fix(Dropdown): avoid React 19 element ref warning",
+            "url": "https://github.com/ant-design/ant-design/pull/58056",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-05-19T09:13:44Z",
+            "mergedAt": "2026-05-19T09:33:14Z",
+            "closedAt": "2026-05-19T09:33:14Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58055,
+            "title": "docs: sync Slider deprecated APIs in zh-CN docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58055",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-19T08:16:18Z",
+            "mergedAt": "2026-05-19T08:38:52Z",
+            "closedAt": "2026-05-19T08:38:52Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 689,
             "title": "Avoid util deep imports",
             "url": "https://github.com/react-component/pagination/pull/689",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/qrcode"
             }
-        },
-        {
-            "number": 8,
-            "title": "chore: upgrade father plugin",
-            "url": "https://github.com/react-component/mini-decimal/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-18T11:04:11Z",
-            "mergedAt": "2026-05-18T15:34:15Z",
-            "closedAt": "2026-05-18T15:34:15Z",
-            "repository": {
-                "name": "mini-decimal",
-                "nameWithOwner": "react-component/mini-decimal",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mini-decimal"
-            }
-        },
-        {
-            "number": 765,
-            "title": "chore: export util root APIs",
-            "url": "https://github.com/react-component/util/pull/765",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-05-18T07:52:08Z",
-            "mergedAt": "2026-05-18T08:47:26Z",
-            "closedAt": "2026-05-18T08:47:26Z",
-            "repository": {
-                "name": "util",
-                "nameWithOwner": "react-component/util",
-                "homepageUrl": "util.vercel.app",
-                "description": "Common Utils For React Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/util"
-            }
-        },
-        {
-            "number": 18,
-            "title": "chore: forbid rc deep imports in build",
-            "url": "https://github.com/react-component/father-plugin/pull/18",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 29,
-            "deletions": 2,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-16T02:14:44Z",
-            "mergedAt": "2026-05-18T03:11:56Z",
-            "closedAt": "2026-05-18T03:11:57Z",
-            "repository": {
-                "name": "father-plugin",
-                "nameWithOwner": "react-component/father-plugin",
-                "homepageUrl": null,
-                "description": "father plugin for all react-component project",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/father-plugin"
-            }
         }
     ],
     "contributions": {
-        "total": 2624,
+        "total": 2629,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -856,7 +856,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 6
+                "count": 11
             },
             {
                 "date": "2026-05-20",

@@ -593,14 +593,38 @@
     },
     "pullRequest": [
         {
+            "number": 15185,
+            "title": "fix(agents): pass custom headers to claude code",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15185",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-19T03:11:00Z",
+            "mergedAt": "2026-05-19T03:39:56Z",
+            "closedAt": "2026-05-19T03:39:56Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2804,
             "title": "feat: add `documentDomains` and `documentWrites` rules",
             "url": "https://github.com/flint-fyi/flint/pull/2804",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 393,
+            "additions": 391,
             "deletions": 0,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 12,
             "createdAt": "2026-05-18T10:03:50Z",
             "mergedAt": null,
             "closedAt": null,
@@ -766,9 +790,9 @@
             "url": "https://github.com/flint-fyi/flint/pull/2788",
             "state": "OPEN",
             "changedFiles": 6,
-            "additions": 726,
+            "additions": 728,
             "deletions": 1,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 19,
             "createdAt": "2026-05-13T03:01:07Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2786,
-            "title": "feat(package-json): add `exportsSubpathsStyle` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2786",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 398,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-05-12T03:46:31Z",
-            "mergedAt": "2026-05-15T01:32:20Z",
-            "closedAt": "2026-05-15T01:32:20Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 326,
+        "total": 329,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1390,7 +1390,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-05-20",

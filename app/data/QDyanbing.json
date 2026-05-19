@@ -59,6 +59,126 @@
     },
     "pullRequest": [
         {
+            "number": 689,
+            "title": "Avoid util deep imports",
+            "url": "https://github.com/react-component/pagination/pull/689",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 79,
+            "deletions": 9,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-19T02:34:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pagination",
+                "nameWithOwner": "react-component/pagination",
+                "homepageUrl": "https://pagination-react-component.vercel.app/",
+                "description": "React Pagination",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/pagination"
+            }
+        },
+        {
+            "number": 17,
+            "title": "Avoid util deep imports",
+            "url": "https://github.com/react-component/mutate-observer/pull/17",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 7,
+            "deletions": 7,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-19T02:27:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "mutate-observer",
+                "nameWithOwner": "react-component/mutate-observer",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/mutate-observer"
+            }
+        },
+        {
+            "number": 78,
+            "title": "Expose motion ref type",
+            "url": "https://github.com/react-component/motion/pull/78",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 2,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-05-19T02:24:03Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "motion",
+                "nameWithOwner": "react-component/motion",
+                "homepageUrl": "https://motion-seven.vercel.app",
+                "description": "⛷ CSS Animation for React",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/motion"
+            }
+        },
+        {
+            "number": 788,
+            "title": "Avoid rc deep imports",
+            "url": "https://github.com/react-component/field-form/pull/788",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 32,
+            "deletions": 23,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-19T02:18:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "field-form",
+                "nameWithOwner": "react-component/field-form",
+                "homepageUrl": "https://field-form.react-component.now.sh/",
+                "description": "⚡️ React Performance First Form Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/field-form"
+            }
+        },
+        {
+            "number": 298,
+            "title": "Avoid util deep imports",
+            "url": "https://github.com/react-component/checkbox/pull/298",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-19T02:05:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "checkbox",
+                "nameWithOwner": "react-component/checkbox",
+                "homepageUrl": "https://react-component.github.io/checkbox/",
+                "description": "React Checkbox",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/checkbox"
+            }
+        },
+        {
             "number": 23,
             "title": "chore: upgrade father plugin",
             "url": "https://github.com/react-component/async-validator/pull/23",
@@ -177,130 +297,10 @@
                 },
                 "url": "https://github.com/react-component/father-plugin"
             }
-        },
-        {
-            "number": 57990,
-            "title": "fix(Select): correct search input font styles in Safari",
-            "url": "https://github.com/ant-design/ant-design/pull/57990",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-15T14:48:32Z",
-            "mergedAt": "2026-05-16T07:39:38Z",
-            "closedAt": "2026-05-16T07:39:38Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 77,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/motion/pull/77",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 17,
-            "deletions": 19,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-15T14:14:45Z",
-            "mergedAt": "2026-05-18T06:59:43Z",
-            "closedAt": "2026-05-18T06:59:43Z",
-            "repository": {
-                "name": "motion",
-                "nameWithOwner": "react-component/motion",
-                "homepageUrl": "https://motion-seven.vercel.app",
-                "description": "⛷ CSS Animation for React",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/motion"
-            }
-        },
-        {
-            "number": 36,
-            "title": "chore: forbid rc deep imports",
-            "url": "https://github.com/react-component/portal/pull/36",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 29,
-            "deletions": 32,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-15T08:13:18Z",
-            "mergedAt": "2026-05-18T07:01:30Z",
-            "closedAt": "2026-05-18T07:01:31Z",
-            "repository": {
-                "name": "portal",
-                "nameWithOwner": "react-component/portal",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/portal"
-            }
-        },
-        {
-            "number": 1,
-            "title": "fix: 改用 rc 包根入口导入",
-            "url": "https://github.com/QDyanbing/rc-portal/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 8,
-            "additions": 52,
-            "deletions": 32,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-15T07:59:07Z",
-            "mergedAt": null,
-            "closedAt": "2026-05-15T08:11:58Z",
-            "repository": {
-                "name": "rc-portal",
-                "nameWithOwner": "QDyanbing/rc-portal",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/rc-portal"
-            }
-        },
-        {
-            "number": 54,
-            "title": "chore: forbid rc deep imports",
-            "url": "https://github.com/react-component/context/pull/54",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 9,
-            "deletions": 9,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-05-15T06:55:40Z",
-            "mergedAt": "2026-05-18T06:57:15Z",
-            "closedAt": "2026-05-18T06:57:15Z",
-            "repository": {
-                "name": "context",
-                "nameWithOwner": "react-component/context",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/context"
-            }
         }
     ],
     "contributions": {
-        "total": 2618,
+        "total": 2624,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -856,7 +856,7 @@
             },
             {
                 "date": "2026-05-19",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-05-20",

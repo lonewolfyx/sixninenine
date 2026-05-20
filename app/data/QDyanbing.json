@@ -59,6 +59,102 @@
     },
     "pullRequest": [
         {
+            "number": 58071,
+            "title": "docs: sync Notification and Table API docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58071",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-20T09:49:34Z",
+            "mergedAt": "2026-05-20T09:56:42Z",
+            "closedAt": "2026-05-20T09:56:42Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 89,
+            "title": "Avoid deep imports",
+            "url": "https://github.com/react-component/tour/pull/89",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 12,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-20T09:01:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tour",
+                "nameWithOwner": "react-component/tour",
+                "homepageUrl": "tour-dun.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tour"
+            }
+        },
+        {
+            "number": 58069,
+            "title": "fix: keep Select selected option active style themed",
+            "url": "https://github.com/ant-design/ant-design/pull/58069",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 14,
+            "createdAt": "2026-05-20T08:09:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 174,
+            "title": "Avoid deep imports",
+            "url": "https://github.com/react-component/input/pull/174",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 12,
+            "deletions": 23,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-05-20T07:40:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "",
+                "description": "React Input Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
             "number": 434,
             "title": "Avoid rc deep imports",
             "url": "https://github.com/react-component/collapse/pull/434",
@@ -88,8 +184,8 @@
             "url": "https://github.com/react-component/image/pull/509",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 57,
-            "deletions": 36,
+            "additions": 32,
+            "deletions": 23,
             "totalCommentsCount": 5,
             "createdAt": "2026-05-20T02:59:02Z",
             "mergedAt": null,
@@ -201,106 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58056,
-            "title": "fix(Dropdown): avoid React 19 element ref warning",
-            "url": "https://github.com/ant-design/ant-design/pull/58056",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-19T09:13:44Z",
-            "mergedAt": "2026-05-19T09:33:14Z",
-            "closedAt": "2026-05-19T09:33:14Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58055,
-            "title": "docs: sync Slider deprecated APIs in zh-CN docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58055",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-19T08:16:18Z",
-            "mergedAt": "2026-05-19T08:38:52Z",
-            "closedAt": "2026-05-19T08:38:52Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 689,
-            "title": "Avoid util deep imports",
-            "url": "https://github.com/react-component/pagination/pull/689",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 79,
-            "deletions": 9,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-19T02:34:28Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "pagination",
-                "nameWithOwner": "react-component/pagination",
-                "homepageUrl": "https://pagination-react-component.vercel.app/",
-                "description": "React Pagination",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/pagination"
-            }
-        },
-        {
-            "number": 17,
-            "title": "Avoid util deep imports",
-            "url": "https://github.com/react-component/mutate-observer/pull/17",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 7,
-            "deletions": 7,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-19T02:27:40Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "mutate-observer",
-                "nameWithOwner": "react-component/mutate-observer",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mutate-observer"
-            }
         }
     ],
     "contributions": {
-        "total": 2635,
+        "total": 2640,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -860,7 +860,7 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 5
+                "count": 10
             },
             {
                 "date": "2026-05-21",

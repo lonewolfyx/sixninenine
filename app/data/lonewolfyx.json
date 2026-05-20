@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1667013,
+            "size": 1720699,
             "repoCount": 29,
-            "progress": "50.92"
+            "progress": "51.72"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1427796,
+            "size": 1427436,
             "repoCount": 16,
-            "progress": "43.61"
+            "progress": "42.90"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.93"
+            "progress": "2.88"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 76010,
+            "size": 75962,
             "repoCount": 28,
-            "progress": "2.32"
+            "progress": "2.28"
         },
         {
             "name": "SCSS",
@@ -818,185 +818,137 @@
     },
     "pullRequest": [
         {
-            "number": 31,
-            "title": "chore(lint): simplify eslint configuration and ignore test fixtures",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/31",
+            "number": 3,
+            "title": "feat(agents): add support for multiple new AI coding agents",
+            "url": "https://github.com/skills-club/clear-skills/pull/3",
             "state": "MERGED",
             "changedFiles": 2,
-            "additions": 5,
+            "additions": 108,
             "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T02:26:21Z",
-            "mergedAt": "2026-05-20T02:26:31Z",
-            "closedAt": "2026-05-20T02:26:31Z",
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-20T09:21:47Z",
+            "mergedAt": "2026-05-20T09:21:56Z",
+            "closedAt": "2026-05-20T09:21:56Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
+                "name": "clear-skills",
+                "nameWithOwner": "skills-club/clear-skills",
                 "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "description": "Clear AI skills — remove skill files from the current project or globally",
                 "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                    "login": "skills-club",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/skills-club/clear-skills"
             }
         },
         {
-            "number": 30,
-            "title": "fix(cli-runner): simplify dependency check error logging",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/30",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T02:17:38Z",
-            "mergedAt": "2026-05-20T02:17:55Z",
-            "closedAt": "2026-05-20T02:17:55Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 29,
-            "title": "fix(dependency): remove peerDependencies support from project configuration",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/29",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 14,
-            "deletions": 25,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T02:11:15Z",
-            "mergedAt": "2026-05-20T02:15:03Z",
-            "closedAt": "2026-05-20T02:15:03Z",
-            "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/bumpkg"
-            }
-        },
-        {
-            "number": 28,
-            "title": "chore(constant): update default registry URL to npmmirror",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/28",
+            "number": 16,
+            "title": "style(tooltip): change tooltip position from top to bottom",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/16",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T01:43:00Z",
-            "mergedAt": "2026-05-20T01:50:36Z",
-            "closedAt": "2026-05-20T01:50:36Z",
+            "createdAt": "2026-05-20T09:15:12Z",
+            "mergedAt": "2026-05-20T09:15:22Z",
+            "closedAt": "2026-05-20T09:15:22Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
-                "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/usage-board"
             }
         },
         {
-            "number": 1,
-            "title": "feat(template): add createReusableTemplate hook for defining reusable templates",
-            "url": "https://github.com/lonewolfyx/vue-hooks/pull/1",
+            "number": 15,
+            "title": "fix(project): optimize project dashboard modules and cleanup unused exports",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/15",
             "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 257,
+            "changedFiles": 13,
+            "additions": 177,
+            "deletions": 325,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T08:48:51Z",
+            "mergedAt": "2026-05-20T08:49:13Z",
+            "closedAt": "2026-05-20T08:49:13Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 14,
+            "title": "fix(platform): correct daily rows calculation in token usage dashboard",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/14",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 8,
+            "deletions": 15,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T08:28:50Z",
+            "mergedAt": "2026-05-20T08:29:43Z",
+            "closedAt": "2026-05-20T08:29:43Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 13,
+            "title": "refactor(server): migrate usage data loading to runtime service with caching",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/13",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 1850,
+            "deletions": 79,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-05-20T07:08:36Z",
+            "mergedAt": "2026-05-20T07:25:53Z",
+            "closedAt": "2026-05-20T07:25:53Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 32,
+            "title": "style(cli): format notes in gray color for better readability",
+            "url": "https://github.com/lonewolfyx/bumpkg/pull/32",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-19T09:23:46Z",
-            "mergedAt": "2026-05-19T09:24:08Z",
-            "closedAt": "2026-05-19T09:24:08Z",
-            "repository": {
-                "name": "vue-hooks",
-                "nameWithOwner": "lonewolfyx/vue-hooks",
-                "homepageUrl": "https://vue-hooks.vercel.app",
-                "description": "lonewolfyx's Collection of Vue Composition Utilities",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-hooks"
-            }
-        },
-        {
-            "number": 8,
-            "title": "feat(timeline): add animated curved timeline component with SVG implementation",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/8",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 592,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-19T08:41:07Z",
-            "mergedAt": "2026-05-19T08:41:19Z",
-            "closedAt": "2026-05-19T08:41:19Z",
-            "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-playground"
-            }
-        },
-        {
-            "number": 7,
-            "title": "feat(workflow): add workflow",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1368,
-            "deletions": 185,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-19T07:08:28Z",
-            "mergedAt": "2026-05-19T07:08:44Z",
-            "closedAt": "2026-05-19T07:08:44Z",
-            "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-playground"
-            }
-        },
-        {
-            "number": 27,
-            "title": "fix(cli): replace console methods with clack prompts logging",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/27",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 10,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T16:04:55Z",
-            "mergedAt": "2026-05-18T16:05:05Z",
-            "closedAt": "2026-05-18T16:05:05Z",
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T05:43:00Z",
+            "mergedAt": "2026-05-20T05:43:09Z",
+            "closedAt": "2026-05-20T05:43:09Z",
             "repository": {
                 "name": "bumpkg",
                 "nameWithOwner": "lonewolfyx/bumpkg",
@@ -1010,56 +962,104 @@
             }
         },
         {
-            "number": 26,
-            "title": "feat(cli): replace console.log with clack note for better UI",
-            "url": "https://github.com/lonewolfyx/bumpkg/pull/26",
+            "number": 12,
+            "title": "feat(prompt): add colored output for branch deletion progress",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/12",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T05:34:55Z",
+            "mergedAt": "2026-05-20T05:35:07Z",
+            "closedAt": "2026-05-20T05:35:07Z",
+            "repository": {
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
+                "homepageUrl": null,
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-branch"
+            }
+        },
+        {
+            "number": 15,
+            "title": "feat(config): add publishConfig to package.json",
+            "url": "https://github.com/lonewolfyx/setup/pull/15",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 5,
-            "deletions": 2,
+            "deletions": 0,
             "totalCommentsCount": 1,
-            "createdAt": "2026-05-18T16:00:06Z",
-            "mergedAt": "2026-05-18T16:00:16Z",
-            "closedAt": "2026-05-18T16:00:16Z",
+            "createdAt": "2026-05-20T05:28:05Z",
+            "mergedAt": "2026-05-20T05:28:44Z",
+            "closedAt": "2026-05-20T05:28:44Z",
             "repository": {
-                "name": "bumpkg",
-                "nameWithOwner": "lonewolfyx/bumpkg",
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
                 "homepageUrl": null,
-                "description": "Bump your dusty deps to latest",
+                "description": "Instant project boilerplate setup",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/bumpkg"
+                "url": "https://github.com/lonewolfyx/setup"
             }
         },
         {
-            "number": 6,
-            "title": "feat(workflow): add n8n workflow builder component with UI library",
-            "url": "https://github.com/lonewolfyx/vue-playground/pull/6",
+            "number": 14,
+            "title": "fix(cli): integrate git hooks configuration into package json setup",
+            "url": "https://github.com/lonewolfyx/setup/pull/14",
             "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 734,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T15:58:12Z",
-            "mergedAt": "2026-05-18T15:58:21Z",
-            "closedAt": "2026-05-18T15:58:21Z",
+            "changedFiles": 4,
+            "additions": 11,
+            "deletions": 22,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T05:22:44Z",
+            "mergedAt": "2026-05-20T05:23:32Z",
+            "closedAt": "2026-05-20T05:23:32Z",
             "repository": {
-                "name": "vue-playground",
-                "nameWithOwner": "lonewolfyx/vue-playground",
-                "homepageUrl": "https://lonewolfyx-vue-playground.vercel.app/",
-                "description": "Debugging some vue demo components for your own use",
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/vue-playground"
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 13,
+            "title": "fix(cli): rename git hooks creation function to git verify commit",
+            "url": "https://github.com/lonewolfyx/setup/pull/13",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 14,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-20T05:17:58Z",
+            "mergedAt": "2026-05-20T05:18:06Z",
+            "closedAt": "2026-05-20T05:18:06Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
             }
         }
     ],
     "contributions": {
-        "total": 7723,
+        "total": 7757,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1619,7 +1619,7 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 14
+                "count": 48
             },
             {
                 "date": "2026-05-21",

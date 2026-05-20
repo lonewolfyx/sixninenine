@@ -593,12 +593,36 @@
     },
     "pullRequest": [
         {
+            "number": 2810,
+            "title": "fix(comparisons): correct jsx-eslint rule doc links",
+            "url": "https://github.com/flint-fyi/flint/pull/2810",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 134,
+            "deletions": 134,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-20T08:55:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 19180,
             "title": "Fix JSDoc multiline type cast alignment in assignment",
             "url": "https://github.com/prettier/prettier/pull/19180",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 48,
+            "changedFiles": 5,
+            "additions": 66,
             "deletions": 8,
             "totalCommentsCount": 4,
             "createdAt": "2026-05-20T00:31:31Z",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2789,
-            "title": "feat(package-json): add `peerDependenciesInstallation` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2789",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 214,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-13T03:40:40Z",
-            "mergedAt": "2026-05-15T02:58:17Z",
-            "closedAt": "2026-05-15T02:58:17Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 333,
+        "total": 334,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1394,7 +1394,7 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-05-21",

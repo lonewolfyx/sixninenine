@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 19180,
+            "title": "Fix JSDoc multiline type cast alignment in assignment",
+            "url": "https://github.com/prettier/prettier/pull/19180",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 48,
+            "deletions": 8,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-05-20T00:31:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 15188,
             "title": "fix: launch opencode from package-local executable",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15188",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2788,
-            "title": "feat(package-json): add `filesRedundancy` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2788",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 728,
-            "deletions": 1,
-            "totalCommentsCount": 19,
-            "createdAt": "2026-05-13T03:01:07Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 331,
+        "total": 333,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1394,7 +1394,7 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-21",

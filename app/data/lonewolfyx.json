@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1720699,
+            "size": 1607302,
             "repoCount": 29,
-            "progress": "51.72"
+            "progress": "50.01"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1427436,
+            "size": 1427401,
             "repoCount": 16,
-            "progress": "42.90"
+            "progress": "44.41"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.88"
+            "progress": "2.99"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 75962,
             "repoCount": 28,
-            "progress": "2.28"
+            "progress": "2.36"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 17,
+            "title": "refactor(platform): remove unused OpenCode platform integration",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/17",
+            "state": "MERGED",
+            "changedFiles": 28,
+            "additions": 37,
+            "deletions": 3427,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-21T02:24:31Z",
+            "mergedAt": "2026-05-21T02:24:39Z",
+            "closedAt": "2026-05-21T02:24:39Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 3,
             "title": "feat(agents): add support for multiple new AI coding agents",
             "url": "https://github.com/skills-club/clear-skills/pull/3",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 13,
-            "title": "fix(cli): rename git hooks creation function to git verify commit",
-            "url": "https://github.com/lonewolfyx/setup/pull/13",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 14,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T05:17:58Z",
-            "mergedAt": "2026-05-20T05:18:06Z",
-            "closedAt": "2026-05-20T05:18:06Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7767,
+        "total": 7776,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1619,11 +1619,11 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 57
+                "count": 61
             },
             {
                 "date": "2026-05-21",
-                "count": 1
+                "count": 6
             },
             {
                 "date": "2026-05-22",

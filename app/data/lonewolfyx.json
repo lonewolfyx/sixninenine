@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1607302,
+            "size": 1609509,
             "repoCount": 29,
-            "progress": "50.01"
+            "progress": "50.06"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1427401,
+            "size": 1426494,
             "repoCount": 16,
-            "progress": "44.41"
+            "progress": "44.37"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.99"
+            "progress": "2.98"
         },
         {
             "name": "JavaScript",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 18,
+            "title": "refactor(usage-indexer): migrate platform-specific logic to adapter pattern",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/18",
+            "state": "MERGED",
+            "changedFiles": 36,
+            "additions": 1055,
+            "deletions": 1040,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-05-21T06:44:57Z",
+            "mergedAt": "2026-05-21T07:19:59Z",
+            "closedAt": "2026-05-21T07:19:59Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 17,
             "title": "refactor(platform): remove unused OpenCode platform integration",
             "url": "https://github.com/lonewolfyx/usage-board/pull/17",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 14,
-            "title": "fix(cli): integrate git hooks configuration into package json setup",
-            "url": "https://github.com/lonewolfyx/setup/pull/14",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 11,
-            "deletions": 22,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T05:22:44Z",
-            "mergedAt": "2026-05-20T05:23:32Z",
-            "closedAt": "2026-05-20T05:23:32Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7776,
+        "total": 7782,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1623,7 +1623,7 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 6
+                "count": 12
             },
             {
                 "date": "2026-05-22",

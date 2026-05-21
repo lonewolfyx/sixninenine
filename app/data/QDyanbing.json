@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58082,
+            "title": "docs: correct Divider plain default value",
+            "url": "https://github.com/ant-design/ant-design/pull/58082",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-21T07:57:05Z",
+            "mergedAt": "2026-05-21T08:16:58Z",
+            "closedAt": "2026-05-21T08:16:58Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 563,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/dialog/pull/563",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 11,
+            "deletions": 16,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-21T06:22:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "dialog",
+                "nameWithOwner": "react-component/dialog",
+                "homepageUrl": "https://dialog.react-component.vercel.app/",
+                "description": "React Dialog",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/dialog"
+            }
+        },
+        {
             "number": 327,
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/segmented/pull/327",
@@ -88,7 +136,7 @@
             "url": "https://github.com/react-component/input-number/pull/732",
             "state": "OPEN",
             "changedFiles": 15,
-            "additions": 72,
+            "additions": 77,
             "deletions": 60,
             "totalCommentsCount": 4,
             "createdAt": "2026-05-21T02:20:25Z",
@@ -136,9 +184,9 @@
             "url": "https://github.com/react-component/slider/pull/1071",
             "state": "OPEN",
             "changedFiles": 13,
-            "additions": 25,
+            "additions": 24,
             "deletions": 37,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 6,
             "createdAt": "2026-05-21T01:56:08Z",
             "mergedAt": null,
             "closedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 89,
-            "title": "Avoid deep imports",
-            "url": "https://github.com/react-component/tour/pull/89",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 12,
-            "deletions": 11,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-20T09:01:43Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "tour",
-                "nameWithOwner": "react-component/tour",
-                "homepageUrl": "tour-dun.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tour"
-            }
-        },
-        {
-            "number": 58069,
-            "title": "fix: keep Select selected option active style themed",
-            "url": "https://github.com/ant-design/ant-design/pull/58069",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-05-20T08:09:13Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2647,
+        "total": 2650,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -864,7 +864,7 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 7
+                "count": 10
             },
             {
                 "date": "2026-05-22",

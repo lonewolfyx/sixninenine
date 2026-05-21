@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 15238,
+            "title": "fix(sidebar): align resize thresholds with layouts",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15238",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 8,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-21T10:03:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2810,
             "title": "fix(comparisons): correct jsx-eslint rule doc links",
             "url": "https://github.com/flint-fyi/flint/pull/2810",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2793,
-            "title": "feat(package-json): add `privatePackageProperties` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2793",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 335,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-14T01:12:08Z",
-            "mergedAt": "2026-05-15T03:44:46Z",
-            "closedAt": "2026-05-15T03:44:46Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 336,
+        "total": 337,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1398,7 +1398,7 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-05-22",

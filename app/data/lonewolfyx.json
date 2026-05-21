@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1713393,
+            "size": 1737901,
             "repoCount": 29,
-            "progress": "51.62"
+            "progress": "51.87"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1426494,
+            "size": 1433487,
             "repoCount": 16,
-            "progress": "42.98"
+            "progress": "42.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.89"
+            "progress": "2.86"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 75962,
             "repoCount": 28,
-            "progress": "2.29"
+            "progress": "2.27"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 20,
+            "title": "feat(server): decouple dashboard analytics interface and optimize home /Agent page loading in batches",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/20",
+            "state": "MERGED",
+            "changedFiles": 36,
+            "additions": 1515,
+            "deletions": 661,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-21T16:38:27Z",
+            "mergedAt": "2026-05-21T16:44:03Z",
+            "closedAt": "2026-05-21T16:44:03Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 19,
             "title": "feat(ai): add support for multiple AI platform integrations",
             "url": "https://github.com/lonewolfyx/usage-board/pull/19",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/bumpkg"
             }
-        },
-        {
-            "number": 12,
-            "title": "feat(prompt): add colored output for branch deletion progress",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/12",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T05:34:55Z",
-            "mergedAt": "2026-05-20T05:35:07Z",
-            "closedAt": "2026-05-20T05:35:07Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 7789,
+        "total": 7798,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1623,11 +1623,11 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 19
+                "count": 24
             },
             {
                 "date": "2026-05-22",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-23",

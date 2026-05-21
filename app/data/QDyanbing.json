@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58086,
+            "title": "ci: pin GitHub Actions to full SHA",
+            "url": "https://github.com/ant-design/ant-design/pull/58086",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 44,
+            "deletions": 44,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-05-21T12:56:58Z",
+            "mergedAt": "2026-05-21T15:46:05Z",
+            "closedAt": "2026-05-21T15:46:05Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58082,
             "title": "docs: correct Divider plain default value",
             "url": "https://github.com/ant-design/ant-design/pull/58082",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/color-picker"
             }
-        },
-        {
-            "number": 58071,
-            "title": "docs: sync Notification and Table API docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58071",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-20T09:49:34Z",
-            "mergedAt": "2026-05-20T09:56:42Z",
-            "closedAt": "2026-05-20T09:56:42Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2650,
+        "total": 2652,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -864,7 +864,7 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 10
+                "count": 12
             },
             {
                 "date": "2026-05-22",

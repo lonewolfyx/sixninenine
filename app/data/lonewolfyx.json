@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1609509,
+            "size": 1713393,
             "repoCount": 29,
-            "progress": "50.06"
+            "progress": "51.62"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1426494,
             "repoCount": 16,
-            "progress": "44.37"
+            "progress": "42.98"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95933,
             "repoCount": 17,
-            "progress": "2.98"
+            "progress": "2.89"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 75962,
             "repoCount": 28,
-            "progress": "2.36"
+            "progress": "2.29"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "feat(ai): add support for multiple AI platform integrations",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/19",
+            "state": "MERGED",
+            "changedFiles": 31,
+            "additions": 3140,
+            "deletions": 164,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-21T13:35:30Z",
+            "mergedAt": "2026-05-21T13:36:42Z",
+            "closedAt": "2026-05-21T13:36:42Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 18,
             "title": "refactor(usage-indexer): migrate platform-specific logic to adapter pattern",
             "url": "https://github.com/lonewolfyx/usage-board/pull/18",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/clear-branch"
             }
-        },
-        {
-            "number": 15,
-            "title": "feat(config): add publishConfig to package.json",
-            "url": "https://github.com/lonewolfyx/setup/pull/15",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T05:28:05Z",
-            "mergedAt": "2026-05-20T05:28:44Z",
-            "closedAt": "2026-05-20T05:28:44Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 7782,
+        "total": 7789,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1623,7 +1623,7 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 12
+                "count": 19
             },
             {
                 "date": "2026-05-22",

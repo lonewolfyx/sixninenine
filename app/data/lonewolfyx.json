@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1805773,
+            "size": 1806329,
             "repoCount": 29,
             "progress": "52.83"
         },
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 32,
+            "title": "docs(blogs): add Mac SSH passphrase solution guide",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/32",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 46,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-22T07:33:06Z",
+            "mergedAt": "2026-05-22T07:33:34Z",
+            "closedAt": "2026-05-22T07:33:34Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 16,
+            "title": "feat(eslint): enable typescript support in eslint configuration",
+            "url": "https://github.com/lonewolfyx/setup/pull/16",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-22T06:30:07Z",
+            "mergedAt": "2026-05-22T06:30:16Z",
+            "closedAt": "2026-05-22T06:30:16Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 25,
+            "title": "fix(database): replace better-sqlite3 with node:sqlite implementation",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/25",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 56,
+            "deletions": 35,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-22T05:47:25Z",
+            "mergedAt": "2026-05-22T05:48:12Z",
+            "closedAt": "2026-05-22T05:48:12Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 24,
             "title": "chore(config): add node18 target and platform configuration",
             "url": "https://github.com/lonewolfyx/usage-board/pull/24",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 17,
-            "title": "refactor(platform): remove unused OpenCode platform integration",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/17",
-            "state": "MERGED",
-            "changedFiles": 28,
-            "additions": 37,
-            "deletions": 3427,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-21T02:24:31Z",
-            "mergedAt": "2026-05-21T02:24:39Z",
-            "closedAt": "2026-05-21T02:24:39Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(agents): add support for multiple new AI coding agents",
-            "url": "https://github.com/skills-club/clear-skills/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 108,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-20T09:21:47Z",
-            "mergedAt": "2026-05-20T09:21:56Z",
-            "closedAt": "2026-05-20T09:21:56Z",
-            "repository": {
-                "name": "clear-skills",
-                "nameWithOwner": "skills-club/clear-skills",
-                "homepageUrl": null,
-                "description": "Clear AI skills — remove skill files from the current project or globally",
-                "owner": {
-                    "login": "skills-club",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
-                },
-                "url": "https://github.com/skills-club/clear-skills"
-            }
-        },
-        {
-            "number": 16,
-            "title": "style(tooltip): change tooltip position from top to bottom",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/16",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-20T09:15:12Z",
-            "mergedAt": "2026-05-20T09:15:22Z",
-            "closedAt": "2026-05-20T09:15:22Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7816,
+        "total": 7841,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1587,7 +1587,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 54
+                "count": 50
             },
             {
                 "date": "2026-05-13",
@@ -1627,7 +1627,7 @@
             },
             {
                 "date": "2026-05-22",
-                "count": 17
+                "count": 46
             },
             {
                 "date": "2026-05-23",

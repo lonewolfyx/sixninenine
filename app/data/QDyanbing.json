@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58091,
+            "title": "docs: add Mentions option value",
+            "url": "https://github.com/ant-design/ant-design/pull/58091",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-22T09:39:22Z",
+            "mergedAt": "2026-05-22T09:46:31Z",
+            "closedAt": "2026-05-22T09:46:31Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 177,
+            "title": "Expose input internal types",
+            "url": "https://github.com/react-component/input/pull/177",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-22T06:11:41Z",
+            "mergedAt": "2026-05-22T08:01:42Z",
+            "closedAt": "2026-05-22T08:01:42Z",
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "",
+                "description": "React Input Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
             "number": 1223,
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/select/pull/1223",
@@ -88,7 +136,7 @@
             "url": "https://github.com/react-component/tabs/pull/990",
             "state": "OPEN",
             "changedFiles": 14,
-            "additions": 28,
+            "additions": 29,
             "deletions": 22,
             "totalCommentsCount": 6,
             "createdAt": "2026-05-22T02:06:02Z",
@@ -112,8 +160,8 @@
             "url": "https://github.com/react-component/tree/pull/1038",
             "state": "OPEN",
             "changedFiles": 15,
-            "additions": 53,
-            "deletions": 30,
+            "additions": 54,
+            "deletions": 31,
             "totalCommentsCount": 7,
             "createdAt": "2026-05-22T02:00:18Z",
             "mergedAt": null,
@@ -159,9 +207,9 @@
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/menu/pull/865",
             "state": "OPEN",
-            "changedFiles": 17,
-            "additions": 18,
-            "deletions": 31,
+            "changedFiles": 18,
+            "additions": 29,
+            "deletions": 32,
             "totalCommentsCount": 2,
             "createdAt": "2026-05-22T01:41:13Z",
             "mergedAt": null,
@@ -183,9 +231,9 @@
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/tooltip/pull/519",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 23,
-            "deletions": 18,
+            "changedFiles": 4,
+            "additions": 25,
+            "deletions": 19,
             "totalCommentsCount": 4,
             "createdAt": "2026-05-22T01:36:39Z",
             "mergedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/trigger"
             }
-        },
-        {
-            "number": 603,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/drawer/pull/603",
-            "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 12,
-            "deletions": 29,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-22T00:55:22Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "drawer",
-                "nameWithOwner": "react-component/drawer",
-                "homepageUrl": "https://drawer-react-component.vercel.app/",
-                "description": "React Drawer",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/drawer"
-            }
-        },
-        {
-            "number": 58088,
-            "title": "fix: avoid rendering DOM wrappers for false React nodes",
-            "url": "https://github.com/ant-design/ant-design/pull/58088",
-            "state": "MERGED",
-            "changedFiles": 20,
-            "additions": 59,
-            "deletions": 53,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-22T00:18:37Z",
-            "mergedAt": "2026-05-22T02:32:29Z",
-            "closedAt": "2026-05-22T02:32:29Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2664,
+        "total": 2668,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -868,7 +868,7 @@
             },
             {
                 "date": "2026-05-22",
-                "count": 11
+                "count": 15
             },
             {
                 "date": "2026-05-23",

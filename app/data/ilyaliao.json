@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
         "pronouns": "he/him",
         "followers": 91,
-        "following": 116
+        "following": 117
     },
     "languages": [
         {
@@ -583,6 +583,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat: sync with cursor/plugins upstream",
+            "url": "https://github.com/kdoroszewicz/cursor-plugins-claude/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 156,
+            "additions": 19728,
+            "deletions": 127,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-21T23:39:26Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-21T23:51:32Z",
+            "repository": {
+                "name": "cursor-plugins-claude",
+                "nameWithOwner": "kdoroszewicz/cursor-plugins-claude",
+                "homepageUrl": null,
+                "description": "Cursor plugin specification and official plugins",
+                "owner": {
+                    "login": "kdoroszewicz",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/7294362?u=081e7dfd0e0ff825e456386cbd467190efaaee12&v=4"
+                },
+                "url": "https://github.com/kdoroszewicz/cursor-plugins-claude"
+            }
+        },
+        {
             "number": 622,
             "title": "perf: precompile picomatch matchers once per context",
             "url": "https://github.com/unplugin/unplugin-auto-import/pull/622",
@@ -797,34 +821,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5034,
-            "title": "feat(computedEager): deprecate `computedEager`",
-            "url": "https://github.com/vueuse/vueuse/pull/5034",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-09-13T04:53:21Z",
-            "mergedAt": "2025-09-16T14:21:35Z",
-            "closedAt": "2025-09-16T14:21:35Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 406,
+        "total": 410,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1392,7 +1392,7 @@
             },
             {
                 "date": "2026-05-22",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-23",

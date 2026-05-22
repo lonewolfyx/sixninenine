@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58096,
+            "title": "fix(Notification): reserve description close spacing",
+            "url": "https://github.com/ant-design/ant-design/pull/58096",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-22T14:03:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58091,
             "title": "docs: add Mentions option value",
             "url": "https://github.com/ant-design/ant-design/pull/58091",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/dropdown"
             }
-        },
-        {
-            "number": 620,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/trigger/pull/620",
-            "state": "OPEN",
-            "changedFiles": 20,
-            "additions": 38,
-            "deletions": 37,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-22T01:17:50Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "trigger",
-                "nameWithOwner": "react-component/trigger",
-                "homepageUrl": "http://react-component.github.io/trigger/",
-                "description": "Abstract React Trigger",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/trigger"
-            }
         }
     ],
     "contributions": {
-        "total": 2668,
+        "total": 2669,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -868,7 +868,7 @@
             },
             {
                 "date": "2026-05-22",
-                "count": 15
+                "count": 16
             },
             {
                 "date": "2026-05-23",

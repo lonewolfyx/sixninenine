@@ -583,6 +583,30 @@
     },
     "pullRequest": [
         {
+            "number": 1129,
+            "title": "Add Traditional Chinese (zh-Hant) localization",
+            "url": "https://github.com/steipete/CodexBar/pull/1129",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 631,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-23T18:41:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "CodexBar",
+                "nameWithOwner": "steipete/CodexBar",
+                "homepageUrl": "https://codex.bar",
+                "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+                "owner": {
+                    "login": "steipete",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58493?u=95a4fccef3d341039661c427695691a664e333ba&v=4"
+                },
+                "url": "https://github.com/steipete/CodexBar"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: sync with cursor/plugins upstream",
             "url": "https://github.com/kdoroszewicz/cursor-plugins-claude/pull/1",
@@ -797,34 +821,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5040,
-            "title": "feat(watchPausable): deprecate `watchPausable`",
-            "url": "https://github.com/vueuse/vueuse/pull/5040",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-16T13:53:18Z",
-            "mergedAt": "2025-09-16T14:21:35Z",
-            "closedAt": "2025-09-16T14:21:35Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 413,
+        "total": 415,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1396,11 +1396,11 @@
             },
             {
                 "date": "2026-05-23",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-05-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-25",

@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58108,
+            "title": "docs: update Modal maskClosable deprecation docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58108",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-05-23T15:23:57Z",
+            "mergedAt": "2026-05-23T16:12:35Z",
+            "closedAt": "2026-05-23T16:12:35Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58105,
             "title": "docs: sync Calendar and Space API docs",
             "url": "https://github.com/ant-design/ant-design/pull/58105",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/menu"
             }
-        },
-        {
-            "number": 519,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/tooltip/pull/519",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 25,
-            "deletions": 19,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-22T01:36:39Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "tooltip",
-                "nameWithOwner": "react-component/tooltip",
-                "homepageUrl": "http://react-component.github.io/tooltip/",
-                "description": "React Tooltip",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tooltip"
-            }
         }
     ],
     "contributions": {
-        "total": 2686,
+        "total": 2688,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -872,11 +872,11 @@
             },
             {
                 "date": "2026-05-23",
-                "count": 17
+                "count": 18
             },
             {
                 "date": "2026-05-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-25",

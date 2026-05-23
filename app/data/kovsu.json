@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "feat: update cache schema and add cache signature to indexed files",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/27",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 354,
+            "deletions": 59,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-23T09:38:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 15255,
             "title": "fix: keep dragged tabs within safe bounds",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15255",
@@ -620,14 +644,14 @@
             "number": 15238,
             "title": "fix(sidebar): align resize thresholds with layouts",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15238",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 19,
             "deletions": 8,
             "totalCommentsCount": 0,
             "createdAt": "2026-05-21T10:03:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-23T11:45:28Z",
+            "closedAt": "2026-05-23T11:45:28Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 2795,
-            "title": "feat(package-json): add `repositoryDirectoryValidity` rule",
-            "url": "https://github.com/flint-fyi/flint/pull/2795",
-            "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 269,
-            "deletions": 1,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-05-14T02:26:30Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 340,
+        "total": 341,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1406,7 +1406,7 @@
             },
             {
                 "date": "2026-05-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-24",

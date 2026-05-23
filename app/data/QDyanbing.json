@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 813154,
+            "size": 815367,
             "repoCount": 4,
-            "progress": "78.79"
+            "progress": "78.83"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 105420,
             "repoCount": 5,
-            "progress": "10.21"
+            "progress": "10.19"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 55432,
             "repoCount": 1,
-            "progress": "5.37"
+            "progress": "5.36"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 54922,
             "repoCount": 2,
-            "progress": "5.32"
+            "progress": "5.31"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58105,
+            "title": "docs: sync Calendar and Space API docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58105",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-05-23T12:21:37Z",
+            "mergedAt": "2026-05-23T13:25:22Z",
+            "closedAt": "2026-05-23T13:25:22Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58096,
             "title": "fix(Notification): reserve description close spacing",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/tooltip"
             }
-        },
-        {
-            "number": 246,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/dropdown/pull/246",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 14,
-            "deletions": 15,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-22T01:32:59Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "dropdown",
-                "nameWithOwner": "react-component/dropdown",
-                "homepageUrl": "https://dropdown.react-component.now.sh/",
-                "description": "React Dropdown",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/dropdown"
-            }
         }
     ],
     "contributions": {
-        "total": 2669,
+        "total": 2686,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -872,7 +872,7 @@
             },
             {
                 "date": "2026-05-23",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-05-24",

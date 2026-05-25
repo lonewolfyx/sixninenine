@@ -13,21 +13,21 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1814849,
+            "size": 1815001,
             "repoCount": 29,
             "progress": "52.95"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1433480,
+            "size": 1433496,
             "repoCount": 16,
             "progress": "41.82"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 95933,
+            "size": 95822,
             "repoCount": 17,
             "progress": "2.80"
         },
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 7,
+            "title": "feat(cli): add console log and exit when no components available",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T01:50:09Z",
+            "mergedAt": "2026-05-25T01:50:23Z",
+            "closedAt": "2026-05-25T01:50:23Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 28,
+            "title": "style(css): update overflow handling in html and body elements",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/28",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T01:34:09Z",
+            "mergedAt": "2026-05-25T01:34:38Z",
+            "closedAt": "2026-05-25T01:34:38Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 26,
             "title": "feat(server): switch custom server implementation with `nuxt-devkit-server`",
             "url": "https://github.com/lonewolfyx/usage-board/pull/26",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 20,
-            "title": "feat(server): decouple dashboard analytics interface and optimize home /Agent page loading in batches",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/20",
-            "state": "MERGED",
-            "changedFiles": 36,
-            "additions": 1515,
-            "deletions": 661,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-21T16:38:27Z",
-            "mergedAt": "2026-05-21T16:44:03Z",
-            "closedAt": "2026-05-21T16:44:03Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 19,
-            "title": "feat(ai): add support for multiple AI platform integrations",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/19",
-            "state": "MERGED",
-            "changedFiles": 31,
-            "additions": 3140,
-            "deletions": 164,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-21T13:35:30Z",
-            "mergedAt": "2026-05-21T13:36:42Z",
-            "closedAt": "2026-05-21T13:36:42Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7916,
+        "total": 7932,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1635,11 +1635,11 @@
             },
             {
                 "date": "2026-05-24",
-                "count": 24
+                "count": 31
             },
             {
                 "date": "2026-05-25",
-                "count": 0
+                "count": 9
             },
             {
                 "date": "2026-05-26",

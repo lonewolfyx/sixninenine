@@ -583,8 +583,32 @@
     },
     "pullRequest": [
         {
+            "number": 542,
+            "title": "fix: add missing type for default class exports",
+            "url": "https://github.com/unjs/unimport/pull/542",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-25T00:39:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unimport",
+                "nameWithOwner": "unjs/unimport",
+                "homepageUrl": "",
+                "description": "Unified utils for auto importing APIs in modules.",
+                "owner": {
+                    "login": "unjs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/80154025?v=4"
+                },
+                "url": "https://github.com/unjs/unimport"
+            }
+        },
+        {
             "number": 354,
-            "title": "fix: revert #320",
+            "title": "fix: revert export default class declaration entry",
             "url": "https://github.com/unjs/mlly/pull/354",
             "state": "OPEN",
             "changedFiles": 2,
@@ -797,34 +821,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5042,
-            "title": "feat!: drop watchPausable",
-            "url": "https://github.com/vueuse/vueuse/pull/5042",
-            "state": "OPEN",
-            "changedFiles": 15,
-            "additions": 18,
-            "deletions": 244,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-09-16T15:00:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 427,
+        "total": 440,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1360,11 +1360,11 @@
             },
             {
                 "date": "2026-05-14",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2026-05-15",
-                "count": 17
+                "count": 19
             },
             {
                 "date": "2026-05-16",
@@ -1376,11 +1376,11 @@
             },
             {
                 "date": "2026-05-18",
-                "count": 8
+                "count": 10
             },
             {
                 "date": "2026-05-19",
-                "count": 9
+                "count": 14
             },
             {
                 "date": "2026-05-20",
@@ -1388,11 +1388,11 @@
             },
             {
                 "date": "2026-05-21",
-                "count": 11
+                "count": 12
             },
             {
                 "date": "2026-05-22",
-                "count": 6
+                "count": 7
             },
             {
                 "date": "2026-05-23",
@@ -1404,7 +1404,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-05-26",

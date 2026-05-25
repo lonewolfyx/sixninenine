@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 61,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/overflow/pull/61",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 337,
+            "deletions": 135,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-05-25T01:22:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "overflow",
+                "nameWithOwner": "react-component/overflow",
+                "homepageUrl": "overflow-git-master.react-component.vercel.app",
+                "description": "📦 Auto collapse box util component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/overflow"
+            }
+        },
+        {
+            "number": 1489,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/table/pull/1489",
+            "state": "OPEN",
+            "changedFiles": 29,
+            "additions": 82,
+            "deletions": 57,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-25T01:13:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "table",
+                "nameWithOwner": "react-component/table",
+                "homepageUrl": "https://table-react-component.vercel.app",
+                "description": "React Table",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/table"
+            }
+        },
+        {
+            "number": 58114,
+            "title": "fix: avoid disabled AutoComplete custom input background stacking",
+            "url": "https://github.com/ant-design/ant-design/pull/58114",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 280,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-05-25T01:00:04Z",
+            "mergedAt": "2026-05-25T02:23:58Z",
+            "closedAt": "2026-05-25T02:23:58Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58108,
             "title": "docs: update Modal maskClosable deprecation docs",
             "url": "https://github.com/ant-design/ant-design/pull/58108",
@@ -114,7 +186,7 @@
             "changedFiles": 2,
             "additions": 10,
             "deletions": 4,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 10,
             "createdAt": "2026-05-22T14:03:46Z",
             "mergedAt": null,
             "closedAt": null,
@@ -162,7 +234,7 @@
             "changedFiles": 1,
             "additions": 2,
             "deletions": 0,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2026-05-22T06:11:41Z",
             "mergedAt": "2026-05-22T08:01:42Z",
             "closedAt": "2026-05-22T08:01:42Z",
@@ -186,7 +258,7 @@
             "changedFiles": 23,
             "additions": 57,
             "deletions": 51,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 9,
             "createdAt": "2026-05-22T04:22:52Z",
             "mergedAt": null,
             "closedAt": null,
@@ -210,7 +282,7 @@
             "changedFiles": 14,
             "additions": 29,
             "deletions": 22,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-05-22T02:06:02Z",
             "mergedAt": null,
             "closedAt": null,
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/tabs"
             }
-        },
-        {
-            "number": 1038,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/tree/pull/1038",
-            "state": "OPEN",
-            "changedFiles": 15,
-            "additions": 54,
-            "deletions": 31,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-05-22T02:00:18Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "tree",
-                "nameWithOwner": "react-component/tree",
-                "homepageUrl": "https://tree.react-component.now.sh/",
-                "description": "React Tree",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tree"
-            }
-        },
-        {
-            "number": 970,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/picker/pull/970",
-            "state": "OPEN",
-            "changedFiles": 27,
-            "additions": 48,
-            "deletions": 57,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-22T01:44:26Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
-        },
-        {
-            "number": 865,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/menu/pull/865",
-            "state": "OPEN",
-            "changedFiles": 18,
-            "additions": 29,
-            "deletions": 32,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-22T01:41:13Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "menu",
-                "nameWithOwner": "react-component/menu",
-                "homepageUrl": "https://menu.react-component.now.sh/",
-                "description": "React Menu",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/menu"
-            }
         }
     ],
     "contributions": {
-        "total": 2703,
+        "total": 2708,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -880,7 +880,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-05-26",

@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2825,
+            "title": "ci: reduce site build work",
+            "url": "https://github.com/flint-fyi/flint/pull/2825",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 11,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-25T03:16:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 15306,
+            "title": "fix(proxy): bootstrap node proxy for child processes",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15306",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T02:03:07Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-25T02:03:52Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherry-ai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 27,
             "title": "feat: update cache schema and add cache signature to indexed files",
             "url": "https://github.com/lonewolfyx/usage-board/pull/27",
@@ -621,10 +669,10 @@
             "title": "fix: keep dragged tabs within safe bounds",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15255",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 82,
+            "changedFiles": 4,
+            "additions": 216,
             "deletions": 8,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-05-22T03:58:49Z",
             "mergedAt": null,
             "closedAt": null,
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 15159,
-            "title": "fix: support mcpb imports and metadata resolution",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15159",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 220,
-            "deletions": 89,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-18T07:32:23Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 15089,
-            "title": "hotfix: add environment variable for claude code provider management",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15089",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T10:01:54Z",
-            "mergedAt": "2026-05-15T09:57:25Z",
-            "closedAt": "2026-05-15T09:57:25Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 342,
+        "total": 344,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1414,7 +1414,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-26",

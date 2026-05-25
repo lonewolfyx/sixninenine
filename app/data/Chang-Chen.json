@@ -52,6 +52,30 @@
     },
     "pullRequest": [
         {
+            "number": 24,
+            "title": "refactor(doct): 加上提醒文案",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/24",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-25T07:54:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
             "number": 354,
             "title": "feat(新增ELXButton): 为整合组件内的按钮组件，新增ELXButton，兼容目前的零散按钮，传 elxButtonType …",
             "url": "https://github.com/element-plus-x/Element-Plus-X/pull/354",
@@ -266,34 +290,10 @@
                 },
                 "url": "https://github.com/Alfred-Skyblue/vue-draggable-plus"
             }
-        },
-        {
-            "number": 331,
-            "title": "fix: 输入框组件，增加字符最大数限制",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/331",
-            "state": "CLOSED",
-            "changedFiles": 32,
-            "additions": 3532,
-            "deletions": 2858,
-            "totalCommentsCount": 36,
-            "createdAt": "2025-09-04T12:19:26Z",
-            "mergedAt": null,
-            "closedAt": "2025-09-16T01:35:46Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 3,
+        "total": 5,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -873,7 +873,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-26",

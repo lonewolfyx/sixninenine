@@ -59,6 +59,150 @@
     },
     "pullRequest": [
         {
+            "number": 58122,
+            "title": "fix: avoid deep @rc-component tree imports",
+            "url": "https://github.com/ant-design/ant-design/pull/58122",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 42,
+            "deletions": 50,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-25T10:43:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58121,
+            "title": "fix(Modal): align footer buttons when loading",
+            "url": "https://github.com/ant-design/ant-design/pull/58121",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-25T08:38:42Z",
+            "mergedAt": null,
+            "closedAt": "2026-05-25T09:45:53Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58119,
+            "title": "fix: avoid deep @rc-component input and select imports",
+            "url": "https://github.com/ant-design/ant-design/pull/58119",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 13,
+            "deletions": 15,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-05-25T08:10:56Z",
+            "mergedAt": "2026-05-25T09:57:09Z",
+            "closedAt": "2026-05-25T09:57:09Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 656,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/tree-select/pull/656",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 690,
+            "deletions": 628,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-25T08:06:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tree-select",
+                "nameWithOwner": "react-component/tree-select",
+                "homepageUrl": "https://tree-select.react-component.now.sh/",
+                "description": "React Tree Select",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tree-select"
+            }
+        },
+        {
+            "number": 638,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/cascader/pull/638",
+            "state": "OPEN",
+            "changedFiles": 17,
+            "additions": 43,
+            "deletions": 38,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-05-25T08:06:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cascader",
+                "nameWithOwner": "react-component/cascader",
+                "homepageUrl": "https://cascader-react-component.vercel.app/",
+                "description": "cascade select in one box",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/cascader"
+            }
+        },
+        {
+            "number": 317,
+            "title": "Avoid rc package deep imports",
+            "url": "https://github.com/react-component/mentions/pull/317",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 21,
+            "deletions": 20,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-05-25T07:03:46Z",
+            "mergedAt": "2026-05-25T10:18:17Z",
+            "closedAt": "2026-05-25T10:18:17Z",
+            "repository": {
+                "name": "mentions",
+                "nameWithOwner": "react-component/mentions",
+                "homepageUrl": "https://rc-mentions.react-component.now.sh",
+                "description": "React Mentions",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/mentions"
+            }
+        },
+        {
             "number": 61,
             "title": "Avoid rc package deep imports",
             "url": "https://github.com/react-component/overflow/pull/61",
@@ -88,9 +232,9 @@
             "url": "https://github.com/react-component/table/pull/1489",
             "state": "OPEN",
             "changedFiles": 29,
-            "additions": 82,
-            "deletions": 57,
-            "totalCommentsCount": 9,
+            "additions": 80,
+            "deletions": 56,
+            "totalCommentsCount": 8,
             "createdAt": "2026-05-25T01:13:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -153,154 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58105,
-            "title": "docs: sync Calendar and Space API docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58105",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-23T12:21:37Z",
-            "mergedAt": "2026-05-23T13:25:22Z",
-            "closedAt": "2026-05-23T13:25:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58096,
-            "title": "fix(Notification): reserve description close spacing",
-            "url": "https://github.com/ant-design/ant-design/pull/58096",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 4,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-05-22T14:03:46Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58091,
-            "title": "docs: add Mentions option value",
-            "url": "https://github.com/ant-design/ant-design/pull/58091",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-22T09:39:22Z",
-            "mergedAt": "2026-05-22T09:46:31Z",
-            "closedAt": "2026-05-22T09:46:31Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 177,
-            "title": "Expose input internal types",
-            "url": "https://github.com/react-component/input/pull/177",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-22T06:11:41Z",
-            "mergedAt": "2026-05-22T08:01:42Z",
-            "closedAt": "2026-05-22T08:01:42Z",
-            "repository": {
-                "name": "input",
-                "nameWithOwner": "react-component/input",
-                "homepageUrl": "",
-                "description": "React Input Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input"
-            }
-        },
-        {
-            "number": 1223,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/select/pull/1223",
-            "state": "OPEN",
-            "changedFiles": 23,
-            "additions": 57,
-            "deletions": 51,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-22T04:22:52Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
-        },
-        {
-            "number": 990,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/tabs/pull/990",
-            "state": "OPEN",
-            "changedFiles": 14,
-            "additions": 29,
-            "deletions": 22,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-05-22T02:06:02Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "tabs",
-                "nameWithOwner": "react-component/tabs",
-                "homepageUrl": "https://tabs.react-component.now.sh/",
-                "description": "React Tabs",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tabs"
-            }
         }
     ],
     "contributions": {
-        "total": 2708,
+        "total": 2719,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -880,7 +880,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 5
+                "count": 16
             },
             {
                 "date": "2026-05-26",

@@ -6,14 +6,14 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4",
         "pronouns": "",
-        "followers": 88,
+        "followers": 89,
         "following": 86
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1815001,
+            "size": 1814830,
             "repoCount": 29,
             "progress": "52.95"
         },
@@ -22,7 +22,7 @@
             "color": "#41b883",
             "size": 1433496,
             "repoCount": 16,
-            "progress": "41.82"
+            "progress": "41.83"
         },
         {
             "name": "CSS",
@@ -366,7 +366,7 @@
                         {
                             "id": "MDQ6VXNlcjM2MDE5NzAy",
                             "login": "Mashirl",
-                            "name": "Mashirl",
+                            "name": "Yusong Ma",
                             "bio": "Less is more / GPG Fingerprint: 2BF1 1CA8 093C 1671 FB64  9BEC FEA1 83B4 E16B EEA2",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/36019702?u=4c33284f5f004ea80811d8589e8eb6520b4ef053&v=4",
                             "company": null,
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "fix(cli): simplify folder deletion logic with sequential processing",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/23",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T07:51:47Z",
+            "mergedAt": "2026-05-25T07:52:02Z",
+            "closedAt": "2026-05-25T07:52:02Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
             "number": 7,
             "title": "feat(cli): add console log and exit when no components available",
             "url": "https://github.com/lonewolfyx/shadcn-install/pull/7",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 21,
-            "title": "feat(database): migrate SQLite database access to unified adapter",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/21",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 273,
-            "deletions": 54,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T02:04:13Z",
-            "mergedAt": "2026-05-22T02:05:15Z",
-            "closedAt": "2026-05-22T02:05:15Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7932,
+        "total": 7940,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1639,7 +1639,7 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 9
+                "count": 17
             },
             {
                 "date": "2026-05-26",

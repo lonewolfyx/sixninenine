@@ -13,21 +13,21 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1814830,
+            "size": 1793125,
             "repoCount": 29,
-            "progress": "52.95"
+            "progress": "52.46"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1433496,
+            "size": 1446042,
             "repoCount": 16,
-            "progress": "41.83"
+            "progress": "42.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 95822,
+            "size": 95867,
             "repoCount": 17,
             "progress": "2.80"
         },
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "fix(svg): could not compile template nuxt-icon-client-bundle",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/31",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 0,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T16:36:41Z",
+            "mergedAt": "2026-05-25T16:37:30Z",
+            "closedAt": "2026-05-25T16:37:30Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 30,
+            "title": "fix(dashboard): simplify platform metadata access and fix dashboard",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/30",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 95,
+            "deletions": 332,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T16:33:30Z",
+            "mergedAt": "2026-05-25T16:34:27Z",
+            "closedAt": "2026-05-25T16:34:27Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 29,
+            "title": "refactor(layout): implement sidebar layout with project navigation improvements",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/29",
+            "state": "MERGED",
+            "changedFiles": 39,
+            "additions": 1081,
+            "deletions": 598,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-25T15:47:15Z",
+            "mergedAt": "2026-05-25T15:47:42Z",
+            "closedAt": "2026-05-25T15:47:42Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 23,
             "title": "fix(cli): simplify folder deletion logic with sequential processing",
             "url": "https://github.com/lonewolfyx/rmcache/pull/23",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 24,
-            "title": "chore(config): add node18 target and platform configuration",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/24",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T03:58:20Z",
-            "mergedAt": "2026-05-22T03:58:31Z",
-            "closedAt": "2026-05-22T03:58:31Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 23,
-            "title": "chore(nuxt): remove unused development environment check",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/23",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T03:19:30Z",
-            "mergedAt": "2026-05-22T03:19:46Z",
-            "closedAt": "2026-05-22T03:19:46Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 22,
-            "title": "refactor(sqlite): normalize usage cache storage schema",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/22",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2097,
-            "deletions": 123,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T03:05:24Z",
-            "mergedAt": "2026-05-22T03:08:46Z",
-            "closedAt": "2026-05-22T03:08:46Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7944,
+        "total": 7957,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1639,11 +1639,11 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 21
+                "count": 30
             },
             {
                 "date": "2026-05-26",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-05-27",

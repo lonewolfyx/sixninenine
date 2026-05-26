@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1793125,
+            "size": 1808055,
             "repoCount": 29,
-            "progress": "52.46"
+            "progress": "52.23"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1446042,
+            "size": 1446571,
             "repoCount": 16,
-            "progress": "42.30"
+            "progress": "41.79"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 103891,
+            "repoCount": 28,
+            "progress": "3.00"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95867,
             "repoCount": 17,
-            "progress": "2.80"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 75962,
-            "repoCount": 28,
-            "progress": "2.22"
+            "progress": "2.77"
         },
         {
             "name": "SCSS",
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 34,
+            "title": "feat(dashboard): add agent header to token consumption dashboard",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/34",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 14,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T02:24:22Z",
+            "mergedAt": "2026-05-26T02:31:16Z",
+            "closedAt": "2026-05-26T02:31:16Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 33,
+            "title": "chore(lint): update lint script to run nuxt prepare with eslint fix",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/33",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T02:11:15Z",
+            "mergedAt": "2026-05-26T02:13:56Z",
+            "closedAt": "2026-05-26T02:13:56Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 32,
+            "title": "fix(agent): update pricing resolver and usage calculation logic",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/32",
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 1253,
+            "deletions": 131,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T02:06:16Z",
+            "mergedAt": "2026-05-26T02:09:21Z",
+            "closedAt": "2026-05-26T02:09:21Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 31,
             "title": "fix(svg): could not compile template nuxt-icon-client-bundle",
             "url": "https://github.com/lonewolfyx/usage-board/pull/31",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 32,
-            "title": "docs(blogs): add Mac SSH passphrase solution guide",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/32",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 46,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-22T07:33:06Z",
-            "mergedAt": "2026-05-22T07:33:34Z",
-            "closedAt": "2026-05-22T07:33:34Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 16,
-            "title": "feat(eslint): enable typescript support in eslint configuration",
-            "url": "https://github.com/lonewolfyx/setup/pull/16",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T06:30:07Z",
-            "mergedAt": "2026-05-22T06:30:16Z",
-            "closedAt": "2026-05-22T06:30:16Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 25,
-            "title": "fix(database): replace better-sqlite3 with node:sqlite implementation",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/25",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 56,
-            "deletions": 35,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-22T05:47:25Z",
-            "mergedAt": "2026-05-22T05:48:12Z",
-            "closedAt": "2026-05-22T05:48:12Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7957,
+        "total": 7971,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1639,11 +1639,11 @@
             },
             {
                 "date": "2026-05-25",
-                "count": 30
+                "count": 35
             },
             {
                 "date": "2026-05-26",
-                "count": 4
+                "count": 13
             },
             {
                 "date": "2026-05-27",

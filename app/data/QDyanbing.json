@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 58126,
+            "title": "fix(Upload): keep default progress style",
+            "url": "https://github.com/ant-design/ant-design/pull/58126",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-26T00:47:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58122,
             "title": "fix: avoid deep @rc-component tree imports",
             "url": "https://github.com/ant-design/ant-design/pull/58122",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 42,
             "deletions": 50,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 9,
             "createdAt": "2026-05-25T10:43:52Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-26T02:07:27Z",
+            "closedAt": "2026-05-26T02:07:27Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -138,7 +162,7 @@
             "changedFiles": 27,
             "additions": 690,
             "deletions": 628,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-05-25T08:06:44Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58108,
-            "title": "docs: update Modal maskClosable deprecation docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58108",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-05-23T15:23:57Z",
-            "mergedAt": "2026-05-23T16:12:35Z",
-            "closedAt": "2026-05-23T16:12:35Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2719,
+        "total": 2721,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -884,7 +884,7 @@
             },
             {
                 "date": "2026-05-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-05-27",

@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2828,
+            "title": "feat: add scoped manager support",
+            "url": "https://github.com/flint-fyi/flint/pull/2828",
+            "state": "OPEN",
+            "changedFiles": 18,
+            "additions": 1469,
+            "deletions": 198,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-26T10:13:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2826,
             "title": "feat: add detection for duplicate `String.raw` test cases",
             "url": "https://github.com/flint-fyi/flint/pull/2826",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 15185,
-            "title": "fix(agents): pass custom headers to claude code",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15185",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-19T03:11:00Z",
-            "mergedAt": "2026-05-19T03:39:56Z",
-            "closedAt": "2026-05-19T03:39:56Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 345,
+        "total": 346,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1418,7 +1418,7 @@
             },
             {
                 "date": "2026-05-26",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-05-27",

@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1808055,
+            "size": 1838663,
             "repoCount": 29,
-            "progress": "52.23"
+            "progress": "52.34"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1446571,
+            "size": 1467528,
             "repoCount": 16,
-            "progress": "41.79"
+            "progress": "41.77"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 103891,
             "repoCount": 28,
-            "progress": "3.00"
+            "progress": "2.96"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95867,
             "repoCount": 17,
-            "progress": "2.77"
+            "progress": "2.73"
         },
         {
             "name": "SCSS",
@@ -50,7 +50,7 @@
             "color": "#e34c26",
             "size": 1560,
             "repoCount": 4,
-            "progress": "0.05"
+            "progress": "0.04"
         },
         {
             "name": "Shell",
@@ -818,6 +818,150 @@
     },
     "pullRequest": [
         {
+            "number": 40,
+            "title": "fix(cache): rebuild incompatible sqlite cache and harden refresh persistence",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/40",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 89,
+            "deletions": 31,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T09:17:37Z",
+            "mergedAt": "2026-05-26T09:18:48Z",
+            "closedAt": "2026-05-26T09:18:48Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 39,
+            "title": "fix(home): restore today's token trend from sqlite cache",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/39",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 341,
+            "deletions": 17,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T08:19:50Z",
+            "mergedAt": "2026-05-26T08:21:41Z",
+            "closedAt": "2026-05-26T08:21:41Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 38,
+            "title": "perf: reduce home analysis latency and ease sqlite refresh contention",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/38",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 62,
+            "deletions": 54,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-26T07:29:42Z",
+            "mergedAt": "2026-05-26T07:33:35Z",
+            "closedAt": "2026-05-26T07:33:35Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 37,
+            "title": "feat(dashboard): add input/output display for agent platform",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/37",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 88,
+            "deletions": 17,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T06:39:20Z",
+            "mergedAt": "2026-05-26T06:41:22Z",
+            "closedAt": "2026-05-26T06:41:22Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 36,
+            "title": "feat(dashboard): add today's hourly usage trend visualization",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/36",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 623,
+            "deletions": 48,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T06:19:10Z",
+            "mergedAt": "2026-05-26T06:20:19Z",
+            "closedAt": "2026-05-26T06:20:19Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 35,
+            "title": "feat(usage): add cost tracking and platform-specific usage data in Token Heatmap",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/35",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 282,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-26T05:09:29Z",
+            "mergedAt": "2026-05-26T05:11:29Z",
+            "closedAt": "2026-05-26T05:11:29Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 34,
             "title": "feat(dashboard): add agent header to token consumption dashboard",
             "url": "https://github.com/lonewolfyx/usage-board/pull/34",
@@ -912,154 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 30,
-            "title": "fix(dashboard): simplify platform metadata access and fix dashboard",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/30",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 95,
-            "deletions": 332,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-25T16:33:30Z",
-            "mergedAt": "2026-05-25T16:34:27Z",
-            "closedAt": "2026-05-25T16:34:27Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 29,
-            "title": "refactor(layout): implement sidebar layout with project navigation improvements",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/29",
-            "state": "MERGED",
-            "changedFiles": 39,
-            "additions": 1081,
-            "deletions": 598,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-25T15:47:15Z",
-            "mergedAt": "2026-05-25T15:47:42Z",
-            "closedAt": "2026-05-25T15:47:42Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 23,
-            "title": "fix(cli): simplify folder deletion logic with sequential processing",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/23",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-25T07:51:47Z",
-            "mergedAt": "2026-05-25T07:52:02Z",
-            "closedAt": "2026-05-25T07:52:02Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
-        },
-        {
-            "number": 7,
-            "title": "feat(cli): add console log and exit when no components available",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-25T01:50:09Z",
-            "mergedAt": "2026-05-25T01:50:23Z",
-            "closedAt": "2026-05-25T01:50:23Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 28,
-            "title": "style(css): update overflow handling in html and body elements",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/28",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 8,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-25T01:34:09Z",
-            "mergedAt": "2026-05-25T01:34:38Z",
-            "closedAt": "2026-05-25T01:34:38Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 26,
-            "title": "feat(server): switch custom server implementation with `nuxt-devkit-server`",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/26",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 36,
-            "deletions": 73,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-22T15:22:17Z",
-            "mergedAt": "2026-05-22T15:25:21Z",
-            "closedAt": "2026-05-22T15:25:21Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 7971,
+        "total": 7992,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1635,7 +1635,7 @@
             },
             {
                 "date": "2026-05-24",
-                "count": 31
+                "count": 33
             },
             {
                 "date": "2026-05-25",
@@ -1643,7 +1643,7 @@
             },
             {
                 "date": "2026-05-26",
-                "count": 13
+                "count": 32
             },
             {
                 "date": "2026-05-27",

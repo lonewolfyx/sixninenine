@@ -59,17 +59,89 @@
     },
     "pullRequest": [
         {
+            "number": 58144,
+            "title": "chore: avoid rc package deep imports",
+            "url": "https://github.com/ant-design/ant-design/pull/58144",
+            "state": "MERGED",
+            "changedFiles": 80,
+            "additions": 107,
+            "deletions": 81,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-27T07:51:29Z",
+            "mergedAt": "2026-05-27T08:32:09Z",
+            "closedAt": "2026-05-27T08:32:09Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58143,
+            "title": "fix: avoid deep @rc-component form imports",
+            "url": "https://github.com/ant-design/ant-design/pull/58143",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 18,
+            "deletions": 18,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-27T06:59:23Z",
+            "mergedAt": "2026-05-27T07:11:42Z",
+            "closedAt": "2026-05-27T07:11:42Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58142,
+            "title": "fix: avoid table tabs cascader deep rc imports",
+            "url": "https://github.com/ant-design/ant-design/pull/58142",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 28,
+            "deletions": 22,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-05-27T06:40:46Z",
+            "mergedAt": "2026-05-27T06:47:39Z",
+            "closedAt": "2026-05-27T06:47:39Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58137,
             "title": "fix: avoid deep @rc-component upload imports",
             "url": "https://github.com/ant-design/ant-design/pull/58137",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 3,
             "deletions": 3,
-            "totalCommentsCount": 15,
+            "totalCommentsCount": 14,
             "createdAt": "2026-05-27T02:39:50Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-05-27T05:42:58Z",
+            "closedAt": "2026-05-27T05:42:58Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/tree-select"
             }
-        },
-        {
-            "number": 638,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/cascader/pull/638",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 43,
-            "deletions": 38,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-05-25T08:06:44Z",
-            "mergedAt": "2026-05-27T03:26:44Z",
-            "closedAt": "2026-05-27T03:26:44Z",
-            "repository": {
-                "name": "cascader",
-                "nameWithOwner": "react-component/cascader",
-                "homepageUrl": "https://cascader-react-component.vercel.app/",
-                "description": "cascade select in one box",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/cascader"
-            }
-        },
-        {
-            "number": 317,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/mentions/pull/317",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 21,
-            "deletions": 20,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-05-25T07:03:46Z",
-            "mergedAt": "2026-05-25T10:18:17Z",
-            "closedAt": "2026-05-25T10:18:17Z",
-            "repository": {
-                "name": "mentions",
-                "nameWithOwner": "react-component/mentions",
-                "homepageUrl": "https://rc-mentions.react-component.now.sh",
-                "description": "React Mentions",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mentions"
-            }
-        },
-        {
-            "number": 61,
-            "title": "Avoid rc package deep imports",
-            "url": "https://github.com/react-component/overflow/pull/61",
-            "state": "OPEN",
-            "changedFiles": 14,
-            "additions": 337,
-            "deletions": 135,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-05-25T01:22:38Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "overflow",
-                "nameWithOwner": "react-component/overflow",
-                "homepageUrl": "overflow-git-master.react-component.vercel.app",
-                "description": "📦 Auto collapse box util component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/overflow"
-            }
         }
     ],
     "contributions": {
-        "total": 2740,
+        "total": 2748,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -888,7 +888,7 @@
             },
             {
                 "date": "2026-05-27",
-                "count": 5
+                "count": 13
             },
             {
                 "date": "2026-05-28",

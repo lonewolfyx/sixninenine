@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2840,
+            "title": "fix: route file discovery and cache I/O through the linter host",
+            "url": "https://github.com/flint-fyi/flint/pull/2840",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 124,
+            "deletions": 50,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-28T10:12:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 2839,
+            "title": "feat: assert no ts errors in rule tester cases",
+            "url": "https://github.com/flint-fyi/flint/pull/2839",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 76,
+            "deletions": 22,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-28T06:43:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 15369,
             "title": "fix: recover claude-code install when native binary is missing",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/15369",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 2810,
-            "title": "fix(comparisons): correct jsx-eslint rule doc links",
-            "url": "https://github.com/flint-fyi/flint/pull/2810",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 134,
-            "deletions": 134,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-20T08:55:00Z",
-            "mergedAt": "2026-05-20T16:29:15Z",
-            "closedAt": "2026-05-20T16:29:15Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 19180,
-            "title": "Fix JSDoc multiline type cast alignment in assignment",
-            "url": "https://github.com/prettier/prettier/pull/19180",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 66,
-            "deletions": 8,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-05-20T00:31:31Z",
-            "mergedAt": "2026-05-20T15:07:25Z",
-            "closedAt": "2026-05-20T15:07:25Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 349,
+        "total": 351,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1426,7 +1426,7 @@
             },
             {
                 "date": "2026-05-28",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-05-29",

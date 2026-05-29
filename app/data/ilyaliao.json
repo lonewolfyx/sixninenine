@@ -621,6 +621,30 @@
     },
     "pullRequest": [
         {
+            "number": 5479,
+            "title": "fix(useFuse): recreate Fuse instance when data changes",
+            "url": "https://github.com/vueuse/vueuse/pull/5479",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-29T15:52:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 542,
             "title": "fix: add missing type for default class exports",
             "url": "https://github.com/unjs/unimport/pull/542",
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/ilyaliao/unplugin-vue-components"
             }
-        },
-        {
-            "number": 5206,
-            "title": "docs(refAutoReset): clarify deep update",
-            "url": "https://github.com/vueuse/vueuse/pull/5206",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-12-09T22:46:07Z",
-            "mergedAt": "2025-12-10T03:08:21Z",
-            "closedAt": "2025-12-10T03:08:22Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 462,
+        "total": 464,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1458,7 +1458,7 @@
             },
             {
                 "date": "2026-05-29",
-                "count": 6
+                "count": 8
             },
             {
                 "date": "2026-05-30",

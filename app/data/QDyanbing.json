@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58172,
+            "title": "docs: fix component documentation anchors",
+            "url": "https://github.com/ant-design/ant-design/pull/58172",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-05-29T13:16:32Z",
+            "mergedAt": "2026-05-29T13:29:11Z",
+            "closedAt": "2026-05-29T13:29:11Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58160,
             "title": "fix: treat empty string as non-renderable content",
             "url": "https://github.com/ant-design/ant-design/pull/58160",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58121,
-            "title": "fix(Modal): align footer buttons when loading",
-            "url": "https://github.com/ant-design/ant-design/pull/58121",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-25T08:38:42Z",
-            "mergedAt": null,
-            "closedAt": "2026-05-25T09:45:53Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2784,
+        "total": 2787,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -896,7 +896,7 @@
             },
             {
                 "date": "2026-05-29",
-                "count": 15
+                "count": 18
             },
             {
                 "date": "2026-05-30",

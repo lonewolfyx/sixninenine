@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2844,
+            "title": "fix(cli): read renderer source files through the linter host",
+            "url": "https://github.com/flint-fyi/flint/pull/2844",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 31,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-29T08:00:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 2843,
+            "title": "fix(cli): run prettier through the linter host file system",
+            "url": "https://github.com/flint-fyi/flint/pull/2843",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 14,
+            "deletions": 15,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-05-29T07:44:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2840,
             "title": "fix: route file discovery and cache I/O through the linter host",
             "url": "https://github.com/flint-fyi/flint/pull/2840",
@@ -693,10 +741,10 @@
             "title": "feat: add detection for duplicate `String.raw` test cases",
             "url": "https://github.com/flint-fyi/flint/pull/2826",
             "state": "OPEN",
-            "changedFiles": 9,
-            "additions": 165,
-            "deletions": 91,
-            "totalCommentsCount": 7,
+            "changedFiles": 11,
+            "additions": 169,
+            "deletions": 90,
+            "totalCommentsCount": 6,
             "createdAt": "2026-05-25T09:13:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 15255,
-            "title": "fix: keep dragged tabs within safe bounds",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15255",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 216,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-22T03:58:49Z",
-            "mergedAt": null,
-            "closedAt": "2026-05-29T02:55:02Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 15238,
-            "title": "fix(sidebar): align resize thresholds with layouts",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15238",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 8,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-21T10:03:53Z",
-            "mergedAt": "2026-05-23T11:45:28Z",
-            "closedAt": "2026-05-23T11:45:28Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 357,
+        "total": 359,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1430,7 +1430,7 @@
             },
             {
                 "date": "2026-05-29",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-05-30",

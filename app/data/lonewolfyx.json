@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1889536,
-            "repoCount": 29,
-            "progress": "52.70"
+            "size": 1920067,
+            "repoCount": 30,
+            "progress": "54.32"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1469640,
-            "repoCount": 16,
-            "progress": "40.99"
+            "size": 1410968,
+            "repoCount": 15,
+            "progress": "39.92"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 123107,
+            "size": 105454,
             "repoCount": 28,
-            "progress": "3.43"
+            "progress": "2.98"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 95867,
-            "repoCount": 17,
-            "progress": "2.67"
+            "size": 91895,
+            "repoCount": 16,
+            "progress": "2.60"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
-            "size": 4924,
-            "repoCount": 3,
-            "progress": "0.14"
+            "size": 4356,
+            "repoCount": 2,
+            "progress": "0.12"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 1560,
-            "repoCount": 4,
-            "progress": "0.04"
+            "size": 1233,
+            "repoCount": 3,
+            "progress": "0.03"
         },
         {
             "name": "Shell",
@@ -819,6 +819,30 @@
     "pullRequest": [
         {
             "number": 4,
+            "title": "feat(agents): add support for Zed agent platform",
+            "url": "https://github.com/lonewolfyx/clear-skills/pull/4",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-05-29T05:02:42Z",
+            "mergedAt": "2026-05-29T05:03:25Z",
+            "closedAt": "2026-05-29T05:03:25Z",
+            "repository": {
+                "name": "clear-skills",
+                "nameWithOwner": "lonewolfyx/clear-skills",
+                "homepageUrl": null,
+                "description": "Clear AI skills — remove skill files from the current project or globally",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-skills"
+            }
+        },
+        {
+            "number": 4,
             "title": "feat(skills): add naming convention enforcement skill",
             "url": "https://github.com/lonewolfyx/skills/pull/4",
             "state": "MERGED",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 42,
-            "title": "chore(lint): enable pnpm typescript and markdown support in eslint config",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/42",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-27T05:37:49Z",
-            "mergedAt": "2026-05-27T05:38:03Z",
-            "closedAt": "2026-05-27T05:38:04Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8109,
+        "total": 8128,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1195,7 +1195,7 @@
             },
             {
                 "date": "2026-02-03",
-                "count": 63
+                "count": 64
             },
             {
                 "date": "2026-02-04",
@@ -1655,7 +1655,7 @@
             },
             {
                 "date": "2026-05-29",
-                "count": 5
+                "count": 23
             },
             {
                 "date": "2026-05-30",

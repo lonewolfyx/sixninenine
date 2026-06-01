@@ -6,58 +6,58 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4",
         "pronouns": "",
-        "followers": 89,
-        "following": 87
+        "followers": 90,
+        "following": 88
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1920067,
+            "size": 1889238,
             "repoCount": 30,
-            "progress": "54.32"
+            "progress": "56.01"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1410968,
-            "repoCount": 15,
-            "progress": "39.92"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 105454,
-            "repoCount": 28,
-            "progress": "2.98"
+            "size": 1317000,
+            "repoCount": 14,
+            "progress": "39.04"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 91895,
-            "repoCount": 16,
+            "size": 87814,
+            "repoCount": 15,
             "progress": "2.60"
         },
         {
-            "name": "SCSS",
-            "color": "#c6538c",
-            "size": 4356,
-            "repoCount": 2,
-            "progress": "0.12"
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 77895,
+            "repoCount": 28,
+            "progress": "2.31"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 1233,
-            "repoCount": 3,
+            "size": 867,
+            "repoCount": 2,
             "progress": "0.03"
+        },
+        {
+            "name": "SCSS",
+            "color": "#c6538c",
+            "size": 207,
+            "repoCount": 1,
+            "progress": "0.01"
         },
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 738,
-            "repoCount": 2,
-            "progress": "0.02"
+            "size": 93,
+            "repoCount": 1,
+            "progress": "0.00"
         }
     ],
     "organizations": {
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 5,
+            "title": "feat(skill): add comprehensive UnJS development guidelines and references",
+            "url": "https://github.com/lonewolfyx/skills/pull/5",
+            "state": "MERGED",
+            "changedFiles": 82,
+            "additions": 3576,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-01T07:55:25Z",
+            "mergedAt": "2026-06-01T07:56:33Z",
+            "closedAt": "2026-06-01T07:56:33Z",
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "lonewolfyx/skills",
+                "homepageUrl": null,
+                "description": "curated collection of agent skills.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills"
+            }
+        },
+        {
+            "number": 2,
+            "title": "build(package): update package exports and entry points",
+            "url": "https://github.com/lonewolfyx/skills-config/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-01T07:24:59Z",
+            "mergedAt": "2026-06-01T07:25:11Z",
+            "closedAt": "2026-06-01T07:25:12Z",
+            "repository": {
+                "name": "skills-config",
+                "nameWithOwner": "lonewolfyx/skills-config",
+                "homepageUrl": null,
+                "description": "Declarative Git skills manager for AI coding agents. Define skills in skills.config.ts and automatically provision them during npm install / prepare.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills-config"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(config): update skills cache file location",
+            "url": "https://github.com/lonewolfyx/skills-config/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-05-29T05:16:18Z",
+            "mergedAt": "2026-05-29T05:18:28Z",
+            "closedAt": "2026-05-29T05:18:28Z",
+            "repository": {
+                "name": "skills-config",
+                "nameWithOwner": "lonewolfyx/skills-config",
+                "homepageUrl": null,
+                "description": "Declarative Git skills manager for AI coding agents. Define skills in skills.config.ts and automatically provision them during npm install / prepare.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills-config"
+            }
+        },
+        {
             "number": 4,
             "title": "feat(agents): add support for Zed agent platform",
             "url": "https://github.com/lonewolfyx/clear-skills/pull/4",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 45,
-            "title": "feat(table): switch all tables to use tanstack table while optimizing the data interface",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/45",
-            "state": "MERGED",
-            "changedFiles": 34,
-            "additions": 1173,
-            "deletions": 588,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-27T08:35:17Z",
-            "mergedAt": "2026-05-27T08:36:41Z",
-            "closedAt": "2026-05-27T08:36:41Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 44,
-            "title": "fix(usage-cache): optimize database queries and improve caching logic",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/44",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 118,
-            "deletions": 69,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-27T06:48:36Z",
-            "mergedAt": "2026-05-27T06:48:48Z",
-            "closedAt": "2026-05-27T06:48:48Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 43,
-            "title": "feat(skills): add comprehensive code convergence and abstraction boundary guidelines",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/43",
-            "state": "MERGED",
-            "changedFiles": 30,
-            "additions": 944,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-27T06:12:40Z",
-            "mergedAt": "2026-05-27T06:13:00Z",
-            "closedAt": "2026-05-27T06:13:00Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8203,
+        "total": 8227,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1663,11 +1663,11 @@
             },
             {
                 "date": "2026-05-31",
-                "count": 28
+                "count": 29
             },
             {
                 "date": "2026-06-01",
-                "count": 4
+                "count": 27
             },
             {
                 "date": "2026-06-02",

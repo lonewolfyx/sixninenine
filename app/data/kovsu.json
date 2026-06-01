@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2854,
+            "title": "refactor(core): resolve gitignore per-directory instead of rewriting rules",
+            "url": "https://github.com/flint-fyi/flint/pull/2854",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 143,
+            "deletions": 148,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-01T03:24:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2844,
             "title": "fix(cli): read renderer source files through the linter host",
             "url": "https://github.com/flint-fyi/flint/pull/2844",
@@ -646,9 +670,9 @@
             "url": "https://github.com/flint-fyi/flint/pull/2840",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 133,
+            "additions": 129,
             "deletions": 56,
-            "totalCommentsCount": 17,
+            "totalCommentsCount": 19,
             "createdAt": "2026-05-28T10:12:10Z",
             "mergedAt": null,
             "closedAt": null,
@@ -666,16 +690,16 @@
         },
         {
             "number": 2839,
-            "title": "feat: assert no errors in rule tester cases",
+            "title": "feat: assert that rule tester cases contain no language reports",
             "url": "https://github.com/flint-fyi/flint/pull/2839",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 70,
             "deletions": 22,
-            "totalCommentsCount": 18,
+            "totalCommentsCount": 19,
             "createdAt": "2026-05-28T06:43:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-01T03:39:27Z",
+            "closedAt": "2026-06-01T03:39:27Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 27,
-            "title": "feat: update cache schema and add cache signature to indexed files",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/27",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 354,
-            "deletions": 59,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-23T09:38:23Z",
-            "mergedAt": "2026-05-23T14:22:34Z",
-            "closedAt": "2026-05-23T14:22:34Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 362,
+        "total": 363,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1442,7 +1442,7 @@
             },
             {
                 "date": "2026-06-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-02",

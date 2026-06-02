@@ -73,6 +73,30 @@
     },
     "pullRequest": [
         {
+            "number": 567,
+            "title": "docs: align CLAUDE.md with AGENTS.md to keep repo guidance consistent",
+            "url": "https://github.com/antdv-next/antdv-next/pull/567",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 75,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-02T15:44:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 534,
             "title": "ci: restrict deploy-site workflow to upstream repository",
             "url": "https://github.com/antdv-next/antdv-next/pull/534",
@@ -287,34 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 54,
-            "title": "fix(docs): adaptive markdown theme mode",
-            "url": "https://github.com/antdv-next/x/pull/54",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 63,
-            "deletions": 22,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-30T13:30:37Z",
-            "mergedAt": "2026-03-30T15:47:18Z",
-            "closedAt": "2026-03-30T15:47:18Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 210,
+        "total": 211,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -926,7 +926,7 @@
             },
             {
                 "date": "2026-06-02",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-03",

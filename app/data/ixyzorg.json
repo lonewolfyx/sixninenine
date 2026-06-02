@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 24374,
+            "title": "fix(components): [input-otp] avoid sticky hover on touch devices",
+            "url": "https://github.com/element-plus/element-plus/pull/24374",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 30,
+            "deletions": 12,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-02T14:18:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 24067,
             "title": "fix(components): [scrollbar] fix height",
             "url": "https://github.com/element-plus/element-plus/pull/24067",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 23855,
-            "title": "docs: correct `toc-content-mask` element z-index layering",
-            "url": "https://github.com/element-plus/element-plus/pull/23855",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-03-19T14:31:50Z",
-            "mergedAt": "2026-03-20T07:21:27Z",
-            "closedAt": "2026-03-20T07:21:27Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 114,
+        "total": 115,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -884,7 +884,7 @@
             },
             {
                 "date": "2026-06-02",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-06-03",

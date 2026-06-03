@@ -621,14 +621,38 @@
     },
     "pullRequest": [
         {
+            "number": 5492,
+            "title": "fix(nuxt): register formatTimeAgo variants for auto-import",
+            "url": "https://github.com/vueuse/vueuse/pull/5492",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-03T12:50:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 5479,
             "title": "fix(useFuse): recreate Fuse instance when data changes",
             "url": "https://github.com/vueuse/vueuse/pull/5479",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 7,
-            "totalCommentsCount": 5,
+            "changedFiles": 2,
+            "additions": 41,
+            "deletions": 14,
+            "totalCommentsCount": 6,
             "createdAt": "2026-05-29T15:52:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/unplugin/unplugin-vue-components"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(antdv): support custom date library",
-            "url": "https://github.com/ilyaliao/unplugin-vue-components/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 87,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-21T04:10:24Z",
-            "mergedAt": null,
-            "closedAt": "2026-03-21T04:14:12Z",
-            "repository": {
-                "name": "unplugin-vue-components",
-                "nameWithOwner": "ilyaliao/unplugin-vue-components",
-                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
-                "description": "📲 On-demand components auto importing for Vue",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/unplugin-vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 491,
+        "total": 494,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1478,7 +1478,7 @@
             },
             {
                 "date": "2026-06-03",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-06-04",

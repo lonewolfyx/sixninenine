@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1840721,
+            "size": 1839194,
             "repoCount": 30,
-            "progress": "55.39"
+            "progress": "55.37"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1315132,
             "repoCount": 14,
-            "progress": "39.58"
+            "progress": "39.59"
         },
         {
             "name": "CSS",
@@ -36,7 +36,7 @@
             "color": "#f1e05a",
             "size": 78247,
             "repoCount": 28,
-            "progress": "2.35"
+            "progress": "2.36"
         },
         {
             "name": "HTML",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 52,
+            "title": "refactor(cache): remove deprecated project usage table and migrate schema",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/52",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 79,
+            "deletions": 140,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-03T13:09:09Z",
+            "mergedAt": "2026-06-03T13:15:26Z",
+            "closedAt": "2026-06-03T13:15:26Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 51,
             "title": "fix(usage-analytics): improve pagination state management with shallowReactive",
             "url": "https://github.com/lonewolfyx/usage-board/pull/51",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/skills-config"
             }
-        },
-        {
-            "number": 1,
-            "title": "fix(config): update skills cache file location",
-            "url": "https://github.com/lonewolfyx/skills-config/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-29T05:16:18Z",
-            "mergedAt": "2026-05-29T05:18:28Z",
-            "closedAt": "2026-05-29T05:18:28Z",
-            "repository": {
-                "name": "skills-config",
-                "nameWithOwner": "lonewolfyx/skills-config",
-                "homepageUrl": null,
-                "description": "Declarative Git skills manager for AI coding agents. Define skills in skills.config.ts and automatically provision them during npm install / prepare.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills-config"
-            }
         }
     ],
     "contributions": {
-        "total": 8276,
+        "total": 8281,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1675,7 +1675,7 @@
             },
             {
                 "date": "2026-06-03",
-                "count": 22
+                "count": 27
             },
             {
                 "date": "2026-06-04",

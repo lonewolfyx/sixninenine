@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1837037,
+            "size": 1840721,
             "repoCount": 30,
-            "progress": "55.31"
+            "progress": "55.39"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1317000,
+            "size": 1315132,
             "repoCount": 14,
-            "progress": "39.65"
+            "progress": "39.58"
         },
         {
             "name": "CSS",
@@ -34,7 +34,7 @@
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 78196,
+            "size": 78247,
             "repoCount": 28,
             "progress": "2.35"
         },
@@ -818,6 +818,150 @@
     },
     "pullRequest": [
         {
+            "number": 51,
+            "title": "fix(usage-analytics): improve pagination state management with shallowReactive",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/51",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 32,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T09:04:14Z",
+            "mergedAt": "2026-06-03T09:09:30Z",
+            "closedAt": "2026-06-03T09:09:30Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 50,
+            "title": "refactor(utils): extract shared utilities and eliminate duplicate helpers",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/50",
+            "state": "MERGED",
+            "changedFiles": 28,
+            "additions": 368,
+            "deletions": 516,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T08:50:06Z",
+            "mergedAt": "2026-06-03T08:51:12Z",
+            "closedAt": "2026-06-03T08:51:12Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 49,
+            "title": "chore(utils): remove unused dashboard and project utility functions",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/49",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 0,
+            "deletions": 375,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T07:40:40Z",
+            "mergedAt": "2026-06-03T07:41:37Z",
+            "closedAt": "2026-06-03T07:41:37Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 48,
+            "title": "feat(analysis): add live state monitoring and real-time updates",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/48",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 516,
+            "deletions": 19,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T07:04:59Z",
+            "mergedAt": "2026-06-03T07:08:27Z",
+            "closedAt": "2026-06-03T07:08:27Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 8,
+            "title": "Clarify code-convergence skill scope and tidy agent YAML docs",
+            "url": "https://github.com/lonewolfyx/skills/pull/8",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 7,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T05:49:09Z",
+            "mergedAt": "2026-06-03T05:53:12Z",
+            "closedAt": "2026-06-03T05:53:12Z",
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "lonewolfyx/skills",
+                "homepageUrl": null,
+                "description": "curated collection of agent skills.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills"
+            }
+        },
+        {
+            "number": 7,
+            "title": "Enhance code-convergence skill: routing, decision order, examples, and review structure",
+            "url": "https://github.com/lonewolfyx/skills/pull/7",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 92,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-03T05:38:29Z",
+            "mergedAt": "2026-06-03T05:41:47Z",
+            "closedAt": "2026-06-03T05:41:47Z",
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "lonewolfyx/skills",
+                "homepageUrl": null,
+                "description": "curated collection of agent skills.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills"
+            }
+        },
+        {
             "number": 6,
             "title": "Enhance code-convergence skill: routing, decision order, examples, and review format",
             "url": "https://github.com/lonewolfyx/skills/pull/6",
@@ -912,154 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/skills-config"
             }
-        },
-        {
-            "number": 4,
-            "title": "feat(agents): add support for Zed agent platform",
-            "url": "https://github.com/lonewolfyx/clear-skills/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-29T05:02:42Z",
-            "mergedAt": "2026-05-29T05:03:25Z",
-            "closedAt": "2026-05-29T05:03:25Z",
-            "repository": {
-                "name": "clear-skills",
-                "nameWithOwner": "lonewolfyx/clear-skills",
-                "homepageUrl": null,
-                "description": "Clear AI skills — remove skill files from the current project or globally",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-skills"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat(skills): add naming convention enforcement skill",
-            "url": "https://github.com/lonewolfyx/skills/pull/4",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 907,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-28T14:32:22Z",
-            "mergedAt": "2026-05-28T14:32:43Z",
-            "closedAt": "2026-05-28T14:32:43Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(skills): add comprehensive code convergence and abstraction boundary references",
-            "url": "https://github.com/lonewolfyx/skills/pull/3",
-            "state": "MERGED",
-            "changedFiles": 30,
-            "additions": 944,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-28T14:04:55Z",
-            "mergedAt": "2026-05-28T14:05:15Z",
-            "closedAt": "2026-05-28T14:05:15Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 2,
-            "title": "style(config): update eslint configuration and yaml formatting",
-            "url": "https://github.com/lonewolfyx/skills/pull/2",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 50,
-            "deletions": 47,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-28T14:00:50Z",
-            "mergedAt": "2026-05-28T14:01:06Z",
-            "closedAt": "2026-05-28T14:01:06Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(review-code-quality): add comprehensive code quality review skill",
-            "url": "https://github.com/lonewolfyx/skills/pull/1",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 225,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-28T13:53:26Z",
-            "mergedAt": "2026-05-28T13:54:10Z",
-            "closedAt": "2026-05-28T13:54:11Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 47,
-            "title": "perf(cache): remove cost usd fields and update bootstrap logic",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/47",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 1295,
-            "deletions": 495,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-28T13:33:56Z",
-            "mergedAt": "2026-05-28T13:40:49Z",
-            "closedAt": "2026-05-28T13:40:49Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8260,
+        "total": 8276,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1675,7 +1675,7 @@
             },
             {
                 "date": "2026-06-03",
-                "count": 6
+                "count": 22
             },
             {
                 "date": "2026-06-04",

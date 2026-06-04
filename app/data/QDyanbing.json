@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58209,
+            "title": "feat(Badge): allow removing native tooltip",
+            "url": "https://github.com/ant-design/ant-design/pull/58209",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 21,
+            "deletions": 7,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-04T00:35:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58202,
             "title": "fix(Tabs): correct more dropdown motion direction",
             "url": "https://github.com/ant-design/ant-design/pull/58202",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58137,
-            "title": "fix: avoid deep @rc-component upload imports",
-            "url": "https://github.com/ant-design/ant-design/pull/58137",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-05-27T02:39:50Z",
-            "mergedAt": "2026-05-27T05:42:58Z",
-            "closedAt": "2026-05-27T05:42:58Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2870,
+        "total": 2871,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -920,7 +920,7 @@
             },
             {
                 "date": "2026-06-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-05",

@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1839194,
+            "size": 1839158,
             "repoCount": 30,
             "progress": "55.37"
         },
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 53,
+            "title": "fix(pricing): simplify pricing cache from Map to single entry and remove unused options",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/53",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 22,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-04T02:23:44Z",
+            "mergedAt": "2026-06-04T02:24:34Z",
+            "closedAt": "2026-06-04T02:24:34Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 52,
             "title": "refactor(cache): remove deprecated project usage table and migrate schema",
             "url": "https://github.com/lonewolfyx/usage-board/pull/52",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/skills"
             }
-        },
-        {
-            "number": 2,
-            "title": "build(package): update package exports and entry points",
-            "url": "https://github.com/lonewolfyx/skills-config/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-01T07:24:59Z",
-            "mergedAt": "2026-06-01T07:25:11Z",
-            "closedAt": "2026-06-01T07:25:12Z",
-            "repository": {
-                "name": "skills-config",
-                "nameWithOwner": "lonewolfyx/skills-config",
-                "homepageUrl": null,
-                "description": "Declarative Git skills manager for AI coding agents. Define skills in skills.config.ts and automatically provision them during npm install / prepare.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills-config"
-            }
         }
     ],
     "contributions": {
-        "total": 8285,
+        "total": 8298,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1675,11 +1675,11 @@
             },
             {
                 "date": "2026-06-03",
-                "count": 30
+                "count": 34
             },
             {
                 "date": "2026-06-04",
-                "count": 1
+                "count": 10
             },
             {
                 "date": "2026-06-05",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1839158,
+            "size": 1848422,
             "repoCount": 30,
-            "progress": "55.37"
+            "progress": "55.50"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1315132,
             "repoCount": 14,
-            "progress": "39.59"
+            "progress": "39.48"
         },
         {
             "name": "CSS",
@@ -36,7 +36,7 @@
             "color": "#f1e05a",
             "size": 78247,
             "repoCount": 28,
-            "progress": "2.36"
+            "progress": "2.35"
         },
         {
             "name": "HTML",
@@ -290,7 +290,7 @@
                             }
                         }
                     ],
-                    "totalCount": 274
+                    "totalCount": 275
                 }
             },
             {
@@ -818,6 +818,78 @@
     },
     "pullRequest": [
         {
+            "number": 56,
+            "title": "perf(startup): optimize hydration with metadata-only loading and add pricing fetch timeout",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/56",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 187,
+            "deletions": 62,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-04T07:34:33Z",
+            "mergedAt": "2026-06-04T07:42:40Z",
+            "closedAt": "2026-06-04T07:42:40Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 55,
+            "title": "fix(opencode): deduplicate model candidates and add kimi-k2.6 mapping",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/55",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 19,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-04T06:30:11Z",
+            "mergedAt": "2026-06-04T06:31:44Z",
+            "closedAt": "2026-06-04T06:31:44Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 54,
+            "title": "feat(pricing): add models.dev pricing source and Claude Opus 4.8 support",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/54",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 145,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-04T06:27:12Z",
+            "mergedAt": "2026-06-04T06:31:36Z",
+            "closedAt": "2026-06-04T06:31:36Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 53,
             "title": "fix(pricing): simplify pricing cache from Map to single entry and remove unused options",
             "url": "https://github.com/lonewolfyx/usage-board/pull/53",
@@ -984,82 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/skills"
             }
-        },
-        {
-            "number": 7,
-            "title": "Enhance code-convergence skill: routing, decision order, examples, and review structure",
-            "url": "https://github.com/lonewolfyx/skills/pull/7",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 92,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T05:38:29Z",
-            "mergedAt": "2026-06-03T05:41:47Z",
-            "closedAt": "2026-06-03T05:41:47Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 6,
-            "title": "Enhance code-convergence skill: routing, decision order, examples, and review format",
-            "url": "https://github.com/lonewolfyx/skills/pull/6",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 148,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T03:52:18Z",
-            "mergedAt": "2026-06-03T04:02:38Z",
-            "closedAt": "2026-06-03T04:02:38Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
-        },
-        {
-            "number": 5,
-            "title": "feat(skill): add comprehensive UnJS development guidelines and references",
-            "url": "https://github.com/lonewolfyx/skills/pull/5",
-            "state": "MERGED",
-            "changedFiles": 82,
-            "additions": 3576,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-01T07:55:25Z",
-            "mergedAt": "2026-06-01T07:56:33Z",
-            "closedAt": "2026-06-01T07:56:33Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
         }
     ],
     "contributions": {
-        "total": 8298,
+        "total": 8308,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1679,7 +1679,7 @@
             },
             {
                 "date": "2026-06-04",
-                "count": 10
+                "count": 20
             },
             {
                 "date": "2026-06-05",

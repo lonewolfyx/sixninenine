@@ -73,6 +73,54 @@
     },
     "pullRequest": [
         {
+            "number": 574,
+            "title": "docs(calendar): fix lunar demo year selection",
+            "url": "https://github.com/antdv-next/antdv-next/pull/574",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-04T11:53:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 58220,
+            "title": "docs(calendar): fix lunar demo year selection",
+            "url": "https://github.com/ant-design/ant-design/pull/58220",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-06-04T11:44:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 567,
             "title": "docs: align CLAUDE.md with AGENTS.md to keep repo guidance consistent",
             "url": "https://github.com/antdv-next/antdv-next/pull/567",
@@ -263,58 +311,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 615,
-            "title": "fix(align): restore overflowX and overflowY after force align",
-            "url": "https://github.com/react-component/trigger/pull/615",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 39,
-            "deletions": 0,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-04-12T08:53:25Z",
-            "mergedAt": "2026-06-01T02:49:39Z",
-            "closedAt": "2026-06-01T02:49:39Z",
-            "repository": {
-                "name": "trigger",
-                "nameWithOwner": "react-component/trigger",
-                "homepageUrl": "http://react-component.github.io/trigger/",
-                "description": "Abstract React Trigger",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/trigger"
-            }
-        },
-        {
-            "number": 43,
-            "title": "fix(trigger): manually remove axis-specific overflow properties from` popupStyle`",
-            "url": "https://github.com/antdv-next/vue-components/pull/43",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 169,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-11T06:21:42Z",
-            "mergedAt": "2026-04-12T03:42:04Z",
-            "closedAt": "2026-04-12T03:42:05Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 212,
+        "total": 217,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -934,7 +934,7 @@
             },
             {
                 "date": "2026-06-04",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-06-05",

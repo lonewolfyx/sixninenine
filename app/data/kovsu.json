@@ -296,7 +296,7 @@
                             "status": null
                         }
                     ],
-                    "totalCount": 8
+                    "totalCount": 7
                 }
             },
             {
@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2900,
+            "title": "fix(ts): assert rule tester cases contain no language reports ",
+            "url": "https://github.com/flint-fyi/flint/pull/2900",
+            "state": "OPEN",
+            "changedFiles": 262,
+            "additions": 16311,
+            "deletions": 6292,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-05T07:56:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2891,
             "title": "fix(jsx): assert rule tester cases contain no language reports",
             "url": "https://github.com/flint-fyi/flint/pull/2891",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 15529,
-            "title": "fix: keep dragged tabs within safe bounds",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15529",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 217,
-            "deletions": 8,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-01T08:14:35Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 375,
+        "total": 376,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1458,7 +1458,7 @@
             },
             {
                 "date": "2026-06-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-06",

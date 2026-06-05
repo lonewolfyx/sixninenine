@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 993,
+            "title": "feat: add custom containers type localization translation",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/993",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-05T03:25:03Z",
+            "mergedAt": "2026-06-05T03:51:58Z",
+            "closedAt": "2026-06-05T03:51:58Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 7,
             "title": "feat: s07 permission system",
             "url": "https://github.com/NoiseFan/code-agent/pull/7",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 29,
-            "title": "fix: enable yaml frontmatter in bundled configs",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/29",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 13,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-19T07:08:36Z",
-            "mergedAt": "2026-05-19T07:09:54Z",
-            "closedAt": "2026-05-19T07:09:54Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 408,
+        "total": 413,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -896,7 +896,7 @@
             },
             {
                 "date": "2026-06-05",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-06-06",

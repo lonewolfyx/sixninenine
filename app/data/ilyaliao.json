@@ -621,13 +621,37 @@
     },
     "pullRequest": [
         {
+            "number": 180,
+            "title": "feat: add Claude Code to softwares dictionary",
+            "url": "https://github.com/antfu/case-police/pull/180",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-06T03:00:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "case-police",
+                "nameWithOwner": "antfu/case-police",
+                "homepageUrl": "",
+                "description": "🚨 Make the case correct, PLEASE!",
+                "owner": {
+                    "login": "antfu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
+                },
+                "url": "https://github.com/antfu/case-police"
+            }
+        },
+        {
             "number": 5492,
             "title": "fix(nuxt): register formatTimeAgo variants for auto-import",
             "url": "https://github.com/vueuse/vueuse/pull/5492",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 0,
+            "changedFiles": 6,
+            "additions": 10,
+            "deletions": 1,
             "totalCommentsCount": 4,
             "createdAt": "2026-06-03T12:50:05Z",
             "mergedAt": null,
@@ -652,7 +676,7 @@
             "changedFiles": 2,
             "additions": 41,
             "deletions": 14,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 8,
             "createdAt": "2026-05-29T15:52:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/antfu-collective/vite-plugin-inspect"
             }
-        },
-        {
-            "number": 908,
-            "title": "feat(antdv): support custom date library",
-            "url": "https://github.com/unplugin/unplugin-vue-components/pull/908",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 87,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-21T04:16:20Z",
-            "mergedAt": "2026-03-23T08:51:10Z",
-            "closedAt": "2026-03-23T08:51:10Z",
-            "repository": {
-                "name": "unplugin-vue-components",
-                "nameWithOwner": "unplugin/unplugin-vue-components",
-                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
-                "description": "📲 On-demand components auto importing for Vue",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 507,
+        "total": 510,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1490,7 +1490,7 @@
             },
             {
                 "date": "2026-06-06",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-07",

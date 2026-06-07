@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 828832,
+            "size": 828953,
             "repoCount": 4,
             "progress": "79.11"
         },
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58248,
+            "title": "docs: align Tabs zh-CN API type descriptions",
+            "url": "https://github.com/ant-design/ant-design/pull/58248",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-07T11:23:03Z",
+            "mergedAt": "2026-06-07T11:32:59Z",
+            "closedAt": "2026-06-07T11:32:59Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58239,
             "title": "ci: prevent compile jobs from running out of memory",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58144,
-            "title": "chore: avoid rc package deep imports",
-            "url": "https://github.com/ant-design/ant-design/pull/58144",
-            "state": "MERGED",
-            "changedFiles": 80,
-            "additions": 107,
-            "deletions": 81,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-27T07:51:29Z",
-            "mergedAt": "2026-05-27T08:32:09Z",
-            "closedAt": "2026-05-27T08:32:09Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2920,
+        "total": 2937,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -932,7 +932,7 @@
             },
             {
                 "date": "2026-06-07",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-06-08",

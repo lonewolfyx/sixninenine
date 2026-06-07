@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2917,
+            "title": "feat(typescript-language): tag scope variables with definition kind",
+            "url": "https://github.com/flint-fyi/flint/pull/2917",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 90,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-07T19:13:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 2916,
+            "title": "feat(typescript-language): add ScopeManager.getScope",
+            "url": "https://github.com/flint-fyi/flint/pull/2916",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 63,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-07T19:09:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2902,
             "title": "fix(ts): [nullishCoalescingOperators] emit `??=` for if-statement autofix",
             "url": "https://github.com/flint-fyi/flint/pull/2902",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2857,
-            "title": "test(core): fix flaky watcher directory ignore tests",
-            "url": "https://github.com/flint-fyi/flint/pull/2857",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 6,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-01T08:55:12Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-04T00:50:45Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2856,
-            "title": "feat(core): add structured source to language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2856",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 76,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-01T08:42:23Z",
-            "mergedAt": "2026-06-06T17:25:31Z",
-            "closedAt": "2026-06-06T17:25:31Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 381,
+        "total": 383,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1470,7 +1470,7 @@
             },
             {
                 "date": "2026-06-08",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-09",

@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "refactor(sessions): replace legacy session detail parser with workflow-based implementation",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/1",
+            "state": "OPEN",
+            "changedFiles": 21,
+            "additions": 4986,
+            "deletions": 1205,
+            "totalCommentsCount": 17,
+            "createdAt": "2026-06-07T14:49:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
             "number": 56,
             "title": "perf(startup): optimize hydration with metadata-only loading and add pricing fetch timeout",
             "url": "https://github.com/lonewolfyx/usage-board/pull/56",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 8,
-            "title": "Clarify code-convergence skill scope and tidy agent YAML docs",
-            "url": "https://github.com/lonewolfyx/skills/pull/8",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 7,
-            "deletions": 7,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T05:49:09Z",
-            "mergedAt": "2026-06-03T05:53:12Z",
-            "closedAt": "2026-06-03T05:53:12Z",
-            "repository": {
-                "name": "skills",
-                "nameWithOwner": "lonewolfyx/skills",
-                "homepageUrl": null,
-                "description": "curated collection of agent skills.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/skills"
-            }
         }
     ],
     "contributions": {
-        "total": 8406,
+        "total": 8426,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1687,11 +1687,11 @@
             },
             {
                 "date": "2026-06-06",
-                "count": 33
+                "count": 44
             },
             {
                 "date": "2026-06-07",
-                "count": 14
+                "count": 23
             },
             {
                 "date": "2026-06-08",

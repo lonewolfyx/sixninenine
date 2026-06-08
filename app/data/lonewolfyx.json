@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "feat(number): add number calculation utilities with sum function",
+            "url": "https://github.com/lonewolfyx/utils/pull/11",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 129,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-08T02:07:57Z",
+            "mergedAt": "2026-06-08T02:08:26Z",
+            "closedAt": "2026-06-08T02:08:26Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 1,
             "title": "refactor(sessions): replace legacy session detail parser with workflow-based implementation",
             "url": "https://github.com/lonewolfyx/agent-track/pull/1",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 48,
-            "title": "feat(analysis): add live state monitoring and real-time updates",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/48",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 516,
-            "deletions": 19,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T07:04:59Z",
-            "mergedAt": "2026-06-03T07:08:27Z",
-            "closedAt": "2026-06-03T07:08:27Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8426,
+        "total": 8437,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1691,11 +1691,11 @@
             },
             {
                 "date": "2026-06-07",
-                "count": 23
+                "count": 27
             },
             {
                 "date": "2026-06-08",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-06-09",

@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 19304,
+            "title": "Fix inline comment forcing element to break in html and vue",
+            "url": "https://github.com/prettier/prettier/pull/19304",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 216,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-08T03:29:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 2918,
+            "title": "fix(ts): guard nullish assignment autofix target",
+            "url": "https://github.com/flint-fyi/flint/pull/2918",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 38,
+            "deletions": 14,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-07T20:02:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2917,
             "title": "feat(typescript-language): tag scope variables with definition kind",
             "url": "https://github.com/flint-fyi/flint/pull/2917",
@@ -600,7 +648,7 @@
             "changedFiles": 5,
             "additions": 90,
             "deletions": 11,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-07T19:13:13Z",
             "mergedAt": null,
             "closedAt": null,
@@ -624,7 +672,7 @@
             "changedFiles": 4,
             "additions": 63,
             "deletions": 0,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-06-07T19:09:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2864,
-            "title": "fix(performance): assert rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2864",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 144,
-            "deletions": 42,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-02T07:01:28Z",
-            "mergedAt": "2026-06-06T17:53:47Z",
-            "closedAt": "2026-06-06T17:53:47Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2863,
-            "title": "fix(vitest): assert rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2863",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 58,
-            "deletions": 137,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-06-02T02:58:02Z",
-            "mergedAt": "2026-06-06T17:51:52Z",
-            "closedAt": "2026-06-06T17:51:52Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 383,
+        "total": 386,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1470,7 +1470,7 @@
             },
             {
                 "date": "2026-06-08",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-06-09",

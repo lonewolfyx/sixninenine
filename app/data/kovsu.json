@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 15792,
+            "title": "fix(home): hide left topic sidebar and toggle icon when topic position is right",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15792",
+            "state": "CLOSED",
+            "changedFiles": 3,
+            "additions": 6,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-08T06:54:50Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-08T07:04:36Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19304,
             "title": "Fix inline comment forcing element to break in html and vue",
             "url": "https://github.com/prettier/prettier/pull/19304",
@@ -600,7 +624,7 @@
             "changedFiles": 6,
             "additions": 216,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-06-08T03:29:31Z",
             "mergedAt": null,
             "closedAt": null,
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2865,
-            "title": "fix(node): assert rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2865",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 168,
-            "deletions": 37,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-02T09:00:39Z",
-            "mergedAt": "2026-06-06T17:56:36Z",
-            "closedAt": "2026-06-06T17:56:36Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 386,
+        "total": 387,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1470,7 +1470,7 @@
             },
             {
                 "date": "2026-06-08",
-                "count": 5
+                "count": 6
             },
             {
                 "date": "2026-06-09",

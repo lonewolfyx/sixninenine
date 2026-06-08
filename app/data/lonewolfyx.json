@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1848422,
+            "size": 1849800,
             "repoCount": 30,
-            "progress": "55.50"
+            "progress": "55.51"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1315132,
             "repoCount": 14,
-            "progress": "39.48"
+            "progress": "39.47"
         },
         {
             "name": "CSS",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 57,
+            "title": "feat(pricing): add live pricing bootstrap with deduplication",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/57",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 55,
+            "deletions": 14,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-08T09:18:21Z",
+            "mergedAt": "2026-06-08T09:19:38Z",
+            "closedAt": "2026-06-08T09:19:38Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 11,
             "title": "feat(number): add number calculation utilities with sum function",
             "url": "https://github.com/lonewolfyx/utils/pull/11",
@@ -839,30 +863,6 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
                 "url": "https://github.com/lonewolfyx/utils"
-            }
-        },
-        {
-            "number": 1,
-            "title": "refactor(sessions): replace legacy session detail parser with workflow-based implementation",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/1",
-            "state": "OPEN",
-            "changedFiles": 21,
-            "additions": 4986,
-            "deletions": 1205,
-            "totalCommentsCount": 17,
-            "createdAt": "2026-06-07T14:49:23Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
             }
         },
         {
@@ -1059,7 +1059,7 @@
         }
     ],
     "contributions": {
-        "total": 8437,
+        "total": 8445,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1695,7 +1695,7 @@
             },
             {
                 "date": "2026-06-08",
-                "count": 7
+                "count": 15
             },
             {
                 "date": "2026-06-09",

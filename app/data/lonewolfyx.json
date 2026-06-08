@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1850178,
+            "size": 1853044,
             "repoCount": 30,
-            "progress": "55.52"
+            "progress": "55.56"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1315126,
             "repoCount": 14,
-            "progress": "39.46"
+            "progress": "39.43"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 87814,
             "repoCount": 15,
-            "progress": "2.64"
+            "progress": "2.63"
         },
         {
             "name": "JavaScript",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 59,
+            "title": "perf: optimize WebSocket, type safety, and remove unused dependencies",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/59",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 201,
+            "deletions": 93,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-08T17:13:45Z",
+            "mergedAt": "2026-06-08T17:15:16Z",
+            "closedAt": "2026-06-08T17:15:16Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 58,
             "title": "perf: optimize WebSocket, type safety, and remove unused dependencies",
             "url": "https://github.com/lonewolfyx/usage-board/pull/58",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 50,
-            "title": "refactor(utils): extract shared utilities and eliminate duplicate helpers",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/50",
-            "state": "MERGED",
-            "changedFiles": 28,
-            "additions": 368,
-            "deletions": 516,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T08:50:06Z",
-            "mergedAt": "2026-06-03T08:51:12Z",
-            "closedAt": "2026-06-03T08:51:12Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8450,
+        "total": 8458,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1695,11 +1695,11 @@
             },
             {
                 "date": "2026-06-08",
-                "count": 18
+                "count": 23
             },
             {
                 "date": "2026-06-09",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-06-10",

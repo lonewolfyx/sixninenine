@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1199335,
+            "size": 1197007,
             "repoCount": 21,
-            "progress": "66.86"
+            "progress": "66.82"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 338077,
             "repoCount": 9,
-            "progress": "18.85"
+            "progress": "18.87"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 76447,
             "repoCount": 19,
-            "progress": "4.26"
+            "progress": "4.27"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 69649,
             "repoCount": 17,
-            "progress": "3.88"
+            "progress": "3.89"
         },
         {
             "name": "MDX",
@@ -86,6 +86,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 2,
+            "title": "feat: remove video support",
+            "url": "https://github.com/wan-kong/doubao-nomark-online/pull/2",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 13,
+            "deletions": 80,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-09T09:07:33Z",
+            "mergedAt": "2026-06-09T09:08:02Z",
+            "closedAt": "2026-06-09T09:08:02Z",
+            "repository": {
+                "name": "doubao-nomark-online",
+                "nameWithOwner": "wan-kong/doubao-nomark-online",
+                "homepageUrl": "https://doubao.wankong.top",
+                "description": "豆包去水印",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/doubao-nomark-online"
+            }
+        },
         {
             "number": 12,
             "title": "fix: use pathToFileURL for dynamic import on Windows",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/QuantumNous/new-api"
             }
-        },
-        {
-            "number": 6,
-            "title": "docs: 添加在线演示链接",
-            "url": "https://github.com/wan-kong/sf-symbols-online/pull/6",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 906,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-03-26T07:30:54Z",
-            "mergedAt": "2026-03-26T07:31:11Z",
-            "closedAt": "2026-03-26T07:31:11Z",
-            "repository": {
-                "name": "sf-symbols-online",
-                "nameWithOwner": "wan-kong/sf-symbols-online",
-                "homepageUrl": "https://sf-symbols-online-web.vercel.app",
-                "description": "🍎 A beautiful online browser for Apple's SF Symbols - 1,672 icons with instant search, category filter, and dark mode",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/sf-symbols-online"
-            }
         }
     ],
     "contributions": {
-        "total": 253,
+        "total": 256,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -968,7 +968,7 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-06-10",

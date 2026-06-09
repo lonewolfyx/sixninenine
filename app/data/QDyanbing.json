@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58283,
+            "title": "docs: correct Upload disabled API table",
+            "url": "https://github.com/ant-design/ant-design/pull/58283",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-09T05:40:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58282,
+            "title": "fix(Pagination): stabilize quick jumper layout",
+            "url": "https://github.com/ant-design/ant-design/pull/58282",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 9,
+            "deletions": 97,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-06-09T05:39:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58278,
             "title": "docs: simplify ConfigProvider component config docs",
             "url": "https://github.com/ant-design/ant-design/pull/58278",
@@ -134,14 +182,14 @@
             "number": 58262,
             "title": "docs(Upload): migrate ConfigProvider global config docs",
             "url": "https://github.com/ant-design/ant-design/pull/58262",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 4,
             "additions": 68,
             "deletions": 68,
             "totalCommentsCount": 12,
             "createdAt": "2026-06-08T06:00:41Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-06-09T05:32:41Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58209,
-            "title": "feat(Badge): allow removing native tooltip",
-            "url": "https://github.com/ant-design/ant-design/pull/58209",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 21,
-            "deletions": 7,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-04T00:35:26Z",
-            "mergedAt": "2026-06-08T02:32:37Z",
-            "closedAt": "2026-06-08T02:32:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58202,
-            "title": "fix(Tabs): correct more dropdown motion direction",
-            "url": "https://github.com/ant-design/ant-design/pull/58202",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 38,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-06-03T05:57:17Z",
-            "mergedAt": "2026-06-03T07:41:36Z",
-            "closedAt": "2026-06-03T07:41:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2968,
+        "total": 2980,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -940,7 +940,7 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 5
+                "count": 17
             },
             {
                 "date": "2026-06-10",

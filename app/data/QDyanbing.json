@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58278,
+            "title": "docs: simplify ConfigProvider component config docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58278",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 156,
+            "deletions": 156,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-09T03:25:12Z",
+            "mergedAt": "2026-06-09T03:57:19Z",
+            "closedAt": "2026-06-09T03:57:19Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 695,
+            "title": "Fix pagination ellipsis item count shift",
+            "url": "https://github.com/react-component/pagination/pull/695",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 156,
+            "deletions": 314,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-09T01:37:35Z",
+            "mergedAt": "2026-06-09T03:40:23Z",
+            "closedAt": "2026-06-09T03:40:23Z",
+            "repository": {
+                "name": "pagination",
+                "nameWithOwner": "react-component/pagination",
+                "homepageUrl": "https://pagination-react-component.vercel.app/",
+                "description": "React Pagination",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/pagination"
+            }
+        },
+        {
             "number": 14,
             "title": "fix: use GitHub API for avatar list",
             "url": "https://github.com/chenshuai2144/github-contributors-list/pull/14",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58201,
-            "title": "fix: respect icons package exports in site build",
-            "url": "https://github.com/ant-design/ant-design/pull/58201",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-03T01:20:07Z",
-            "mergedAt": "2026-06-03T10:24:18Z",
-            "closedAt": "2026-06-03T10:24:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58196,
-            "title": "docs: remove native style props from API docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58196",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 19,
-            "deletions": 55,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-06-02T02:21:01Z",
-            "mergedAt": "2026-06-02T10:09:40Z",
-            "closedAt": "2026-06-02T10:09:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2963,
+        "total": 2968,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -940,7 +940,7 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-06-10",

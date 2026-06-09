@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2939,
+            "title": "fix(cli): skip missing files during prettier formatting",
+            "url": "https://github.com/flint-fyi/flint/pull/2939",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-09T03:48:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 19327,
+            "title": "Fix indentation of code inside nested blocks in mdx",
+            "url": "https://github.com/prettier/prettier/pull/19327",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 90,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-09T03:25:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 19315,
             "title": "Fix formatting files with a quote at the start of a path segment",
             "url": "https://github.com/prettier/prettier/pull/19315",
@@ -600,7 +648,7 @@
             "changedFiles": 3,
             "additions": 46,
             "deletions": 3,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 6,
             "createdAt": "2026-06-08T20:30:35Z",
             "mergedAt": null,
             "closedAt": null,
@@ -668,14 +716,14 @@
             "number": 2918,
             "title": "fix(ts): guard nullish assignment autofix target",
             "url": "https://github.com/flint-fyi/flint/pull/2918",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 38,
             "deletions": 14,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-06-07T20:02:00Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-09T03:17:34Z",
+            "closedAt": "2026-06-09T03:17:35Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -720,7 +768,7 @@
             "changedFiles": 4,
             "additions": 63,
             "deletions": 0,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-07T19:09:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2891,
-            "title": "fix(jsx): assert rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2891",
-            "state": "MERGED",
-            "changedFiles": 34,
-            "additions": 257,
-            "deletions": 107,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-03T09:31:12Z",
-            "mergedAt": "2026-06-06T18:02:16Z",
-            "closedAt": "2026-06-06T18:02:16Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2873,
-            "title": "fix(plugin-flint): assert rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2873",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 1582,
-            "deletions": 951,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-03T06:57:50Z",
-            "mergedAt": "2026-06-06T18:00:37Z",
-            "closedAt": "2026-06-06T18:00:37Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 390,
+        "total": 393,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1474,7 +1474,7 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-06-10",

@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 58314,
+            "title": "fix(Alert): restore actions spacing with hashed styles",
+            "url": "https://github.com/ant-design/ant-design/pull/58314",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-06-10T09:27:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58313,
+            "title": "demo: improve Alert action demo layout",
+            "url": "https://github.com/ant-design/ant-design/pull/58313",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 75,
+            "deletions": 114,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-06-10T08:51:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58311,
+            "title": "fix: keep Tour previous button hover color readable",
+            "url": "https://github.com/ant-design/ant-design/pull/58311",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-06-10T07:29:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58305,
             "title": "demo: fix Table column drag sorting indicator",
             "url": "https://github.com/ant-design/ant-design/pull/58305",
@@ -66,7 +138,7 @@
             "changedFiles": 1,
             "additions": 5,
             "deletions": 2,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 12,
             "createdAt": "2026-06-10T03:50:04Z",
             "mergedAt": null,
             "closedAt": null,
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58282,
-            "title": "fix(Pagination): stabilize quick jumper layout",
-            "url": "https://github.com/ant-design/ant-design/pull/58282",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 9,
-            "deletions": 97,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-06-09T05:39:48Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58278,
-            "title": "docs: simplify ConfigProvider component config docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58278",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 156,
-            "deletions": 156,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-06-09T03:25:12Z",
-            "mergedAt": "2026-06-09T03:57:19Z",
-            "closedAt": "2026-06-09T03:57:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 695,
-            "title": "Fix pagination ellipsis item count shift",
-            "url": "https://github.com/react-component/pagination/pull/695",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 156,
-            "deletions": 314,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-09T01:37:35Z",
-            "mergedAt": "2026-06-09T03:40:23Z",
-            "closedAt": "2026-06-09T03:40:23Z",
-            "repository": {
-                "name": "pagination",
-                "nameWithOwner": "react-component/pagination",
-                "homepageUrl": "https://pagination-react-component.vercel.app/",
-                "description": "React Pagination",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/pagination"
-            }
         }
     ],
     "contributions": {
-        "total": 2990,
+        "total": 2993,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -944,7 +944,7 @@
             },
             {
                 "date": "2026-06-10",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2026-06-11",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1822736,
+            "size": 1827509,
             "repoCount": 30,
-            "progress": "54.96"
+            "progress": "55.03"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1314547,
             "repoCount": 14,
-            "progress": "39.64"
+            "progress": "39.58"
         },
         {
             "name": "JavaScript",
@@ -36,7 +36,7 @@
             "color": "#663399",
             "size": 87814,
             "repoCount": 15,
-            "progress": "2.65"
+            "progress": "2.64"
         },
         {
             "name": "HTML",
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 63,
+            "title": "chore(skill): add hard ban on thin wrapper helpers",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/63",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 132,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T08:05:15Z",
+            "mergedAt": "2026-06-10T08:05:32Z",
+            "closedAt": "2026-06-10T08:05:32Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 62,
+            "title": "feat(pricing): rewrite pricing to use bundled snapshots with cost source tracking",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/62",
+            "state": "MERGED",
+            "changedFiles": 26,
+            "additions": 47974,
+            "deletions": 587,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T08:03:04Z",
+            "mergedAt": "2026-06-10T08:04:01Z",
+            "closedAt": "2026-06-10T08:04:01Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 61,
             "title": "refactor: migrate all date operations to centralized dayjs via useDateFormat",
             "url": "https://github.com/lonewolfyx/usage-board/pull/61",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 54,
-            "title": "feat(pricing): add models.dev pricing source and Claude Opus 4.8 support",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/54",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 145,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-04T06:27:12Z",
-            "mergedAt": "2026-06-04T06:31:36Z",
-            "closedAt": "2026-06-04T06:31:36Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 53,
-            "title": "fix(pricing): simplify pricing cache from Map to single entry and remove unused options",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/53",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 22,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-04T02:23:44Z",
-            "mergedAt": "2026-06-04T02:24:34Z",
-            "closedAt": "2026-06-04T02:24:34Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8491,
+        "total": 8499,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1703,7 +1703,7 @@
             },
             {
                 "date": "2026-06-10",
-                "count": 7
+                "count": 15
             },
             {
                 "date": "2026-06-11",

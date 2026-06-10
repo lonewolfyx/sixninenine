@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1853044,
+            "size": 1822736,
             "repoCount": 30,
-            "progress": "55.56"
+            "progress": "54.96"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1315126,
+            "size": 1314547,
             "repoCount": 14,
-            "progress": "39.43"
+            "progress": "39.64"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 90037,
+            "repoCount": 28,
+            "progress": "2.71"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 87814,
             "repoCount": 15,
-            "progress": "2.63"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 78247,
-            "repoCount": 28,
-            "progress": "2.35"
+            "progress": "2.65"
         },
         {
             "name": "HTML",
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 61,
+            "title": "refactor: migrate all date operations to centralized dayjs via useDateFormat",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/61",
+            "state": "MERGED",
+            "changedFiles": 16,
+            "additions": 296,
+            "deletions": 224,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T02:58:42Z",
+            "mergedAt": "2026-06-10T02:58:52Z",
+            "closedAt": "2026-06-10T02:58:52Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 60,
+            "title": "feat: migrate to interaction-level schema v3, fix codex sessions, and resolve TS errors",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/60",
+            "state": "MERGED",
+            "changedFiles": 30,
+            "additions": 1567,
+            "deletions": 2372,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T01:43:14Z",
+            "mergedAt": "2026-06-10T01:49:40Z",
+            "closedAt": "2026-06-10T01:49:40Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 59,
             "title": "perf: optimize WebSocket, type safety, and remove unused dependencies",
             "url": "https://github.com/lonewolfyx/usage-board/pull/59",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 52,
-            "title": "refactor(cache): remove deprecated project usage table and migrate schema",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/52",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 79,
-            "deletions": 140,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-03T13:09:09Z",
-            "mergedAt": "2026-06-03T13:15:26Z",
-            "closedAt": "2026-06-03T13:15:26Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 51,
-            "title": "fix(usage-analytics): improve pagination state management with shallowReactive",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/51",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 32,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-03T09:04:14Z",
-            "mergedAt": "2026-06-03T09:09:30Z",
-            "closedAt": "2026-06-03T09:09:30Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8480,
+        "total": 8491,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1699,11 +1699,11 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 23
+                "count": 27
             },
             {
                 "date": "2026-06-10",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-06-11",

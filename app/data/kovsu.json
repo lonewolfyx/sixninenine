@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 15871,
+            "title": "fix(obsidian-export): avoid duplicate vault scans",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15871",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 19,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T02:21:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 15869,
+            "title": "fix(topic-list): remove hover message prefetch",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/15869",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-10T01:28:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 2939,
             "title": "fix(cli): skip missing files during prettier formatting",
             "url": "https://github.com/flint-fyi/flint/pull/2939",
@@ -624,7 +672,7 @@
             "changedFiles": 4,
             "additions": 90,
             "deletions": 1,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-09T03:25:41Z",
             "mergedAt": null,
             "closedAt": null,
@@ -644,14 +692,14 @@
             "number": 19315,
             "title": "Fix formatting files with a quote at the start of a path segment",
             "url": "https://github.com/prettier/prettier/pull/19315",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
-            "additions": 58,
+            "additions": 59,
             "deletions": 3,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 12,
             "createdAt": "2026-06-08T20:30:35Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-10T01:23:07Z",
+            "closedAt": "2026-06-10T01:23:07Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2902,
-            "title": "fix(ts): [nullishCoalescingOperators] emit `??=` for if-statement autofix",
-            "url": "https://github.com/flint-fyi/flint/pull/2902",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 56,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-05T18:40:17Z",
-            "mergedAt": "2026-06-06T18:05:38Z",
-            "closedAt": "2026-06-06T18:05:38Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2900,
-            "title": "fix(ts): assert rule tester cases contain no language reports ",
-            "url": "https://github.com/flint-fyi/flint/pull/2900",
-            "state": "OPEN",
-            "changedFiles": 262,
-            "additions": 16311,
-            "deletions": 6292,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-05T07:56:31Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 394,
+        "total": 397,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1478,7 +1478,7 @@
             },
             {
                 "date": "2026-06-10",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-11",

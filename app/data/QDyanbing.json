@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 58305,
+            "title": "demo: fix Table column drag sorting indicator",
+            "url": "https://github.com/ant-design/ant-design/pull/58305",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 2,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-06-10T03:50:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58303,
+            "title": "feat(BorderBeam): add beamLength prop",
+            "url": "https://github.com/ant-design/ant-design/pull/58303",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 381,
+            "deletions": 4,
+            "totalCommentsCount": 16,
+            "createdAt": "2026-06-10T03:11:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 974,
+            "title": "fix: align meridiem labels with 12-hour periods",
+            "url": "https://github.com/react-component/picker/pull/974",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-10T01:45:59Z",
+            "mergedAt": "2026-06-10T04:24:47Z",
+            "closedAt": "2026-06-10T04:24:47Z",
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://picker.react-component.now.sh/",
+                "description": "📅 All Date Pickers you need.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
             "number": 973,
             "title": "fix: restore browser targets",
             "url": "https://github.com/react-component/picker/pull/973",
@@ -134,14 +206,14 @@
             "number": 58283,
             "title": "docs: correct Upload disabled API table",
             "url": "https://github.com/ant-design/ant-design/pull/58283",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 2,
             "deletions": 2,
             "totalCommentsCount": 9,
             "createdAt": "2026-06-09T05:40:41Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-10T01:43:07Z",
+            "closedAt": "2026-06-10T01:43:08Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/react-component/pagination"
             }
-        },
-        {
-            "number": 14,
-            "title": "fix: use GitHub API for avatar list",
-            "url": "https://github.com/chenshuai2144/github-contributors-list/pull/14",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 48,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-08T09:12:01Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-08T09:14:03Z",
-            "repository": {
-                "name": "github-contributors-list",
-                "nameWithOwner": "chenshuai2144/github-contributors-list",
-                "homepageUrl": "https://chenshuai2144.github.io/github-contributors-list/",
-                "description": null,
-                "owner": {
-                    "login": "chenshuai2144",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8186664?u=a583e7221b1be534d587185223cab48fe47cb74d&v=4"
-                },
-                "url": "https://github.com/chenshuai2144/github-contributors-list"
-            }
-        },
-        {
-            "number": 58262,
-            "title": "docs(Upload): migrate ConfigProvider global config docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58262",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 68,
-            "deletions": 68,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-06-08T06:00:41Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-09T05:32:41Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58250,
-            "title": "fix: add focus outline for borderless inputs",
-            "url": "https://github.com/ant-design/ant-design/pull/58250",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 40,
-            "deletions": 10,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-06-08T01:33:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2985,
+        "total": 2990,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -944,7 +944,7 @@
             },
             {
                 "date": "2026-06-10",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-06-11",

@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58318,
+            "title": "docs: clarify Image movable behavior",
+            "url": "https://github.com/ant-design/ant-design/pull/58318",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-10T13:44:26Z",
+            "mergedAt": "2026-06-10T14:20:37Z",
+            "closedAt": "2026-06-10T14:20:37Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58317,
+            "title": "fix: stack vertical Radio button group",
+            "url": "https://github.com/ant-design/ant-design/pull/58317",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 844,
+            "deletions": 324,
+            "totalCommentsCount": 15,
+            "createdAt": "2026-06-10T12:58:30Z",
+            "mergedAt": "2026-06-10T17:26:09Z",
+            "closedAt": "2026-06-10T17:26:09Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58314,
             "title": "fix(Alert): restore actions spacing with hashed styles",
             "url": "https://github.com/ant-design/ant-design/pull/58314",
@@ -86,14 +134,14 @@
             "number": 58313,
             "title": "demo: improve Alert action demo layout",
             "url": "https://github.com/ant-design/ant-design/pull/58313",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 75,
             "deletions": 114,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 9,
             "createdAt": "2026-06-10T08:51:51Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-10T17:26:58Z",
+            "closedAt": "2026-06-10T17:26:59Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -110,14 +158,14 @@
             "number": 58311,
             "title": "fix: keep Tour previous button hover color readable",
             "url": "https://github.com/ant-design/ant-design/pull/58311",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-06-10T07:29:57Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-10T17:25:16Z",
+            "closedAt": "2026-06-10T17:25:16Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/async-validator"
             }
-        },
-        {
-            "number": 165,
-            "title": "fix: restore browser targets",
-            "url": "https://github.com/react-component/qrcode/pull/165",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-09T10:40:13Z",
-            "mergedAt": "2026-06-09T14:09:04Z",
-            "closedAt": "2026-06-09T14:09:04Z",
-            "repository": {
-                "name": "qrcode",
-                "nameWithOwner": "react-component/qrcode",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/qrcode"
-            }
-        },
-        {
-            "number": 58283,
-            "title": "docs: correct Upload disabled API table",
-            "url": "https://github.com/ant-design/ant-design/pull/58283",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-09T05:40:41Z",
-            "mergedAt": "2026-06-10T01:43:07Z",
-            "closedAt": "2026-06-10T01:43:08Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 2993,
+        "total": 2999,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -940,15 +940,15 @@
             },
             {
                 "date": "2026-06-09",
-                "count": 22
+                "count": 21
             },
             {
                 "date": "2026-06-10",
-                "count": 8
+                "count": 12
             },
             {
                 "date": "2026-06-11",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-12",

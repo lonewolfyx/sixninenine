@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1818961,
+            "size": 1819146,
             "repoCount": 30,
             "progress": "54.89"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1314469,
+            "size": 1315049,
             "repoCount": 14,
-            "progress": "39.67"
+            "progress": "39.68"
         },
         {
             "name": "JavaScript",
@@ -818,6 +818,54 @@
     },
     "pullRequest": [
         {
+            "number": 66,
+            "title": "fix(project): filter events by platform to prevent identical data across agent tabs",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/66",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 9,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-11T07:55:01Z",
+            "mergedAt": "2026-06-11T07:56:00Z",
+            "closedAt": "2026-06-11T07:56:00Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 65,
+            "title": "feat(icon): add dark mode icon variants",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/65",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 71,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-11T07:50:22Z",
+            "mergedAt": "2026-06-11T07:51:02Z",
+            "closedAt": "2026-06-11T07:51:02Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 64,
             "title": "refactor(normalization): remove normalization utilities and update type safety",
             "url": "https://github.com/lonewolfyx/usage-board/pull/64",
@@ -1008,58 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 11,
-            "title": "feat(number): add number calculation utilities with sum function",
-            "url": "https://github.com/lonewolfyx/utils/pull/11",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 129,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-08T02:07:57Z",
-            "mergedAt": "2026-06-08T02:08:26Z",
-            "closedAt": "2026-06-08T02:08:26Z",
-            "repository": {
-                "name": "utils",
-                "nameWithOwner": "lonewolfyx/utils",
-                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
-                "description": "Collection of common JavaScript / TypeScript utils",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/utils"
-            }
-        },
-        {
-            "number": 56,
-            "title": "perf(startup): optimize hydration with metadata-only loading and add pricing fetch timeout",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/56",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 187,
-            "deletions": 62,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-04T07:34:33Z",
-            "mergedAt": "2026-06-04T07:42:40Z",
-            "closedAt": "2026-06-04T07:42:40Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8517,
+        "total": 8526,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1707,7 +1707,7 @@
             },
             {
                 "date": "2026-06-11",
-                "count": 6
+                "count": 15
             },
             {
                 "date": "2026-06-12",

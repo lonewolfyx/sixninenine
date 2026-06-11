@@ -621,6 +621,30 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "feat: support hiding PRs from private repos",
+            "url": "https://github.com/atinux/my-pull-requests/pull/25",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-11T17:38:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "my-pull-requests",
+                "nameWithOwner": "atinux/my-pull-requests",
+                "homepageUrl": "https://prs.atinux.com",
+                "description": "Showcase your Open Source Contributions (pull requests).",
+                "owner": {
+                    "login": "atinux",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/904724?u=6c520432e20d5ed603246764658accea4b4043c3&v=4"
+                },
+                "url": "https://github.com/atinux/my-pull-requests"
+            }
+        },
+        {
             "number": 180,
             "title": "feat: add Claude Code to softwares dictionary",
             "url": "https://github.com/antfu/case-police/pull/180",
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/unplugin/unplugin-vue-components"
             }
-        },
-        {
-            "number": 168,
-            "title": "refactor: migrate to tsdown",
-            "url": "https://github.com/antfu-collective/vite-plugin-inspect/pull/168",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 485,
-            "deletions": 885,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-03-21T08:24:57Z",
-            "mergedAt": "2026-03-23T03:05:08Z",
-            "closedAt": "2026-03-23T03:05:08Z",
-            "repository": {
-                "name": "vite-plugin-inspect",
-                "nameWithOwner": "antfu-collective/vite-plugin-inspect",
-                "homepageUrl": "",
-                "description": "Inspect the intermediate state of Vite plugins",
-                "owner": {
-                    "login": "antfu-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/167634566?v=4"
-                },
-                "url": "https://github.com/antfu-collective/vite-plugin-inspect"
-            }
         }
     ],
     "contributions": {
-        "total": 549,
+        "total": 550,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1514,7 +1514,7 @@
             },
             {
                 "date": "2026-06-12",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-13",

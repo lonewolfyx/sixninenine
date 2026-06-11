@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1827509,
+            "size": 1818961,
             "repoCount": 30,
-            "progress": "55.03"
+            "progress": "54.89"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1314547,
+            "size": 1314469,
             "repoCount": 14,
-            "progress": "39.58"
+            "progress": "39.67"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 90037,
+            "size": 91143,
             "repoCount": 28,
-            "progress": "2.71"
+            "progress": "2.75"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 87814,
             "repoCount": 15,
-            "progress": "2.64"
+            "progress": "2.65"
         },
         {
             "name": "HTML",
@@ -818,6 +818,30 @@
     },
     "pullRequest": [
         {
+            "number": 64,
+            "title": "refactor(normalization): remove normalization utilities and update type safety",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/64",
+            "state": "MERGED",
+            "changedFiles": 39,
+            "additions": 577,
+            "deletions": 804,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-11T03:22:30Z",
+            "mergedAt": "2026-06-11T03:22:46Z",
+            "closedAt": "2026-06-11T03:22:46Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 63,
             "title": "chore(skill): add hard ban on thin wrapper helpers",
             "url": "https://github.com/lonewolfyx/usage-board/pull/63",
@@ -1032,34 +1056,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 55,
-            "title": "fix(opencode): deduplicate model candidates and add kimi-k2.6 mapping",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/55",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 19,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-04T06:30:11Z",
-            "mergedAt": "2026-06-04T06:31:44Z",
-            "closedAt": "2026-06-04T06:31:44Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 8509,
+        "total": 8517,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1703,11 +1703,11 @@
             },
             {
                 "date": "2026-06-10",
-                "count": 25
+                "count": 27
             },
             {
                 "date": "2026-06-11",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-06-12",

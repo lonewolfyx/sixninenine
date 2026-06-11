@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 733,
+            "title": "fix: improve wheel step precision",
+            "url": "https://github.com/react-component/input-number/pull/733",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 124,
+            "deletions": 15,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-06-11T03:23:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "input-number",
+                "nameWithOwner": "react-component/input-number",
+                "homepageUrl": "https://input-number.vercel.app/",
+                "description": "React Input Number",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input-number"
+            }
+        },
+        {
+            "number": 58324,
+            "title": "feat: add BorderBeam lineWidth prop",
+            "url": "https://github.com/ant-design/ant-design/pull/58324",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 144,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-11T01:11:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58318,
             "title": "docs: clarify Image movable behavior",
             "url": "https://github.com/ant-design/ant-design/pull/58318",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/react-component/picker"
             }
-        },
-        {
-            "number": 973,
-            "title": "fix: restore browser targets",
-            "url": "https://github.com/react-component/picker/pull/973",
-            "state": "OPEN",
-            "changedFiles": 28,
-            "additions": 51,
-            "deletions": 57,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-09T10:55:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
-        },
-        {
-            "number": 24,
-            "title": "fix: restore browser targets",
-            "url": "https://github.com/react-component/async-validator/pull/24",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-09T10:55:19Z",
-            "mergedAt": "2026-06-09T14:07:56Z",
-            "closedAt": "2026-06-09T14:07:56Z",
-            "repository": {
-                "name": "async-validator",
-                "nameWithOwner": "react-component/async-validator",
-                "homepageUrl": null,
-                "description": "validate form asynchronous",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/async-validator"
-            }
         }
     ],
     "contributions": {
-        "total": 2999,
+        "total": 3001,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -948,7 +948,7 @@
             },
             {
                 "date": "2026-06-11",
-                "count": 3
+                "count": 5
             },
             {
                 "date": "2026-06-12",

@@ -248,6 +248,54 @@
     },
     "pullRequest": [
         {
+            "number": 557,
+            "title": "feat(deps): add undici dependency version 8.4.1",
+            "url": "https://github.com/di-sukharev/opencommit/pull/557",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-12T13:27:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "opencommit",
+                "nameWithOwner": "di-sukharev/opencommit",
+                "homepageUrl": "https://www.npmjs.com/package/opencommit",
+                "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+                "owner": {
+                    "login": "di-sukharev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57486732?u=8bdf939479a4cac8660f18c25b778f3044a9ade9&v=4"
+                },
+                "url": "https://github.com/di-sukharev/opencommit"
+            }
+        },
+        {
+            "number": 556,
+            "title": "feat(deps): add undici dependency version 8.4.1",
+            "url": "https://github.com/di-sukharev/opencommit/pull/556",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 4499,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-12T12:58:14Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-12T13:10:12Z",
+            "repository": {
+                "name": "opencommit",
+                "nameWithOwner": "di-sukharev/opencommit",
+                "homepageUrl": "https://www.npmjs.com/package/opencommit",
+                "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+                "owner": {
+                    "login": "di-sukharev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57486732?u=8bdf939479a4cac8660f18c25b778f3044a9ade9&v=4"
+                },
+                "url": "https://github.com/di-sukharev/opencommit"
+            }
+        },
+        {
             "number": 1,
             "title": "fix: prevent layout shift when switching between home and tags pages",
             "url": "https://github.com/Charles7c/vitepress-theme-blog-charles7c-s2/pull/1",
@@ -438,58 +486,10 @@
                 },
                 "url": "https://github.com/Moonofweisheng/wot-design-uni"
             }
-        },
-        {
-            "number": 84,
-            "title": "docs[09-openapi-integration.md]:将配置文件中配置项plugin改成plugins",
-            "url": "https://github.com/alovajs/alovajs.github.io/pull/84",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-27T09:18:04Z",
-            "mergedAt": "2025-11-27T15:57:25Z",
-            "closedAt": "2025-11-27T15:57:25Z",
-            "repository": {
-                "name": "alovajs.github.io",
-                "nameWithOwner": "alovajs/alovajs.github.io",
-                "homepageUrl": "http://alova.js.org/",
-                "description": "The official website of alova",
-                "owner": {
-                    "login": "alovajs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
-                },
-                "url": "https://github.com/alovajs/alovajs.github.io"
-            }
-        },
-        {
-            "number": 83,
-            "title": "docs[09-openapi-integration.md]: Fix configuration: change plugin to plugins in OpenAPI generator configuration example",
-            "url": "https://github.com/alovajs/alovajs.github.io/pull/83",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-11-27T09:12:39Z",
-            "mergedAt": "2025-11-27T15:57:11Z",
-            "closedAt": "2025-11-27T15:57:11Z",
-            "repository": {
-                "name": "alovajs.github.io",
-                "nameWithOwner": "alovajs/alovajs.github.io",
-                "homepageUrl": "http://alova.js.org/",
-                "description": "The official website of alova",
-                "owner": {
-                    "login": "alovajs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/116774051?v=4"
-                },
-                "url": "https://github.com/alovajs/alovajs.github.io"
-            }
         }
     ],
     "contributions": {
-        "total": 194,
+        "total": 197,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1141,7 +1141,7 @@
             },
             {
                 "date": "2026-06-12",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-13",

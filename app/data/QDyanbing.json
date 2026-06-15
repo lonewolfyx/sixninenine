@@ -15,14 +15,14 @@
             "color": "#3178c6",
             "size": 832760,
             "repoCount": 5,
-            "progress": "78.76"
+            "progress": "78.74"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 108294,
+            "size": 108597,
             "repoCount": 6,
-            "progress": "10.24"
+            "progress": "10.27"
         },
         {
             "name": "CSS",
@@ -58,6 +58,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58379,
+            "title": "docs(Segmented): clarify default selected value",
+            "url": "https://github.com/ant-design/ant-design/pull/58379",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-15T05:26:31Z",
+            "mergedAt": "2026-06-15T05:38:42Z",
+            "closedAt": "2026-06-15T05:38:42Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58377,
+            "title": "docs: remove broken Select remote search demo",
+            "url": "https://github.com/ant-design/ant-design/pull/58377",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 0,
+            "deletions": 157,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-15T01:24:38Z",
+            "mergedAt": "2026-06-15T02:25:08Z",
+            "closedAt": "2026-06-15T02:25:08Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58376,
+            "title": "demo: add BorderBeam custom container demo",
+            "url": "https://github.com/ant-design/ant-design/pull/58376",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 70,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-06-15T01:11:43Z",
+            "mergedAt": "2026-06-15T04:20:02Z",
+            "closedAt": "2026-06-15T04:20:02Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58363,
             "title": "docs: add onClear docs for Cascader and TreeSelect",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58317,
-            "title": "fix: stack vertical Radio button group",
-            "url": "https://github.com/ant-design/ant-design/pull/58317",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 844,
-            "deletions": 324,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-06-10T12:58:30Z",
-            "mergedAt": "2026-06-10T17:26:09Z",
-            "closedAt": "2026-06-10T17:26:09Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58314,
-            "title": "fix(Alert): restore actions spacing with hashed styles",
-            "url": "https://github.com/ant-design/ant-design/pull/58314",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-10T09:27:02Z",
-            "mergedAt": "2026-06-12T18:06:09Z",
-            "closedAt": "2026-06-12T18:06:09Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58313,
-            "title": "demo: improve Alert action demo layout",
-            "url": "https://github.com/ant-design/ant-design/pull/58313",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 75,
-            "deletions": 114,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-10T08:51:51Z",
-            "mergedAt": "2026-06-10T17:26:58Z",
-            "closedAt": "2026-06-10T17:26:59Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3063,
+        "total": 3079,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -964,7 +964,7 @@
             },
             {
                 "date": "2026-06-15",
-                "count": 0
+                "count": 16
             },
             {
                 "date": "2026-06-16",

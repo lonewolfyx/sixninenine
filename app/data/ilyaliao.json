@@ -621,6 +621,54 @@
     },
     "pullRequest": [
         {
+            "number": 1691,
+            "title": "feat(i18n): add Traditional Chinese (繁體中文) localization",
+            "url": "https://github.com/TableProApp/TablePro/pull/1691",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 19772,
+            "deletions": 4,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-15T18:32:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "TablePro",
+                "nameWithOwner": "TableProApp/TablePro",
+                "homepageUrl": "https://tablepro.app",
+                "description": "Free and open source database client built natively for developers",
+                "owner": {
+                    "login": "TableProApp",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/260450047?v=4"
+                },
+                "url": "https://github.com/TableProApp/TablePro"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(i18n): add Traditional Chinese (繁體中文) localization",
+            "url": "https://github.com/ilyaliao/TablePro/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 7,
+            "additions": 19769,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-15T18:27:04Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-15T18:28:05Z",
+            "repository": {
+                "name": "TablePro",
+                "nameWithOwner": "ilyaliao/TablePro",
+                "homepageUrl": "https://tablepro.app",
+                "description": "Free and open source database client built natively for developers",
+                "owner": {
+                    "login": "ilyaliao",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
+                },
+                "url": "https://github.com/ilyaliao/TablePro"
+            }
+        },
+        {
             "number": 25,
             "title": "feat: support hiding PRs from private repos",
             "url": "https://github.com/atinux/my-pull-requests/pull/25",
@@ -811,58 +859,10 @@
                 },
                 "url": "https://github.com/kdoroszewicz/cursor-plugins-claude"
             }
-        },
-        {
-            "number": 622,
-            "title": "perf: precompile picomatch matchers once per context",
-            "url": "https://github.com/unplugin/unplugin-auto-import/pull/622",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-14T19:05:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "unplugin-auto-import",
-                "nameWithOwner": "unplugin/unplugin-auto-import",
-                "homepageUrl": "",
-                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-auto-import"
-            }
-        },
-        {
-            "number": 912,
-            "title": "perf: hoist slash() call out of matchGlobs loop",
-            "url": "https://github.com/unplugin/unplugin-vue-components/pull/912",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-05-14T18:18:09Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "unplugin-vue-components",
-                "nameWithOwner": "unplugin/unplugin-vue-components",
-                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
-                "description": "📲 On-demand components auto importing for Vue",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 570,
+        "total": 574,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1526,11 +1526,11 @@
             },
             {
                 "date": "2026-06-15",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2026-06-16",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-17",

@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1826130,
+            "size": 1855802,
             "repoCount": 30,
-            "progress": "54.98"
+            "progress": "53.97"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1315049,
-            "repoCount": 14,
-            "progress": "39.59"
+            "size": 1396259,
+            "repoCount": 15,
+            "progress": "40.60"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 91143,
-            "repoCount": 28,
-            "progress": "2.74"
+            "size": 92977,
+            "repoCount": 29,
+            "progress": "2.70"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 87814,
-            "repoCount": 15,
-            "progress": "2.64"
+            "size": 92582,
+            "repoCount": 16,
+            "progress": "2.69"
         },
         {
             "name": "HTML",
@@ -51,13 +51,6 @@
             "size": 207,
             "repoCount": 1,
             "progress": "0.01"
-        },
-        {
-            "name": "Shell",
-            "color": "#89e051",
-            "size": 93,
-            "repoCount": 1,
-            "progress": "0.00"
         }
     ],
     "organizations": {
@@ -818,17 +811,65 @@
     },
     "pullRequest": [
         {
-            "number": 10,
-            "title": "fix(config): update codex sessions path configuration",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/10",
+            "number": 21,
+            "title": "fix(session): update token type to allow object fallback",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/21",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-16T09:22:13Z",
+            "mergedAt": "2026-06-16T09:22:22Z",
+            "closedAt": "2026-06-16T09:22:22Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 20,
+            "title": "style(session): update timeline item layout classes",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/20",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-16T09:17:57Z",
+            "mergedAt": "2026-06-16T09:18:26Z",
+            "closedAt": "2026-06-16T09:18:26Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 19,
+            "title": "feat(sessions): implement content truncation for session titles",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/19",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
-            "deletions": 2,
+            "deletions": 1,
             "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T03:10:26Z",
-            "mergedAt": "2026-06-16T03:11:54Z",
-            "closedAt": "2026-06-16T03:11:55Z",
+            "createdAt": "2026-06-16T09:16:41Z",
+            "mergedAt": "2026-06-16T09:18:13Z",
+            "closedAt": "2026-06-16T09:18:13Z",
             "repository": {
                 "name": "agent-track",
                 "nameWithOwner": "lonewolfyx/agent-track",
@@ -842,17 +883,17 @@
             }
         },
         {
-            "number": 9,
-            "title": "feat(chat): add answer component with thinking node interaction",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/9",
+            "number": 18,
+            "title": "feat(session): implement virtual scrolling for session list",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/18",
             "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 37,
-            "deletions": 2,
+            "changedFiles": 3,
+            "additions": 174,
+            "deletions": 26,
             "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T03:03:07Z",
-            "mergedAt": "2026-06-16T03:11:37Z",
-            "closedAt": "2026-06-16T03:11:37Z",
+            "createdAt": "2026-06-16T09:12:53Z",
+            "mergedAt": "2026-06-16T09:13:05Z",
+            "closedAt": "2026-06-16T09:13:05Z",
             "repository": {
                 "name": "agent-track",
                 "nameWithOwner": "lonewolfyx/agent-track",
@@ -866,113 +907,17 @@
             }
         },
         {
-            "number": 8,
-            "title": "feat(chat): add web search call functionality to chat thinking panel",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/8",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 157,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T02:54:43Z",
-            "mergedAt": "2026-06-16T02:55:52Z",
-            "closedAt": "2026-06-16T02:55:52Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 7,
-            "title": "fix(chat): correct template variable reference in thinking component",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 7,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T01:55:47Z",
-            "mergedAt": "2026-06-16T01:56:48Z",
-            "closedAt": "2026-06-16T01:56:48Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 6,
-            "title": "docs(readme): update documentation with concise description and usage",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 64,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T01:54:14Z",
-            "mergedAt": "2026-06-16T01:56:39Z",
-            "closedAt": "2026-06-16T01:56:39Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 5,
-            "title": "chore(license): add MIT license file",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/5",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 21,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T01:51:52Z",
-            "mergedAt": "2026-06-16T01:56:29Z",
-            "closedAt": "2026-06-16T01:56:30Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat(layout): add site menu component with GitHub link",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/4",
+            "number": 17,
+            "title": "feat(app): add suspense loading state for session provider",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/17",
             "state": "MERGED",
             "changedFiles": 2,
             "additions": 53,
-            "deletions": 42,
+            "deletions": 18,
             "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T01:41:16Z",
-            "mergedAt": "2026-06-16T01:43:31Z",
-            "closedAt": "2026-06-16T01:43:32Z",
+            "createdAt": "2026-06-16T08:29:08Z",
+            "mergedAt": "2026-06-16T08:30:05Z",
+            "closedAt": "2026-06-16T08:30:05Z",
             "repository": {
                 "name": "agent-track",
                 "nameWithOwner": "lonewolfyx/agent-track",
@@ -986,80 +931,128 @@
             }
         },
         {
-            "number": 3,
-            "title": "refactor(project): Design new themes and new data interfaces",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/3",
-            "state": "MERGED",
-            "changedFiles": 138,
-            "additions": 3001,
-            "deletions": 2459,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-13T17:56:02Z",
-            "mergedAt": "2026-06-16T01:35:47Z",
-            "closedAt": "2026-06-16T01:35:47Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": null,
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 71,
-            "title": "fix(claude): restrict Claude Code token usage parsing to assistant messages",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/71",
+            "number": 16,
+            "title": "chore(package): update scripts and dependencies configuration",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/16",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 6,
+            "additions": 5,
             "deletions": 4,
             "totalCommentsCount": 1,
-            "createdAt": "2026-06-11T16:03:18Z",
-            "mergedAt": "2026-06-11T16:04:01Z",
-            "closedAt": "2026-06-11T16:04:01Z",
+            "createdAt": "2026-06-16T07:41:14Z",
+            "mergedAt": "2026-06-16T07:42:24Z",
+            "closedAt": "2026-06-16T07:42:24Z",
             "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/usage-board"
+                "url": "https://github.com/lonewolfyx/agent-track"
             }
         },
         {
-            "number": 70,
-            "title": "chore(usage-cleaning-reporter): replace cache.sqlite with generic DB in log messages",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/70",
+            "number": 15,
+            "title": "chore(deps): update dependencies and build script",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/15",
             "state": "MERGED",
-            "changedFiles": 1,
+            "changedFiles": 6,
+            "additions": 656,
+            "deletions": 83,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-16T07:38:39Z",
+            "mergedAt": "2026-06-16T07:39:05Z",
+            "closedAt": "2026-06-16T07:39:05Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 14,
+            "title": "docs(readme): enhance documentation with visual assets",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/14",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-16T07:29:37Z",
+            "mergedAt": "2026-06-16T07:30:28Z",
+            "closedAt": "2026-06-16T07:30:28Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 13,
+            "title": "feat(cli): add command line interface for agent-track",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/13",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-16T07:27:27Z",
+            "mergedAt": "2026-06-16T07:29:55Z",
+            "closedAt": "2026-06-16T07:29:55Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 12,
+            "title": "feat(workspace): remove workspace track component",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/12",
+            "state": "MERGED",
+            "changedFiles": 3,
             "additions": 4,
-            "deletions": 4,
+            "deletions": 869,
             "totalCommentsCount": 1,
-            "createdAt": "2026-06-11T15:13:22Z",
-            "mergedAt": "2026-06-11T15:17:20Z",
-            "closedAt": "2026-06-11T15:17:20Z",
+            "createdAt": "2026-06-16T07:24:42Z",
+            "mergedAt": "2026-06-16T07:25:07Z",
+            "closedAt": "2026-06-16T07:25:07Z",
             "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": null,
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/usage-board"
+                "url": "https://github.com/lonewolfyx/agent-track"
             }
         }
     ],
     "contributions": {
-        "total": 8794,
+        "total": 8824,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1727,7 +1720,7 @@
             },
             {
                 "date": "2026-06-16",
-                "count": 21
+                "count": 51
             },
             {
                 "date": "2026-06-17",

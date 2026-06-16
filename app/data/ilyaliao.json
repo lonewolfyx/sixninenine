@@ -645,30 +645,6 @@
             }
         },
         {
-            "number": 1,
-            "title": "feat(i18n): add Traditional Chinese (繁體中文) localization",
-            "url": "https://github.com/ilyaliao/TablePro/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 7,
-            "additions": 19769,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-15T18:27:04Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-15T18:28:05Z",
-            "repository": {
-                "name": "TablePro",
-                "nameWithOwner": "ilyaliao/TablePro",
-                "homepageUrl": "https://tablepro.app",
-                "description": "Free and open source database client built natively for developers",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/TablePro"
-            }
-        },
-        {
             "number": 25,
             "title": "feat: support hiding PRs from private repos",
             "url": "https://github.com/atinux/my-pull-requests/pull/25",
@@ -769,8 +745,8 @@
             "title": "fix: add missing type for default class exports",
             "url": "https://github.com/unjs/unimport/pull/542",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 6,
+            "changedFiles": 4,
+            "additions": 23,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2026-05-25T00:39:33Z",
@@ -795,7 +771,7 @@
             "state": "OPEN",
             "changedFiles": 2,
             "additions": 0,
-            "deletions": 40,
+            "deletions": 20,
             "totalCommentsCount": 2,
             "createdAt": "2026-05-24T17:52:56Z",
             "mergedAt": null,
@@ -858,6 +834,30 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/7294362?u=081e7dfd0e0ff825e456386cbd467190efaaee12&v=4"
                 },
                 "url": "https://github.com/kdoroszewicz/cursor-plugins-claude"
+            }
+        },
+        {
+            "number": 622,
+            "title": "perf: precompile picomatch matchers once per context",
+            "url": "https://github.com/unplugin/unplugin-auto-import/pull/622",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-05-14T19:05:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-auto-import",
+                "nameWithOwner": "unplugin/unplugin-auto-import",
+                "homepageUrl": "",
+                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-auto-import"
             }
         }
     ],
@@ -1482,7 +1482,7 @@
             },
             {
                 "date": "2026-06-04",
-                "count": 13
+                "count": 12
             },
             {
                 "date": "2026-06-05",
@@ -1530,11 +1530,11 @@
             },
             {
                 "date": "2026-06-16",
-                "count": 6
+                "count": 5
             },
             {
                 "date": "2026-06-17",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-18",

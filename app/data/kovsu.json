@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 2983,
+            "title": "fix: inject Astro global types into TS programs",
+            "url": "https://github.com/flint-fyi/flint/pull/2983",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 95,
+            "deletions": 31,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-16T18:07:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 19384,
             "title": "Remove space before `;` delimiter in SCSS `if()` function",
             "url": "https://github.com/prettier/prettier/pull/19384",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 2939,
-            "title": "fix(cli): skip missing files during prettier formatting",
-            "url": "https://github.com/flint-fyi/flint/pull/2939",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 11,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-09T03:48:46Z",
-            "mergedAt": "2026-06-09T13:41:57Z",
-            "closedAt": "2026-06-09T13:41:57Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 409,
+        "total": 410,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1506,7 +1506,7 @@
             },
             {
                 "date": "2026-06-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-18",

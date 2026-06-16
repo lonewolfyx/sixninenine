@@ -593,6 +593,30 @@
     },
     "pullRequest": [
         {
+            "number": 19384,
+            "title": "Remove space before `;` delimiter in SCSS `if()` function",
+            "url": "https://github.com/prettier/prettier/pull/19384",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 102,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-16T00:57:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 16051,
             "title": "perf(ip-service): cache IP country detection and invalidate on proxy change",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16051",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 19327,
-            "title": "Fix indentation of code inside nested blocks in mdx",
-            "url": "https://github.com/prettier/prettier/pull/19327",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 90,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-09T03:25:41Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 405,
+        "total": 407,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1502,7 +1502,7 @@
             },
             {
                 "date": "2026-06-16",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-17",

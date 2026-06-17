@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 8,
+        "followers": 9,
         "following": 7
     },
     "languages": [
@@ -58,6 +58,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58403,
+            "title": "feat: support picker onClear callback",
+            "url": "https://github.com/ant-design/ant-design/pull/58403",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 62,
+            "deletions": 15,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-06-17T04:17:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58402,
+            "title": "demo(ConfigProvider): modernize direction demo spacing",
+            "url": "https://github.com/ant-design/ant-design/pull/58402",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 232,
+            "deletions": 244,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-17T02:10:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58397,
             "title": "docs(DatePicker): correct RangePicker value types",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 976,
-            "title": "Support onClear callback in picker",
-            "url": "https://github.com/react-component/picker/pull/976",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 37,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-13T11:46:03Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://picker.react-component.now.sh/",
-                "description": "📅 All Date Pickers you need.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
-        },
-        {
-            "number": 1225,
-            "title": "fix: Keep multiple select open on clear",
-            "url": "https://github.com/react-component/select/pull/1225",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 23,
-            "deletions": 2,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-12T00:44:42Z",
-            "mergedAt": "2026-06-12T17:36:43Z",
-            "closedAt": "2026-06-12T17:36:43Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
         }
     ],
     "contributions": {
-        "total": 3093,
+        "total": 3096,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -972,7 +972,7 @@
             },
             {
                 "date": "2026-06-17",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-18",

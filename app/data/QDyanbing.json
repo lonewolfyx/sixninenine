@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58427,
+            "title": "docs: recommend CLI in v6 migration guide",
+            "url": "https://github.com/ant-design/ant-design/pull/58427",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-18T06:50:46Z",
+            "mergedAt": "2026-06-18T07:54:14Z",
+            "closedAt": "2026-06-18T07:54:15Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 780,
+            "title": "Remove legacy PortalWrapper",
+            "url": "https://github.com/react-component/util/pull/780",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 3,
+            "deletions": 441,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-18T06:02:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "util.vercel.app",
+                "description": "Common Utils For React Component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 58420,
             "title": "site: correct icon search count",
             "url": "https://github.com/ant-design/ant-design/pull/58420",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58377,
-            "title": "docs: remove broken Select remote search demo",
-            "url": "https://github.com/ant-design/ant-design/pull/58377",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 0,
-            "deletions": 157,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-15T01:24:38Z",
-            "mergedAt": "2026-06-15T02:25:08Z",
-            "closedAt": "2026-06-15T02:25:08Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58376,
-            "title": "demo: add BorderBeam custom container demo",
-            "url": "https://github.com/ant-design/ant-design/pull/58376",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 70,
-            "deletions": 0,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-06-15T01:11:43Z",
-            "mergedAt": "2026-06-15T04:20:02Z",
-            "closedAt": "2026-06-15T04:20:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3112,
+        "total": 3126,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -976,7 +976,7 @@
             },
             {
                 "date": "2026-06-18",
-                "count": 3
+                "count": 17
             },
             {
                 "date": "2026-06-19",

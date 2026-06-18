@@ -593,6 +593,54 @@
     },
     "pullRequest": [
         {
+            "number": 2989,
+            "title": "ci: pass node-version matrix to test_e2e prepare step",
+            "url": "https://github.com/flint-fyi/flint/pull/2989",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-18T09:25:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 2988,
+            "title": " refactor(typescript-language): use WeakCachedFactory for scope managers",
+            "url": "https://github.com/flint-fyi/flint/pull/2988",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 43,
+            "deletions": 43,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-18T08:10:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2985,
             "title": "feat: assert that rule tester cases contain no language reports",
             "url": "https://github.com/flint-fyi/flint/pull/2985",
@@ -692,14 +740,14 @@
             "number": 16029,
             "title": "fix(image-export): warm up html-to-image to fix blank first capture",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16029",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 65,
             "deletions": 18,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-13T10:18:58Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-18T07:51:01Z",
+            "closedAt": "2026-06-18T07:51:01Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -783,58 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2952,
-            "title": "chore: expand implementing-lint-rules skill with workflow guidance",
-            "url": "https://github.com/flint-fyi/flint/pull/2952",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 44,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-06-10T07:02:22Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 15871,
-            "title": "fix(obsidian-export): avoid duplicate vault scans",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/15871",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 16,
-            "deletions": 19,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-10T02:21:41Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 411,
+        "total": 414,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1510,7 +1510,7 @@
             },
             {
                 "date": "2026-06-18",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-06-19",

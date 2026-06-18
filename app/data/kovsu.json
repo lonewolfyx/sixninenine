@@ -593,17 +593,41 @@
     },
     "pullRequest": [
         {
+            "number": 2993,
+            "title": "fix(core): avoid stale cache writes during fix loops",
+            "url": "https://github.com/flint-fyi/flint/pull/2993",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 24,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-18T15:44:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 2989,
             "title": "ci: pass node-version matrix to test_e2e prepare step",
             "url": "https://github.com/flint-fyi/flint/pull/2989",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 2,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2026-06-18T09:25:45Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-18T14:19:30Z",
+            "closedAt": "2026-06-18T14:19:30Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -624,7 +648,7 @@
             "changedFiles": 5,
             "additions": 43,
             "deletions": 43,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2026-06-18T08:10:28Z",
             "mergedAt": null,
             "closedAt": null,
@@ -764,14 +788,14 @@
             "number": 2965,
             "title": "feat(cli): add github actions annotations presenter",
             "url": "https://github.com/flint-fyi/flint/pull/2965",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 10,
             "additions": 236,
             "deletions": 15,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-06-12T02:23:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-18T14:01:16Z",
+            "closedAt": "2026-06-18T14:01:16Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -807,34 +831,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2960,
-            "title": "test: run e2e tests in-process instead of spawning the cli",
-            "url": "https://github.com/flint-fyi/flint/pull/2960",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 33,
-            "deletions": 11,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-11T02:45:22Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-11T02:56:50Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 414,
+        "total": 417,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1510,7 +1510,7 @@
             },
             {
                 "date": "2026-06-18",
-                "count": 4
+                "count": 7
             },
             {
                 "date": "2026-06-19",

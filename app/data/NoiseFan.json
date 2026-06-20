@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 1001,
+            "title": "docs(cn): translate /guide",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1001",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 27,
+            "deletions": 28,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-20T04:42:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 9,
             "title": "feat: s09 memory system",
             "url": "https://github.com/NoiseFan/code-agent/pull/9",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/code-agent"
             }
-        },
-        {
-            "number": 1,
-            "title": "S01 Agent Loop",
-            "url": "https://github.com/NoiseFan/code-agent/pull/1",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 763,
-            "deletions": 218,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-25T18:16:37Z",
-            "mergedAt": "2026-05-25T18:16:48Z",
-            "closedAt": "2026-05-25T18:16:48Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 427,
+        "total": 430,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -956,7 +956,7 @@
             },
             {
                 "date": "2026-06-20",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-21",

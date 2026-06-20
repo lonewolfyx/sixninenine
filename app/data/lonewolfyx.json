@@ -811,6 +811,198 @@
     },
     "pullRequest": [
         {
+            "number": 79,
+            "title": "fix: persist codex token snapshots only",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/79",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 66,
+            "deletions": 48,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T11:17:14Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 78,
+            "title": "refactor: remove stale repository selectors",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/78",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 425,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T11:12:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 77,
+            "title": "fix: write incremental usage index once",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/77",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 34,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T11:09:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 76,
+            "title": "fix: use local day boundaries for today insights",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/76",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 18,
+            "deletions": 17,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T11:07:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 75,
+            "title": "fix: batch analysis dashboard data",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/75",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 233,
+            "deletions": 320,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T11:05:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 74,
+            "title": "[codex] type usage adapter parsers",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/74",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 654,
+            "deletions": 215,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T10:56:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 73,
+            "title": "[codex] refresh pricing before usage bootstrap",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/73",
+            "state": "OPEN",
+            "changedFiles": 17,
+            "additions": 250,
+            "deletions": 174,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T10:07:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 72,
+            "title": "[codex] unify usage session identity",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/72",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 137,
+            "deletions": 34,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-20T09:56:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 24,
             "title": "feat(chat): add user message type component support",
             "url": "https://github.com/lonewolfyx/agent-track/pull/24",
@@ -857,202 +1049,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/agent-track"
             }
-        },
-        {
-            "number": 21,
-            "title": "fix(session): update token type to allow object fallback",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/21",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T09:22:13Z",
-            "mergedAt": "2026-06-16T09:22:22Z",
-            "closedAt": "2026-06-16T09:22:22Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 20,
-            "title": "style(session): update timeline item layout classes",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/20",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T09:17:57Z",
-            "mergedAt": "2026-06-16T09:18:26Z",
-            "closedAt": "2026-06-16T09:18:26Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 19,
-            "title": "feat(sessions): implement content truncation for session titles",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/19",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T09:16:41Z",
-            "mergedAt": "2026-06-16T09:18:13Z",
-            "closedAt": "2026-06-16T09:18:13Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 18,
-            "title": "feat(session): implement virtual scrolling for session list",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/18",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 174,
-            "deletions": 26,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T09:12:53Z",
-            "mergedAt": "2026-06-16T09:13:05Z",
-            "closedAt": "2026-06-16T09:13:05Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 17,
-            "title": "feat(app): add suspense loading state for session provider",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/17",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 53,
-            "deletions": 18,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T08:29:08Z",
-            "mergedAt": "2026-06-16T08:30:05Z",
-            "closedAt": "2026-06-16T08:30:05Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 16,
-            "title": "chore(package): update scripts and dependencies configuration",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/16",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T07:41:14Z",
-            "mergedAt": "2026-06-16T07:42:24Z",
-            "closedAt": "2026-06-16T07:42:24Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 15,
-            "title": "chore(deps): update dependencies and build script",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/15",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 656,
-            "deletions": 83,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T07:38:39Z",
-            "mergedAt": "2026-06-16T07:39:05Z",
-            "closedAt": "2026-06-16T07:39:05Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
-        },
-        {
-            "number": 14,
-            "title": "docs(readme): enhance documentation with visual assets",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/14",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-16T07:29:37Z",
-            "mergedAt": "2026-06-16T07:30:28Z",
-            "closedAt": "2026-06-16T07:30:28Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
         }
     ],
     "contributions": {
-        "total": 8913,
+        "total": 8925,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1736,7 +1736,7 @@
             },
             {
                 "date": "2026-06-20",
-                "count": 9
+                "count": 21
             },
             {
                 "date": "2026-06-21",

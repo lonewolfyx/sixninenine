@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1855841,
+            "size": 1822223,
             "repoCount": 30,
-            "progress": "53.94"
+            "progress": "54.44"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1398304,
             "repoCount": 15,
-            "progress": "40.64"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 92998,
-            "repoCount": 29,
-            "progress": "2.70"
+            "progress": "41.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 92582,
             "repoCount": 16,
-            "progress": "2.69"
+            "progress": "2.77"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 32964,
+            "repoCount": 29,
+            "progress": "0.98"
         },
         {
             "name": "HTML",
@@ -811,17 +811,41 @@
     },
     "pullRequest": [
         {
+            "number": 80,
+            "title": "fix(usage-cache): remove unused methods and imports from SQLite repository",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/80",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 453,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-21T12:17:00Z",
+            "mergedAt": "2026-06-21T12:17:10Z",
+            "closedAt": "2026-06-21T12:17:10Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 79,
             "title": "fix: persist codex token snapshots only",
             "url": "https://github.com/lonewolfyx/usage-board/pull/79",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 66,
             "deletions": 48,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T11:17:14Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:07:55Z",
+            "closedAt": "2026-06-21T12:07:55Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -838,14 +862,14 @@
             "number": 78,
             "title": "refactor: remove stale repository selectors",
             "url": "https://github.com/lonewolfyx/usage-board/pull/78",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 3,
             "deletions": 425,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T11:12:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:07:47Z",
+            "closedAt": "2026-06-21T12:07:47Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -862,14 +886,14 @@
             "number": 77,
             "title": "fix: write incremental usage index once",
             "url": "https://github.com/lonewolfyx/usage-board/pull/77",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 8,
             "deletions": 34,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T11:09:01Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:07:22Z",
+            "closedAt": "2026-06-21T12:07:22Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -886,14 +910,14 @@
             "number": 76,
             "title": "fix: use local day boundaries for today insights",
             "url": "https://github.com/lonewolfyx/usage-board/pull/76",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 18,
             "deletions": 17,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T11:07:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:07:13Z",
+            "closedAt": "2026-06-21T12:07:13Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -910,14 +934,14 @@
             "number": 75,
             "title": "fix: batch analysis dashboard data",
             "url": "https://github.com/lonewolfyx/usage-board/pull/75",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 15,
             "additions": 233,
             "deletions": 320,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T11:05:22Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:06:54Z",
+            "closedAt": "2026-06-21T12:06:54Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -934,14 +958,14 @@
             "number": 74,
             "title": "[codex] type usage adapter parsers",
             "url": "https://github.com/lonewolfyx/usage-board/pull/74",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 15,
             "additions": 654,
             "deletions": 215,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T10:56:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:06:41Z",
+            "closedAt": "2026-06-21T12:06:41Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -958,14 +982,14 @@
             "number": 73,
             "title": "[codex] refresh pricing before usage bootstrap",
             "url": "https://github.com/lonewolfyx/usage-board/pull/73",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 17,
             "additions": 250,
             "deletions": 174,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T10:07:06Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:06:12Z",
+            "closedAt": "2026-06-21T12:06:12Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -982,14 +1006,14 @@
             "number": 72,
             "title": "[codex] unify usage session identity",
             "url": "https://github.com/lonewolfyx/usage-board/pull/72",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 137,
             "deletions": 34,
             "totalCommentsCount": 1,
             "createdAt": "2026-06-20T09:56:09Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-21T12:05:59Z",
+            "closedAt": "2026-06-21T12:05:59Z",
             "repository": {
                 "name": "usage-board",
                 "nameWithOwner": "lonewolfyx/usage-board",
@@ -1025,34 +1049,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/agent-track"
             }
-        },
-        {
-            "number": 23,
-            "title": "types(session): update pairedPayload type to use CodexResponseMessage",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/23",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-17T07:30:09Z",
-            "mergedAt": "2026-06-17T07:30:18Z",
-            "closedAt": "2026-06-17T07:30:18Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
         }
     ],
     "contributions": {
-        "total": 8946,
+        "total": 8954,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1740,7 +1740,7 @@
             },
             {
                 "date": "2026-06-21",
-                "count": 9
+                "count": 17
             },
             {
                 "date": "2026-06-22",

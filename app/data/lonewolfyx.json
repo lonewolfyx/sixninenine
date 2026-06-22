@@ -811,6 +811,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat(menu-bar): add Codex rate limit menubar quota monitor",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/1",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 1532,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-22T16:46:23Z",
+            "mergedAt": "2026-06-22T16:46:41Z",
+            "closedAt": "2026-06-22T16:46:41Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 80,
             "title": "fix(usage-cache): remove unused methods and imports from SQLite repository",
             "url": "https://github.com/lonewolfyx/usage-board/pull/80",
@@ -1025,34 +1049,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 24,
-            "title": "feat(chat): add user message type component support",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/24",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 68,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-17T07:51:24Z",
-            "mergedAt": "2026-06-17T07:57:23Z",
-            "closedAt": "2026-06-17T07:57:23Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
         }
     ],
     "contributions": {
-        "total": 8972,
+        "total": 8984,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1744,11 +1744,11 @@
             },
             {
                 "date": "2026-06-22",
-                "count": 7
+                "count": 14
             },
             {
                 "date": "2026-06-23",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-06-24",

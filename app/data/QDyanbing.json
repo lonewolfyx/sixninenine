@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 862754,
+            "size": 871258,
             "repoCount": 5,
-            "progress": "79.21"
+            "progress": "79.29"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.97"
+            "progress": "9.88"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 59324,
+            "size": 60421,
             "repoCount": 2,
-            "progress": "5.45"
+            "progress": "5.50"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "5.08"
+            "progress": "5.03"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.22"
+            "progress": "0.21"
         },
         {
             "name": "Shell",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58458,
+            "title": "feat(input): support tabIndex for Password visibility toggle",
+            "url": "https://github.com/ant-design/ant-design/pull/58458",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 20,
+            "deletions": 5,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-22T06:03:47Z",
+            "mergedAt": "2026-06-22T06:16:44Z",
+            "closedAt": "2026-06-22T06:16:44Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 124,
             "title": "Migrate arrow components to function components",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58390,
-            "title": "refactor: remove unused Form.Item split styles",
-            "url": "https://github.com/ant-design/ant-design/pull/58390",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 12,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-16T01:26:39Z",
-            "mergedAt": "2026-06-16T04:20:22Z",
-            "closedAt": "2026-06-16T04:20:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3178,
+        "total": 3204,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -992,7 +992,7 @@
             },
             {
                 "date": "2026-06-22",
-                "count": 5
+                "count": 31
             },
             {
                 "date": "2026-06-23",

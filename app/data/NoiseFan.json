@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat: s10 system prompt",
+            "url": "https://github.com/NoiseFan/code-agent/pull/10",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 485,
+            "deletions": 67,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-23T17:53:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "code-agent",
+                "nameWithOwner": "NoiseFan/code-agent",
+                "homepageUrl": "",
+                "description": "learn code agent",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/code-agent"
+            }
+        },
+        {
             "number": 1001,
             "title": "docs(cn): translate /guide",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1001",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/code-agent"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat(s02): tool-use",
-            "url": "https://github.com/NoiseFan/code-agent/pull/2",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 197,
-            "deletions": 31,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-05-26T07:19:53Z",
-            "mergedAt": "2026-05-26T11:20:33Z",
-            "closedAt": "2026-05-26T11:20:33Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 432,
+        "total": 433,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -972,7 +972,7 @@
             },
             {
                 "date": "2026-06-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-25",

@@ -13,30 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1822223,
-            "repoCount": 30,
-            "progress": "54.44"
+            "size": 1800251,
+            "repoCount": 29,
+            "progress": "54.23"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1398304,
-            "repoCount": 15,
-            "progress": "41.78"
+            "size": 1341423,
+            "repoCount": 14,
+            "progress": "40.41"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 92582,
-            "repoCount": 16,
-            "progress": "2.77"
+            "size": 82935,
+            "repoCount": 15,
+            "progress": "2.50"
+        },
+        {
+            "name": "Swift",
+            "color": "#F05138",
+            "size": 44556,
+            "repoCount": 1,
+            "progress": "1.34"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 32964,
-            "repoCount": 29,
-            "progress": "0.98"
+            "size": 31184,
+            "repoCount": 28,
+            "progress": "0.94"
+        },
+        {
+            "name": "Shell",
+            "color": "#89e051",
+            "size": 18354,
+            "repoCount": 1,
+            "progress": "0.55"
         },
         {
             "name": "HTML",
@@ -811,6 +825,126 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat(release): add code signing and verification for DMG build process",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/10",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 55,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T09:17:03Z",
+            "mergedAt": "2026-06-23T09:17:14Z",
+            "closedAt": "2026-06-23T09:17:14Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat/layout",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/9",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 95,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T08:29:08Z",
+            "mergedAt": "2026-06-23T08:29:17Z",
+            "closedAt": "2026-06-23T08:29:17Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 8,
+            "title": "feat: implement version management and update DMG build script",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/8",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 128,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T06:06:50Z",
+            "mergedAt": "2026-06-23T06:07:01Z",
+            "closedAt": "2026-06-23T06:07:01Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 7,
+            "title": "feat: add README.md",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 16,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T05:14:09Z",
+            "mergedAt": "2026-06-23T05:14:27Z",
+            "closedAt": "2026-06-23T05:14:27Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 6,
+            "title": "feat: add GitHub Actions workflows for PR contributor welcome and release process",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/6",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 112,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T05:13:08Z",
+            "mergedAt": "2026-06-23T05:13:17Z",
+            "closedAt": "2026-06-23T05:13:17Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 5,
             "title": "chore: update .gitignore to include dist directory",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/5",
@@ -929,130 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 80,
-            "title": "fix(usage-cache): remove unused methods and imports from SQLite repository",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/80",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 453,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-21T12:17:00Z",
-            "mergedAt": "2026-06-21T12:17:10Z",
-            "closedAt": "2026-06-21T12:17:10Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 79,
-            "title": "fix: persist codex token snapshots only",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/79",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 66,
-            "deletions": 48,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-20T11:17:14Z",
-            "mergedAt": "2026-06-21T12:07:55Z",
-            "closedAt": "2026-06-21T12:07:55Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 78,
-            "title": "refactor: remove stale repository selectors",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/78",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 425,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-20T11:12:53Z",
-            "mergedAt": "2026-06-21T12:07:47Z",
-            "closedAt": "2026-06-21T12:07:47Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 77,
-            "title": "fix: write incremental usage index once",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/77",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 34,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-20T11:09:01Z",
-            "mergedAt": "2026-06-21T12:07:22Z",
-            "closedAt": "2026-06-21T12:07:22Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
-        },
-        {
-            "number": 76,
-            "title": "fix: use local day boundaries for today insights",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/76",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 18,
-            "deletions": 17,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-20T11:07:08Z",
-            "mergedAt": "2026-06-21T12:07:13Z",
-            "closedAt": "2026-06-21T12:07:13Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 9000,
+        "total": 9025,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1748,7 +1762,7 @@
             },
             {
                 "date": "2026-06-23",
-                "count": 17
+                "count": 42
             },
             {
                 "date": "2026-06-24",

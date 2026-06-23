@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 871258,
+            "size": 872466,
             "repoCount": 5,
-            "progress": "79.29"
+            "progress": "79.32"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.88"
+            "progress": "9.87"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 60421,
             "repoCount": 2,
-            "progress": "5.50"
+            "progress": "5.49"
         },
         {
             "name": "HTML",
@@ -59,13 +59,37 @@
     },
     "pullRequest": [
         {
+            "number": 58483,
+            "title": "site: hide focus outline on Components Overview search input",
+            "url": "https://github.com/ant-design/ant-design/pull/58483",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-06-23T09:24:22Z",
+            "mergedAt": "2026-06-23T09:57:34Z",
+            "closedAt": "2026-06-23T09:57:34Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58474,
-            "title": "fix: align root semantic style precedence across components",
+            "title": "fix: align semantic root style priority",
             "url": "https://github.com/ant-design/ant-design/pull/58474",
             "state": "OPEN",
-            "changedFiles": 35,
-            "additions": 64,
-            "deletions": 61,
+            "changedFiles": 9,
+            "additions": 155,
+            "deletions": 7,
             "totalCommentsCount": 8,
             "createdAt": "2026-06-23T03:26:48Z",
             "mergedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58402,
-            "title": "demo(ConfigProvider): modernize direction demo spacing",
-            "url": "https://github.com/ant-design/ant-design/pull/58402",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 232,
-            "deletions": 244,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-06-17T02:10:23Z",
-            "mergedAt": "2026-06-17T08:43:04Z",
-            "closedAt": "2026-06-17T08:43:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3208,
+        "total": 3221,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -996,7 +996,7 @@
             },
             {
                 "date": "2026-06-23",
-                "count": 4
+                "count": 17
             },
             {
                 "date": "2026-06-24",

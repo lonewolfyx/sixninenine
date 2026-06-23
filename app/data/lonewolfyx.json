@@ -15,28 +15,28 @@
             "color": "#3178c6",
             "size": 1800251,
             "repoCount": 29,
-            "progress": "54.23"
+            "progress": "54.00"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1341423,
             "repoCount": 14,
-            "progress": "40.41"
+            "progress": "40.24"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.50"
+            "progress": "2.49"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 44556,
+            "size": 58420,
             "repoCount": 1,
-            "progress": "1.34"
+            "progress": "1.75"
         },
         {
             "name": "JavaScript",
@@ -48,7 +48,7 @@
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 18354,
+            "size": 18337,
             "repoCount": 1,
             "progress": "0.55"
         },
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 14,
+            "title": "feat(i18n): implement localization support for error messages and UI strings",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/14",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 255,
+            "deletions": 34,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T13:16:28Z",
+            "mergedAt": "2026-06-23T13:16:37Z",
+            "closedAt": "2026-06-23T13:16:37Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 13,
+            "title": "refactor(layout): update popover layout and enhance QuotaPopoverView design",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/13",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 234,
+            "deletions": 71,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T13:05:33Z",
+            "mergedAt": "2026-06-23T13:05:47Z",
+            "closedAt": "2026-06-23T13:05:47Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 12,
+            "title": "refactor(app): rename application to AgentBar",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/12",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 11,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-23T12:03:12Z",
+            "mergedAt": "2026-06-23T12:03:27Z",
+            "closedAt": "2026-06-23T12:03:27Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 10,
             "title": "feat(release): add code signing and verification for DMG build process",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/10",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: add MIT License file",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 21,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-23T01:39:31Z",
-            "mergedAt": "2026-06-23T01:39:58Z",
-            "closedAt": "2026-06-23T01:39:58Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(build): add script to build macOS app bundle and create DMG",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 171,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-23T01:38:04Z",
-            "mergedAt": "2026-06-23T01:38:17Z",
-            "closedAt": "2026-06-23T01:38:17Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(menu-bar): add Codex rate limit menubar quota monitor",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/1",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 1532,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-22T16:46:23Z",
-            "mergedAt": "2026-06-22T16:46:41Z",
-            "closedAt": "2026-06-22T16:46:41Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9025,
+        "total": 9040,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1762,7 +1762,7 @@
             },
             {
                 "date": "2026-06-23",
-                "count": 42
+                "count": 57
             },
             {
                 "date": "2026-06-24",

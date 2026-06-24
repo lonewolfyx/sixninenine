@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 3022,
+            "title": "refactor(ts): reuse `skipParentheses` in rules",
+            "url": "https://github.com/flint-fyi/flint/pull/3022",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 8,
+            "deletions": 25,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-24T03:44:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 3015,
             "title": "refactor(ts): use node.kind and AST types instead of `ts.isX` in rules",
             "url": "https://github.com/flint-fyi/flint/pull/3015",
@@ -603,7 +627,7 @@
             "changedFiles": 89,
             "additions": 978,
             "deletions": 898,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 9,
             "createdAt": "2026-06-23T10:12:49Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 16029,
-            "title": "fix(image-export): warm up html-to-image to fix blank first capture",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16029",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 65,
-            "deletions": 18,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-13T10:18:58Z",
-            "mergedAt": "2026-06-18T07:51:01Z",
-            "closedAt": "2026-06-18T07:51:01Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 424,
+        "total": 425,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1537,7 +1537,7 @@
             },
             {
                 "date": "2026-06-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-06-25",

@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1800251,
+            "size": 1736030,
             "repoCount": 29,
-            "progress": "54.00"
+            "progress": "53.10"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1341423,
             "repoCount": 14,
-            "progress": "40.24"
+            "progress": "41.03"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.49"
+            "progress": "2.54"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58420,
             "repoCount": 1,
-            "progress": "1.75"
+            "progress": "1.79"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 31184,
             "repoCount": 28,
-            "progress": "0.94"
+            "progress": "0.95"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 18337,
             "repoCount": 1,
-            "progress": "0.55"
+            "progress": "0.56"
         },
         {
             "name": "HTML",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 5,
+            "title": "feat(agents): add support for multiple new AI agents and improve detection logic",
+            "url": "https://github.com/lonewolfyx/clear-skills/pull/5",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 198,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-24T08:39:20Z",
+            "mergedAt": "2026-06-24T08:39:56Z",
+            "closedAt": "2026-06-24T08:39:56Z",
+            "repository": {
+                "name": "clear-skills",
+                "nameWithOwner": "lonewolfyx/clear-skills",
+                "homepageUrl": null,
+                "description": "Clear AI skills — remove skill files from the current project or globally",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-skills"
+            }
+        },
+        {
+            "number": 82,
+            "title": "refactor: remove dead code across server, shared types and platform utils",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/82",
+            "state": "MERGED",
+            "changedFiles": 23,
+            "additions": 25,
+            "deletions": 454,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-24T08:22:02Z",
+            "mergedAt": "2026-06-24T08:22:58Z",
+            "closedAt": "2026-06-24T08:22:59Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
+            "number": 81,
+            "title": "refactor: replace usage-indexer service layer with modular runtime architecture",
+            "url": "https://github.com/lonewolfyx/usage-board/pull/81",
+            "state": "MERGED",
+            "changedFiles": 91,
+            "additions": 189717,
+            "deletions": 16339,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-24T07:49:21Z",
+            "mergedAt": "2026-06-24T07:49:46Z",
+            "closedAt": "2026-06-24T07:49:46Z",
+            "repository": {
+                "name": "usage-board",
+                "nameWithOwner": "lonewolfyx/usage-board",
+                "homepageUrl": "",
+                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/usage-board"
+            }
+        },
+        {
             "number": 14,
             "title": "feat(i18n): implement localization support for error messages and UI strings",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/14",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat: add GitHub Actions workflows for PR contributor welcome and release process",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/6",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 112,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-23T05:13:08Z",
-            "mergedAt": "2026-06-23T05:13:17Z",
-            "closedAt": "2026-06-23T05:13:17Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 5,
-            "title": "chore: update .gitignore to include dist directory",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/5",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-23T03:10:46Z",
-            "mergedAt": "2026-06-23T03:10:57Z",
-            "closedAt": "2026-06-23T03:10:57Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat: add application and menu bar icons",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/4",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 72,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-23T03:09:27Z",
-            "mergedAt": "2026-06-23T03:09:45Z",
-            "closedAt": "2026-06-23T03:09:45Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9053,
+        "total": 9064,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1766,7 +1766,7 @@
             },
             {
                 "date": "2026-06-24",
-                "count": 3
+                "count": 14
             },
             {
                 "date": "2026-06-25",

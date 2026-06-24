@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 872466,
+            "size": 880617,
             "repoCount": 5,
-            "progress": "79.32"
+            "progress": "79.44"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.87"
+            "progress": "9.80"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 60421,
+            "size": 60759,
             "repoCount": 2,
-            "progress": "5.49"
+            "progress": "5.48"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "5.03"
+            "progress": "4.99"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58495,
+            "title": "test: fix Spin nested loading selector",
+            "url": "https://github.com/ant-design/ant-design/pull/58495",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-24T06:13:52Z",
+            "mergedAt": "2026-06-24T07:11:05Z",
+            "closedAt": "2026-06-24T07:11:05Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58483,
             "title": "site: hide focus outline on Components Overview search input",
@@ -88,9 +112,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/58474",
             "state": "OPEN",
             "changedFiles": 66,
-            "additions": 1084,
-            "deletions": 199,
-            "totalCommentsCount": 8,
+            "additions": 1197,
+            "deletions": 317,
+            "totalCommentsCount": 11,
             "createdAt": "2026-06-23T03:26:48Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58403,
-            "title": "feat: support picker onClear callback",
-            "url": "https://github.com/ant-design/ant-design/pull/58403",
-            "state": "MERGED",
-            "changedFiles": 19,
-            "additions": 322,
-            "deletions": 204,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-06-17T04:17:40Z",
-            "mergedAt": "2026-06-17T09:42:52Z",
-            "closedAt": "2026-06-17T09:42:52Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3221,
+        "total": 3238,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1000,7 +1000,7 @@
             },
             {
                 "date": "2026-06-24",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-06-25",

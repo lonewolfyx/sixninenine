@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 126,
+            "title": "Migrate InnerSlider to function component",
+            "url": "https://github.com/ant-design/react-slick/pull/126",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 919,
+            "deletions": 683,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-06-25T02:22:22Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-25T02:59:46Z",
+            "repository": {
+                "name": "react-slick",
+                "nameWithOwner": "ant-design/react-slick",
+                "homepageUrl": "http://react-slick.neostack.com/",
+                "description": "React carousel component ",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/react-slick"
+            }
+        },
+        {
+            "number": 125,
+            "title": "Migrate slider components to functions",
+            "url": "https://github.com/ant-design/react-slick/pull/125",
+            "state": "CLOSED",
+            "changedFiles": 4,
+            "additions": 281,
+            "deletions": 206,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-25T01:50:36Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-25T02:59:46Z",
+            "repository": {
+                "name": "react-slick",
+                "nameWithOwner": "ant-design/react-slick",
+                "homepageUrl": "http://react-slick.neostack.com/",
+                "description": "React carousel component ",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/react-slick"
+            }
+        },
+        {
+            "number": 58504,
+            "title": "fix(Result): render extra when it is zero",
+            "url": "https://github.com/ant-design/ant-design/pull/58504",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-25T01:41:16Z",
+            "mergedAt": "2026-06-25T01:59:38Z",
+            "closedAt": "2026-06-25T01:59:38Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58495,
             "title": "test: fix Spin nested loading selector",
             "url": "https://github.com/ant-design/ant-design/pull/58495",
@@ -182,14 +254,14 @@
             "number": 124,
             "title": "Migrate arrow components to function components",
             "url": "https://github.com/ant-design/react-slick/pull/124",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 1,
-            "additions": 80,
-            "deletions": 82,
-            "totalCommentsCount": 5,
+            "additions": 70,
+            "deletions": 68,
+            "totalCommentsCount": 6,
             "createdAt": "2026-06-22T01:22:03Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-06-25T02:59:46Z",
             "repository": {
                 "name": "react-slick",
                 "nameWithOwner": "ant-design/react-slick",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58427,
-            "title": "docs: recommend CLI in v6 migration guide",
-            "url": "https://github.com/ant-design/ant-design/pull/58427",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-18T06:50:46Z",
-            "mergedAt": "2026-06-18T07:54:14Z",
-            "closedAt": "2026-06-18T07:54:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 780,
-            "title": "Remove legacy PortalWrapper",
-            "url": "https://github.com/react-component/util/pull/780",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 3,
-            "deletions": 441,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-18T06:02:37Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "util",
-                "nameWithOwner": "react-component/util",
-                "homepageUrl": "util.vercel.app",
-                "description": "Common Utils For React Component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/util"
-            }
-        },
-        {
-            "number": 58420,
-            "title": "site: correct icon search count",
-            "url": "https://github.com/ant-design/ant-design/pull/58420",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 1,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-06-18T03:37:07Z",
-            "mergedAt": "2026-06-18T03:56:16Z",
-            "closedAt": "2026-06-18T03:56:16Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3238,
+        "total": 3242,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1004,7 +1004,7 @@
             },
             {
                 "date": "2026-06-25",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-06-26",

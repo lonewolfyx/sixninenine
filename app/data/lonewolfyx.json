@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 33,
+            "title": "feat(projects): enhance projects page with collapsible sections and improved UI",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/33",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 167,
+            "deletions": 73,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-06-25T17:13:26Z",
+            "mergedAt": "2026-06-25T17:20:37Z",
+            "closedAt": "2026-06-25T17:20:37Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
             "number": 15,
             "title": "feat: add account info header with role badge and polish UI layout",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/15",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 86,
-            "title": "feat(calendar): add calendar view for token usage tracking",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/86",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 1342,
-            "deletions": 153,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-25T05:44:31Z",
-            "mergedAt": "2026-06-25T05:50:37Z",
-            "closedAt": "2026-06-25T05:50:37Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 9128,
+        "total": 9136,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1770,11 +1770,11 @@
             },
             {
                 "date": "2026-06-25",
-                "count": 38
+                "count": 44
             },
             {
                 "date": "2026-06-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-27",

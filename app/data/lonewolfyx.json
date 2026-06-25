@@ -15,14 +15,14 @@
             "color": "#3178c6",
             "size": 1756337,
             "repoCount": 29,
-            "progress": "53.17"
+            "progress": "53.09"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "41.02"
+            "progress": "40.96"
         },
         {
             "name": "CSS",
@@ -34,9 +34,9 @@
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 58420,
+            "size": 63185,
             "repoCount": 1,
-            "progress": "1.77"
+            "progress": "1.91"
         },
         {
             "name": "JavaScript",
@@ -50,7 +50,7 @@
             "color": "#89e051",
             "size": 18337,
             "repoCount": 1,
-            "progress": "0.56"
+            "progress": "0.55"
         },
         {
             "name": "HTML",
@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 15,
+            "title": "feat: add account info header with role badge and polish UI layout",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/15",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 175,
+            "deletions": 11,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-25T11:45:11Z",
+            "mergedAt": "2026-06-25T11:45:46Z",
+            "closedAt": "2026-06-25T11:45:46Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 9,
             "title": "chore(workflows): update GitHub Actions dependencies",
             "url": "https://github.com/lonewolfyx-template/citty-cli-template/pull/9",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/usage-board"
             }
-        },
-        {
-            "number": 85,
-            "title": "chore(i18n): update logging messages from Chinese to English",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/85",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 15,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-24T14:31:38Z",
-            "mergedAt": "2026-06-24T14:32:35Z",
-            "closedAt": "2026-06-24T14:32:35Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 9119,
+        "total": 9128,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1770,7 +1770,7 @@
             },
             {
                 "date": "2026-06-25",
-                "count": 29
+                "count": 38
             },
             {
                 "date": "2026-06-26",

@@ -596,6 +596,78 @@
     },
     "pullRequest": [
         {
+            "number": 19461,
+            "title": "Update CodeMirror",
+            "url": "https://github.com/prettier/prettier/pull/19461",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 13,
+            "deletions": 13,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-06-25T09:11:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 3035,
+            "title": "fix(volar-language): fire SourceFile:exit visitors",
+            "url": "https://github.com/flint-fyi/flint/pull/3035",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-25T08:14:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3034,
+            "title": "refactor(ts): switch destructuringConsistency to the scope manager",
+            "url": "https://github.com/flint-fyi/flint/pull/3034",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 51,
+            "deletions": 81,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-25T07:39:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 3032,
             "title": "fix(ts): resolve recursion-only arguments with scope manager",
             "url": "https://github.com/flint-fyi/flint/pull/3032",
@@ -762,82 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2988,
-            "title": " refactor(typescript-language): use WeakCachedFactory for scope managers",
-            "url": "https://github.com/flint-fyi/flint/pull/2988",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 58,
-            "deletions": 43,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-06-18T08:10:28Z",
-            "mergedAt": "2026-06-20T06:12:05Z",
-            "closedAt": "2026-06-20T06:12:06Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2985,
-            "title": "feat: assert that rule tester cases contain no language reports",
-            "url": "https://github.com/flint-fyi/flint/pull/2985",
-            "state": "OPEN",
-            "changedFiles": 366,
-            "additions": 19037,
-            "deletions": 7752,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-17T16:40:43Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2983,
-            "title": "fix: inject Astro global types into TS programs",
-            "url": "https://github.com/flint-fyi/flint/pull/2983",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 95,
-            "deletions": 31,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-16T18:07:34Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 427,
+        "total": 430,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1541,7 +1541,7 @@
             },
             {
                 "date": "2026-06-25",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-06-26",

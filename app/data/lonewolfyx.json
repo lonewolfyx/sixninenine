@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "refactor: move skill files into skills/shit-mountain-rating/ directory structure",
+            "url": "https://github.com/ffgenius/shit-mountain-rating/pull/1",
+            "state": "MERGED",
+            "changedFiles": 55,
+            "additions": 0,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-26T13:15:20Z",
+            "mergedAt": "2026-06-26T13:16:16Z",
+            "closedAt": "2026-06-26T13:16:16Z",
+            "repository": {
+                "name": "shit-mountain-rating",
+                "nameWithOwner": "ffgenius/shit-mountain-rating",
+                "homepageUrl": null,
+                "description": "Shit Mountain Rating",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
+                },
+                "url": "https://github.com/ffgenius/shit-mountain-rating"
+            }
+        },
+        {
             "number": 6,
             "title": "chore(deps): update project dependencies to latest versions",
             "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/6",
@@ -1007,7 +1031,7 @@
             "repository": {
                 "name": "codex-agent-bar",
                 "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": null,
+                "homepageUrl": "",
                 "description": null,
                 "owner": {
                     "login": "lonewolfyx",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/citty-cli-template"
             }
-        },
-        {
-            "number": 10,
-            "title": "chore(workflows): update GitHub Actions versions",
-            "url": "https://github.com/lonewolfyx-template/cli-template/pull/10",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-25T06:08:38Z",
-            "mergedAt": "2026-06-25T06:10:35Z",
-            "closedAt": "2026-06-25T06:10:36Z",
-            "repository": {
-                "name": "cli-template",
-                "nameWithOwner": "lonewolfyx-template/cli-template",
-                "homepageUrl": null,
-                "description": "cli template",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/cli-template"
-            }
         }
     ],
     "contributions": {
-        "total": 9160,
+        "total": 9166,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1774,7 +1774,7 @@
             },
             {
                 "date": "2026-06-26",
-                "count": 24
+                "count": 30
             },
             {
                 "date": "2026-06-27",

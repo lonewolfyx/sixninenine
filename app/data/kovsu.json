@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
-            "number": 19461,
-            "title": "Update CodeMirror",
-            "url": "https://github.com/prettier/prettier/pull/19461",
+            "number": 3040,
+            "title": "fix: preserve report locations in actions logs",
+            "url": "https://github.com/flint-fyi/flint/pull/3040",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 13,
-            "deletions": 13,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-06-25T09:11:42Z",
+            "changedFiles": 2,
+            "additions": 21,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-26T03:53:01Z",
             "mergedAt": null,
             "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 19461,
+            "title": "Fix playground code folding",
+            "url": "https://github.com/prettier/prettier/pull/19461",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 43,
+            "deletions": 26,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-25T09:11:42Z",
+            "mergedAt": "2026-06-26T03:54:59Z",
+            "closedAt": "2026-06-26T03:54:59Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 2989,
-            "title": "ci: pass node-version matrix to test_e2e prepare step",
-            "url": "https://github.com/flint-fyi/flint/pull/2989",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-18T09:25:45Z",
-            "mergedAt": "2026-06-18T14:19:30Z",
-            "closedAt": "2026-06-18T14:19:30Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 430,
+        "total": 432,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1545,7 +1545,7 @@
             },
             {
                 "date": "2026-06-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-27",

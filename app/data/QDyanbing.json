@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 888853,
+            "size": 896329,
             "repoCount": 5,
-            "progress": "79.60"
+            "progress": "79.73"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.72"
+            "progress": "9.66"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 60759,
             "repoCount": 2,
-            "progress": "5.44"
+            "progress": "5.40"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.95"
+            "progress": "4.92"
         },
         {
             "name": "Less",
@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 785,
+            "title": "chore: standardize repository tooling",
+            "url": "https://github.com/react-component/util/pull/785",
+            "state": "OPEN",
+            "changedFiles": 19,
+            "additions": 334,
+            "deletions": 341,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-26T06:17:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "util.vercel.app",
+                "description": "🛠️ Shared React utilities for rc-component packages",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 58513,
             "title": "fix: prevent disabled FloatButton.Group hover menu opening",
             "url": "https://github.com/ant-design/ant-design/pull/58513",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 38,
             "deletions": 0,
             "totalCommentsCount": 15,
             "createdAt": "2026-06-26T02:50:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-26T08:07:48Z",
+            "closedAt": "2026-06-26T08:07:48Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58474,
-            "title": "fix: align root semantic style priority",
-            "url": "https://github.com/ant-design/ant-design/pull/58474",
-            "state": "OPEN",
-            "changedFiles": 66,
-            "additions": 1197,
-            "deletions": 317,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-06-23T03:26:48Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3260,
+        "total": 3273,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1008,7 +1008,7 @@
             },
             {
                 "date": "2026-06-26",
-                "count": 1
+                "count": 14
             },
             {
                 "date": "2026-06-27",

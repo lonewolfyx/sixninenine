@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 9991,
+            "title": "chore: update docs for esbuild bundler note",
+            "url": "https://github.com/microsoft/vscode-docs/pull/9991",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-27T13:49:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vscode-docs",
+                "nameWithOwner": "microsoft/vscode-docs",
+                "homepageUrl": "http://code.visualstudio.com/docs",
+                "description": "Public documentation for Visual Studio Code",
+                "owner": {
+                    "login": "microsoft",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
+                },
+                "url": "https://github.com/microsoft/vscode-docs"
+            }
+        },
+        {
             "number": 24374,
             "title": "fix(components): [input-otp] avoid sticky hover on touch devices",
             "url": "https://github.com/element-plus/element-plus/pull/24374",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 45,
-            "title": "feat: add user data",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/45",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-20T13:29:34Z",
-            "mergedAt": "2026-03-21T08:48:57Z",
-            "closedAt": "2026-03-21T08:48:57Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
         }
     ],
     "contributions": {
-        "total": 131,
+        "total": 133,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -984,7 +984,7 @@
             },
             {
                 "date": "2026-06-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-28",

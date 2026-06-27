@@ -15,35 +15,35 @@
             "color": "#e34c26",
             "size": 4348492,
             "repoCount": 11,
-            "progress": "74.20"
+            "progress": "73.92"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 434041,
             "repoCount": 9,
-            "progress": "7.41"
+            "progress": "7.38"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 382219,
             "repoCount": 8,
-            "progress": "6.52"
+            "progress": "6.50"
         },
         {
             "name": "Rust",
             "color": "#dea584",
-            "size": 306364,
+            "size": 330886,
             "repoCount": 2,
-            "progress": "5.23"
+            "progress": "5.62"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 178499,
             "repoCount": 7,
-            "progress": "3.05"
+            "progress": "3.03"
         },
         {
             "name": "Markdown",
@@ -57,21 +57,21 @@
             "color": "#663399",
             "size": 78339,
             "repoCount": 8,
-            "progress": "1.34"
+            "progress": "1.33"
         },
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 7351,
-            "repoCount": 2,
-            "progress": "0.13"
+            "size": 5255,
+            "repoCount": 1,
+            "progress": "0.09"
         },
         {
             "name": "Ruby",
             "color": "#701516",
             "size": 4990,
             "repoCount": 2,
-            "progress": "0.09"
+            "progress": "0.08"
         },
         {
             "name": "PowerShell",
@@ -100,6 +100,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 12,
+            "title": "feat(snippet): add snippet registry with cross-shell translation",
+            "url": "https://github.com/ffgenius/relay/pull/12",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 960,
+            "deletions": 98,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-27T13:43:10Z",
+            "mergedAt": "2026-06-27T13:53:32Z",
+            "closedAt": "2026-06-27T13:53:32Z",
+            "repository": {
+                "name": "relay",
+                "nameWithOwner": "ffgenius/relay",
+                "homepageUrl": null,
+                "description": "Secure Cross-Platform Command Router",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
+                },
+                "url": "https://github.com/ffgenius/relay"
+            }
+        },
         {
             "number": 58429,
             "title": "Revert \"fix(Button): vertically center icon glyph in icon-only button…",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 48,
-            "title": "chore: align dts config and fast-color tsconfig",
-            "url": "https://github.com/antdv-next/vue-components/pull/48",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 26,
-            "deletions": 16,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-19T13:09:53Z",
-            "mergedAt": "2026-04-19T22:46:05Z",
-            "closedAt": "2026-04-19T22:46:05Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 297,
+        "total": 307,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1054,7 +1054,7 @@
             },
             {
                 "date": "2026-06-27",
-                "count": 10
+                "count": 20
             },
             {
                 "date": "2026-06-28",

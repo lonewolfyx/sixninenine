@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 900329,
+            "size": 905726,
             "repoCount": 5,
-            "progress": "79.75"
+            "progress": "79.82"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.62"
+            "progress": "9.57"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 61464,
+            "size": 61864,
             "repoCount": 2,
-            "progress": "5.44"
+            "progress": "5.45"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.90"
+            "progress": "4.87"
         },
         {
             "name": "Less",
@@ -58,6 +58,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58550,
+            "title": "fix: correct semantic root style priority in components",
+            "url": "https://github.com/ant-design/ant-design/pull/58550",
+            "state": "OPEN",
+            "changedFiles": 34,
+            "additions": 642,
+            "deletions": 142,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-06-28T09:33:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 82,
+            "title": "refactor: migrate CSSMotionList to FC",
+            "url": "https://github.com/react-component/motion/pull/82",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 256,
+            "deletions": 111,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-06-28T05:34:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "motion",
+                "nameWithOwner": "react-component/motion",
+                "homepageUrl": "https://react-component.github.io/motion",
+                "description": "⛷ CSS Animation for React",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/motion"
+            }
+        },
         {
             "number": 58529,
             "title": "site: restore demo descriptions in utoopack",
@@ -121,7 +169,7 @@
             "repository": {
                 "name": "util",
                 "nameWithOwner": "react-component/util",
-                "homepageUrl": "util.vercel.app",
+                "homepageUrl": "https://react-component.github.io/util",
                 "description": "🛠️ Shared React utilities for rc-component packages",
                 "owner": {
                     "login": "react-component",
@@ -193,8 +241,8 @@
             "repository": {
                 "name": "select",
                 "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://select-react-component.vercel.app/",
-                "description": "React Select",
+                "homepageUrl": "https://react-component.github.io/select",
+                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
                 "owner": {
                     "login": "react-component",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/react-slick"
             }
-        },
-        {
-            "number": 125,
-            "title": "Migrate slider components to functions",
-            "url": "https://github.com/ant-design/react-slick/pull/125",
-            "state": "CLOSED",
-            "changedFiles": 4,
-            "additions": 281,
-            "deletions": 206,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-25T01:50:36Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-25T02:59:46Z",
-            "repository": {
-                "name": "react-slick",
-                "nameWithOwner": "ant-design/react-slick",
-                "homepageUrl": "http://react-slick.neostack.com/",
-                "description": "React carousel component ",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/react-slick"
-            }
-        },
-        {
-            "number": 58504,
-            "title": "fix(Result): render extra when it is zero",
-            "url": "https://github.com/ant-design/ant-design/pull/58504",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-25T01:41:16Z",
-            "mergedAt": "2026-06-25T01:59:38Z",
-            "closedAt": "2026-06-25T01:59:38Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3307,
+        "total": 3324,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1016,7 +1016,7 @@
             },
             {
                 "date": "2026-06-28",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-06-29",

@@ -596,17 +596,65 @@
     },
     "pullRequest": [
         {
+            "number": 19483,
+            "title": "Update file-entry-cache to 11.1.5",
+            "url": "https://github.com/prettier/prettier/pull/19483",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 31,
+            "deletions": 32,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-27T22:17:24Z",
+            "mergedAt": "2026-06-27T22:37:52Z",
+            "closedAt": "2026-06-27T22:37:52Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 16531,
+            "title": "fix(quick-panel): smooth input popup exit animation",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/16531",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 106,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-27T22:04:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 3040,
             "title": "fix: preserve report locations in actions logs",
             "url": "https://github.com/flint-fyi/flint/pull/3040",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 18,
             "deletions": 7,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2026-06-26T03:53:01Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-27T19:54:35Z",
+            "closedAt": "2026-06-27T19:54:35Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -695,14 +743,14 @@
             "number": 3032,
             "title": "fix(ts): resolve recursion-only arguments with scope manager",
             "url": "https://github.com/flint-fyi/flint/pull/3032",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 35,
             "deletions": 38,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-25T03:40:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-27T19:53:15Z",
+            "closedAt": "2026-06-27T19:53:15Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3010,
-            "title": "chore(site): use unified processor for astro markdown config",
-            "url": "https://github.com/flint-fyi/flint/pull/3010",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 17,
-            "deletions": 6,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-22T02:18:30Z",
-            "mergedAt": "2026-06-23T00:23:11Z",
-            "closedAt": "2026-06-23T00:23:12Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 2993,
-            "title": "fix(core): avoid stale cache writes during fix loops",
-            "url": "https://github.com/flint-fyi/flint/pull/2993",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 24,
-            "deletions": 6,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-06-18T15:44:20Z",
-            "mergedAt": "2026-06-21T07:25:59Z",
-            "closedAt": "2026-06-21T07:25:59Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 435,
+        "total": 441,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1553,7 +1553,7 @@
             },
             {
                 "date": "2026-06-28",
-                "count": 1
+                "count": 7
             },
             {
                 "date": "2026-06-29",

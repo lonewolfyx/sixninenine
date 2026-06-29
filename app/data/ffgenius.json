@@ -101,17 +101,41 @@
     },
     "pullRequest": [
         {
+            "number": 619,
+            "title": "fix(docs): fix QR code invisible in dark mode within white tooltip",
+            "url": "https://github.com/antdv-next/antdv-next/pull/619",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-29T03:42:07Z",
+            "mergedAt": "2026-06-29T04:05:12Z",
+            "closedAt": "2026-06-29T04:05:12Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 617,
             "title": "feat(home): refactor ThemePreview to align with Ant Design",
             "url": "https://github.com/antdv-next/antdv-next/pull/617",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 14,
             "additions": 939,
             "deletions": 378,
             "totalCommentsCount": 2,
             "createdAt": "2026-06-27T20:04:13Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-29T01:23:53Z",
+            "closedAt": "2026-06-29T01:23:53Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 51,
-            "title": "Revert \"fix(trigger): manually remove axis-specific overflow propertes from`popupStyle` (#43)\"",
-            "url": "https://github.com/antdv-next/vue-components/pull/51",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 1,
-            "deletions": 169,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-04-23T14:47:56Z",
-            "mergedAt": "2026-04-23T22:43:13Z",
-            "closedAt": "2026-04-23T22:43:13Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 316,
+        "total": 319,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1062,7 +1062,7 @@
             },
             {
                 "date": "2026-06-29",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-06-30",

@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
         "pronouns": "",
-        "followers": 79,
+        "followers": 80,
         "following": 26
     },
     "languages": [
@@ -596,6 +596,54 @@
     },
     "pullRequest": [
         {
+            "number": 3060,
+            "title": "try review dog",
+            "url": "https://github.com/flint-fyi/flint/pull/3060",
+            "state": "CLOSED",
+            "changedFiles": 12,
+            "additions": 206,
+            "deletions": 242,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-29T03:19:26Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-29T03:46:14Z",
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3059,
+            "title": "fix: restore GitHub presenter logs",
+            "url": "https://github.com/flint-fyi/flint/pull/3059",
+            "state": "CLOSED",
+            "changedFiles": 7,
+            "additions": 59,
+            "deletions": 224,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-29T02:17:12Z",
+            "mergedAt": null,
+            "closedAt": "2026-06-29T03:00:02Z",
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 19483,
             "title": "Update file-entry-cache to 11.1.5",
             "url": "https://github.com/prettier/prettier/pull/19483",
@@ -786,58 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3022,
-            "title": "refactor(ts): reuse `unwrapParenthesizedNode` in rules",
-            "url": "https://github.com/flint-fyi/flint/pull/3022",
-            "state": "CLOSED",
-            "changedFiles": 10,
-            "additions": 41,
-            "deletions": 61,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-24T03:44:33Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-24T06:59:33Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 3015,
-            "title": "refactor(ts): use node.kind and AST types instead of `ts.isX` in rules",
-            "url": "https://github.com/flint-fyi/flint/pull/3015",
-            "state": "OPEN",
-            "changedFiles": 89,
-            "additions": 978,
-            "deletions": 898,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-06-23T10:12:49Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 441,
+        "total": 443,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1557,7 +1557,7 @@
             },
             {
                 "date": "2026-06-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-06-30",

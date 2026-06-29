@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58558,
+            "title": "fix: restore Form.Item help false behavior",
+            "url": "https://github.com/ant-design/ant-design/pull/58558",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 20,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-06-29T08:47:36Z",
+            "mergedAt": "2026-06-29T10:32:09Z",
+            "closedAt": "2026-06-29T10:32:09Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58550,
             "title": "fix: correct semantic root style priority in components",
             "url": "https://github.com/ant-design/ant-design/pull/58550",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 126,
-            "title": "Migrate InnerSlider to function component",
-            "url": "https://github.com/ant-design/react-slick/pull/126",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 919,
-            "deletions": 683,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-25T02:22:22Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-25T02:59:46Z",
-            "repository": {
-                "name": "react-slick",
-                "nameWithOwner": "ant-design/react-slick",
-                "homepageUrl": "http://react-slick.neostack.com/",
-                "description": "React carousel component ",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/react-slick"
-            }
         }
     ],
     "contributions": {
-        "total": 3341,
+        "total": 3344,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1020,7 +1020,7 @@
             },
             {
                 "date": "2026-06-29",
-                "count": 17
+                "count": 20
             },
             {
                 "date": "2026-06-30",

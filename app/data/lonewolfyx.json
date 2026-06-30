@@ -15,28 +15,28 @@
             "color": "#3178c6",
             "size": 1756337,
             "repoCount": 29,
-            "progress": "52.65"
+            "progress": "52.62"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.62"
+            "progress": "40.60"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 90930,
+            "size": 92696,
             "repoCount": 1,
-            "progress": "2.73"
+            "progress": "2.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.49"
+            "progress": "2.48"
         },
         {
             "name": "JavaScript",
@@ -825,6 +825,126 @@
     },
     "pullRequest": [
         {
+            "number": 20,
+            "title": "fix: Polish quota popover footer layout",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/20",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 72,
+            "deletions": 27,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T09:18:12Z",
+            "mergedAt": "2026-06-30T09:18:57Z",
+            "closedAt": "2026-06-30T09:18:57Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(config): update config loading with proper typing and dotenv handling",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/1",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 21,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T08:10:56Z",
+            "mergedAt": "2026-06-30T08:11:22Z",
+            "closedAt": "2026-06-30T08:11:22Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
+            "number": 18,
+            "title": "chore(workflow): update GitHub Actions workflow dependencies",
+            "url": "https://github.com/lonewolfyx/setup/pull/18",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T07:31:59Z",
+            "mergedAt": "2026-06-30T07:32:29Z",
+            "closedAt": "2026-06-30T07:32:29Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 17,
+            "title": "chore(workflows): update GitHub Actions dependencies",
+            "url": "https://github.com/lonewolfyx/setup/pull/17",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T07:26:20Z",
+            "mergedAt": "2026-06-30T07:27:04Z",
+            "closedAt": "2026-06-30T07:27:04Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(app): implement real-time npm package stream display",
+            "url": "https://github.com/lonewolfyx/packrun/pull/1",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 689,
+            "deletions": 112,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-06-30T06:34:37Z",
+            "mergedAt": "2026-06-30T06:36:52Z",
+            "closedAt": "2026-06-30T06:36:52Z",
+            "repository": {
+                "name": "packrun",
+                "nameWithOwner": "lonewolfyx/packrun",
+                "homepageUrl": "https://packrun.vercel.app",
+                "description": "A real-time stream and tracker for newly published packages",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/packrun"
+            }
+        },
+        {
             "number": 19,
             "title": "feat: improve popover footer layout and actions",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/19",
@@ -943,130 +1063,10 @@
                 },
                 "url": "https://github.com/ffgenius/shit-mountain-rating"
             }
-        },
-        {
-            "number": 6,
-            "title": "chore(deps): update project dependencies to latest versions",
-            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/6",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2759,
-            "deletions": 4032,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-26T08:14:32Z",
-            "mergedAt": "2026-06-26T08:15:57Z",
-            "closedAt": "2026-06-26T08:15:57Z",
-            "repository": {
-                "name": "nuxt-template",
-                "nameWithOwner": "lonewolfyx-template/nuxt-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/nuxt-template"
-            }
-        },
-        {
-            "number": 38,
-            "title": "fix(projects): correct collapsible component loop and default open behavior",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/38",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-26T06:45:05Z",
-            "mergedAt": "2026-06-26T06:45:19Z",
-            "closedAt": "2026-06-26T06:45:20Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 37,
-            "title": "fix(constant): correct github repository url for codex agent bar",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/37",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-26T06:04:33Z",
-            "mergedAt": "2026-06-26T06:04:46Z",
-            "closedAt": "2026-06-26T06:04:46Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 36,
-            "title": "style(projects): update project card styling and typography",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/36",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-26T06:02:52Z",
-            "mergedAt": "2026-06-26T06:03:23Z",
-            "closedAt": "2026-06-26T06:03:23Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 35,
-            "title": "feat(open-source): update open source projects listing with new organizations and repositories",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/35",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 184,
-            "deletions": 78,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-26T05:58:40Z",
-            "mergedAt": "2026-06-26T06:03:02Z",
-            "closedAt": "2026-06-26T06:03:02Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
         }
     ],
     "contributions": {
-        "total": 9270,
+        "total": 9289,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1790,7 +1790,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 13
+                "count": 32
             },
             {
                 "date": "2026-07-01",

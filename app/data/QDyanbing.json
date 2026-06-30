@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 905527,
+            "size": 913953,
             "repoCount": 5,
-            "progress": "79.82"
+            "progress": "79.96"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.57"
+            "progress": "9.50"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 61864,
+            "size": 61947,
             "repoCount": 2,
-            "progress": "5.45"
+            "progress": "5.42"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.87"
+            "progress": "4.84"
         },
         {
             "name": "Less",
@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 58572,
+            "title": "fix: update rc-select for placeholder visibility",
+            "url": "https://github.com/ant-design/ant-design/pull/58572",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 121,
+            "deletions": 120,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-30T08:51:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1237,
             "title": "Fix placeholder visibility inheritance",
             "url": "https://github.com/react-component/select/pull/1237",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 15,
             "deletions": 4,
             "totalCommentsCount": 5,
             "createdAt": "2026-06-30T03:40:26Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-30T07:39:08Z",
+            "closedAt": "2026-06-30T07:39:08Z",
             "repository": {
                 "name": "select",
                 "nameWithOwner": "react-component/select",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/util"
             }
-        },
-        {
-            "number": 58513,
-            "title": "fix: prevent disabled FloatButton.Group hover menu opening",
-            "url": "https://github.com/ant-design/ant-design/pull/58513",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 38,
-            "deletions": 0,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-06-26T02:50:08Z",
-            "mergedAt": "2026-06-26T08:07:48Z",
-            "closedAt": "2026-06-26T08:07:48Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3347,
+        "total": 3365,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1024,7 +1024,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 3
+                "count": 21
             },
             {
                 "date": "2026-07-01",

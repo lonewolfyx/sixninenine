@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 19508,
+            "title": "Fix extend-chaining bug in `less-test-suite`",
+            "url": "https://github.com/prettier/prettier/pull/19508",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 247,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-30T09:34:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 19503,
             "title": "Keep LESS lookups tight",
             "url": "https://github.com/prettier/prettier/pull/19503",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
-            "additions": 42,
-            "deletions": 24,
-            "totalCommentsCount": 12,
+            "additions": 44,
+            "deletions": 23,
+            "totalCommentsCount": 13,
             "createdAt": "2026-06-30T01:20:51Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-06-30T08:21:04Z",
+            "closedAt": "2026-06-30T08:21:04Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3032,
-            "title": "fix(ts): resolve recursion-only arguments with scope manager",
-            "url": "https://github.com/flint-fyi/flint/pull/3032",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 35,
-            "deletions": 38,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-25T03:40:10Z",
-            "mergedAt": "2026-06-27T19:53:15Z",
-            "closedAt": "2026-06-27T19:53:15Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 446,
+        "total": 448,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1561,7 +1561,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-07-01",

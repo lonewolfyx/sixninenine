@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 19503,
+            "title": "Keep LESS lookups tight",
+            "url": "https://github.com/prettier/prettier/pull/19503",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 42,
+            "deletions": 24,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-30T01:20:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 3060,
             "title": "try review dog",
             "url": "https://github.com/flint-fyi/flint/pull/3060",
@@ -771,7 +795,7 @@
             "changedFiles": 1,
             "additions": 51,
             "deletions": 81,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-06-25T07:39:53Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3028,
-            "title": "feat(typescript-language): add getStaticValue util",
-            "url": "https://github.com/flint-fyi/flint/pull/3028",
-            "state": "MERGED",
-            "changedFiles": 26,
-            "additions": 289,
-            "deletions": 363,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-25T01:04:05Z",
-            "mergedAt": "2026-06-29T06:51:15Z",
-            "closedAt": "2026-06-29T06:51:15Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 445,
+        "total": 446,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1561,7 +1561,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-01",

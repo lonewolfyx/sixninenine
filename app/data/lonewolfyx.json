@@ -15,28 +15,28 @@
             "color": "#3178c6",
             "size": 1756337,
             "repoCount": 29,
-            "progress": "52.93"
+            "progress": "52.65"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.83"
+            "progress": "40.62"
+        },
+        {
+            "name": "Swift",
+            "color": "#F05138",
+            "size": 90930,
+            "repoCount": 1,
+            "progress": "2.73"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.50"
-        },
-        {
-            "name": "Swift",
-            "color": "#F05138",
-            "size": 73463,
-            "repoCount": 1,
-            "progress": "2.21"
+            "progress": "2.49"
         },
         {
             "name": "JavaScript",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "feat: improve popover footer layout and actions",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/19",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 62,
+            "deletions": 19,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T02:52:05Z",
+            "mergedAt": "2026-06-30T02:52:25Z",
+            "closedAt": "2026-06-30T02:52:25Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 18,
+            "title": "fix: show exact reset time for 5-hour quota window",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/18",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-06-30T02:28:33Z",
+            "mergedAt": "2026-06-30T02:29:01Z",
+            "closedAt": "2026-06-30T02:29:02Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 17,
+            "title": "feat: add token usage metrics to quota popover",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/17",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 490,
+            "deletions": 19,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-06-30T01:19:31Z",
+            "mergedAt": "2026-06-30T01:20:45Z",
+            "closedAt": "2026-06-30T01:20:45Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 16,
             "title": "feat: add Codex CLI version check and reset credits display",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/16",
@@ -840,7 +912,7 @@
                 "name": "codex-agent-bar",
                 "nameWithOwner": "lonewolfyx/codex-agent-bar",
                 "homepageUrl": "",
-                "description": null,
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
-        },
-        {
-            "number": 34,
-            "title": "style(projects): update hover animation for project list toggle icon",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/34",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-06-26T02:05:17Z",
-            "mergedAt": "2026-06-26T02:06:42Z",
-            "closedAt": "2026-06-26T02:06:42Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 33,
-            "title": "feat(projects): enhance projects page with collapsible sections and improved UI",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/33",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 167,
-            "deletions": 73,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-06-25T17:13:26Z",
-            "mergedAt": "2026-06-25T17:20:37Z",
-            "closedAt": "2026-06-25T17:20:37Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 15,
-            "title": "feat: add account info header with role badge and polish UI layout",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/15",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 175,
-            "deletions": 11,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-25T11:45:11Z",
-            "mergedAt": "2026-06-25T11:45:46Z",
-            "closedAt": "2026-06-25T11:45:46Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9254,
+        "total": 9270,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1786,11 +1786,11 @@
             },
             {
                 "date": "2026-06-29",
-                "count": 20
+                "count": 24
             },
             {
                 "date": "2026-06-30",
-                "count": 1
+                "count": 13
             },
             {
                 "date": "2026-07-01",

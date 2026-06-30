@@ -15,7 +15,7 @@
             "color": "#3178c6",
             "size": 1311214,
             "repoCount": 23,
-            "progress": "67.55"
+            "progress": "67.56"
         },
         {
             "name": "Vue",
@@ -69,9 +69,9 @@
         {
             "name": "Dockerfile",
             "color": "#384d54",
-            "size": 995,
+            "size": 827,
             "repoCount": 1,
-            "progress": "0.05"
+            "progress": "0.04"
         },
         {
             "name": "PHP",
@@ -86,6 +86,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 3,
+            "title": "feat: switch Docker build to Bun and add prod compose",
+            "url": "https://github.com/wan-kong/doubao-nomark-online/pull/3",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 28,
+            "deletions": 18,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-06-30T02:44:11Z",
+            "mergedAt": "2026-06-30T02:44:18Z",
+            "closedAt": "2026-06-30T02:44:18Z",
+            "repository": {
+                "name": "doubao-nomark-online",
+                "nameWithOwner": "wan-kong/doubao-nomark-online",
+                "homepageUrl": "https://doubao.wankong.top",
+                "description": "豆包去水印",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/doubao-nomark-online"
+            }
+        },
         {
             "number": 2,
             "title": "feat: remove video support",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/makeplane/plane"
             }
-        },
-        {
-            "number": 3776,
-            "title": "fix: 优化搜索逻辑，令牌数未超限时自动填充模糊搜索通配符",
-            "url": "https://github.com/QuantumNous/new-api/pull/3776",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 29,
-            "deletions": 21,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-04-02T03:42:18Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-02T04:33:48Z",
-            "repository": {
-                "name": "new-api",
-                "nameWithOwner": "QuantumNous/new-api",
-                "homepageUrl": "https://www.newapi.ai",
-                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
-                "owner": {
-                    "login": "QuantumNous",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
-                },
-                "url": "https://github.com/QuantumNous/new-api"
-            }
         }
     ],
     "contributions": {
-        "total": 275,
+        "total": 277,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1052,7 +1052,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-01",

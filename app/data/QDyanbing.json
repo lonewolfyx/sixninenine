@@ -59,6 +59,78 @@
     },
     "pullRequest": [
         {
+            "number": 1237,
+            "title": "Fix placeholder visibility inheritance",
+            "url": "https://github.com/react-component/select/pull/1237",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 15,
+            "deletions": 4,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-06-30T03:40:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://react-component.github.io/select",
+                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/select"
+            }
+        },
+        {
+            "number": 58566,
+            "title": "demo: add Layout collapsible overlay example",
+            "url": "https://github.com/ant-design/ant-design/pull/58566",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 590,
+            "deletions": 0,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-06-30T02:53:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58564,
+            "title": "fix: correct semantic style priority in more components",
+            "url": "https://github.com/ant-design/ant-design/pull/58564",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 230,
+            "deletions": 47,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-06-30T01:31:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58558,
             "title": "fix: restore Form.Item help false behavior",
             "url": "https://github.com/ant-design/ant-design/pull/58558",
@@ -225,82 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58511,
-            "title": "fix: align numeric popup width for select components",
-            "url": "https://github.com/ant-design/ant-design/pull/58511",
-            "state": "MERGED",
-            "changedFiles": 61,
-            "additions": 2568,
-            "deletions": 2568,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-06-25T09:59:06Z",
-            "mergedAt": "2026-06-25T12:26:18Z",
-            "closedAt": "2026-06-25T12:26:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 1228,
-            "title": "fix: preserve min width for numeric popup width",
-            "url": "https://github.com/react-component/select/pull/1228",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 5,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-25T08:47:12Z",
-            "mergedAt": "2026-06-25T09:10:29Z",
-            "closedAt": "2026-06-25T09:10:29Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://react-component.github.io/select",
-                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
-        },
-        {
-            "number": 58506,
-            "title": "fix: preserve Input.Search enterButton className",
-            "url": "https://github.com/ant-design/ant-design/pull/58506",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-06-25T06:26:12Z",
-            "mergedAt": "2026-06-25T07:09:48Z",
-            "closedAt": "2026-06-25T07:09:48Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3344,
+        "total": 3347,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1024,7 +1024,7 @@
             },
             {
                 "date": "2026-06-30",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-01",

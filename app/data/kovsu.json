@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
         "pronouns": "",
         "followers": 81,
-        "following": 26
+        "following": 27
     },
     "languages": [
         {
@@ -596,14 +596,38 @@
     },
     "pullRequest": [
         {
+            "number": 19517,
+            "title": "Remove spaces between `+` and `:` in less merge feature",
+            "url": "https://github.com/prettier/prettier/pull/19517",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 158,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-01T09:00:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 19508,
             "title": "Fix extend-chaining bug in `less-test-suite`",
             "url": "https://github.com/prettier/prettier/pull/19508",
             "state": "OPEN",
             "changedFiles": 3,
-            "additions": 247,
+            "additions": 260,
             "deletions": 1,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-06-30T09:34:45Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3034,
-            "title": "refactor(ts): switch destructuringConsistency to the scope manager",
-            "url": "https://github.com/flint-fyi/flint/pull/3034",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 51,
-            "deletions": 81,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-25T07:39:53Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 448,
+        "total": 450,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1565,7 +1565,7 @@
             },
             {
                 "date": "2026-07-01",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-02",

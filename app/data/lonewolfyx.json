@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1756337,
+            "size": 1756449,
             "repoCount": 29,
-            "progress": "52.62"
+            "progress": "52.63"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.60"
+            "progress": "40.59"
         },
         {
             "name": "Swift",
@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "feat(constants): add Swift project files to gitignore pattern",
+            "url": "https://github.com/lonewolfyx/rmcache/pull/27",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-01T13:38:08Z",
+            "mergedAt": "2026-07-01T13:38:46Z",
+            "closedAt": "2026-07-01T13:38:46Z",
+            "repository": {
+                "name": "rmcache",
+                "nameWithOwner": "lonewolfyx/rmcache",
+                "homepageUrl": "",
+                "description": "💨 Remove frontend junk files.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/rmcache"
+            }
+        },
+        {
             "number": 20,
             "title": "fix: Polish quota popover footer layout",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/20",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 1,
-            "title": "refactor: move skill files into skills/shit-mountain-rating/ directory structure",
-            "url": "https://github.com/ffgenius/shit-mountain-rating/pull/1",
-            "state": "MERGED",
-            "changedFiles": 55,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-26T13:15:20Z",
-            "mergedAt": "2026-06-26T13:16:16Z",
-            "closedAt": "2026-06-26T13:16:16Z",
-            "repository": {
-                "name": "shit-mountain-rating",
-                "nameWithOwner": "ffgenius/shit-mountain-rating",
-                "homepageUrl": null,
-                "description": "Shit Mountain Rating",
-                "owner": {
-                    "login": "ffgenius",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
-                },
-                "url": "https://github.com/ffgenius/shit-mountain-rating"
-            }
         }
     ],
     "contributions": {
-        "total": 9313,
+        "total": 9323,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1794,7 +1794,7 @@
             },
             {
                 "date": "2026-07-01",
-                "count": 9
+                "count": 19
             },
             {
                 "date": "2026-07-02",

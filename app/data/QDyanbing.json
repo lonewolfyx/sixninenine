@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 989,
+            "title": "Add range info to disabledDate",
+            "url": "https://github.com/react-component/picker/pull/989",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 169,
+            "deletions": 58,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-01T01:00:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://react-component.github.io/picker",
+                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
             "number": 58572,
             "title": "fix: update rc-select for placeholder visibility",
             "url": "https://github.com/ant-design/ant-design/pull/58572",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 39,
             "additions": 229,
             "deletions": 579,
             "totalCommentsCount": 16,
             "createdAt": "2026-06-30T08:51:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-01T01:55:30Z",
+            "closedAt": "2026-07-01T01:55:30Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -135,10 +159,10 @@
             "title": "fix: correct semantic style priority in more components",
             "url": "https://github.com/ant-design/ant-design/pull/58564",
             "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 230,
-            "deletions": 47,
-            "totalCommentsCount": 7,
+            "changedFiles": 16,
+            "additions": 291,
+            "deletions": 54,
+            "totalCommentsCount": 8,
             "createdAt": "2026-06-30T01:31:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 785,
-            "title": "chore: standardize repository tooling",
-            "url": "https://github.com/react-component/util/pull/785",
-            "state": "CLOSED",
-            "changedFiles": 19,
-            "additions": 334,
-            "deletions": 341,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-06-26T06:17:06Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-26T10:09:43Z",
-            "repository": {
-                "name": "util",
-                "nameWithOwner": "react-component/util",
-                "homepageUrl": "https://react-component.github.io/util",
-                "description": "🛠️ Shared React utilities for rc-component packages.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/util"
-            }
         }
     ],
     "contributions": {
-        "total": 3365,
+        "total": 3366,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1028,7 +1028,7 @@
             },
             {
                 "date": "2026-07-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-02",

@@ -13,58 +13,58 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1311214,
+            "size": 1315452,
             "repoCount": 23,
-            "progress": "68.23"
+            "progress": "67.98"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 355150,
             "repoCount": 10,
-            "progress": "18.48"
+            "progress": "18.35"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 92599,
             "repoCount": 20,
-            "progress": "4.82"
+            "progress": "4.79"
+        },
+        {
+            "name": "MDX",
+            "color": "#fcb32c",
+            "size": 50437,
+            "repoCount": 2,
+            "progress": "2.61"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 43480,
             "repoCount": 19,
-            "progress": "2.26"
-        },
-        {
-            "name": "MDX",
-            "color": "#fcb32c",
-            "size": 41396,
-            "repoCount": 2,
-            "progress": "2.15"
+            "progress": "2.25"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "1.55"
+            "progress": "1.54"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 27392,
             "repoCount": 13,
-            "progress": "1.43"
+            "progress": "1.42"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 19572,
             "repoCount": 2,
-            "progress": "1.02"
+            "progress": "1.01"
         },
         {
             "name": "Dockerfile",
@@ -86,6 +86,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 4,
+            "title": "feat: add CSS scroll-driven fade-shimmer blog post with interactive demo",
+            "url": "https://github.com/wan-kong/wankong.top/pull/4",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 419,
+            "deletions": 133,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-02T01:04:38Z",
+            "mergedAt": "2026-07-02T01:04:46Z",
+            "closedAt": "2026-07-02T01:04:46Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
         {
             "number": 3,
             "title": "feat: switch Docker build to Bun and add prod compose",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/full-stack-starter"
             }
-        },
-        {
-            "number": 8866,
-            "title": "fix(i18n): complete and refine zh-CN translations",
-            "url": "https://github.com/makeplane/plane/pull/8866",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 267,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-04-08T02:26:30Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "plane",
-                "nameWithOwner": "makeplane/plane",
-                "homepageUrl": "http://plane.so",
-                "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-                "owner": {
-                    "login": "makeplane",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/115727700?v=4"
-                },
-                "url": "https://github.com/makeplane/plane"
-            }
         }
     ],
     "contributions": {
-        "total": 281,
+        "total": 283,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1060,7 +1060,7 @@
             },
             {
                 "date": "2026-07-02",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-03",

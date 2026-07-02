@@ -15,35 +15,35 @@
             "color": "#3178c6",
             "size": 1756449,
             "repoCount": 29,
-            "progress": "52.63"
+            "progress": "52.34"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.59"
+            "progress": "40.38"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 92696,
+            "size": 110650,
             "repoCount": 1,
-            "progress": "2.78"
+            "progress": "3.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.48"
+            "progress": "2.47"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 31270,
             "repoCount": 28,
-            "progress": "0.94"
+            "progress": "0.93"
         },
         {
             "name": "Shell",
@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 21,
+            "title": "feat: show CodexRadar model reasoning in menu bar",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/21",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 519,
+            "deletions": 6,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-07-02T07:28:24Z",
+            "mergedAt": "2026-07-02T07:38:45Z",
+            "closedAt": "2026-07-02T07:38:45Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 9,
+            "title": "docs(agents): update agent documentation and configuration",
+            "url": "https://github.com/lonewolfyx/skills/pull/9",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 429,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-02T06:13:17Z",
+            "mergedAt": "2026-07-02T06:19:12Z",
+            "closedAt": "2026-07-02T06:19:12Z",
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "lonewolfyx/skills",
+                "homepageUrl": null,
+                "description": "curated collection of agent skills.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/skills"
+            }
+        },
+        {
             "number": 27,
             "title": "feat(constants): add Swift project files to gitignore pattern",
             "url": "https://github.com/lonewolfyx/rmcache/pull/27",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 17,
-            "title": "feat: add token usage metrics to quota popover",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/17",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 490,
-            "deletions": 19,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-30T01:19:31Z",
-            "mergedAt": "2026-06-30T01:20:45Z",
-            "closedAt": "2026-06-30T01:20:45Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 16,
-            "title": "feat: add Codex CLI version check and reset credits display",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/16",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 296,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-29T03:20:03Z",
-            "mergedAt": "2026-06-29T03:20:47Z",
-            "closedAt": "2026-06-29T03:20:47Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9337,
+        "total": 9347,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1798,7 +1798,7 @@
             },
             {
                 "date": "2026-07-02",
-                "count": 4
+                "count": 14
             },
             {
                 "date": "2026-07-03",

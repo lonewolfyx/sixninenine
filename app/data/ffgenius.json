@@ -15,7 +15,7 @@
             "color": "#e34c26",
             "size": 4348492,
             "repoCount": 11,
-            "progress": "73.73"
+            "progress": "73.71"
         },
         {
             "name": "JavaScript",
@@ -34,9 +34,9 @@
         {
             "name": "Rust",
             "color": "#dea584",
-            "size": 335568,
+            "size": 337286,
             "repoCount": 2,
-            "progress": "5.69"
+            "progress": "5.72"
         },
         {
             "name": "TypeScript",
@@ -100,6 +100,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 15,
+            "title": "feat: add --prefix/-p flag to relay add and update",
+            "url": "https://github.com/ffgenius/relay/pull/15",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 114,
+            "deletions": 41,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-02T07:43:54Z",
+            "mergedAt": "2026-07-02T07:45:17Z",
+            "closedAt": "2026-07-02T07:45:17Z",
+            "repository": {
+                "name": "relay",
+                "nameWithOwner": "ffgenius/relay",
+                "homepageUrl": null,
+                "description": "Secure Cross-Platform Command Router",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
+                },
+                "url": "https://github.com/ffgenius/relay"
+            }
+        },
         {
             "number": 620,
             "title": "fix(input-otp): prevent duplicate onChange trigger and spurious autofocus attributes",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 58220,
-            "title": "docs(calendar): fix lunar demo year selection",
-            "url": "https://github.com/ant-design/ant-design/pull/58220",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-06-04T11:44:23Z",
-            "mergedAt": "2026-06-05T02:05:02Z",
-            "closedAt": "2026-06-05T02:05:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 324,
+        "total": 328,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1074,7 +1074,7 @@
             },
             {
                 "date": "2026-07-02",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-03",

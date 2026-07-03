@@ -15,21 +15,21 @@
             "color": "#3178c6",
             "size": 1756449,
             "repoCount": 29,
-            "progress": "52.34"
+            "progress": "52.33"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.38"
+            "progress": "40.36"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 110650,
+            "size": 111854,
             "repoCount": 1,
-            "progress": "3.30"
+            "progress": "3.33"
         },
         {
             "name": "CSS",
@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 22,
+            "title": "feat: show app version in quota popover footer",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/22",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 45,
+            "deletions": 10,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-03T07:49:09Z",
+            "mergedAt": "2026-07-03T07:49:37Z",
+            "closedAt": "2026-07-03T07:49:37Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(event): update speaker author name and github handle",
+            "url": "https://github.com/VueConfCn/vue-conf/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-03T05:31:46Z",
+            "mergedAt": "2026-07-03T05:32:02Z",
+            "closedAt": "2026-07-03T05:32:02Z",
+            "repository": {
+                "name": "vue-conf",
+                "nameWithOwner": "VueConfCn/vue-conf",
+                "homepageUrl": "https://vue-conf.dev",
+                "description": "VueConf CN Collection",
+                "owner": {
+                    "login": "VueConfCn",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225115854?v=4"
+                },
+                "url": "https://github.com/VueConfCn/vue-conf"
+            }
+        },
+        {
             "number": 21,
             "title": "feat: show CodexRadar model reasoning in menu bar",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/21",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/packrun"
             }
-        },
-        {
-            "number": 19,
-            "title": "feat: improve popover footer layout and actions",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/19",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 62,
-            "deletions": 19,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T02:52:05Z",
-            "mergedAt": "2026-06-30T02:52:25Z",
-            "closedAt": "2026-06-30T02:52:25Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 18,
-            "title": "fix: show exact reset time for 5-hour quota window",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/18",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T02:28:33Z",
-            "mergedAt": "2026-06-30T02:29:01Z",
-            "closedAt": "2026-06-30T02:29:02Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9368,
+        "total": 9380,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1802,7 +1802,7 @@
             },
             {
                 "date": "2026-07-03",
-                "count": 4
+                "count": 16
             },
             {
                 "date": "2026-07-04",

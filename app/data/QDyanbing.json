@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 941715,
+            "size": 949415,
             "repoCount": 5,
-            "progress": "80.43"
+            "progress": "80.56"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 108597,
             "repoCount": 6,
-            "progress": "9.27"
+            "progress": "9.21"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 62081,
             "repoCount": 2,
-            "progress": "5.30"
+            "progress": "5.27"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.72"
+            "progress": "4.69"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 1963,
+            "title": "fix: suppress Sender borderless focus outline",
+            "url": "https://github.com/ant-design/x/pull/1963",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-03T09:24:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "ant-design/x",
+                "homepageUrl": "https://x.ant.design",
+                "description": "Craft AI-driven interface effortlessly🤖",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/x"
+            }
+        },
         {
             "number": 368,
             "title": "Support scrollbar track click",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58550,
-            "title": "fix: correct semantic root style priority in components",
-            "url": "https://github.com/ant-design/ant-design/pull/58550",
-            "state": "MERGED",
-            "changedFiles": 34,
-            "additions": 642,
-            "deletions": 142,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-06-28T09:33:01Z",
-            "mergedAt": "2026-06-29T01:48:22Z",
-            "closedAt": "2026-06-29T01:48:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3399,
+        "total": 3416,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1036,7 +1036,7 @@
             },
             {
                 "date": "2026-07-03",
-                "count": 1
+                "count": 18
             },
             {
                 "date": "2026-07-04",

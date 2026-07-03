@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 368,
+            "title": "Support scrollbar track click",
+            "url": "https://github.com/react-component/virtual-list/pull/368",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 89,
+            "deletions": 5,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-07-03T01:06:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "virtual-list",
+                "nameWithOwner": "react-component/virtual-list",
+                "homepageUrl": "https://react-component.github.io/virtual-list",
+                "description": "📜 Virtual scrolling list component for React.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/virtual-list"
+            }
+        },
+        {
             "number": 58581,
             "title": "fix: hide Select arrow when clear icon appears",
             "url": "https://github.com/ant-design/ant-design/pull/58581",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 82,
-            "title": "refactor: migrate CSSMotionList to FC",
-            "url": "https://github.com/react-component/motion/pull/82",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 256,
-            "deletions": 111,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-06-28T05:34:45Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "motion",
-                "nameWithOwner": "react-component/motion",
-                "homepageUrl": "https://react-component.github.io/motion",
-                "description": "🎞️ Lifecycle-driven motion primitives for React enter, leave, and list animations.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/motion"
-            }
         }
     ],
     "contributions": {
-        "total": 3398,
+        "total": 3399,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1036,7 +1036,7 @@
             },
             {
                 "date": "2026-07-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-04",

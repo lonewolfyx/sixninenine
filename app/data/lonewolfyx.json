@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "feat(config): add session management and message history support",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/3",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 29,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T08:00:46Z",
+            "mergedAt": "2026-07-04T08:01:03Z",
+            "closedAt": "2026-07-04T08:01:03Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
+            "number": 2,
+            "title": "fix(config): update readline import to use core module directly",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T07:27:58Z",
+            "mergedAt": "2026-07-04T07:28:18Z",
+            "closedAt": "2026-07-04T07:28:18Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
             "number": 22,
             "title": "feat: show app version in quota popover footer",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/22",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 17,
-            "title": "chore(workflows): update GitHub Actions dependencies",
-            "url": "https://github.com/lonewolfyx/setup/pull/17",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T07:26:20Z",
-            "mergedAt": "2026-06-30T07:27:04Z",
-            "closedAt": "2026-06-30T07:27:04Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat(app): implement real-time npm package stream display",
-            "url": "https://github.com/lonewolfyx/packrun/pull/1",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 689,
-            "deletions": 112,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-30T06:34:37Z",
-            "mergedAt": "2026-06-30T06:36:52Z",
-            "closedAt": "2026-06-30T06:36:52Z",
-            "repository": {
-                "name": "packrun",
-                "nameWithOwner": "lonewolfyx/packrun",
-                "homepageUrl": "https://packrun.vercel.app",
-                "description": "A real-time stream and tracker for newly published packages",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/packrun"
-            }
         }
     ],
     "contributions": {
-        "total": 9401,
+        "total": 9409,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1806,7 +1806,7 @@
             },
             {
                 "date": "2026-07-04",
-                "count": 3
+                "count": 11
             },
             {
                 "date": "2026-07-05",

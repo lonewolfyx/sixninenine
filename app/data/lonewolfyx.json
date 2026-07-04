@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1756449,
+            "size": 1756772,
             "repoCount": 29,
             "progress": "52.33"
         },
@@ -825,6 +825,102 @@
     },
     "pullRequest": [
         {
+            "number": 14,
+            "title": "feat(cli): add --all flag to delete all branches without selection",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/14",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 15,
+            "deletions": 10,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T13:44:22Z",
+            "mergedAt": "2026-07-04T13:45:17Z",
+            "closedAt": "2026-07-04T13:45:17Z",
+            "repository": {
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
+                "homepageUrl": null,
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-branch"
+            }
+        },
+        {
+            "number": 13,
+            "title": "feat(cli): add all branches deletion option",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/13",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T13:39:51Z",
+            "mergedAt": "2026-07-04T13:40:19Z",
+            "closedAt": "2026-07-04T13:40:19Z",
+            "repository": {
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
+                "homepageUrl": null,
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-branch"
+            }
+        },
+        {
+            "number": 5,
+            "title": "fix(config): move rootDir constant to separate module",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/5",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 5,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T13:31:35Z",
+            "mergedAt": "2026-07-04T13:37:03Z",
+            "closedAt": "2026-07-04T13:37:03Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
+            "number": 4,
+            "title": "chore(gitignore): update gitignore rules",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/4",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-04T13:30:10Z",
+            "mergedAt": "2026-07-04T13:30:30Z",
+            "closedAt": "2026-07-04T13:30:30Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
             "number": 3,
             "title": "feat(config): add session management and message history support",
             "url": "https://github.com/lonewolfyx/learning-code-agent/pull/3",
@@ -967,106 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/skills"
             }
-        },
-        {
-            "number": 27,
-            "title": "feat(constants): add Swift project files to gitignore pattern",
-            "url": "https://github.com/lonewolfyx/rmcache/pull/27",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-01T13:38:08Z",
-            "mergedAt": "2026-07-01T13:38:46Z",
-            "closedAt": "2026-07-01T13:38:46Z",
-            "repository": {
-                "name": "rmcache",
-                "nameWithOwner": "lonewolfyx/rmcache",
-                "homepageUrl": "",
-                "description": "💨 Remove frontend junk files.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/rmcache"
-            }
-        },
-        {
-            "number": 20,
-            "title": "fix: Polish quota popover footer layout",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/20",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 72,
-            "deletions": 27,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T09:18:12Z",
-            "mergedAt": "2026-06-30T09:18:57Z",
-            "closedAt": "2026-06-30T09:18:57Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 1,
-            "title": "fix(config): update config loading with proper typing and dotenv handling",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/1",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 21,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T08:10:56Z",
-            "mergedAt": "2026-06-30T08:11:22Z",
-            "closedAt": "2026-06-30T08:11:22Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 18,
-            "title": "chore(workflow): update GitHub Actions workflow dependencies",
-            "url": "https://github.com/lonewolfyx/setup/pull/18",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 8,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-30T07:31:59Z",
-            "mergedAt": "2026-06-30T07:32:29Z",
-            "closedAt": "2026-06-30T07:32:29Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 9409,
+        "total": 9426,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1806,7 +1806,7 @@
             },
             {
                 "date": "2026-07-04",
-                "count": 11
+                "count": 28
             },
             {
                 "date": "2026-07-05",

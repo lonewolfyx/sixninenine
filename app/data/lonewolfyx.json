@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 14,
+            "title": "fix(core): move agent text printing to separate function",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/14",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-05T09:30:40Z",
+            "mergedAt": "2026-07-05T09:30:49Z",
+            "closedAt": "2026-07-05T09:30:49Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
             "number": 13,
             "title": "feat(core): add tool permission validation and security controls",
             "url": "https://github.com/lonewolfyx/learning-code-agent/pull/13",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/clear-branch"
             }
-        },
-        {
-            "number": 13,
-            "title": "feat(cli): add all branches deletion option",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/13",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T13:39:51Z",
-            "mergedAt": "2026-07-04T13:40:19Z",
-            "closedAt": "2026-07-04T13:40:19Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 9465,
+        "total": 9473,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1810,7 +1810,7 @@
             },
             {
                 "date": "2026-07-05",
-                "count": 22
+                "count": 30
             },
             {
                 "date": "2026-07-06",

@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 13,
+            "title": "feat(core): add tool permission validation and security controls",
+            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/13",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 115,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-05T08:38:01Z",
+            "mergedAt": "2026-07-05T08:38:12Z",
+            "closedAt": "2026-07-05T08:38:12Z",
+            "repository": {
+                "name": "learning-code-agent",
+                "nameWithOwner": "lonewolfyx/learning-code-agent",
+                "homepageUrl": null,
+                "description": "learning....",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/learning-code-agent"
+            }
+        },
+        {
             "number": 12,
             "title": "feat(tools): add writeFile tool and s02 session support",
             "url": "https://github.com/lonewolfyx/learning-code-agent/pull/12",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/clear-branch"
             }
-        },
-        {
-            "number": 5,
-            "title": "fix(config): move rootDir constant to separate module",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/5",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T13:31:35Z",
-            "mergedAt": "2026-07-04T13:37:03Z",
-            "closedAt": "2026-07-04T13:37:03Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 9459,
+        "total": 9465,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1810,7 +1810,7 @@
             },
             {
                 "date": "2026-07-05",
-                "count": 16
+                "count": 22
             },
             {
                 "date": "2026-07-06",

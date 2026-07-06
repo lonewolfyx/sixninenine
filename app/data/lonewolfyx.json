@@ -825,6 +825,126 @@
     },
     "pullRequest": [
         {
+            "number": 5,
+            "title": "docs(readme): add installation and usage instructions",
+            "url": "https://github.com/lonewolfyx/build/pull/5",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-06T07:05:00Z",
+            "mergedAt": "2026-07-06T07:05:58Z",
+            "closedAt": "2026-07-06T07:05:58Z",
+            "repository": {
+                "name": "build",
+                "nameWithOwner": "lonewolfyx/build",
+                "homepageUrl": null,
+                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/build"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat(cli): implement build workflow with archive output",
+            "url": "https://github.com/lonewolfyx/build/pull/4",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 208,
+            "deletions": 103,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-06T06:59:06Z",
+            "mergedAt": "2026-07-06T07:00:10Z",
+            "closedAt": "2026-07-06T07:00:10Z",
+            "repository": {
+                "name": "build",
+                "nameWithOwner": "lonewolfyx/build",
+                "homepageUrl": null,
+                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/build"
+            }
+        },
+        {
+            "number": 3,
+            "title": "fix(workflow): update comment action reference",
+            "url": "https://github.com/lonewolfyx/build/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-06T06:01:48Z",
+            "mergedAt": "2026-07-06T06:02:35Z",
+            "closedAt": "2026-07-06T06:02:35Z",
+            "repository": {
+                "name": "build",
+                "nameWithOwner": "lonewolfyx/build",
+                "homepageUrl": null,
+                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/build"
+            }
+        },
+        {
+            "number": 2,
+            "title": "chore(typescript): add node types to tsconfig",
+            "url": "https://github.com/lonewolfyx/build/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-06T05:42:06Z",
+            "mergedAt": "2026-07-06T05:42:32Z",
+            "closedAt": "2026-07-06T05:42:32Z",
+            "repository": {
+                "name": "build",
+                "nameWithOwner": "lonewolfyx/build",
+                "homepageUrl": null,
+                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/build"
+            }
+        },
+        {
+            "number": 1,
+            "title": "chore(deps): update dependencies including typescript and eslint config",
+            "url": "https://github.com/lonewolfyx/build/pull/1",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 221,
+            "deletions": 216,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-06T05:26:50Z",
+            "mergedAt": "2026-07-06T05:27:20Z",
+            "closedAt": "2026-07-06T05:27:20Z",
+            "repository": {
+                "name": "build",
+                "nameWithOwner": "lonewolfyx/build",
+                "homepageUrl": null,
+                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/build"
+            }
+        },
+        {
             "number": 14,
             "title": "fix(core): move agent text printing to separate function",
             "url": "https://github.com/lonewolfyx/learning-code-agent/pull/14",
@@ -943,130 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/learning-code-agent"
             }
-        },
-        {
-            "number": 9,
-            "title": "feat(core): implement s01 agent loop with tool handling and logging",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/9",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 172,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:27:58Z",
-            "mergedAt": "2026-07-04T16:28:06Z",
-            "closedAt": "2026-07-04T16:28:06Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 8,
-            "title": "feat(tools): add bash handler and create tools handler mapping",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:23:41Z",
-            "mergedAt": "2026-07-04T16:23:48Z",
-            "closedAt": "2026-07-04T16:23:48Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 7,
-            "title": "feat(tools): add bash command execution tool with enhanced error handling",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 31,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:22:13Z",
-            "mergedAt": "2026-07-04T16:22:22Z",
-            "closedAt": "2026-07-04T16:22:22Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 6,
-            "title": "feat(core): add LLM client implementation with Anthropic integration",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/6",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 63,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T15:28:53Z",
-            "mergedAt": "2026-07-04T15:29:46Z",
-            "closedAt": "2026-07-04T15:29:46Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 14,
-            "title": "feat(cli): add --all flag to delete all branches without selection",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/14",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 10,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T13:44:22Z",
-            "mergedAt": "2026-07-04T13:45:17Z",
-            "closedAt": "2026-07-04T13:45:17Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
         }
     ],
     "contributions": {
-        "total": 9492,
+        "total": 9509,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1814,7 +1814,7 @@
             },
             {
                 "date": "2026-07-06",
-                "count": 5
+                "count": 22
             },
             {
                 "date": "2026-07-07",

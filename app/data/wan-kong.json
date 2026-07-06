@@ -87,6 +87,30 @@
     },
     "pullRequest": [
         {
+            "number": 2059,
+            "title": "fix(docs): add missing pnpm-workspace.yaml to Dockerfile",
+            "url": "https://github.com/voidzero-dev/vite-plus/pull/2059",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-06T01:57:08Z",
+            "mergedAt": "2026-07-06T03:18:21Z",
+            "closedAt": "2026-07-06T03:18:21Z",
+            "repository": {
+                "name": "vite-plus",
+                "nameWithOwner": "voidzero-dev/vite-plus",
+                "homepageUrl": "https://viteplus.dev",
+                "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+                "owner": {
+                    "login": "voidzero-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/149750581?v=4"
+                },
+                "url": "https://github.com/voidzero-dev/vite-plus"
+            }
+        },
+        {
             "number": 4,
             "title": "feat: add CSS scroll-driven fade-shimmer blog post with interactive demo",
             "url": "https://github.com/wan-kong/wankong.top/pull/4",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/full-stack-starter"
             }
-        },
-        {
-            "number": 1,
-            "title": "refactor: 重构服务器架构，采用插件化设计",
-            "url": "https://github.com/wan-kong/full-stack-starter/pull/1",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 261,
-            "deletions": 74,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-10T09:48:09Z",
-            "mergedAt": "2026-04-10T09:49:00Z",
-            "closedAt": "2026-04-10T09:49:00Z",
-            "repository": {
-                "name": "full-stack-starter",
-                "nameWithOwner": "wan-kong/full-stack-starter",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/full-stack-starter"
-            }
         }
     ],
     "contributions": {
-        "total": 283,
+        "total": 286,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1076,7 +1076,7 @@
             },
             {
                 "date": "2026-07-06",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-07",

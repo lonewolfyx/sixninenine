@@ -596,6 +596,78 @@
     },
     "pullRequest": [
         {
+            "number": 19550,
+            "title": "Improve Less `:extend()` formatting",
+            "url": "https://github.com/prettier/prettier/pull/19550",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-06T20:12:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 16791,
+            "title": "fix(miniapp): clear sidebar favorite on delete",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/16791",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 29,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-06T19:36:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 16788,
+            "title": "fix(mini-app): clean up orphaned tab pool state",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/16788",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 142,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-06T17:27:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 3086,
             "title": "fix(rule-tester): reject empty files cases",
             "url": "https://github.com/flint-fyi/flint/pull/3086",
@@ -672,9 +744,9 @@
             "title": "Preserve wiki links with aliases in md",
             "url": "https://github.com/prettier/prettier/pull/19527",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 95,
-            "deletions": 5,
+            "changedFiles": 8,
+            "additions": 108,
+            "deletions": 17,
             "totalCommentsCount": 4,
             "createdAt": "2026-07-02T09:05:43Z",
             "mergedAt": null,
@@ -762,82 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 19517,
-            "title": "Remove spaces between `+` and `:` in less merge feature",
-            "url": "https://github.com/prettier/prettier/pull/19517",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 158,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-01T09:00:55Z",
-            "mergedAt": "2026-07-06T14:24:33Z",
-            "closedAt": "2026-07-06T14:24:33Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 19508,
-            "title": "Fix extend-chaining bug in `less-test-suite`",
-            "url": "https://github.com/prettier/prettier/pull/19508",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 260,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-06-30T09:34:45Z",
-            "mergedAt": "2026-07-06T13:27:25Z",
-            "closedAt": "2026-07-06T13:27:25Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 19503,
-            "title": "Keep LESS lookups tight",
-            "url": "https://github.com/prettier/prettier/pull/19503",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 44,
-            "deletions": 23,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-06-30T01:20:51Z",
-            "mergedAt": "2026-06-30T08:21:04Z",
-            "closedAt": "2026-06-30T08:21:04Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 464,
+        "total": 467,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1589,7 +1589,7 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-08",

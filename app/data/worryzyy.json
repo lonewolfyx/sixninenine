@@ -101,6 +101,30 @@
     },
     "pullRequest": [
         {
+            "number": 5998,
+            "title": "fix: localize auth legal terms",
+            "url": "https://github.com/QuantumNous/new-api/pull/5998",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 160,
+            "deletions": 78,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-07-07T14:06:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "QuantumNous/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+                "owner": {
+                    "login": "QuantumNous",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
+                },
+                "url": "https://github.com/QuantumNous/new-api"
+            }
+        },
+        {
             "number": 4360,
             "title": "fix(user): block registration when inviter is banned",
             "url": "https://github.com/QuantumNous/new-api/pull/4360",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/worryzyy/element-ui-x"
             }
-        },
-        {
-            "number": 1,
-            "title": "fix: Disable debug logging and clean up button insertion logic in fas…",
-            "url": "https://github.com/worryzyy/fast2deepwiki/pull/1",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 71,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-04-28T13:06:46Z",
-            "mergedAt": "2025-04-28T13:07:01Z",
-            "closedAt": "2025-04-28T13:07:01Z",
-            "repository": {
-                "name": "fast2deepwiki",
-                "nameWithOwner": "worryzyy/fast2deepwiki",
-                "homepageUrl": "",
-                "description": "一个快速在github仓库页面跳转到DeepWiki的脚本；A script to quickly jump to DeepWiki from the GitHub repository page",
-                "owner": {
-                    "login": "worryzyy",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/70956075?u=10bef735dbb963e028aacdd7e90b527d3546b418&v=4"
-                },
-                "url": "https://github.com/worryzyy/fast2deepwiki"
-            }
         }
     ],
     "contributions": {
-        "total": 386,
+        "total": 387,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1094,7 +1094,7 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-08",

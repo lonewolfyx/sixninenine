@@ -15,14 +15,14 @@
             "color": "#e34c26",
             "size": 4348492,
             "repoCount": 11,
-            "progress": "73.71"
+            "progress": "73.68"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 434041,
             "repoCount": 9,
-            "progress": "7.36"
+            "progress": "7.35"
         },
         {
             "name": "Vue",
@@ -34,16 +34,16 @@
         {
             "name": "Rust",
             "color": "#dea584",
-            "size": 337286,
+            "size": 339925,
             "repoCount": 2,
-            "progress": "5.72"
+            "progress": "5.76"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 178499,
             "repoCount": 7,
-            "progress": "3.03"
+            "progress": "3.02"
         },
         {
             "name": "Markdown",
@@ -100,6 +100,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 17,
+            "title": "feat(snippet): add {{n}} placeholder support for parameterized snippets",
+            "url": "https://github.com/ffgenius/relay/pull/17",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 110,
+            "deletions": 12,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-07T07:53:40Z",
+            "mergedAt": "2026-07-07T07:54:55Z",
+            "closedAt": "2026-07-07T07:54:55Z",
+            "repository": {
+                "name": "relay",
+                "nameWithOwner": "ffgenius/relay",
+                "homepageUrl": null,
+                "description": "Secure Cross-Platform Command Router",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=822c3df8ff8c99f42419b49784c599c4af3cf631&v=4"
+                },
+                "url": "https://github.com/ffgenius/relay"
+            }
+        },
         {
             "number": 636,
             "title": "site: sync theme styles from ant-design",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58229,
-            "title": "docs(calendar): use theme hover token in lunar demo",
-            "url": "https://github.com/ant-design/ant-design/pull/58229",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-06-05T02:48:56Z",
-            "mergedAt": "2026-06-05T03:02:56Z",
-            "closedAt": "2026-06-05T03:02:56Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 336,
+        "total": 340,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1094,7 +1094,7 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-08",

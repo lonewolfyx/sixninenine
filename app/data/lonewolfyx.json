@@ -15,21 +15,21 @@
             "color": "#3178c6",
             "size": 1756772,
             "repoCount": 29,
-            "progress": "52.33"
+            "progress": "52.22"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1354870,
             "repoCount": 14,
-            "progress": "40.36"
+            "progress": "40.28"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 111854,
+            "size": 113400,
             "repoCount": 1,
-            "progress": "3.33"
+            "progress": "3.37"
         },
         {
             "name": "CSS",
@@ -48,9 +48,9 @@
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 18337,
+            "size": 23661,
             "repoCount": 1,
-            "progress": "0.55"
+            "progress": "0.70"
         },
         {
             "name": "HTML",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 15,
+            "title": "fix(workflow): update comment action to backup version",
+            "url": "https://github.com/lonewolfyx/clear-branch/pull/15",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-07T09:07:35Z",
+            "mergedAt": "2026-07-07T09:09:16Z",
+            "closedAt": "2026-07-07T09:09:16Z",
+            "repository": {
+                "name": "clear-branch",
+                "nameWithOwner": "lonewolfyx/clear-branch",
+                "homepageUrl": null,
+                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/clear-branch"
+            }
+        },
+        {
+            "number": 10,
+            "title": "chore(workflow): update maintain-one-comment action to backup version",
+            "url": "https://github.com/lonewolfyx-template/citty-cli-template/pull/10",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-07T09:05:48Z",
+            "mergedAt": "2026-07-07T09:06:26Z",
+            "closedAt": "2026-07-07T09:06:26Z",
+            "repository": {
+                "name": "citty-cli-template",
+                "nameWithOwner": "lonewolfyx-template/citty-cli-template",
+                "homepageUrl": null,
+                "description": "cli template use for citty tool",
+                "owner": {
+                    "login": "lonewolfyx-template",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-template/citty-cli-template"
+            }
+        },
+        {
+            "number": 23,
+            "title": "feat: add Sparkle automatic update support",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/23",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 233,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-07T08:58:17Z",
+            "mergedAt": "2026-07-07T08:58:28Z",
+            "closedAt": "2026-07-07T08:58:28Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 5,
             "title": "docs(readme): add installation and usage instructions",
             "url": "https://github.com/lonewolfyx/build/pull/5",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/learning-code-agent"
             }
-        },
-        {
-            "number": 12,
-            "title": "feat(tools): add writeFile tool and s02 session support",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/12",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 73,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:53:29Z",
-            "mergedAt": "2026-07-04T16:53:42Z",
-            "closedAt": "2026-07-04T16:53:42Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 11,
-            "title": "fix(build): update s01 scripts path for session file",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/11",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:31:54Z",
-            "mergedAt": "2026-07-04T16:32:01Z",
-            "closedAt": "2026-07-04T16:32:01Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 10,
-            "title": "chore(core): rename s01 module path from agents to sessions",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-04T16:30:30Z",
-            "mergedAt": "2026-07-04T16:30:37Z",
-            "closedAt": "2026-07-04T16:30:37Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 9526,
+        "total": 9542,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1818,7 +1818,7 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 5
+                "count": 21
             },
             {
                 "date": "2026-07-08",

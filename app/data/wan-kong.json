@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1407520,
-            "repoCount": 24,
-            "progress": "69.86"
+            "size": 1421506,
+            "repoCount": 25,
+            "progress": "70.07"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 355150,
             "repoCount": 10,
-            "progress": "17.63"
+            "progress": "17.51"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95069,
             "repoCount": 20,
-            "progress": "4.72"
+            "progress": "4.69"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
             "size": 50437,
             "repoCount": 2,
-            "progress": "2.50"
+            "progress": "2.49"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 33508,
             "repoCount": 19,
-            "progress": "1.66"
+            "progress": "1.65"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "1.48"
+            "progress": "1.47"
         },
         {
             "name": "HTML",
@@ -64,7 +64,7 @@
             "color": "#89e051",
             "size": 20064,
             "repoCount": 3,
-            "progress": "1.00"
+            "progress": "0.99"
         },
         {
             "name": "Dockerfile",
@@ -79,6 +79,102 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 4,
+            "title": "docs: 添加免责声明和使用说明",
+            "url": "https://github.com/wan-kong/guwendao-unlock/pull/4",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-08T01:56:13Z",
+            "mergedAt": "2026-07-08T01:56:19Z",
+            "closedAt": "2026-07-08T01:56:19Z",
+            "repository": {
+                "name": "guwendao-unlock",
+                "nameWithOwner": "wan-kong/guwendao-unlock",
+                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
+                "description": "古文岛助手",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/guwendao-unlock"
+            }
+        },
+        {
+            "number": 3,
+            "title": "docs: 更新 README 链接和添加 Greasy Fork 徽章",
+            "url": "https://github.com/wan-kong/guwendao-unlock/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-08T01:43:50Z",
+            "mergedAt": "2026-07-08T01:43:56Z",
+            "closedAt": "2026-07-08T01:43:56Z",
+            "repository": {
+                "name": "guwendao-unlock",
+                "nameWithOwner": "wan-kong/guwendao-unlock",
+                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
+                "description": "古文岛助手",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/guwendao-unlock"
+            }
+        },
+        {
+            "number": 2,
+            "title": "feat: 从 package.json 同步版本号到 userscript，添加 MIT 许可",
+            "url": "https://github.com/wan-kong/guwendao-unlock/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-08T01:25:32Z",
+            "mergedAt": "2026-07-08T01:25:39Z",
+            "closedAt": "2026-07-08T01:25:39Z",
+            "repository": {
+                "name": "guwendao-unlock",
+                "nameWithOwner": "wan-kong/guwendao-unlock",
+                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
+                "description": "古文岛助手",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/guwendao-unlock"
+            }
+        },
+        {
+            "number": 1,
+            "title": "refactor: 移除 GM_* 权限依赖，简化为原生 DOM API",
+            "url": "https://github.com/wan-kong/guwendao-unlock/pull/1",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 35,
+            "deletions": 326,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-07-08T01:13:16Z",
+            "mergedAt": "2026-07-08T01:16:45Z",
+            "closedAt": "2026-07-08T01:16:45Z",
+            "repository": {
+                "name": "guwendao-unlock",
+                "nameWithOwner": "wan-kong/guwendao-unlock",
+                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
+                "description": "古文岛助手",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/guwendao-unlock"
+            }
+        },
         {
             "number": 2059,
             "title": "fix(docs): add missing pnpm-workspace.yaml to Dockerfile",
@@ -222,106 +318,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat: 添加设计风格文档和环境变量文章",
-            "url": "https://github.com/wan-kong/wankong.top/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 370,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-12T01:41:07Z",
-            "mergedAt": "2026-05-12T01:41:16Z",
-            "closedAt": "2026-05-12T01:41:16Z",
-            "repository": {
-                "name": "wankong.top",
-                "nameWithOwner": "wan-kong/wankong.top",
-                "homepageUrl": "https://wankong.top/",
-                "description": "my profile website",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/wankong.top"
-            }
-        },
-        {
-            "number": 1,
-            "title": "feat: 新增豆包去水印产品",
-            "url": "https://github.com/wan-kong/wankong.top/pull/1",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 778,
-            "deletions": 24,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-12T01:37:28Z",
-            "mergedAt": "2026-05-12T01:37:41Z",
-            "closedAt": "2026-05-12T01:37:41Z",
-            "repository": {
-                "name": "wankong.top",
-                "nameWithOwner": "wan-kong/wankong.top",
-                "homepageUrl": "https://wankong.top/",
-                "description": "my profile website",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/wankong.top"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(db): use drizzle as db orm",
-            "url": "https://github.com/wan-kong/full-stack-starter/pull/3",
-            "state": "MERGED",
-            "changedFiles": 136,
-            "additions": 15226,
-            "deletions": 18973,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-05-07T06:49:03Z",
-            "mergedAt": "2026-05-07T08:07:26Z",
-            "closedAt": "2026-05-07T08:07:26Z",
-            "repository": {
-                "name": "full-stack-starter",
-                "nameWithOwner": "wan-kong/full-stack-starter",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/full-stack-starter"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat: add documentation pages and UI component enhancements",
-            "url": "https://github.com/wan-kong/full-stack-starter/pull/2",
-            "state": "MERGED",
-            "changedFiles": 38,
-            "additions": 1899,
-            "deletions": 303,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-04-23T01:12:44Z",
-            "mergedAt": "2026-04-23T01:12:55Z",
-            "closedAt": "2026-04-23T01:12:55Z",
-            "repository": {
-                "name": "full-stack-starter",
-                "nameWithOwner": "wan-kong/full-stack-starter",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/full-stack-starter"
-            }
         }
     ],
     "contributions": {
-        "total": 287,
+        "total": 299,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1073,11 +1073,11 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-07-08",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-07-09",

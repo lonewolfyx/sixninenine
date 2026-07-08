@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1756772,
+            "size": 1770484,
             "repoCount": 29,
-            "progress": "52.22"
+            "progress": "52.27"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1354870,
+            "size": 1364667,
             "repoCount": 14,
-            "progress": "40.28"
+            "progress": "40.29"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 113400,
             "repoCount": 1,
-            "progress": "3.37"
+            "progress": "3.35"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.47"
+            "progress": "2.45"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 31270,
             "repoCount": 28,
-            "progress": "0.93"
+            "progress": "0.92"
         },
         {
             "name": "Shell",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "feat(thinking): enhance session processing with detailed thinking flow",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/27",
+            "state": "MERGED",
+            "changedFiles": 42,
+            "additions": 1175,
+            "deletions": 420,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-08T03:16:18Z",
+            "mergedAt": "2026-07-08T03:17:39Z",
+            "closedAt": "2026-07-08T03:17:39Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": "",
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 26,
+            "title": "fix(workflow): update comment action to backup version",
+            "url": "https://github.com/lonewolfyx/agent-track/pull/26",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-08T03:09:13Z",
+            "mergedAt": "2026-07-08T03:09:28Z",
+            "closedAt": "2026-07-08T03:09:28Z",
+            "repository": {
+                "name": "agent-track",
+                "nameWithOwner": "lonewolfyx/agent-track",
+                "homepageUrl": "",
+                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/agent-track"
+            }
+        },
+        {
+            "number": 7,
+            "title": "chore(workflow): update maintain-one-comment action to backup version",
+            "url": "https://github.com/lonewolfyx-template/nuxt-template/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-08T03:02:56Z",
+            "mergedAt": "2026-07-08T03:05:26Z",
+            "closedAt": "2026-07-08T03:05:27Z",
+            "repository": {
+                "name": "nuxt-template",
+                "nameWithOwner": "lonewolfyx-template/nuxt-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx-template",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-template/nuxt-template"
+            }
+        },
+        {
             "number": 15,
             "title": "fix(workflow): update comment action to backup version",
             "url": "https://github.com/lonewolfyx/clear-branch/pull/15",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/build"
             }
-        },
-        {
-            "number": 1,
-            "title": "chore(deps): update dependencies including typescript and eslint config",
-            "url": "https://github.com/lonewolfyx/build/pull/1",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 221,
-            "deletions": 216,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-06T05:26:50Z",
-            "mergedAt": "2026-07-06T05:27:20Z",
-            "closedAt": "2026-07-06T05:27:20Z",
-            "repository": {
-                "name": "build",
-                "nameWithOwner": "lonewolfyx/build",
-                "homepageUrl": null,
-                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/build"
-            }
-        },
-        {
-            "number": 14,
-            "title": "fix(core): move agent text printing to separate function",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/14",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 7,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-05T09:30:40Z",
-            "mergedAt": "2026-07-05T09:30:49Z",
-            "closedAt": "2026-07-05T09:30:49Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
-        },
-        {
-            "number": 13,
-            "title": "feat(core): add tool permission validation and security controls",
-            "url": "https://github.com/lonewolfyx/learning-code-agent/pull/13",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 115,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-05T08:38:01Z",
-            "mergedAt": "2026-07-05T08:38:12Z",
-            "closedAt": "2026-07-05T08:38:12Z",
-            "repository": {
-                "name": "learning-code-agent",
-                "nameWithOwner": "lonewolfyx/learning-code-agent",
-                "homepageUrl": null,
-                "description": "learning....",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/learning-code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 9554,
+        "total": 9570,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1818,11 +1818,11 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 33
+                "count": 37
             },
             {
                 "date": "2026-07-08",
-                "count": 0
+                "count": 12
             },
             {
                 "date": "2026-07-09",

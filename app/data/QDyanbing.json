@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 1966,
+            "title": "Recommend Antdv Next X for Vue Users",
+            "url": "https://github.com/ant-design/x/pull/1966",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-08T03:52:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "ant-design/x",
+                "homepageUrl": "https://x.ant.design",
+                "description": "Craft AI-driven interface effortlessly🤖",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/x"
+            }
+        },
+        {
+            "number": 58615,
+            "title": "fix(Input): prevent Search button focus outline from being covered",
+            "url": "https://github.com/ant-design/ant-design/pull/58615",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-07-08T01:40:08Z",
+            "mergedAt": "2026-07-08T02:34:13Z",
+            "closedAt": "2026-07-08T02:34:13Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58608,
             "title": "demo: fix Menu semantic demo popup behavior",
             "url": "https://github.com/ant-design/ant-design/pull/58608",
@@ -110,14 +158,14 @@
             "number": 1963,
             "title": "fix: suppress Sender borderless focus outline",
             "url": "https://github.com/ant-design/x/pull/1963",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 11,
             "deletions": 0,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 5,
             "createdAt": "2026-07-03T09:24:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-08T01:38:22Z",
+            "closedAt": "2026-07-08T01:38:22Z",
             "repository": {
                 "name": "x",
                 "nameWithOwner": "ant-design/x",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1237,
-            "title": "Fix placeholder visibility inheritance",
-            "url": "https://github.com/react-component/select/pull/1237",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 15,
-            "deletions": 4,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-06-30T03:40:26Z",
-            "mergedAt": "2026-06-30T07:39:08Z",
-            "closedAt": "2026-06-30T07:39:08Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://react-component.github.io/select",
-                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
-        },
-        {
-            "number": 58566,
-            "title": "demo: add Layout collapsible overlay example",
-            "url": "https://github.com/ant-design/ant-design/pull/58566",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 590,
-            "deletions": 0,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-06-30T02:53:18Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3482,
+        "total": 3486,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1056,7 +1056,7 @@
             },
             {
                 "date": "2026-07-08",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-09",

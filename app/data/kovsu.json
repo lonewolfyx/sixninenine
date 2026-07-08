@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 16830,
+            "title": "fix(notes): sync source editor code theme",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/16830",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-08T07:39:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19550,
             "title": "Improve Less `:extend()` formatting",
             "url": "https://github.com/prettier/prettier/pull/19550",
@@ -741,16 +765,16 @@
         },
         {
             "number": 19527,
-            "title": "Preserve wiki links with aliases in md",
+            "title": "Preserve wiki links with aliases in markdown",
             "url": "https://github.com/prettier/prettier/pull/19527",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 232,
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 106,
             "deletions": 70,
             "totalCommentsCount": 10,
             "createdAt": "2026-07-02T09:05:43Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-08T08:26:15Z",
+            "closedAt": "2026-07-08T08:26:15Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 3073,
-            "title": "ci: disable pr-quality-closures workflow in forks",
-            "url": "https://github.com/flint-fyi/flint/pull/3073",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-02T00:45:15Z",
-            "mergedAt": "2026-07-02T00:53:12Z",
-            "closedAt": "2026-07-02T00:53:12Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 471,
+        "total": 473,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1593,7 +1593,7 @@
             },
             {
                 "date": "2026-07-08",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-07-09",

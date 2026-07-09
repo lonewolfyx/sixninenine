@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 11,
+        "followers": 12,
         "following": 9
     },
     "languages": [
@@ -58,6 +58,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 371,
+            "title": "fix: restore classic JSX runtime",
+            "url": "https://github.com/react-component/virtual-list/pull/371",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-09T07:32:51Z",
+            "mergedAt": "2026-07-09T07:39:29Z",
+            "closedAt": "2026-07-09T07:39:29Z",
+            "repository": {
+                "name": "virtual-list",
+                "nameWithOwner": "react-component/virtual-list",
+                "homepageUrl": "https://react-component.github.io/virtual-list",
+                "description": "📜 Virtual scrolling list component for React.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/virtual-list"
+            }
+        },
+        {
+            "number": 58625,
+            "title": "feat: support virtual scrollbar track click",
+            "url": "https://github.com/ant-design/ant-design/pull/58625",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-09T05:50:16Z",
+            "mergedAt": "2026-07-09T09:21:03Z",
+            "closedAt": "2026-07-09T09:21:03Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 1966,
             "title": "Recommend Antdv Next X for Vue Users",
@@ -138,7 +186,7 @@
             "changedFiles": 1,
             "additions": 3,
             "deletions": 7,
-            "totalCommentsCount": 12,
+            "totalCommentsCount": 16,
             "createdAt": "2026-07-06T03:32:49Z",
             "mergedAt": null,
             "closedAt": null,
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 989,
-            "title": "Add range info to disabledDate",
-            "url": "https://github.com/react-component/picker/pull/989",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 169,
-            "deletions": 58,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-07-01T01:00:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://react-component.github.io/picker",
-                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
-        },
-        {
-            "number": 58572,
-            "title": "fix: update rc-select for placeholder visibility",
-            "url": "https://github.com/ant-design/ant-design/pull/58572",
-            "state": "MERGED",
-            "changedFiles": 39,
-            "additions": 229,
-            "deletions": 579,
-            "totalCommentsCount": 16,
-            "createdAt": "2026-06-30T08:51:10Z",
-            "mergedAt": "2026-07-01T01:55:30Z",
-            "closedAt": "2026-07-01T01:55:30Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3507,
+        "total": 3510,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1060,7 +1060,7 @@
             },
             {
                 "date": "2026-07-09",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-07-10",

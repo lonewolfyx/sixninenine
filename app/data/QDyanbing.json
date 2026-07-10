@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58658,
+            "title": "fix: improve virtual scrollbar track hover feedback",
+            "url": "https://github.com/ant-design/ant-design/pull/58658",
+            "state": "OPEN",
+            "changedFiles": 23,
+            "additions": 669,
+            "deletions": 654,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-10T11:31:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 1241,
             "title": "fix: set option list virtual prefix",
             "url": "https://github.com/react-component/select/pull/1241",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/x"
             }
-        },
-        {
-            "number": 368,
-            "title": "Support scrollbar track click",
-            "url": "https://github.com/react-component/virtual-list/pull/368",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 128,
-            "deletions": 5,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-07-03T01:06:48Z",
-            "mergedAt": "2026-07-09T04:04:07Z",
-            "closedAt": "2026-07-09T04:04:07Z",
-            "repository": {
-                "name": "virtual-list",
-                "nameWithOwner": "react-component/virtual-list",
-                "homepageUrl": "https://react-component.github.io/virtual-list",
-                "description": "📜 Virtual scrolling list component for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/virtual-list"
-            }
         }
     ],
     "contributions": {
-        "total": 3544,
+        "total": 3545,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1064,7 +1064,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 19
+                "count": 20
             },
             {
                 "date": "2026-07-11",

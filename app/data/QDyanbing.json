@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 995926,
+            "size": 1005755,
             "repoCount": 5,
-            "progress": "80.69"
+            "progress": "80.84"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 117817,
             "repoCount": 7,
-            "progress": "9.55"
+            "progress": "9.47"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 62081,
             "repoCount": 2,
-            "progress": "5.03"
+            "progress": "4.99"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.48"
+            "progress": "4.44"
         },
         {
             "name": "Less",
@@ -59,12 +59,36 @@
     },
     "pullRequest": [
         {
+            "number": 1241,
+            "title": "fix: set option list virtual prefix",
+            "url": "https://github.com/react-component/select/pull/1241",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 41,
+            "deletions": 36,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-10T08:39:25Z",
+            "mergedAt": "2026-07-10T09:02:17Z",
+            "closedAt": "2026-07-10T09:02:17Z",
+            "repository": {
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://react-component.github.io/select",
+                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/select"
+            }
+        },
+        {
             "number": 58647,
             "title": "feat(theme): support focusOutline token for shared focus styles",
             "url": "https://github.com/ant-design/ant-design/pull/58647",
             "state": "OPEN",
-            "changedFiles": 8,
-            "additions": 929,
+            "changedFiles": 9,
+            "additions": 951,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-07-10T03:28:07Z",
@@ -206,14 +230,14 @@
             "number": 58599,
             "title": "site: group icon search all results by theme",
             "url": "https://github.com/ant-design/ant-design/pull/58599",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 3,
             "deletions": 7,
             "totalCommentsCount": 16,
             "createdAt": "2026-07-06T03:32:49Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-10T09:26:53Z",
+            "closedAt": "2026-07-10T09:26:53Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/react-component/virtual-list"
             }
-        },
-        {
-            "number": 58581,
-            "title": "fix: hide Select suffix when clear icon appears",
-            "url": "https://github.com/ant-design/ant-design/pull/58581",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 23,
-            "createdAt": "2026-07-02T01:33:09Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3526,
+        "total": 3544,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1064,7 +1064,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 1
+                "count": 19
             },
             {
                 "date": "2026-07-11",

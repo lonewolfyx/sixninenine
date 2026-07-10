@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1770484,
+            "size": 1770459,
             "repoCount": 29,
-            "progress": "52.27"
+            "progress": "51.92"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.29"
+            "progress": "40.02"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 113400,
+            "size": 136126,
             "repoCount": 1,
-            "progress": "3.35"
+            "progress": "3.99"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.45"
+            "progress": "2.43"
         },
         {
             "name": "JavaScript",
@@ -50,7 +50,7 @@
             "color": "#89e051",
             "size": 23661,
             "repoCount": 1,
-            "progress": "0.70"
+            "progress": "0.69"
         },
         {
             "name": "HTML",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 25,
+            "title": "fix: update Package.resolved origin hash for Sparkle dependency",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/25",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-10T07:52:23Z",
+            "mergedAt": "2026-07-10T07:52:34Z",
+            "closedAt": "2026-07-10T07:52:34Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 24,
+            "title": "feat: improve reset credit details and popover interactions",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/24",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 712,
+            "deletions": 37,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-10T07:46:32Z",
+            "mergedAt": "2026-07-10T07:46:56Z",
+            "closedAt": "2026-07-10T07:46:56Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 8,
+            "title": "fix(components): remove extra newlines from avatar component description",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/8",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-10T07:08:08Z",
+            "mergedAt": "2026-07-10T07:08:44Z",
+            "closedAt": "2026-07-10T07:08:44Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
             "number": 27,
             "title": "feat(thinking): enhance session processing with detailed thinking flow",
             "url": "https://github.com/lonewolfyx/agent-track/pull/27",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/build"
             }
-        },
-        {
-            "number": 4,
-            "title": "feat(cli): implement build workflow with archive output",
-            "url": "https://github.com/lonewolfyx/build/pull/4",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 208,
-            "deletions": 103,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-06T06:59:06Z",
-            "mergedAt": "2026-07-06T07:00:10Z",
-            "closedAt": "2026-07-06T07:00:10Z",
-            "repository": {
-                "name": "build",
-                "nameWithOwner": "lonewolfyx/build",
-                "homepageUrl": null,
-                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/build"
-            }
-        },
-        {
-            "number": 3,
-            "title": "fix(workflow): update comment action reference",
-            "url": "https://github.com/lonewolfyx/build/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-06T06:01:48Z",
-            "mergedAt": "2026-07-06T06:02:35Z",
-            "closedAt": "2026-07-06T06:02:35Z",
-            "repository": {
-                "name": "build",
-                "nameWithOwner": "lonewolfyx/build",
-                "homepageUrl": null,
-                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/build"
-            }
-        },
-        {
-            "number": 2,
-            "title": "chore(typescript): add node types to tsconfig",
-            "url": "https://github.com/lonewolfyx/build/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-06T05:42:06Z",
-            "mergedAt": "2026-07-06T05:42:32Z",
-            "closedAt": "2026-07-06T05:42:32Z",
-            "repository": {
-                "name": "build",
-                "nameWithOwner": "lonewolfyx/build",
-                "homepageUrl": null,
-                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/build"
-            }
         }
     ],
     "contributions": {
-        "total": 9621,
+        "total": 9635,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1830,7 +1830,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 3
+                "count": 17
             },
             {
                 "date": "2026-07-11",

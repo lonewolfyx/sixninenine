@@ -101,6 +101,54 @@
     },
     "pullRequest": [
         {
+            "number": 6076,
+            "title": "fix(web): prevent duplicate system setting notifications",
+            "url": "https://github.com/QuantumNous/new-api/pull/6076",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 289,
+            "deletions": 42,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-07-10T08:49:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "QuantumNous/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+                "owner": {
+                    "login": "QuantumNous",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
+                },
+                "url": "https://github.com/QuantumNous/new-api"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(web): deduplicate system settings save notifications",
+            "url": "https://github.com/worryzyy/new-api/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 11,
+            "additions": 289,
+            "deletions": 42,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-10T08:10:26Z",
+            "mergedAt": null,
+            "closedAt": "2026-07-10T08:14:47Z",
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "worryzyy/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats.",
+                "owner": {
+                    "login": "worryzyy",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/70956075?u=10bef735dbb963e028aacdd7e90b527d3546b418&v=4"
+                },
+                "url": "https://github.com/worryzyy/new-api"
+            }
+        },
+        {
             "number": 6063,
             "title": "fix: correct gpt-5.6 completion ratio",
             "url": "https://github.com/QuantumNous/new-api/pull/6063",
@@ -152,14 +200,14 @@
             "number": 4360,
             "title": "fix(user): block registration when inviter is banned",
             "url": "https://github.com/QuantumNous/new-api/pull/4360",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 3,
             "additions": 18,
             "deletions": 4,
             "totalCommentsCount": 5,
             "createdAt": "2026-04-20T11:27:12Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-07-10T08:58:25Z",
             "repository": {
                 "name": "new-api",
                 "nameWithOwner": "QuantumNous/new-api",
@@ -291,58 +339,10 @@
                 },
                 "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
-        },
-        {
-            "number": 149,
-            "title": "fix: 重构mermaid图表操作栏",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/149",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 742,
-            "deletions": 184,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-27T03:00:32Z",
-            "mergedAt": "2025-06-27T03:05:33Z",
-            "closedAt": "2025-06-27T03:05:33Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
-        },
-        {
-            "number": 143,
-            "title": "feat: 为mermaid添加操作栏、拖拽功能",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/143",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 855,
-            "deletions": 64,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-26T03:07:19Z",
-            "mergedAt": "2025-06-26T03:25:19Z",
-            "closedAt": "2025-06-26T03:25:19Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 398,
+        "total": 400,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1106,7 +1106,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-11",

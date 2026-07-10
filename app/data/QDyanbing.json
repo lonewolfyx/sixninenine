@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58647,
+            "title": "feat(theme): support focusOutline token for shared focus styles",
+            "url": "https://github.com/ant-design/ant-design/pull/58647",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 929,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-07-10T03:28:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 371,
             "title": "fix: restore classic JSX runtime",
             "url": "https://github.com/react-component/virtual-list/pull/371",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58579,
-            "title": "fix(Pagination): keep size changer width in Form.Item",
-            "url": "https://github.com/ant-design/ant-design/pull/58579",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 220,
-            "deletions": 216,
-            "totalCommentsCount": 18,
-            "createdAt": "2026-07-01T11:36:22Z",
-            "mergedAt": "2026-07-07T02:44:28Z",
-            "closedAt": "2026-07-07T02:44:28Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3525,
+        "total": 3526,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1064,7 +1064,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-11",

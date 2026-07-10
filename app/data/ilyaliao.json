@@ -621,6 +621,30 @@
     },
     "pullRequest": [
         {
+            "number": 918,
+            "title": "feat: deprecate resolvers with official alternatives",
+            "url": "https://github.com/unplugin/unplugin-vue-components/pull/918",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 20,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-10T02:16:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-vue-components",
+                "nameWithOwner": "unplugin/unplugin-vue-components",
+                "homepageUrl": "https://www.npmjs.com/package/unplugin-vue-components",
+                "description": "📲 On-demand components auto importing for Vue",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-vue-components"
+            }
+        },
+        {
             "number": 1691,
             "title": "feat(i18n): add Traditional Chinese (繁體中文) localization",
             "url": "https://github.com/TableProApp/TablePro/pull/1691",
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/kdoroszewicz/cursor-plugins-claude"
             }
-        },
-        {
-            "number": 622,
-            "title": "perf: precompile picomatch matchers once per context",
-            "url": "https://github.com/unplugin/unplugin-auto-import/pull/622",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-05-14T19:05:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "unplugin-auto-import",
-                "nameWithOwner": "unplugin/unplugin-auto-import",
-                "homepageUrl": "",
-                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-auto-import"
-            }
         }
     ],
     "contributions": {
-        "total": 675,
+        "total": 677,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1626,7 +1626,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-11",

@@ -13,35 +13,35 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1421512,
+            "size": 1423092,
             "repoCount": 25,
-            "progress": "70.07"
+            "progress": "70.09"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 355150,
             "repoCount": 10,
-            "progress": "17.51"
+            "progress": "17.49"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 95069,
             "repoCount": 20,
-            "progress": "4.69"
+            "progress": "4.68"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
-            "size": 50437,
+            "size": 50658,
             "repoCount": 2,
             "progress": "2.49"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 33508,
+            "size": 33504,
             "repoCount": 19,
             "progress": "1.65"
         },
@@ -79,6 +79,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 2,
+            "title": "fix: update VITE_BASE_URL to production domain and format JSON arrays",
+            "url": "https://github.com/wan-kong/codex-reset/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-10T01:06:49Z",
+            "mergedAt": "2026-07-10T01:06:56Z",
+            "closedAt": "2026-07-10T01:06:56Z",
+            "repository": {
+                "name": "codex-reset",
+                "nameWithOwner": "wan-kong/codex-reset",
+                "homepageUrl": "https://codex.imoment.top",
+                "description": "codex reset record",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/codex-reset"
+            }
+        },
         {
             "number": 1,
             "title": "fix: improve email template branding and field labels",
@@ -294,34 +318,10 @@
                 },
                 "url": "https://github.com/wan-kong/doubao-nomark-online"
             }
-        },
-        {
-            "number": 12,
-            "title": "fix: use pathToFileURL for dynamic import on Windows",
-            "url": "https://github.com/lonewolfyx/usage-board/pull/12",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 17,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-05-14T09:18:42Z",
-            "mergedAt": "2026-05-20T01:36:44Z",
-            "closedAt": "2026-05-20T01:36:44Z",
-            "repository": {
-                "name": "usage-board",
-                "nameWithOwner": "lonewolfyx/usage-board",
-                "homepageUrl": "",
-                "description": "An all-in-one dashboard to quickly analyze token usage from local json files",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/usage-board"
-            }
         }
     ],
     "contributions": {
-        "total": 303,
+        "total": 311,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1085,7 +1085,7 @@
             },
             {
                 "date": "2026-07-10",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-07-11",

@@ -101,6 +101,30 @@
     },
     "pullRequest": [
         {
+            "number": 6063,
+            "title": "fix: correct gpt-5.6 completion ratio",
+            "url": "https://github.com/QuantumNous/new-api/pull/6063",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-07-10T03:15:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "QuantumNous/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+                "owner": {
+                    "login": "QuantumNous",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
+                },
+                "url": "https://github.com/QuantumNous/new-api"
+            }
+        },
+        {
             "number": 5998,
             "title": "fix: localize auth legal terms",
             "url": "https://github.com/QuantumNous/new-api/pull/5998",
@@ -315,34 +339,10 @@
                 },
                 "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
-        },
-        {
-            "number": 1,
-            "title": "Develop",
-            "url": "https://github.com/worryzyy/element-ui-x/pull/1",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 1346,
-            "deletions": 76,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-04T07:48:58Z",
-            "mergedAt": "2025-06-04T07:50:01Z",
-            "closedAt": "2025-06-04T07:50:01Z",
-            "repository": {
-                "name": "element-ui-x",
-                "nameWithOwner": "worryzyy/element-ui-x",
-                "homepageUrl": "https://element-ui-x.com",
-                "description": "Element-UI-X 开箱即用的AI组件库，基于Vue2 + element-ui",
-                "owner": {
-                    "login": "worryzyy",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/70956075?u=10bef735dbb963e028aacdd7e90b527d3546b418&v=4"
-                },
-                "url": "https://github.com/worryzyy/element-ui-x"
-            }
         }
     ],
     "contributions": {
-        "total": 397,
+        "total": 398,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1102,7 +1102,7 @@
             },
             {
                 "date": "2026-07-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-10",

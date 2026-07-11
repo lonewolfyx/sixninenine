@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1762254,
+            "size": 1763355,
             "repoCount": 29,
-            "progress": "51.80"
+            "progress": "51.82"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.11"
+            "progress": "40.10"
         },
         {
             "name": "Swift",
@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "chore(workflows): update action versions and dependencies",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/10",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 6,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-11T15:46:52Z",
+            "mergedAt": "2026-07-11T15:47:44Z",
+            "closedAt": "2026-07-11T15:47:44Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat(components): sync shadcn/ui component library",
+            "url": "https://github.com/lonewolfyx/shadcn-install/pull/9",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 25,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-11T15:44:07Z",
+            "mergedAt": "2026-07-11T15:47:36Z",
+            "closedAt": "2026-07-11T15:47:36Z",
+            "repository": {
+                "name": "shadcn-install",
+                "nameWithOwner": "lonewolfyx/shadcn-install",
+                "homepageUrl": null,
+                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/shadcn-install"
+            }
+        },
+        {
             "number": 25,
             "title": "fix: update Package.resolved origin hash for Sparkle dependency",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/25",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/citty-cli-template"
             }
-        },
-        {
-            "number": 23,
-            "title": "feat: add Sparkle automatic update support",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/23",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 233,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-07T08:58:17Z",
-            "mergedAt": "2026-07-07T08:58:28Z",
-            "closedAt": "2026-07-07T08:58:28Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 5,
-            "title": "docs(readme): add installation and usage instructions",
-            "url": "https://github.com/lonewolfyx/build/pull/5",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-06T07:05:00Z",
-            "mergedAt": "2026-07-06T07:05:58Z",
-            "closedAt": "2026-07-06T07:05:58Z",
-            "repository": {
-                "name": "build",
-                "nameWithOwner": "lonewolfyx/build",
-                "homepageUrl": null,
-                "description": "A lightweight CLI tool to simplify frontend builds and artifact packaging. It acts as a shortcut for `pnpm build` / `npm run build` and automatically compresses the `dist` directory into an archive for easy delivery.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/build"
-            }
         }
     ],
     "contributions": {
-        "total": 9670,
+        "total": 9686,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1834,7 +1834,7 @@
             },
             {
                 "date": "2026-07-11",
-                "count": 18
+                "count": 34
             },
             {
                 "date": "2026-07-12",

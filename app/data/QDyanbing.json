@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1026861,
+            "size": 1032488,
             "repoCount": 5,
-            "progress": "81.16"
+            "progress": "81.19"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 117817,
             "repoCount": 7,
-            "progress": "9.31"
+            "progress": "9.26"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 62081,
+            "size": 62921,
             "repoCount": 2,
-            "progress": "4.91"
+            "progress": "4.95"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55279,
             "repoCount": 3,
-            "progress": "4.37"
+            "progress": "4.35"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2344,
             "repoCount": 1,
-            "progress": "0.19"
+            "progress": "0.18"
         },
         {
             "name": "Shell",
@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 58688,
+            "title": "docs: add missing AutoComplete changelog for 6.5.1",
+            "url": "https://github.com/ant-design/ant-design/pull/58688",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 6,
+            "deletions": 2,
+            "totalCommentsCount": 18,
+            "createdAt": "2026-07-13T07:50:56Z",
+            "mergedAt": "2026-07-13T09:28:02Z",
+            "closedAt": "2026-07-13T09:28:02Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58680,
             "title": "feat: support controlled BorderBeam animation",
             "url": "https://github.com/ant-design/ant-design/pull/58680",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 8,
             "additions": 140,
             "deletions": 15,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-07-13T00:53:09Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-07-13T05:24:55Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -110,14 +134,14 @@
             "number": 58669,
             "title": "fix: avoid duplicate filled background in AutoComplete custom input",
             "url": "https://github.com/ant-design/ant-design/pull/58669",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 316,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-07-11T09:36:04Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-13T05:45:38Z",
+            "closedAt": "2026-07-13T05:45:38Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -183,10 +207,10 @@
             "title": "feat(theme): support focusOutline token for shared focus styles",
             "url": "https://github.com/ant-design/ant-design/pull/58647",
             "state": "OPEN",
-            "changedFiles": 9,
-            "additions": 951,
+            "changedFiles": 8,
+            "additions": 929,
             "deletions": 1,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 13,
             "createdAt": "2026-07-10T03:28:07Z",
             "mergedAt": null,
             "closedAt": null,
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/x"
             }
-        },
-        {
-            "number": 58615,
-            "title": "fix(Input): prevent Search button focus outline from being covered",
-            "url": "https://github.com/ant-design/ant-design/pull/58615",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-08T01:40:08Z",
-            "mergedAt": "2026-07-08T02:34:13Z",
-            "closedAt": "2026-07-08T02:34:13Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3579,
+        "total": 3602,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1076,7 +1076,7 @@
             },
             {
                 "date": "2026-07-13",
-                "count": 3
+                "count": 26
             },
             {
                 "date": "2026-07-14",

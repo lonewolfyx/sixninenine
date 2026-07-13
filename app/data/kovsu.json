@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 19621,
+            "title": "Preserve quotes for `TSMethodSignature` nodes named `new`",
+            "url": "https://github.com/prettier/prettier/pull/19621",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 122,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-07-13T01:30:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 16896,
             "title": "fix(selection-assistant): align icon preview with input height in action modal",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16896",
@@ -603,7 +627,7 @@
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-07-10T16:27:32Z",
             "mergedAt": null,
             "closedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3085,
-            "title": "fix(core): dispose language files after finalizing results",
-            "url": "https://github.com/flint-fyi/flint/pull/3085",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-06T09:20:15Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 481,
+        "total": 482,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1613,7 +1613,7 @@
             },
             {
                 "date": "2026-07-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-14",

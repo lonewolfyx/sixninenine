@@ -13,65 +13,65 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1421915,
-            "repoCount": 25,
-            "progress": "70.09"
+            "size": 2184202,
+            "repoCount": 26,
+            "progress": "77.93"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 354573,
             "repoCount": 10,
-            "progress": "17.48"
+            "progress": "12.65"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 95069,
-            "repoCount": 20,
-            "progress": "4.69"
+            "size": 118886,
+            "repoCount": 21,
+            "progress": "4.24"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
             "size": 50658,
             "repoCount": 2,
-            "progress": "2.50"
+            "progress": "1.81"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 33504,
-            "repoCount": 19,
-            "progress": "1.65"
+            "size": 34729,
+            "repoCount": 20,
+            "progress": "1.24"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "1.47"
-        },
-        {
-            "name": "HTML",
-            "color": "#e34c26",
-            "size": 22240,
-            "repoCount": 12,
-            "progress": "1.10"
+            "progress": "1.06"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 20064,
             "repoCount": 3,
-            "progress": "0.99"
+            "progress": "0.72"
+        },
+        {
+            "name": "HTML",
+            "color": "#e34c26",
+            "size": 9091,
+            "repoCount": 12,
+            "progress": "0.32"
         },
         {
             "name": "Dockerfile",
             "color": "#384d54",
             "size": 827,
             "repoCount": 1,
-            "progress": "0.04"
+            "progress": "0.03"
         }
     ],
     "organizations": {
@@ -79,6 +79,126 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 3,
+            "title": "Refine npm publish step and update workflow permissions",
+            "url": "https://github.com/wan-kong/cnma/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-13T03:01:27Z",
+            "mergedAt": "2026-07-13T03:01:34Z",
+            "closedAt": "2026-07-13T03:01:34Z",
+            "repository": {
+                "name": "cnma",
+                "nameWithOwner": "wan-kong/cnma",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/cnma"
+            }
+        },
+        {
+            "number": 2,
+            "title": "refactor: remove \"use client\" directive from multiple components",
+            "url": "https://github.com/wan-kong/cnma/pull/2",
+            "state": "MERGED",
+            "changedFiles": 61,
+            "additions": 4137,
+            "deletions": 259,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-13T02:25:52Z",
+            "mergedAt": "2026-07-13T02:25:59Z",
+            "closedAt": "2026-07-13T02:25:59Z",
+            "repository": {
+                "name": "cnma",
+                "nameWithOwner": "wan-kong/cnma",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/cnma"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: initialize Vite project with TanStack Query and Agno SDK integr…",
+            "url": "https://github.com/wan-kong/cnma/pull/1",
+            "state": "MERGED",
+            "changedFiles": 136,
+            "additions": 41429,
+            "deletions": 36,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-07-13T01:32:43Z",
+            "mergedAt": "2026-07-13T01:32:53Z",
+            "closedAt": "2026-07-13T01:32:53Z",
+            "repository": {
+                "name": "cnma",
+                "nameWithOwner": "wan-kong/cnma",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/cnma"
+            }
+        },
+        {
+            "number": 4,
+            "title": "fix: handle nullable weekly usage window",
+            "url": "https://github.com/wan-kong/codex-reset/pull/4",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 29,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-13T00:51:19Z",
+            "mergedAt": "2026-07-13T00:51:28Z",
+            "closedAt": "2026-07-13T00:51:29Z",
+            "repository": {
+                "name": "codex-reset",
+                "nameWithOwner": "wan-kong/codex-reset",
+                "homepageUrl": "https://codex.imoment.top",
+                "description": "codex reset record",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/codex-reset"
+            }
+        },
+        {
+            "number": 3,
+            "title": "Notify users on usage check failure",
+            "url": "https://github.com/wan-kong/codex-reset/pull/3",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 120,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-13T00:35:43Z",
+            "mergedAt": "2026-07-13T00:35:53Z",
+            "closedAt": "2026-07-13T00:35:53Z",
+            "repository": {
+                "name": "codex-reset",
+                "nameWithOwner": "wan-kong/codex-reset",
+                "homepageUrl": "https://codex.imoment.top",
+                "description": "codex reset record",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/codex-reset"
+            }
+        },
         {
             "number": 5,
             "title": "ci: add github action to release",
@@ -198,130 +318,10 @@
                 },
                 "url": "https://github.com/wan-kong/fuck-douyin"
             }
-        },
-        {
-            "number": 2,
-            "title": "fix: update VITE_BASE_URL to production domain and format JSON arrays",
-            "url": "https://github.com/wan-kong/codex-reset/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-10T01:06:49Z",
-            "mergedAt": "2026-07-10T01:06:56Z",
-            "closedAt": "2026-07-10T01:06:56Z",
-            "repository": {
-                "name": "codex-reset",
-                "nameWithOwner": "wan-kong/codex-reset",
-                "homepageUrl": "https://codex.imoment.top",
-                "description": "codex reset record",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/codex-reset"
-            }
-        },
-        {
-            "number": 1,
-            "title": "fix: improve email template branding and field labels",
-            "url": "https://github.com/wan-kong/codex-reset/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 16,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-09T07:13:12Z",
-            "mergedAt": "2026-07-09T07:13:20Z",
-            "closedAt": "2026-07-09T07:13:20Z",
-            "repository": {
-                "name": "codex-reset",
-                "nameWithOwner": "wan-kong/codex-reset",
-                "homepageUrl": "https://codex.imoment.top",
-                "description": "codex reset record",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/codex-reset"
-            }
-        },
-        {
-            "number": 4,
-            "title": "docs: 添加免责声明和使用说明",
-            "url": "https://github.com/wan-kong/guwendao-unlock/pull/4",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-08T01:56:13Z",
-            "mergedAt": "2026-07-08T01:56:19Z",
-            "closedAt": "2026-07-08T01:56:19Z",
-            "repository": {
-                "name": "guwendao-unlock",
-                "nameWithOwner": "wan-kong/guwendao-unlock",
-                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
-                "description": "古文岛助手",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/guwendao-unlock"
-            }
-        },
-        {
-            "number": 3,
-            "title": "docs: 更新 README 链接和添加 Greasy Fork 徽章",
-            "url": "https://github.com/wan-kong/guwendao-unlock/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-08T01:43:50Z",
-            "mergedAt": "2026-07-08T01:43:56Z",
-            "closedAt": "2026-07-08T01:43:56Z",
-            "repository": {
-                "name": "guwendao-unlock",
-                "nameWithOwner": "wan-kong/guwendao-unlock",
-                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
-                "description": "古文岛助手",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/guwendao-unlock"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat: 从 package.json 同步版本号到 userscript，添加 MIT 许可",
-            "url": "https://github.com/wan-kong/guwendao-unlock/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-08T01:25:32Z",
-            "mergedAt": "2026-07-08T01:25:39Z",
-            "closedAt": "2026-07-08T01:25:39Z",
-            "repository": {
-                "name": "guwendao-unlock",
-                "nameWithOwner": "wan-kong/guwendao-unlock",
-                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
-                "description": "古文岛助手",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/guwendao-unlock"
-            }
         }
     ],
     "contributions": {
-        "total": 338,
+        "total": 348,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1089,7 +1089,7 @@
             },
             {
                 "date": "2026-07-11",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-12",
@@ -1097,7 +1097,7 @@
             },
             {
                 "date": "2026-07-13",
-                "count": 0
+                "count": 9
             },
             {
                 "date": "2026-07-14",

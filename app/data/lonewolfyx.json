@@ -15,14 +15,14 @@
             "color": "#3178c6",
             "size": 1763355,
             "repoCount": 29,
-            "progress": "51.82"
+            "progress": "51.81"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.10"
+            "progress": "40.09"
         },
         {
             "name": "Swift",
@@ -48,9 +48,9 @@
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 23661,
+            "size": 24131,
             "repoCount": 1,
-            "progress": "0.70"
+            "progress": "0.71"
         },
         {
             "name": "HTML",
@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "ci: generate and publish signed Sparkle appcast in release workflow",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/27",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 57,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-13T02:47:34Z",
+            "mergedAt": "2026-07-13T02:47:59Z",
+            "closedAt": "2026-07-13T02:47:59Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 26,
+            "title": "ci: bump GitHub Actions versions in release workflow",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/26",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-13T01:31:53Z",
+            "mergedAt": "2026-07-13T01:39:49Z",
+            "closedAt": "2026-07-13T01:39:49Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 10,
             "title": "chore(workflows): update action versions and dependencies",
             "url": "https://github.com/lonewolfyx/shadcn-install/pull/10",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/nuxt-template"
             }
-        },
-        {
-            "number": 15,
-            "title": "fix(workflow): update comment action to backup version",
-            "url": "https://github.com/lonewolfyx/clear-branch/pull/15",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-07T09:07:35Z",
-            "mergedAt": "2026-07-07T09:09:16Z",
-            "closedAt": "2026-07-07T09:09:16Z",
-            "repository": {
-                "name": "clear-branch",
-                "nameWithOwner": "lonewolfyx/clear-branch",
-                "homepageUrl": null,
-                "description": "A high-performance CLI utility designed to streamline Git repository maintenance by swiftly removing obsolete local and remote branches.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/clear-branch"
-            }
-        },
-        {
-            "number": 10,
-            "title": "chore(workflow): update maintain-one-comment action to backup version",
-            "url": "https://github.com/lonewolfyx-template/citty-cli-template/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-07T09:05:48Z",
-            "mergedAt": "2026-07-07T09:06:26Z",
-            "closedAt": "2026-07-07T09:06:26Z",
-            "repository": {
-                "name": "citty-cli-template",
-                "nameWithOwner": "lonewolfyx-template/citty-cli-template",
-                "homepageUrl": null,
-                "description": "cli template use for citty tool",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/citty-cli-template"
-            }
         }
     ],
     "contributions": {
-        "total": 9720,
+        "total": 9738,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1838,11 +1838,11 @@
             },
             {
                 "date": "2026-07-12",
-                "count": 26
+                "count": 33
             },
             {
                 "date": "2026-07-13",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-07-14",

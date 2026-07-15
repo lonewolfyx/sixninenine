@@ -59,17 +59,41 @@
     },
     "pullRequest": [
         {
+            "number": 58707,
+            "title": "fix: avoid invalid pseudo-element selectors in reduced-motion styles",
+            "url": "https://github.com/ant-design/ant-design/pull/58707",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 21,
+            "deletions": 8,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-15T02:34:46Z",
+            "mergedAt": "2026-07-15T03:18:42Z",
+            "closedAt": "2026-07-15T03:18:42Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58703,
             "title": "fix(InputNumber): display suffix with form feedback",
             "url": "https://github.com/ant-design/ant-design/pull/58703",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 295,
             "deletions": 2,
             "totalCommentsCount": 9,
             "createdAt": "2026-07-14T09:41:28Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-15T01:35:48Z",
+            "closedAt": "2026-07-15T01:35:48Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -86,14 +110,14 @@
             "number": 58702,
             "title": "fix(Splitter): correct percentage-based ARIA ranges",
             "url": "https://github.com/ant-design/ant-design/pull/58702",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 52,
             "deletions": 6,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-07-14T09:17:48Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-15T03:24:19Z",
+            "closedAt": "2026-07-15T03:24:19Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 371,
-            "title": "fix: restore classic JSX runtime",
-            "url": "https://github.com/react-component/virtual-list/pull/371",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-09T07:32:51Z",
-            "mergedAt": "2026-07-09T07:39:29Z",
-            "closedAt": "2026-07-09T07:39:29Z",
-            "repository": {
-                "name": "virtual-list",
-                "nameWithOwner": "react-component/virtual-list",
-                "homepageUrl": "https://react-component.github.io/virtual-list",
-                "description": "📜 Virtual scrolling list component for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/virtual-list"
-            }
         }
     ],
     "contributions": {
-        "total": 3619,
+        "total": 3628,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1084,7 +1084,7 @@
             },
             {
                 "date": "2026-07-15",
-                "count": 0
+                "count": 9
             },
             {
                 "date": "2026-07-16",

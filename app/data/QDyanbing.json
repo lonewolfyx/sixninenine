@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58709,
+            "title": "fix(Tree): restore rootStyle compatibility",
+            "url": "https://github.com/ant-design/ant-design/pull/58709",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 22,
+            "deletions": 10,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-15T06:23:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58708,
+            "title": "feat: extend global focusOutline support to more components",
+            "url": "https://github.com/ant-design/ant-design/pull/58708",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 32,
+            "deletions": 15,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-15T06:02:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58707,
             "title": "fix: avoid invalid pseudo-element selectors in reduced-motion styles",
             "url": "https://github.com/ant-design/ant-design/pull/58707",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1241,
-            "title": "fix: set option list virtual prefix",
-            "url": "https://github.com/react-component/select/pull/1241",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 41,
-            "deletions": 36,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-10T08:39:25Z",
-            "mergedAt": "2026-07-10T09:02:17Z",
-            "closedAt": "2026-07-10T09:02:17Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://react-component.github.io/select",
-                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
-        },
-        {
-            "number": 58647,
-            "title": "feat(theme): support focusOutline token for shared focus styles",
-            "url": "https://github.com/ant-design/ant-design/pull/58647",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 932,
-            "deletions": 2,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-07-10T03:28:07Z",
-            "mergedAt": "2026-07-14T05:41:19Z",
-            "closedAt": "2026-07-14T05:41:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3628,
+        "total": 3631,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1084,7 +1084,7 @@
             },
             {
                 "date": "2026-07-15",
-                "count": 9
+                "count": 12
             },
             {
                 "date": "2026-07-16",

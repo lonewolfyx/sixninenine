@@ -15,21 +15,21 @@
             "color": "#3178c6",
             "size": 1763355,
             "repoCount": 29,
-            "progress": "52.13"
+            "progress": "52.01"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.34"
+            "progress": "40.25"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 115426,
+            "size": 122937,
             "repoCount": 1,
-            "progress": "3.41"
+            "progress": "3.63"
         },
         {
             "name": "CSS",
@@ -43,7 +43,7 @@
             "color": "#f1e05a",
             "size": 31327,
             "repoCount": 28,
-            "progress": "0.93"
+            "progress": "0.92"
         },
         {
             "name": "Shell",
@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 39,
+            "title": "feat(projects): add anchor navigation and extract catalog component",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/39",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 299,
+            "deletions": 94,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-15T08:16:04Z",
+            "mergedAt": "2026-07-15T08:17:40Z",
+            "closedAt": "2026-07-15T08:17:40Z",
+            "repository": {
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 31,
+            "title": "feat: notify users when a downloaded update is ready to install",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/31",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 218,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-15T06:41:00Z",
+            "mergedAt": "2026-07-15T06:41:12Z",
+            "closedAt": "2026-07-15T06:41:12Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 30,
+            "title": "refactor: compact reset credits menu rows and simplify copy",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/30",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-15T05:54:20Z",
+            "mergedAt": "2026-07-15T05:54:46Z",
+            "closedAt": "2026-07-15T05:54:46Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 29,
             "title": "refactor: simplify menu bar to weekly-only quota and drop Codex Radar",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/29",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 24,
-            "title": "feat: improve reset credit details and popover interactions",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/24",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 712,
-            "deletions": 37,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-10T07:46:32Z",
-            "mergedAt": "2026-07-10T07:46:56Z",
-            "closedAt": "2026-07-10T07:46:56Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 8,
-            "title": "fix(components): remove extra newlines from avatar component description",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-10T07:08:08Z",
-            "mergedAt": "2026-07-10T07:08:44Z",
-            "closedAt": "2026-07-10T07:08:44Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 27,
-            "title": "feat(thinking): enhance session processing with detailed thinking flow",
-            "url": "https://github.com/lonewolfyx/agent-track/pull/27",
-            "state": "MERGED",
-            "changedFiles": 42,
-            "additions": 1175,
-            "deletions": 420,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-08T03:16:18Z",
-            "mergedAt": "2026-07-08T03:17:39Z",
-            "closedAt": "2026-07-08T03:17:39Z",
-            "repository": {
-                "name": "agent-track",
-                "nameWithOwner": "lonewolfyx/agent-track",
-                "homepageUrl": "",
-                "description": "Lightweight CLI to visualize and trace the execution trajectory of a single agent session",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/agent-track"
-            }
         }
     ],
     "contributions": {
-        "total": 9818,
+        "total": 9834,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1850,7 +1850,7 @@
             },
             {
                 "date": "2026-07-15",
-                "count": 4
+                "count": 20
             },
             {
                 "date": "2026-07-16",

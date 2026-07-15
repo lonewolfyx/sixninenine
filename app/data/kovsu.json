@@ -596,17 +596,41 @@
     },
     "pullRequest": [
         {
+            "number": 17046,
+            "title": "fix(topics): follow the open conversation when dragging a topic to another assistant",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17046",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 103,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-15T08:15:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 17028,
             "title": "fix(model-selector): drop redundant focus revalidation on provider/model lists",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17028",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 8,
             "deletions": 14,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 2,
             "createdAt": "2026-07-15T03:05:24Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-15T04:51:03Z",
+            "closedAt": "2026-07-15T04:51:03Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -647,14 +671,14 @@
             "number": 16987,
             "title": "fix(message-renderer): avoid nested completed reasoning disclosure",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16987",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 39,
-            "deletions": 6,
-            "totalCommentsCount": 0,
+            "state": "CLOSED",
+            "changedFiles": 0,
+            "additions": 0,
+            "deletions": 0,
+            "totalCommentsCount": 2,
             "createdAt": "2026-07-14T02:47:00Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-07-15T06:41:36Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -695,14 +719,14 @@
             "number": 16896,
             "title": "fix(selection-assistant): align icon preview with input height in action modal",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16896",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 1,
             "createdAt": "2026-07-10T16:27:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-15T06:08:59Z",
+            "closedAt": "2026-07-15T06:08:59Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -791,14 +815,14 @@
             "number": 16830,
             "title": "fix(notes): sync source editor code theme",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16830",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 4,
             "deletions": 0,
             "totalCommentsCount": 1,
             "createdAt": "2026-07-08T07:39:55Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-15T06:09:51Z",
+            "closedAt": "2026-07-15T06:09:51Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19550,
-            "title": "Improve Less `:extend()` formatting",
-            "url": "https://github.com/prettier/prettier/pull/19550",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-06T20:12:22Z",
-            "mergedAt": "2026-07-06T23:39:28Z",
-            "closedAt": "2026-07-06T23:39:28Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 488,
+        "total": 492,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1621,7 +1621,7 @@
             },
             {
                 "date": "2026-07-15",
-                "count": 3
+                "count": 7
             },
             {
                 "date": "2026-07-16",

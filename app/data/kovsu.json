@@ -596,6 +596,30 @@
     },
     "pullRequest": [
         {
+            "number": 17073,
+            "title": "fix(resource-list): prevent sticky group header states",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17073",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 41,
+            "deletions": 47,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-16T02:22:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 17046,
             "title": "fix(topics): follow the open conversation when dragging a topic to another assistant",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17046",
@@ -651,7 +675,7 @@
             "changedFiles": 3,
             "additions": 80,
             "deletions": 8,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 7,
             "createdAt": "2026-07-14T19:32:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -741,12 +765,12 @@
         },
         {
             "number": 16888,
-            "title": "refactor(utils): replace hand-rolled delay/clamp/strip helpers with es-toolkit",
+            "title": "fix(ai-channels): clean up Feishu registration polling listeners",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/16888",
             "state": "OPEN",
-            "changedFiles": 20,
-            "additions": 35,
-            "deletions": 73,
+            "changedFiles": 2,
+            "additions": 46,
+            "deletions": 11,
             "totalCommentsCount": 2,
             "createdAt": "2026-07-10T08:15:33Z",
             "mergedAt": null,
@@ -810,34 +834,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 16830,
-            "title": "fix(notes): sync source editor code theme",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16830",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-08T07:39:55Z",
-            "mergedAt": "2026-07-15T06:09:51Z",
-            "closedAt": "2026-07-15T06:09:51Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 492,
+        "total": 493,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1625,7 +1625,7 @@
             },
             {
                 "date": "2026-07-16",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-17",

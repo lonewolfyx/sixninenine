@@ -15,21 +15,21 @@
             "color": "#3178c6",
             "size": 1763355,
             "repoCount": 29,
-            "progress": "52.01"
+            "progress": "52.00"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.25"
+            "progress": "40.24"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 122937,
+            "size": 123720,
             "repoCount": 1,
-            "progress": "3.63"
+            "progress": "3.65"
         },
         {
             "name": "CSS",
@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 33,
+            "title": "fix: guard app update notifications when running outside an app bundle",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/33",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 27,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-16T01:41:56Z",
+            "mergedAt": "2026-07-16T01:42:05Z",
+            "closedAt": "2026-07-16T01:42:05Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
+            "number": 32,
+            "title": "feat: localize the weekly quota menu bar prefix",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/32",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 6,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-16T01:39:14Z",
+            "mergedAt": "2026-07-16T01:41:57Z",
+            "closedAt": "2026-07-16T01:41:57Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 39,
             "title": "feat(projects): add anchor navigation and extract catalog component",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/39",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/shadcn-install"
             }
-        },
-        {
-            "number": 9,
-            "title": "feat(components): sync shadcn/ui component library",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/9",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 25,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-11T15:44:07Z",
-            "mergedAt": "2026-07-11T15:47:36Z",
-            "closedAt": "2026-07-11T15:47:36Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
-        },
-        {
-            "number": 25,
-            "title": "fix: update Package.resolved origin hash for Sparkle dependency",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/25",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-10T07:52:23Z",
-            "mergedAt": "2026-07-10T07:52:34Z",
-            "closedAt": "2026-07-10T07:52:34Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
         }
     ],
     "contributions": {
-        "total": 9848,
+        "total": 9864,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1850,11 +1850,11 @@
             },
             {
                 "date": "2026-07-15",
-                "count": 34
+                "count": 40
             },
             {
                 "date": "2026-07-16",
-                "count": 0
+                "count": 10
             },
             {
                 "date": "2026-07-17",

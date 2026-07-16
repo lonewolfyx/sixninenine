@@ -101,6 +101,54 @@
     },
     "pullRequest": [
         {
+            "number": 6251,
+            "title": "fix(web): refresh default usage log date range",
+            "url": "https://github.com/QuantumNous/new-api/pull/6251",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 222,
+            "deletions": 68,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-16T14:31:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "new-api",
+                "nameWithOwner": "QuantumNous/new-api",
+                "homepageUrl": "https://www.newapi.ai",
+                "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+                "owner": {
+                    "login": "QuantumNous",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4"
+                },
+                "url": "https://github.com/QuantumNous/new-api"
+            }
+        },
+        {
+            "number": 29,
+            "title": "fix(windows): prevent NativeCommandError on redirected stderr in PS 5.1",
+            "url": "https://github.com/Fei-Away/Codex-Dream-Skin/pull/29",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 46,
+            "deletions": 16,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-16T10:05:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Codex-Dream-Skin",
+                "nameWithOwner": "Fei-Away/Codex-Dream-Skin",
+                "homepageUrl": null,
+                "description": "Codex Dream Skin",
+                "owner": {
+                    "login": "Fei-Away",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100042407?u=4933c35e6574cdff4f71ab16c6e6ba63fc0f21dd&v=4"
+                },
+                "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+            }
+        },
+        {
             "number": 6076,
             "title": "fix(web): prevent duplicate system setting notifications",
             "url": "https://github.com/QuantumNous/new-api/pull/6076",
@@ -291,58 +339,10 @@
                 },
                 "url": "https://github.com/element-plus-x/Element-Plus-X"
             }
-        },
-        {
-            "number": 160,
-            "title": "feat：Mermaid操作栏支持插槽",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/160",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 928,
-            "deletions": 523,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-06-30T09:43:35Z",
-            "mergedAt": "2025-06-30T10:24:22Z",
-            "closedAt": "2025-06-30T10:24:22Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
-        },
-        {
-            "number": 153,
-            "title": "fix: 修复Mermaid 图表拖拽闪烁问题",
-            "url": "https://github.com/element-plus-x/Element-Plus-X/pull/153",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 149,
-            "deletions": 135,
-            "totalCommentsCount": 0,
-            "createdAt": "2025-06-27T07:47:50Z",
-            "mergedAt": "2025-06-27T10:05:14Z",
-            "closedAt": "2025-06-27T10:05:14Z",
-            "repository": {
-                "name": "Element-Plus-X",
-                "nameWithOwner": "element-plus-x/Element-Plus-X",
-                "homepageUrl": "https://v2.element-plus-x.com",
-                "description": "Enterprise-level AI component library front-end solution 🤖",
-                "owner": {
-                    "login": "element-plus-x",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/208607710?v=4"
-                },
-                "url": "https://github.com/element-plus-x/Element-Plus-X"
-            }
         }
     ],
     "contributions": {
-        "total": 404,
+        "total": 406,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1130,7 +1130,7 @@
             },
             {
                 "date": "2026-07-16",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2026-07-17",

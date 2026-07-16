@@ -6,8 +6,8 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4",
         "pronouns": "",
-        "followers": 93,
-        "following": 90
+        "followers": 97,
+        "following": 92
     },
     "languages": [
         {
@@ -15,28 +15,28 @@
             "color": "#3178c6",
             "size": 1763355,
             "repoCount": 29,
-            "progress": "52.00"
+            "progress": "51.98"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1364667,
             "repoCount": 14,
-            "progress": "40.24"
+            "progress": "40.23"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 123720,
+            "size": 124868,
             "repoCount": 1,
-            "progress": "3.65"
+            "progress": "3.68"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 82935,
             "repoCount": 15,
-            "progress": "2.45"
+            "progress": "2.44"
         },
         {
             "name": "JavaScript",
@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 34,
+            "title": "fix: size menu bar item to fit content, avoiding truncation",
+            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/34",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 54,
+            "deletions": 16,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-16T05:35:33Z",
+            "mergedAt": "2026-07-16T05:35:57Z",
+            "closedAt": "2026-07-16T05:35:57Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "lonewolfyx/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+            }
+        },
+        {
             "number": 33,
             "title": "fix: guard app update notifications when running outside an app bundle",
             "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/33",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/codex-agent-bar"
             }
-        },
-        {
-            "number": 10,
-            "title": "chore(workflows): update action versions and dependencies",
-            "url": "https://github.com/lonewolfyx/shadcn-install/pull/10",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 6,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-11T15:46:52Z",
-            "mergedAt": "2026-07-11T15:47:44Z",
-            "closedAt": "2026-07-11T15:47:44Z",
-            "repository": {
-                "name": "shadcn-install",
-                "nameWithOwner": "lonewolfyx/shadcn-install",
-                "homepageUrl": null,
-                "description": "Stop copying commands from the docs. A one-click CLI to batch install shadcn/ui components instantly without browsing documentation.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/shadcn-install"
-            }
         }
     ],
     "contributions": {
-        "total": 9864,
+        "total": 9873,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1854,7 +1854,7 @@
             },
             {
                 "date": "2026-07-16",
-                "count": 10
+                "count": 19
             },
             {
                 "date": "2026-07-17",

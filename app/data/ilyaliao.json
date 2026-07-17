@@ -621,6 +621,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "docs: fix local clone URL to agent-skill",
+            "url": "https://github.com/ast-grep/agent-skill/pull/10",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-17T17:25:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "agent-skill",
+                "nameWithOwner": "ast-grep/agent-skill",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "ast-grep",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114017360?v=4"
+                },
+                "url": "https://github.com/ast-grep/agent-skill"
+            }
+        },
+        {
             "number": 5534,
             "title": "chore: update skills before release",
             "url": "https://github.com/vueuse/vueuse/pull/5534",
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/unjs/mlly"
             }
-        },
-        {
-            "number": 1129,
-            "title": "Add Traditional Chinese (zh-Hant) localization",
-            "url": "https://github.com/steipete/CodexBar/pull/1129",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 633,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-05-23T18:41:20Z",
-            "mergedAt": "2026-05-24T00:36:25Z",
-            "closedAt": "2026-05-24T00:36:25Z",
-            "repository": {
-                "name": "CodexBar",
-                "nameWithOwner": "steipete/CodexBar",
-                "homepageUrl": "https://codex.bar",
-                "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-                "owner": {
-                    "login": "steipete",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58493?u=95a4fccef3d341039661c427695691a664e333ba&v=4"
-                },
-                "url": "https://github.com/steipete/CodexBar"
-            }
         }
     ],
     "contributions": {
-        "total": 724,
+        "total": 726,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1658,7 +1658,7 @@
             },
             {
                 "date": "2026-07-18",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-19",

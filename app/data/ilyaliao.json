@@ -11,53 +11,53 @@
     },
     "languages": [
         {
-            "name": "TypeScript",
-            "color": "#3178c6",
-            "size": 580617,
-            "repoCount": 21,
-            "progress": "34.93"
-        },
-        {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 577438,
+            "size": 577325,
             "repoCount": 26,
-            "progress": "34.74"
+            "progress": "36.21"
+        },
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 542539,
+            "repoCount": 20,
+            "progress": "34.03"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 288417,
-            "repoCount": 16,
-            "progress": "17.35"
+            "size": 276544,
+            "repoCount": 15,
+            "progress": "17.34"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
             "size": 102259,
             "repoCount": 1,
-            "progress": "6.15"
+            "progress": "6.41"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 67434,
-            "repoCount": 16,
-            "progress": "4.06"
+            "size": 49648,
+            "repoCount": 15,
+            "progress": "3.11"
         },
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 33575,
-            "repoCount": 3,
-            "progress": "2.02"
+            "size": 33646,
+            "repoCount": 4,
+            "progress": "2.11"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 9481,
             "repoCount": 11,
-            "progress": "0.57"
+            "progress": "0.59"
         },
         {
             "name": "Svelte",
@@ -621,30 +621,6 @@
     },
     "pullRequest": [
         {
-            "number": 3,
-            "title": "fix(nav): stop view-transition crossfade from flashing the navbar",
-            "url": "https://github.com/ilyaliao/ilyal.me/pull/3",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 29,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-27T01:38:54Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ilyal.me",
-                "nameWithOwner": "ilyaliao/ilyal.me",
-                "homepageUrl": "https://ilyal.me",
-                "description": "My personal website",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/ilyal.me"
-            }
-        },
-        {
             "number": 5256,
             "title": "fix(playground): await prettier when formatting panels",
             "url": "https://github.com/unocss/unocss/pull/5256",
@@ -672,14 +648,14 @@
             "number": 37,
             "title": "feat: add `rolldown` entry",
             "url": "https://github.com/unplugin/unplugin-starter/pull/37",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 21,
             "deletions": 0,
             "totalCommentsCount": 1,
             "createdAt": "2026-07-26T07:17:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-27T11:54:08Z",
+            "closedAt": "2026-07-27T11:54:08Z",
             "repository": {
                 "name": "unplugin-starter",
                 "nameWithOwner": "unplugin/unplugin-starter",
@@ -690,54 +666,6 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
                 },
                 "url": "https://github.com/unplugin/unplugin-starter"
-            }
-        },
-        {
-            "number": 2,
-            "title": "fix(i18n): localize about and use page titles",
-            "url": "https://github.com/ilyaliao/ilyal.me/pull/2",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-25T13:33:03Z",
-            "mergedAt": "2026-07-25T15:44:42Z",
-            "closedAt": "2026-07-25T15:44:42Z",
-            "repository": {
-                "name": "ilyal.me",
-                "nameWithOwner": "ilyaliao/ilyal.me",
-                "homepageUrl": "https://ilyal.me",
-                "description": "My personal website",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/ilyal.me"
-            }
-        },
-        {
-            "number": 1,
-            "title": "fix(nav): align text, icons, and avatar on one centerline",
-            "url": "https://github.com/ilyaliao/ilyal.me/pull/1",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 46,
-            "deletions": 76,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-25T13:06:50Z",
-            "mergedAt": "2026-07-25T13:28:47Z",
-            "closedAt": "2026-07-25T13:28:47Z",
-            "repository": {
-                "name": "ilyal.me",
-                "nameWithOwner": "ilyaliao/ilyal.me",
-                "homepageUrl": "https://ilyal.me",
-                "description": "My personal website",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/ilyal.me"
             }
         },
         {
@@ -859,10 +787,82 @@
                 },
                 "url": "https://github.com/atinux/my-pull-requests"
             }
+        },
+        {
+            "number": 180,
+            "title": "feat: add Claude Code to softwares dictionary",
+            "url": "https://github.com/antfu/case-police/pull/180",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-06-06T03:00:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "case-police",
+                "nameWithOwner": "antfu/case-police",
+                "homepageUrl": "",
+                "description": "🚨 Make the case correct, PLEASE!",
+                "owner": {
+                    "login": "antfu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
+                },
+                "url": "https://github.com/antfu/case-police"
+            }
+        },
+        {
+            "number": 5492,
+            "title": "fix(nuxt): register formatTimeAgo variants for auto-import",
+            "url": "https://github.com/vueuse/vueuse/pull/5492",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 10,
+            "deletions": 1,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-06-03T12:50:05Z",
+            "mergedAt": "2026-06-16T01:10:56Z",
+            "closedAt": "2026-06-16T01:10:56Z",
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
+            "number": 5479,
+            "title": "fix(useFuse): trigger fuse ref after setCollection",
+            "url": "https://github.com/vueuse/vueuse/pull/5479",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 40,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-05-29T15:52:27Z",
+            "mergedAt": "2026-06-24T04:54:06Z",
+            "closedAt": "2026-06-24T04:54:06Z",
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
         }
     ],
     "contributions": {
-        "total": 831,
+        "total": 835,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1694,7 +1694,7 @@
             },
             {
                 "date": "2026-07-27",
-                "count": 7
+                "count": 11
             },
             {
                 "date": "2026-07-28",

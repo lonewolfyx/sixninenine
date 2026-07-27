@@ -21,11 +21,15 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Use Node.js lts/*
-        uses: actions/setup-node@v6
-
-      - name: Setup pnpm
+      - name: Install pnpm
         uses: pnpm/action-setup@v6
+
+      - name: Set node
+        uses: actions/setup-node@v6
+        with:
+          node-version: lts/*
+          cache: pnpm
+
 
       - name: Set beijing TimeZone
         uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区

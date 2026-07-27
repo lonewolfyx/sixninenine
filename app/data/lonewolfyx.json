@@ -6,42 +6,42 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4",
         "pronouns": "",
-        "followers": 98,
-        "following": 92
+        "followers": 100,
+        "following": 93
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1763355,
+            "size": 1776944,
             "repoCount": 29,
-            "progress": "51.98"
+            "progress": "51.02"
         },
         {
             "name": "Vue",
             "color": "#41b883",
-            "size": 1364667,
-            "repoCount": 14,
-            "progress": "40.23"
+            "size": 1431370,
+            "repoCount": 15,
+            "progress": "41.10"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 124868,
             "repoCount": 1,
-            "progress": "3.68"
+            "progress": "3.59"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 82935,
-            "repoCount": 15,
-            "progress": "2.44"
+            "size": 92582,
+            "repoCount": 16,
+            "progress": "2.66"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 31327,
+            "size": 32024,
             "repoCount": 28,
             "progress": "0.92"
         },
@@ -50,14 +50,14 @@
             "color": "#89e051",
             "size": 24131,
             "repoCount": 1,
-            "progress": "0.71"
+            "progress": "0.69"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 867,
             "repoCount": 2,
-            "progress": "0.03"
+            "progress": "0.02"
         },
         {
             "name": "SCSS",
@@ -373,7 +373,7 @@
                         {
                             "id": "MDQ6VXNlcjM2MDE5NzAy",
                             "login": "Mashirl",
-                            "name": null,
+                            "name": "Yusong Ma",
                             "bio": "Less is more / GPG Fingerprint: 2BF1 1CA8 093C 1671 FB64  9BEC FEA1 83B4 E16B EEA2",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/36019702?u=4c33284f5f004ea80811d8589e8eb6520b4ef053&v=4",
                             "company": null,
@@ -825,89 +825,17 @@
     },
     "pullRequest": [
         {
-            "number": 34,
-            "title": "fix: size menu bar item to fit content, avoiding truncation",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/34",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 16,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-16T05:35:33Z",
-            "mergedAt": "2026-07-16T05:35:57Z",
-            "closedAt": "2026-07-16T05:35:57Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 33,
-            "title": "fix: guard app update notifications when running outside an app bundle",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/33",
+            "number": 42,
+            "title": "docs(blogs): add git proxy acceleration clone guide",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/42",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 27,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-16T01:41:56Z",
-            "mergedAt": "2026-07-16T01:42:05Z",
-            "closedAt": "2026-07-16T01:42:05Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 32,
-            "title": "feat: localize the weekly quota menu bar prefix",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/32",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 6,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-16T01:39:14Z",
-            "mergedAt": "2026-07-16T01:41:57Z",
-            "closedAt": "2026-07-16T01:41:57Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 39,
-            "title": "feat(projects): add anchor navigation and extract catalog component",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/39",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 299,
-            "deletions": 94,
+            "additions": 18,
+            "deletions": 0,
             "totalCommentsCount": 3,
-            "createdAt": "2026-07-15T08:16:04Z",
-            "mergedAt": "2026-07-15T08:17:40Z",
-            "closedAt": "2026-07-15T08:17:40Z",
+            "createdAt": "2026-07-24T12:55:25Z",
+            "mergedAt": "2026-07-24T12:55:59Z",
+            "closedAt": "2026-07-24T12:55:59Z",
             "repository": {
                 "name": "lonewolfyx.dev",
                 "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
@@ -921,152 +849,224 @@
             }
         },
         {
-            "number": 31,
-            "title": "feat: notify users when a downloaded update is ready to install",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/31",
+            "number": 58785,
+            "title": "docs(FAQ): correct the 5.x mirror link",
+            "url": "https://github.com/ant-design/ant-design/pull/58785",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-07-24T09:10:13Z",
+            "mergedAt": null,
+            "closedAt": "2026-07-24T09:15:54Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 13,
+            "title": "ci(workflow): update node setup in dependency data generator",
+            "url": "https://github.com/lonewolfyx/fe-stack/pull/13",
             "state": "MERGED",
             "changedFiles": 3,
-            "additions": 218,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-15T06:41:00Z",
-            "mergedAt": "2026-07-15T06:41:12Z",
-            "closedAt": "2026-07-15T06:41:12Z",
+            "additions": 15552,
+            "deletions": 8,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-23T06:09:16Z",
+            "mergedAt": "2026-07-23T06:12:10Z",
+            "closedAt": "2026-07-23T06:12:10Z",
             "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "name": "fe-stack",
+                "nameWithOwner": "lonewolfyx/fe-stack",
+                "homepageUrl": "https://fe-stack.vercel.app",
+                "description": "🪂 An exciting mind map of modern front-end technology stacks",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+                "url": "https://github.com/lonewolfyx/fe-stack"
             }
         },
         {
-            "number": 30,
-            "title": "refactor: compact reset credits menu rows and simplify copy",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/30",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-15T05:54:20Z",
-            "mergedAt": "2026-07-15T05:54:46Z",
-            "closedAt": "2026-07-15T05:54:46Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 29,
-            "title": "refactor: simplify menu bar to weekly-only quota and drop Codex Radar",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/29",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 31,
-            "deletions": 604,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T08:36:22Z",
-            "mergedAt": "2026-07-13T08:36:40Z",
-            "closedAt": "2026-07-13T08:36:40Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 28,
-            "title": "ci: inline Sparkle keys and verify bundled public key in release workflow",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/28",
+            "number": 41,
+            "title": "fix(Stack): correct TypeScript name in component",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/41",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 9,
-            "deletions": 7,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T05:39:53Z",
-            "mergedAt": "2026-07-13T05:40:06Z",
-            "closedAt": "2026-07-13T05:40:06Z",
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-23T05:45:27Z",
+            "mergedAt": "2026-07-23T05:45:39Z",
+            "closedAt": "2026-07-23T05:45:39Z",
             "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
         },
         {
-            "number": 27,
-            "title": "ci: generate and publish signed Sparkle appcast in release workflow",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/27",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 57,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T02:47:34Z",
-            "mergedAt": "2026-07-13T02:47:59Z",
-            "closedAt": "2026-07-13T02:47:59Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
-            }
-        },
-        {
-            "number": 26,
-            "title": "ci: bump GitHub Actions versions in release workflow",
-            "url": "https://github.com/lonewolfyx/codex-agent-bar/pull/26",
+            "number": 12,
+            "title": "ci(workflow): update author email in dependency data generator workflow",
+            "url": "https://github.com/lonewolfyx/fe-stack/pull/12",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 2,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-23T05:40:31Z",
+            "mergedAt": "2026-07-23T05:41:06Z",
+            "closedAt": "2026-07-23T05:41:06Z",
+            "repository": {
+                "name": "fe-stack",
+                "nameWithOwner": "lonewolfyx/fe-stack",
+                "homepageUrl": "https://fe-stack.vercel.app",
+                "description": "🪂 An exciting mind map of modern front-end technology stacks",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/fe-stack"
+            }
+        },
+        {
+            "number": 11,
+            "title": "ci(workflow): update GitHub Actions dependencies to latest versions",
+            "url": "https://github.com/lonewolfyx/fe-stack/pull/11",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-23T05:39:40Z",
+            "mergedAt": "2026-07-23T05:40:38Z",
+            "closedAt": "2026-07-23T05:40:38Z",
+            "repository": {
+                "name": "fe-stack",
+                "nameWithOwner": "lonewolfyx/fe-stack",
+                "homepageUrl": "https://fe-stack.vercel.app",
+                "description": "🪂 An exciting mind map of modern front-end technology stacks",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/fe-stack"
+            }
+        },
+        {
+            "number": 40,
+            "title": "style(icon): update codex svg with linear gradient styling",
+            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/40",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 13,
             "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T01:31:53Z",
-            "mergedAt": "2026-07-13T01:39:49Z",
-            "closedAt": "2026-07-13T01:39:49Z",
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-23T05:33:17Z",
+            "mergedAt": "2026-07-23T05:33:44Z",
+            "closedAt": "2026-07-23T05:33:44Z",
             "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "lonewolfyx/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "name": "lonewolfyx.dev",
+                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
+                "homepageUrl": "https://lonewolfyx.vercel.app",
+                "description": "lonewolfyx's notion",
                 "owner": {
                     "login": "lonewolfyx",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
                 },
-                "url": "https://github.com/lonewolfyx/codex-agent-bar"
+                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
+            }
+        },
+        {
+            "number": 58778,
+            "title": "docs(Select): correct placeholder type to `ReactNode `",
+            "url": "https://github.com/ant-design/ant-design/pull/58778",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-23T01:38:59Z",
+            "mergedAt": "2026-07-23T02:30:58Z",
+            "closedAt": "2026-07-23T02:30:58Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58767,
+            "title": "docs(Select): correct placeholder type to `string`",
+            "url": "https://github.com/ant-design/ant-design/pull/58767",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-22T14:45:32Z",
+            "mergedAt": null,
+            "closedAt": "2026-07-22T14:50:45Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58766,
+            "title": "docs(Image): sync missing TransformAction `reset` and ToolbarRenderInfoType`total` in English docs",
+            "url": "https://github.com/ant-design/ant-design/pull/58766",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-07-22T14:21:18Z",
+            "mergedAt": "2026-07-22T15:12:05Z",
+            "closedAt": "2026-07-22T15:12:05Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
             }
         }
     ],
     "contributions": {
-        "total": 9950,
+        "total": 10185,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1862,43 +1862,43 @@
             },
             {
                 "date": "2026-07-18",
-                "count": 28
+                "count": 37
             },
             {
                 "date": "2026-07-19",
-                "count": 0
+                "count": 30
             },
             {
                 "date": "2026-07-20",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-07-21",
-                "count": 0
+                "count": 25
             },
             {
                 "date": "2026-07-22",
-                "count": 0
+                "count": 29
             },
             {
                 "date": "2026-07-23",
-                "count": 0
+                "count": 37
             },
             {
                 "date": "2026-07-24",
-                "count": 0
+                "count": 25
             },
             {
                 "date": "2026-07-25",
-                "count": 0
+                "count": 29
             },
             {
                 "date": "2026-07-26",
-                "count": 0
+                "count": 26
             },
             {
                 "date": "2026-07-27",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-07-28",

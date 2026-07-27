@@ -13,28 +13,28 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2300670,
+            "size": 2302356,
             "repoCount": 25,
-            "progress": "68.17"
+            "progress": "68.18"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 792087,
             "repoCount": 11,
-            "progress": "23.47"
+            "progress": "23.46"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 121507,
+            "size": 121915,
             "repoCount": 20,
-            "progress": "3.60"
+            "progress": "3.61"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
-            "size": 50658,
+            "size": 50656,
             "repoCount": 2,
             "progress": "1.50"
         },
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 5,
+            "title": "refactor: extract weekly reset detection into reusable helpers",
+            "url": "https://github.com/wan-kong/codex-reset/pull/5",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 42,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-22T01:18:43Z",
+            "mergedAt": "2026-07-22T01:18:49Z",
+            "closedAt": "2026-07-22T01:18:49Z",
+            "repository": {
+                "name": "codex-reset",
+                "nameWithOwner": "wan-kong/codex-reset",
+                "homepageUrl": "https://codex.imoment.top",
+                "description": "codex reset record",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/codex-reset"
+            }
+        },
+        {
+            "number": 6,
+            "title": "feat: Add UserAvatar component with view transition to animate",
+            "url": "https://github.com/wan-kong/wankong.top/pull/6",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 61,
+            "deletions": 25,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-21T01:25:55Z",
+            "mergedAt": "2026-07-21T01:26:11Z",
+            "closedAt": "2026-07-21T01:26:11Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
         {
             "number": 5,
             "title": "feat: add new template for vue dashboard",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/wan-kong/fuck-douyin"
             }
-        },
-        {
-            "number": 4,
-            "title": "Remove debug information and private network access plugin",
-            "url": "https://github.com/wan-kong/fuck-douyin/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 78,
-            "deletions": 110,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-11T17:12:31Z",
-            "mergedAt": "2026-07-11T17:12:40Z",
-            "closedAt": "2026-07-11T17:12:40Z",
-            "repository": {
-                "name": "fuck-douyin",
-                "nameWithOwner": "wan-kong/fuck-douyin",
-                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/583463-%E6%8A%96%E9%9F%B3%E5%87%80%E5%8C%96-douyin",
-                "description": "净化抖音网页版的油猴脚本：自动跳过广告 / 直播 / 购物，强制最高画质，并按需隐藏播放器侧边按钮；直播间则移除礼物横幅、礼物动画、高级弹幕等干扰元素。",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/fuck-douyin"
-            }
-        },
-        {
-            "number": 3,
-            "title": "style: reduce floating button prominence",
-            "url": "https://github.com/wan-kong/fuck-douyin/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 51,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-11T17:01:58Z",
-            "mergedAt": "2026-07-11T17:02:07Z",
-            "closedAt": "2026-07-11T17:02:07Z",
-            "repository": {
-                "name": "fuck-douyin",
-                "nameWithOwner": "wan-kong/fuck-douyin",
-                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/583463-%E6%8A%96%E9%9F%B3%E5%87%80%E5%8C%96-douyin",
-                "description": "净化抖音网页版的油猴脚本：自动跳过广告 / 直播 / 购物，强制最高画质，并按需隐藏播放器侧边按钮；直播间则移除礼物横幅、礼物动画、高级弹幕等干扰元素。",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/fuck-douyin"
-            }
         }
     ],
     "contributions": {
-        "total": 341,
+        "total": 350,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1136,15 +1136,15 @@
             },
             {
                 "date": "2026-07-21",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-22",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-23",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-24",
@@ -1160,7 +1160,7 @@
             },
             {
                 "date": "2026-07-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-28",

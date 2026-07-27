@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1069926,
+            "size": 1190619,
             "repoCount": 6,
-            "progress": "81.71"
+            "progress": "82.94"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 117817,
             "repoCount": 7,
-            "progress": "9.00"
+            "progress": "8.21"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 62921,
+            "size": 63107,
             "repoCount": 2,
-            "progress": "4.81"
+            "progress": "4.40"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "4.25"
+            "progress": "3.87"
         },
         {
             "name": "Less",
             "color": "#1d365d",
-            "size": 2344,
-            "repoCount": 1,
-            "progress": "0.18"
+            "size": 7427,
+            "repoCount": 2,
+            "progress": "0.52"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 876,
             "repoCount": 3,
-            "progress": "0.07"
+            "progress": "0.06"
         }
     ],
     "organizations": {
@@ -59,17 +59,209 @@
     },
     "pullRequest": [
         {
+            "number": 58801,
+            "title": "fix(Spin): correct standalone indicator positioning when nested",
+            "url": "https://github.com/ant-design/ant-design/pull/58801",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 195,
+            "deletions": 3,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-07-27T01:28:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58784,
+            "title": "feat(Input): support global variant config for subcomponents",
+            "url": "https://github.com/ant-design/ant-design/pull/58784",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 1275,
+            "deletions": 14,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-24T01:44:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58780,
+            "title": "fix(Segmented): respect ConfigProvider disabled state",
+            "url": "https://github.com/ant-design/ant-design/pull/58780",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 27,
+            "deletions": 0,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-23T09:09:57Z",
+            "mergedAt": null,
+            "closedAt": "2026-07-23T09:32:48Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58763,
+            "title": "fix: align zero-runtime icon styles with runtime styles",
+            "url": "https://github.com/ant-design/ant-design/pull/58763",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 2,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-07-22T12:28:45Z",
+            "mergedAt": "2026-07-26T00:01:16Z",
+            "closedAt": "2026-07-26T00:01:16Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58755,
+            "title": "fix: respect line type design token in component borders",
+            "url": "https://github.com/ant-design/ant-design/pull/58755",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 11,
+            "deletions": 7,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-07-21T08:22:07Z",
+            "mergedAt": "2026-07-21T10:15:20Z",
+            "closedAt": "2026-07-21T10:15:20Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 1987,
+            "title": "site: hide focus outline on Components Overview search input",
+            "url": "https://github.com/ant-design/x/pull/1987",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-07-20T06:40:15Z",
+            "mergedAt": "2026-07-20T06:51:18Z",
+            "closedAt": "2026-07-20T06:51:18Z",
+            "repository": {
+                "name": "x",
+                "nameWithOwner": "ant-design/x",
+                "homepageUrl": "https://x.ant.design",
+                "description": "Craft AI-driven interface effortlessly🤖",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/x"
+            }
+        },
+        {
+            "number": 58746,
+            "title": "fix(Table): preserve nested table top border inside custom content",
+            "url": "https://github.com/ant-design/ant-design/pull/58746",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 531,
+            "deletions": 3,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-07-20T05:46:47Z",
+            "mergedAt": "2026-07-21T08:29:37Z",
+            "closedAt": "2026-07-21T08:29:37Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58736,
+            "title": "demo(Select): keep search text after selecting remote users",
+            "url": "https://github.com/ant-design/ant-design/pull/58736",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-07-19T10:04:20Z",
+            "mergedAt": "2026-07-19T10:58:18Z",
+            "closedAt": "2026-07-19T10:58:18Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58726,
             "title": "fix(Input.Search): sync custom button disabled and loading states",
             "url": "https://github.com/ant-design/ant-design/pull/58726",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 93,
             "deletions": 3,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-07-17T01:28:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-20T02:26:48Z",
+            "closedAt": "2026-07-20T02:26:48Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -105,202 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58719,
-            "title": "fix(Grid): support zero flex values",
-            "url": "https://github.com/ant-design/ant-design/pull/58719",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 2,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-07-16T05:46:55Z",
-            "mergedAt": "2026-07-16T06:19:26Z",
-            "closedAt": "2026-07-16T06:19:26Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58718,
-            "title": "fix(Transfer): preserve custom action disabled state",
-            "url": "https://github.com/ant-design/ant-design/pull/58718",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 1,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-07-16T01:09:03Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58711,
-            "title": "fix(Slider): prevent duplicate focus and blur callbacks",
-            "url": "https://github.com/ant-design/ant-design/pull/58711",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 29,
-            "deletions": 9,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-07-15T09:56:01Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58709,
-            "title": "fix(Tree): restore rootStyle compatibility",
-            "url": "https://github.com/ant-design/ant-design/pull/58709",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 22,
-            "deletions": 10,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-07-15T06:23:18Z",
-            "mergedAt": "2026-07-16T08:31:30Z",
-            "closedAt": "2026-07-16T08:31:30Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58708,
-            "title": "feat: extend global focusOutline support to more components",
-            "url": "https://github.com/ant-design/ant-design/pull/58708",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 32,
-            "deletions": 15,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-07-15T06:02:17Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58707,
-            "title": "fix: avoid invalid pseudo-element selectors in reduced-motion styles",
-            "url": "https://github.com/ant-design/ant-design/pull/58707",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 21,
-            "deletions": 8,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-07-15T02:34:46Z",
-            "mergedAt": "2026-07-15T03:18:42Z",
-            "closedAt": "2026-07-15T03:18:42Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58703,
-            "title": "fix(InputNumber): display suffix with form feedback",
-            "url": "https://github.com/ant-design/ant-design/pull/58703",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 295,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-07-14T09:41:28Z",
-            "mergedAt": "2026-07-15T01:35:48Z",
-            "closedAt": "2026-07-15T01:35:48Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58702,
-            "title": "fix(Splitter): correct percentage-based ARIA ranges",
-            "url": "https://github.com/ant-design/ant-design/pull/58702",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 52,
-            "deletions": 6,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-14T09:17:48Z",
-            "mergedAt": "2026-07-15T03:24:19Z",
-            "closedAt": "2026-07-15T03:24:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3678,
+        "total": 3838,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1100,39 +1100,39 @@
             },
             {
                 "date": "2026-07-19",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-07-20",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-07-21",
-                "count": 0
+                "count": 22
             },
             {
                 "date": "2026-07-22",
-                "count": 0
+                "count": 22
             },
             {
                 "date": "2026-07-23",
-                "count": 0
+                "count": 23
             },
             {
                 "date": "2026-07-24",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-07-25",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-07-26",
-                "count": 0
+                "count": 16
             },
             {
                 "date": "2026-07-27",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-07-28",

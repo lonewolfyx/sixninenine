@@ -109,7 +109,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 21
+                    "totalCount": 23
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -205,6 +205,30 @@
         "totalCount": 1
     },
     "pullRequest": [
+        {
+            "number": 677,
+            "title": "feat(docs): supplement the upload demo",
+            "url": "https://github.com/antdv-next/antdv-next/pull/677",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 208,
+            "deletions": 116,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-25T09:15:45Z",
+            "mergedAt": "2026-07-25T12:55:53Z",
+            "closedAt": "2026-07-25T12:55:53Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
         {
             "number": 649,
             "title": "chore: update @antdv-next/happy-work-theme version to 1.0.1",
@@ -420,34 +444,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 58560,
-            "title": "site: fix code visibility in dark mode",
-            "url": "https://github.com/ant-design/ant-design/pull/58560",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 40,
-            "deletions": 30,
-            "totalCommentsCount": 21,
-            "createdAt": "2026-06-29T10:34:09Z",
-            "mergedAt": "2026-06-30T01:35:45Z",
-            "closedAt": "2026-06-30T01:35:45Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 376,
+        "total": 388,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1247,11 +1247,11 @@
             },
             {
                 "date": "2026-07-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-20",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-07-21",
@@ -1271,7 +1271,7 @@
             },
             {
                 "date": "2026-07-25",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-26",

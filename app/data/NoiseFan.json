@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
         "followers": 21,
-        "following": 16
+        "following": 17
     },
     "languages": [
         {
@@ -30,6 +30,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58761,
+            "title": "docs(time-picker): sync `status` enum value",
+            "url": "https://github.com/ant-design/ant-design/pull/58761",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-07-22T07:59:14Z",
+            "mergedAt": "2026-07-22T08:55:04Z",
+            "closedAt": "2026-07-22T08:55:04Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 1006,
+            "title": "fix(v4): fix `api/advanced/reporters.md` error eslint's format",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1006",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 26,
+            "deletions": 18,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-21T12:21:51Z",
+            "mergedAt": "2026-07-21T12:22:54Z",
+            "closedAt": "2026-07-21T12:22:54Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1005,
+            "title": "chore: add `eslint-plugin-md-style` to v3 branch",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1005",
+            "state": "MERGED",
+            "changedFiles": 69,
+            "additions": 3587,
+            "deletions": 2482,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-21T12:06:22Z",
+            "mergedAt": "2026-07-21T12:12:44Z",
+            "closedAt": "2026-07-21T12:12:44Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
         {
             "number": 14,
             "title": "chore: add lint hook",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/code-agent"
             }
-        },
-        {
-            "number": 8,
-            "title": "feat: 08 hook-system",
-            "url": "https://github.com/NoiseFan/code-agent/pull/8",
-            "state": "MERGED",
-            "changedFiles": 28,
-            "additions": 1171,
-            "deletions": 218,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-09T17:07:57Z",
-            "mergedAt": "2026-06-09T17:08:40Z",
-            "closedAt": "2026-06-09T17:08:40Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
-        },
-        {
-            "number": 993,
-            "title": "feat: add custom containers type localization translation",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/993",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-05T03:25:03Z",
-            "mergedAt": "2026-06-05T03:51:58Z",
-            "closedAt": "2026-06-05T03:51:58Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 7,
-            "title": "feat: s07 permission system",
-            "url": "https://github.com/NoiseFan/code-agent/pull/7",
-            "state": "OPEN",
-            "changedFiles": 21,
-            "additions": 572,
-            "deletions": 208,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-03T17:54:02Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 448,
+        "total": 454,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1080,11 +1080,11 @@
             },
             {
                 "date": "2026-07-21",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-22",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-23",
@@ -1096,7 +1096,7 @@
             },
             {
                 "date": "2026-07-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-26",

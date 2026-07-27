@@ -435,17 +435,14 @@
                             "twitterUsername": "stillalive401",
                             "url": "https://github.com/kovsu",
                             "websiteUrl": "https://www.2ou.me",
-                            "status": {
-                                "emoji": ":shipit:",
-                                "message": "Crossover 很哟西"
-                            }
+                            "status": null
                         }
                     ],
                     "totalCount": 1
                 }
             },
             {
-                "name": "Knot",
+                "name": "Knot UI",
                 "createdAt": "2024-08-02T06:52:35Z",
                 "avatarUrl": "https://avatars.githubusercontent.com/u/177299754?v=4",
                 "description": "Accessible UI foundations with shared behavior across frameworks.",
@@ -473,10 +470,7 @@
                             "twitterUsername": "stillalive401",
                             "url": "https://github.com/kovsu",
                             "websiteUrl": "https://www.2ou.me",
-                            "status": {
-                                "emoji": ":shipit:",
-                                "message": "Crossover 很哟西"
-                            }
+                            "status": null
                         }
                     ],
                     "totalCount": 1
@@ -511,10 +505,7 @@
                             "twitterUsername": "stillalive401",
                             "url": "https://github.com/kovsu",
                             "websiteUrl": "https://www.2ou.me",
-                            "status": {
-                                "emoji": ":shipit:",
-                                "message": "Crossover 很哟西"
-                            }
+                            "status": null
                         }
                     ],
                     "totalCount": 1
@@ -536,6 +527,21 @@
                 },
                 "membersWithRole": {
                     "nodes": [
+                        {
+                            "id": "MDQ6VXNlcjgwNzE4NDU=",
+                            "login": "michaelfaith",
+                            "name": "michael faith",
+                            "bio": "Principal Software Engineer @ Atlassian",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/8071845?v=4",
+                            "company": "Atlassian",
+                            "createdAt": "2014-07-05T00:50:08Z",
+                            "email": "",
+                            "location": "Austin, TX",
+                            "twitterUsername": null,
+                            "url": "https://github.com/michaelfaith",
+                            "websiteUrl": null,
+                            "status": null
+                        },
                         {
                             "id": "MDQ6VXNlcjYxMTUwMDEz",
                             "login": "auvred",
@@ -564,10 +570,7 @@
                             "twitterUsername": "stillalive401",
                             "url": "https://github.com/kovsu",
                             "websiteUrl": "https://www.2ou.me",
-                            "status": {
-                                "emoji": ":shipit:",
-                                "message": "Crossover 很哟西"
-                            }
+                            "status": null
                         },
                         {
                             "id": "MDQ6VXNlcjg4NTU3NjM5",
@@ -588,13 +591,229 @@
                             }
                         }
                     ],
-                    "totalCount": 3
+                    "totalCount": 4
                 }
             }
         ],
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 17456,
+            "title": "fix(window-navigation): validate renderer URL origins",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17456",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 99,
+            "deletions": 22,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-27T03:35:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17452,
+            "title": "perf(composer): defer controls until editor is ready",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17452",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 13,
+            "deletions": 27,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-27T02:10:11Z",
+            "mergedAt": "2026-07-27T05:21:24Z",
+            "closedAt": "2026-07-27T05:21:24Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17337,
+            "title": "fix(main-window): register web-contents-created context menu listener once",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17337",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 91,
+            "deletions": 21,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-24T08:37:31Z",
+            "mergedAt": "2026-07-25T12:52:14Z",
+            "closedAt": "2026-07-25T12:52:14Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 19705,
+            "title": "Support JSX spread attributes in mdx",
+            "url": "https://github.com/prettier/prettier/pull/19705",
+            "state": "CLOSED",
+            "changedFiles": 12,
+            "additions": 203,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-24T08:20:41Z",
+            "mergedAt": null,
+            "closedAt": "2026-07-24T08:24:01Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 19704,
+            "title": "Fix string attribute values containing quotes in mdx",
+            "url": "https://github.com/prettier/prettier/pull/19704",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 133,
+            "deletions": 8,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-24T07:39:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 19698,
+            "title": "Fix comment moved into brackets in object type members",
+            "url": "https://github.com/prettier/prettier/pull/19698",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 357,
+            "deletions": 44,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-23T09:04:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 17305,
+            "title": "fix(ovms): prevent command injection and path traversal in addModel",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17305",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 32,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-23T07:51:22Z",
+            "mergedAt": "2026-07-25T15:23:13Z",
+            "closedAt": "2026-07-25T15:23:13Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 19696,
+            "title": "Fix esm blocks being truncated at blank lines in mdx",
+            "url": "https://github.com/prettier/prettier/pull/19696",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 167,
+            "deletions": 0,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-23T07:31:39Z",
+            "mergedAt": "2026-07-24T01:49:49Z",
+            "closedAt": "2026-07-24T01:49:50Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 19688,
+            "title": "Keep comment on the same line in property signature",
+            "url": "https://github.com/prettier/prettier/pull/19688",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 80,
+            "deletions": 21,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-22T09:42:29Z",
+            "mergedAt": "2026-07-22T10:10:37Z",
+            "closedAt": "2026-07-22T10:10:37Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
         {
             "number": 17073,
             "title": "fix(resource-list): prevent sticky group header states",
@@ -618,226 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 17046,
-            "title": "fix(topics): follow the open conversation when dragging a topic to another assistant",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17046",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 103,
-            "deletions": 9,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-15T08:15:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 17028,
-            "title": "fix(model-selector): drop redundant focus revalidation on provider/model lists",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17028",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 14,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-15T03:05:24Z",
-            "mergedAt": "2026-07-15T04:51:03Z",
-            "closedAt": "2026-07-15T04:51:03Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19630,
-            "title": "Fix comment moved before `:` in property signature",
-            "url": "https://github.com/prettier/prettier/pull/19630",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 84,
-            "deletions": 8,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-14T19:32:19Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 16987,
-            "title": "fix(message-renderer): avoid nested completed reasoning disclosure",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16987",
-            "state": "CLOSED",
-            "changedFiles": 0,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-14T02:47:00Z",
-            "mergedAt": null,
-            "closedAt": "2026-07-15T06:41:36Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19621,
-            "title": "Preserve quotes for `TSMethodSignature` nodes named `new`",
-            "url": "https://github.com/prettier/prettier/pull/19621",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 122,
-            "deletions": 0,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-07-13T01:30:46Z",
-            "mergedAt": "2026-07-14T09:33:40Z",
-            "closedAt": "2026-07-14T09:33:40Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 16896,
-            "title": "fix(selection-assistant): align icon preview with input height in action modal",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16896",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-10T16:27:32Z",
-            "mergedAt": "2026-07-15T06:08:59Z",
-            "closedAt": "2026-07-15T06:08:59Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 16888,
-            "title": "fix(ai-channels): clean up Feishu registration polling listeners",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16888",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 46,
-            "deletions": 11,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-10T08:15:33Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 16856,
-            "title": "chore(draggable-list): remove orphaned renderer copy",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/16856",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 0,
-            "deletions": 655,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-09T01:42:46Z",
-            "mergedAt": "2026-07-09T06:59:43Z",
-            "closedAt": "2026-07-09T06:59:43Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19573,
-            "title": "Fix adjacent block comments corrupted in less",
-            "url": "https://github.com/prettier/prettier/pull/19573",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 285,
-            "deletions": 10,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-07-08T16:53:39Z",
-            "mergedAt": "2026-07-08T17:34:59Z",
-            "closedAt": "2026-07-08T17:34:59Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 495,
+        "total": 515,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1617,7 +1620,7 @@
             },
             {
                 "date": "2026-07-14",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-07-15",
@@ -1649,27 +1652,27 @@
             },
             {
                 "date": "2026-07-22",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-07-23",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-24",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-07-25",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-26",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-27",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-28",

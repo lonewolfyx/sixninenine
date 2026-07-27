@@ -6,7 +6,7 @@
         "url": "https://github.com/pkc918",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58922004?u=884d36837ae876b55052a83aee0d84c185275bea&v=4",
         "pronouns": "he/him",
-        "followers": 158,
+        "followers": 159,
         "following": 126
     },
     "languages": [
@@ -15,77 +15,84 @@
             "color": "#f1e05a",
             "size": 337176,
             "repoCount": 12,
-            "progress": "31.52"
+            "progress": "29.23"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 266915,
+            "size": 297900,
             "repoCount": 14,
-            "progress": "24.95"
+            "progress": "25.83"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 120072,
             "repoCount": 6,
-            "progress": "11.23"
+            "progress": "10.41"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 77558,
+            "size": 94703,
             "repoCount": 11,
-            "progress": "7.25"
+            "progress": "8.21"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
             "size": 75497,
             "repoCount": 9,
-            "progress": "7.06"
+            "progress": "6.55"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 74445,
             "repoCount": 1,
-            "progress": "6.96"
+            "progress": "6.45"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 56202,
-            "repoCount": 10,
-            "progress": "5.25"
+            "size": 62420,
+            "repoCount": 11,
+            "progress": "5.41"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 55567,
             "repoCount": 4,
-            "progress": "5.19"
+            "progress": "4.82"
+        },
+        {
+            "name": "Rust",
+            "color": "#dea584",
+            "size": 29427,
+            "repoCount": 1,
+            "progress": "2.55"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 3102,
             "repoCount": 4,
-            "progress": "0.29"
+            "progress": "0.27"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 2406,
             "repoCount": 1,
-            "progress": "0.22"
+            "progress": "0.21"
         },
         {
             "name": "Ruby",
             "color": "#701516",
             "size": 704,
             "repoCount": 1,
-            "progress": "0.07"
+            "progress": "0.06"
         }
     ],
     "organizations": {
@@ -146,7 +153,7 @@
                             "id": "MDQ6VXNlcjQxMjY1NDEz",
                             "login": "Innei",
                             "name": "Innei",
-                            "bio": "Digital Nomad. Design Engineer. Prompt Engineer. Making @mx-space @Afilmory @Torrent-Vibe. Building @lobehub. Gen-Z",
+                            "bio": "Digital Nomad. Design Engineer. Prompt Engineer. Making @mx-space @Afilmory @Torrent-Vibe @kansoku-trade. Building @lobehub. Gen-Z",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/41265413?u=ceee2b9c83a2c16943d71c44413ae1c7f2ec4f1c&v=4",
                             "company": "@lobehub",
                             "createdAt": "2018-07-15T13:52:30Z",
@@ -352,6 +359,30 @@
     },
     "pullRequest": [
         {
+            "number": 10,
+            "title": "feat: support windows",
+            "url": "https://github.com/pkc918/DevPilot/pull/10",
+            "state": "MERGED",
+            "changedFiles": 57,
+            "additions": 9906,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-23T13:17:27Z",
+            "mergedAt": "2026-07-23T13:18:38Z",
+            "closedAt": "2026-07-23T13:18:38Z",
+            "repository": {
+                "name": "DevPilot",
+                "nameWithOwner": "pkc918/DevPilot",
+                "homepageUrl": "https://devpilot-lilac.vercel.app/",
+                "description": "macOS 端口监控工具。",
+                "owner": {
+                    "login": "pkc918",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/58922004?u=884d36837ae876b55052a83aee0d84c185275bea&v=4"
+                },
+                "url": "https://github.com/pkc918/DevPilot"
+            }
+        },
+        {
             "number": 6,
             "title": "feat: support corner for pages",
             "url": "https://github.com/pkc918/vue-paged-media/pull/6",
@@ -463,7 +494,7 @@
                 "name": "devtools",
                 "nameWithOwner": "vitejs/devtools",
                 "homepageUrl": "https://devtools.vite.dev/",
-                "description": "DevTools for Vite (Rolldown). ",
+                "description": "DevTools Framework for the Vite Ecosystem. ",
                 "owner": {
                     "login": "vitejs",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/65625612?v=4"
@@ -566,34 +597,10 @@
                 },
                 "url": "https://github.com/skills-club/skills-live"
             }
-        },
-        {
-            "number": 3,
-            "title": "fix: update skills API limit to 10000 and add console log for skills",
-            "url": "https://github.com/skills-club/skills-live/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-24T07:24:36Z",
-            "mergedAt": "2026-02-24T07:25:27Z",
-            "closedAt": "2026-02-24T07:25:27Z",
-            "repository": {
-                "name": "skills-live",
-                "nameWithOwner": "skills-club/skills-live",
-                "homepageUrl": "https://skills-club.cc",
-                "description": "Collect the best practice skills",
-                "owner": {
-                    "login": "skills-club",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
-                },
-                "url": "https://github.com/skills-club/skills-live"
-            }
         }
     ],
     "contributions": {
-        "total": 583,
+        "total": 589,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1401,7 +1408,7 @@
             },
             {
                 "date": "2026-07-21",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-22",
@@ -1409,7 +1416,7 @@
             },
             {
                 "date": "2026-07-23",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-07-24",

@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 48,
+            "title": "ci(workflow): update GitHub Actions dependencies and simplify Node.js setup",
+            "url": "https://github.com/lonewolfyx/sixninenine/pull/48",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 10,
+            "deletions": 13,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-07-27T05:48:39Z",
+            "mergedAt": "2026-07-27T06:04:21Z",
+            "closedAt": "2026-07-27T06:04:21Z",
+            "repository": {
+                "name": "sixninenine",
+                "nameWithOwner": "lonewolfyx/sixninenine",
+                "homepageUrl": "https://sixninenine.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/sixninenine"
+            }
+        },
+        {
             "number": 42,
             "title": "docs(blogs): add git proxy acceleration clone guide",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/42",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58766,
-            "title": "docs(Image): sync missing TransformAction `reset` and ToolbarRenderInfoType`total` in English docs",
-            "url": "https://github.com/ant-design/ant-design/pull/58766",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-07-22T14:21:18Z",
-            "mergedAt": "2026-07-22T15:12:05Z",
-            "closedAt": "2026-07-22T15:12:05Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 10185,
+        "total": 10188,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1898,7 +1898,7 @@
             },
             {
                 "date": "2026-07-27",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2026-07-28",

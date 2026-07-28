@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 17537,
+            "title": "fix(notes): only autofocus the editor for empty notes",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17537",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 154,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-28T10:00:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19742,
             "title": "Support JSX spread attributes in mdx",
             "url": "https://github.com/prettier/prettier/pull/19742",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 19698,
-            "title": "Fix comment moved into brackets in object type members",
-            "url": "https://github.com/prettier/prettier/pull/19698",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 357,
-            "deletions": 44,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-23T09:04:42Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 525,
+        "total": 527,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1676,7 +1676,7 @@
             },
             {
                 "date": "2026-07-28",
-                "count": 7
+                "count": 9
             },
             {
                 "date": "2026-07-29",

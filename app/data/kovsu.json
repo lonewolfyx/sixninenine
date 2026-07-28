@@ -599,6 +599,78 @@
     },
     "pullRequest": [
         {
+            "number": 3135,
+            "title": "fix(rule-tester): root disk-backed testers at a directory that exists",
+            "url": "https://github.com/flint-fyi/flint/pull/3135",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 181,
+            "deletions": 8,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-07-28T02:30:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 17512,
+            "title": "feat(notes-search): show and locate content matches",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17512",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 940,
+            "deletions": 138,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-07-28T01:48:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17511,
+            "title": "fix(knowledge-search): improve trigram BM25 queries",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17511",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 407,
+            "deletions": 41,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-07-28T01:48:48Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 17456,
             "title": "fix(window-navigation): validate renderer URL origins",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17456",
@@ -702,7 +774,7 @@
             "changedFiles": 5,
             "additions": 133,
             "deletions": 8,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2026-07-24T07:39:06Z",
             "mergedAt": null,
             "closedAt": null,
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19696,
-            "title": "Fix esm blocks being truncated at blank lines in mdx",
-            "url": "https://github.com/prettier/prettier/pull/19696",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 167,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-23T07:31:39Z",
-            "mergedAt": "2026-07-24T01:49:49Z",
-            "closedAt": "2026-07-24T01:49:50Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 19688,
-            "title": "Keep comment on the same line in property signature",
-            "url": "https://github.com/prettier/prettier/pull/19688",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 80,
-            "deletions": 21,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-22T09:42:29Z",
-            "mergedAt": "2026-07-22T10:10:37Z",
-            "closedAt": "2026-07-22T10:10:37Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 17073,
-            "title": "fix(resource-list): prevent sticky group header states",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17073",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 41,
-            "deletions": 47,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-16T02:22:17Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 518,
+        "total": 522,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1676,7 +1676,7 @@
             },
             {
                 "date": "2026-07-28",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-29",

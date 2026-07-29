@@ -2,7 +2,7 @@
     "userInfo": {
         "login": "kovsu",
         "name": "Konv Suu",
-        "bio": "Kwon Su",
+        "bio": "",
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
         "pronouns": "",
@@ -426,7 +426,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "Kwon Su",
+                            "bio": "",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -461,7 +461,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "Kwon Su",
+                            "bio": "",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -496,7 +496,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "Kwon Su",
+                            "bio": "",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -561,7 +561,7 @@
                             "id": "MDQ6VXNlcjgyNDUxMjU3",
                             "login": "kovsu",
                             "name": "Konv Suu",
-                            "bio": "Kwon Su",
+                            "bio": "",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=d35784800de9e3fbc1dfa2dc8e81c95aa5ed26e0&v=4",
                             "company": null,
                             "createdAt": "2021-04-13T12:10:56Z",
@@ -599,17 +599,65 @@
     },
     "pullRequest": [
         {
+            "number": 17574,
+            "title": "fix(prompt-interpolation): preserve literal replacement text",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17574",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 48,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-29T03:49:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 19747,
+            "title": "Extract `isNthPseudoClassNode` utility",
+            "url": "https://github.com/prettier/prettier/pull/19747",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 8,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-07-29T02:05:17Z",
+            "mergedAt": "2026-07-29T02:14:17Z",
+            "closedAt": "2026-07-29T02:14:17Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 17537,
             "title": "fix(notes): only autofocus the editor for empty notes",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17537",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 154,
             "deletions": 2,
             "totalCommentsCount": 0,
             "createdAt": "2026-07-28T10:00:46Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-07-28T22:47:55Z",
+            "closedAt": "2026-07-28T22:47:55Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19705,
-            "title": "Support JSX spread attributes in mdx",
-            "url": "https://github.com/prettier/prettier/pull/19705",
-            "state": "CLOSED",
-            "changedFiles": 12,
-            "additions": 203,
-            "deletions": 13,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-24T08:20:41Z",
-            "mergedAt": null,
-            "closedAt": "2026-07-24T08:24:01Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 19704,
-            "title": "Fix string attribute values containing quotes in mdx",
-            "url": "https://github.com/prettier/prettier/pull/19704",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 133,
-            "deletions": 8,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-07-24T07:39:06Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 527,
+        "total": 530,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1676,11 +1676,11 @@
             },
             {
                 "date": "2026-07-28",
-                "count": 9
+                "count": 8
             },
             {
                 "date": "2026-07-29",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-07-30",

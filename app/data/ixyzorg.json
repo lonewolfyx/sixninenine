@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 24621,
+            "title": "fix(components): [autocomplete] clear stale suggestions on refocus",
+            "url": "https://github.com/element-plus/element-plus/pull/24621",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-07-29T03:21:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 9991,
             "title": "chore: update docs for esbuild bundler note",
             "url": "https://github.com/microsoft/vscode-docs/pull/9991",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 5331,
-            "title": "fix:(useEventSource): handle SSE 'message' type and trigger both onmessage and addEventListener",
-            "url": "https://github.com/vueuse/vueuse/pull/5331",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 11,
-            "deletions": 8,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-03-20T15:57:18Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 80,
+        "total": 81,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1112,7 +1112,7 @@
             },
             {
                 "date": "2026-07-29",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-30",

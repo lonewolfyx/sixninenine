@@ -206,6 +206,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(img-crop): complete crop reset behavior",
+            "url": "https://github.com/antdv-next/img-crop/pull/2",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 136,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-07-29T15:40:28Z",
+            "mergedAt": "2026-07-29T15:43:31Z",
+            "closedAt": "2026-07-29T15:43:31Z",
+            "repository": {
+                "name": "img-crop",
+                "nameWithOwner": "antdv-next/img-crop",
+                "homepageUrl": null,
+                "description": "Vue 3 image cropping components — interactive cropper and antdv-next Upload integration",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/img-crop"
+            }
+        },
+        {
             "number": 677,
             "title": "feat(docs): supplement the upload demo",
             "url": "https://github.com/antdv-next/antdv-next/pull/677",
@@ -420,34 +444,10 @@
                 },
                 "url": "https://github.com/ffgenius/relay"
             }
-        },
-        {
-            "number": 620,
-            "title": "fix(input-otp): prevent duplicate onChange trigger and spurious autofocus attributes",
-            "url": "https://github.com/antdv-next/antdv-next/pull/620",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 5,
-            "deletions": 57,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-30T07:19:35Z",
-            "mergedAt": "2026-06-30T09:11:28Z",
-            "closedAt": "2026-06-30T09:11:28Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 388,
+        "total": 391,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1287,11 +1287,11 @@
             },
             {
                 "date": "2026-07-29",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-07-30",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-07-31",

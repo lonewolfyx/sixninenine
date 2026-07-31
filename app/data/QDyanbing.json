@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 58854,
+            "title": "docs(Tabs): clarify global configuration for more icon",
+            "url": "https://github.com/ant-design/ant-design/pull/58854",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-07-31T01:24:32Z",
+            "mergedAt": "2026-07-31T01:34:50Z",
+            "closedAt": "2026-07-31T01:34:50Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58853,
+            "title": "fix(Drawer): honor disabled close button configuration",
+            "url": "https://github.com/ant-design/ant-design/pull/58853",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 23,
+            "deletions": 3,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-07-31T00:57:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58843,
             "title": "fix(Table): skip disabled rows across pages when selecting all data",
             "url": "https://github.com/ant-design/ant-design/pull/58843",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58755,
-            "title": "fix: respect line type design token in component borders",
-            "url": "https://github.com/ant-design/ant-design/pull/58755",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 11,
-            "deletions": 7,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-07-21T08:22:07Z",
-            "mergedAt": "2026-07-21T10:15:20Z",
-            "closedAt": "2026-07-21T10:15:20Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 1987,
-            "title": "site: hide focus outline on Components Overview search input",
-            "url": "https://github.com/ant-design/x/pull/1987",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-07-20T06:40:15Z",
-            "mergedAt": "2026-07-20T06:51:18Z",
-            "closedAt": "2026-07-20T06:51:18Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "ant-design/x",
-                "homepageUrl": "https://x.ant.design",
-                "description": "Craft AI-driven interface effortlessly🤖",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/x"
-            }
         }
     ],
     "contributions": {
-        "total": 3888,
+        "total": 3896,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1148,7 +1148,7 @@
             },
             {
                 "date": "2026-07-31",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-08-01",

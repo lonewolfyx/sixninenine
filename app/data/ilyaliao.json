@@ -621,6 +621,30 @@
     },
     "pullRequest": [
         {
+            "number": 624,
+            "title": "fix(biome): respect disabled lint config",
+            "url": "https://github.com/unplugin/unplugin-auto-import/pull/624",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 27,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-02T06:30:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "unplugin-auto-import",
+                "nameWithOwner": "unplugin/unplugin-auto-import",
+                "homepageUrl": "",
+                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
+                "owner": {
+                    "login": "unplugin",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
+                },
+                "url": "https://github.com/unplugin/unplugin-auto-import"
+            }
+        },
+        {
             "number": 5256,
             "title": "fix(playground): await prettier when formatting panels",
             "url": "https://github.com/unocss/unocss/pull/5256",
@@ -835,34 +859,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5479,
-            "title": "fix(useFuse): trigger fuse ref after setCollection",
-            "url": "https://github.com/vueuse/vueuse/pull/5479",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 40,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-05-29T15:52:27Z",
-            "mergedAt": "2026-06-24T04:54:06Z",
-            "closedAt": "2026-06-24T04:54:06Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 854,
+        "total": 855,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1718,7 +1718,7 @@
             },
             {
                 "date": "2026-08-02",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-08-03",

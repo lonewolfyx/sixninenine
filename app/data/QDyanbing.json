@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1217537,
+            "size": 1229860,
             "repoCount": 6,
-            "progress": "82.91"
+            "progress": "83.05"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 123607,
             "repoCount": 8,
-            "progress": "8.42"
+            "progress": "8.35"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63107,
             "repoCount": 2,
-            "progress": "4.30"
+            "progress": "4.26"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "3.79"
+            "progress": "3.75"
         },
         {
             "name": "Less",
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58880,
+            "title": "fix(site): avoid Markdown route conflicts in Surge previews",
+            "url": "https://github.com/ant-design/ant-design/pull/58880",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-03T01:27:29Z",
+            "mergedAt": "2026-08-03T01:43:39Z",
+            "closedAt": "2026-08-03T01:43:39Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58854,
             "title": "docs(Tabs): clarify global configuration for more icon",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58763,
-            "title": "fix: align zero-runtime icon styles with runtime styles",
-            "url": "https://github.com/ant-design/ant-design/pull/58763",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 2,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-07-22T12:28:45Z",
-            "mergedAt": "2026-07-26T00:01:16Z",
-            "closedAt": "2026-07-26T00:01:16Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3939,
+        "total": 3958,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1160,7 +1160,7 @@
             },
             {
                 "date": "2026-08-03",
-                "count": 0
+                "count": 19
             },
             {
                 "date": "2026-08-04",

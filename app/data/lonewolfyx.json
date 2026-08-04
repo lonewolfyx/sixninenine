@@ -825,6 +825,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(parser): integrate oxc-parser for enhanced AST analysis",
+            "url": "https://github.com/lonewolfyx/vite-plus-plugin/pull/2",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 416,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-04T07:45:20Z",
+            "mergedAt": "2026-08-04T07:45:53Z",
+            "closedAt": "2026-08-04T07:45:54Z",
+            "repository": {
+                "name": "vite-plus-plugin",
+                "nameWithOwner": "lonewolfyx/vite-plus-plugin",
+                "homepageUrl": null,
+                "description": "Efficient expansion of the Vite Plus ecosystem, seamlessly integrating core configurations.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vite-plus-plugin"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(core): add command line argument parsing and config resolution",
+            "url": "https://github.com/lonewolfyx/vite-plus-plugin/pull/1",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 37,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-04T07:09:02Z",
+            "mergedAt": "2026-08-04T07:09:57Z",
+            "closedAt": "2026-08-04T07:09:58Z",
+            "repository": {
+                "name": "vite-plus-plugin",
+                "nameWithOwner": "lonewolfyx/vite-plus-plugin",
+                "homepageUrl": null,
+                "description": "Efficient expansion of the Vite Plus ecosystem, seamlessly integrating core configurations.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/vite-plus-plugin"
+            }
+        },
+        {
             "number": 47,
             "title": "fix(blog): correct spacing in Eval-Driven Development paragraph",
             "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/47",
@@ -1015,58 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
             }
-        },
-        {
-            "number": 58785,
-            "title": "docs(FAQ): correct the 5.x mirror link",
-            "url": "https://github.com/ant-design/ant-design/pull/58785",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-07-24T09:10:13Z",
-            "mergedAt": null,
-            "closedAt": "2026-07-24T09:15:54Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 13,
-            "title": "ci(workflow): update node setup in dependency data generator",
-            "url": "https://github.com/lonewolfyx/fe-stack/pull/13",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 15552,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-23T06:09:16Z",
-            "mergedAt": "2026-07-23T06:12:10Z",
-            "closedAt": "2026-07-23T06:12:10Z",
-            "repository": {
-                "name": "fe-stack",
-                "nameWithOwner": "lonewolfyx/fe-stack",
-                "homepageUrl": "https://fe-stack.vercel.app",
-                "description": "🪂 An exciting mind map of modern front-end technology stacks",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=153de1ff2b7dcde6e19925073fb0fe7f3f7dd1a6&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/fe-stack"
-            }
         }
     ],
     "contributions": {
-        "total": 10451,
+        "total": 10463,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1930,7 +1930,7 @@
             },
             {
                 "date": "2026-08-04",
-                "count": 4
+                "count": 16
             },
             {
                 "date": "2026-08-05",

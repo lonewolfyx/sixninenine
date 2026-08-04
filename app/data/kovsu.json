@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 17815,
+            "title": "fix(claude-code): enable session state events for background work release",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17815",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-04T10:15:21Z",
+            "mergedAt": "2026-08-04T10:40:17Z",
+            "closedAt": "2026-08-04T10:40:17Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17814,
+            "title": "perf(agent-session): publish background flow parts per message",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17814",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 158,
+            "deletions": 45,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-04T10:15:13Z",
+            "mergedAt": "2026-08-04T11:05:20Z",
+            "closedAt": "2026-08-04T11:05:20Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19782,
             "title": "Keep LESS indirect property lookups tight",
             "url": "https://github.com/prettier/prettier/pull/19782",
@@ -606,7 +654,7 @@
             "changedFiles": 5,
             "additions": 101,
             "deletions": 1,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2026-08-04T07:47:12Z",
             "mergedAt": null,
             "closedAt": null,
@@ -626,14 +674,14 @@
             "number": 17794,
             "title": "refactor(mcp-browser): create browser windows via WindowManager",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17794",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 100,
             "deletions": 46,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-04T03:07:04Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-04T09:44:07Z",
+            "closedAt": "2026-08-04T09:44:07Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/prettier/prettier"
             }
-        },
-        {
-            "number": 17537,
-            "title": "fix(notes): only autofocus the editor for empty notes",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17537",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 154,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-28T10:00:46Z",
-            "mergedAt": "2026-07-28T22:47:55Z",
-            "closedAt": "2026-07-28T22:47:55Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19742,
-            "title": "Support JSX spread attributes in mdx",
-            "url": "https://github.com/prettier/prettier/pull/19742",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 138,
-            "deletions": 25,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-07-28T08:44:52Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 542,
+        "total": 547,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1704,7 +1704,7 @@
             },
             {
                 "date": "2026-08-04",
-                "count": 9
+                "count": 14
             },
             {
                 "date": "2026-08-05",

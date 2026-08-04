@@ -599,6 +599,78 @@
     },
     "pullRequest": [
         {
+            "number": 17794,
+            "title": "refactor(mcp-browser): create browser windows via WindowManager",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17794",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 142,
+            "deletions": 57,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-04T03:07:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17792,
+            "title": "fix(mcp-browser): dispose nativeTheme listener when server connection closes",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17792",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 43,
+            "deletions": 12,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-04T02:58:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 17791,
+            "title": "fix(main-window): remove dead CSP/XFO stripping that clobbered crash telemetry",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17791",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 7,
+            "deletions": 23,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-04T02:22:53Z",
+            "mergedAt": "2026-08-04T03:29:39Z",
+            "closedAt": "2026-08-04T03:29:39Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 17601,
             "title": "perf(message-anchor): keep the rail out of the streaming render path",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17601",
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 17512,
-            "title": "feat(notes-search): show and locate content matches",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17512",
-            "state": "OPEN",
-            "changedFiles": 31,
-            "additions": 1447,
-            "deletions": 240,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-07-28T01:48:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 17511,
-            "title": "fix(knowledge-search): improve trigram BM25 queries",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17511",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 419,
-            "deletions": 41,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-07-28T01:48:48Z",
-            "mergedAt": "2026-07-28T08:13:34Z",
-            "closedAt": "2026-07-28T08:13:34Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 17456,
-            "title": "fix(window-navigation): validate renderer URL origins",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17456",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 99,
-            "deletions": 22,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-27T03:35:37Z",
-            "mergedAt": "2026-07-27T08:46:30Z",
-            "closedAt": "2026-07-27T08:46:30Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 534,
+        "total": 538,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1704,7 +1704,7 @@
             },
             {
                 "date": "2026-08-04",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-08-05",

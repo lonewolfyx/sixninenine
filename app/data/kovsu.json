@@ -599,17 +599,41 @@
     },
     "pullRequest": [
         {
+            "number": 17899,
+            "title": "fix(api-gateway): normalize no-prefill agent requests",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/17899",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 535,
+            "deletions": 15,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-05T08:41:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 17843,
             "title": "fix(agent-session): stop counting a settling receive-only turn as a continuation",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/17843",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 56,
             "deletions": 1,
             "totalCommentsCount": 0,
             "createdAt": "2026-08-04T23:55:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-05T05:04:34Z",
+            "closedAt": "2026-08-05T05:04:34Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 17574,
-            "title": "fix(prompt-interpolation): preserve literal replacement text",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17574",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 48,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-29T03:49:25Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 548,
+        "total": 550,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1708,7 +1708,7 @@
             },
             {
                 "date": "2026-08-05",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-08-06",

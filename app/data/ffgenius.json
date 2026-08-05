@@ -206,6 +206,54 @@
     },
     "pullRequest": [
         {
+            "number": 684,
+            "title": "chore: update deps",
+            "url": "https://github.com/antdv-next/antdv-next/pull/684",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 34,
+            "deletions": 134,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-05T11:52:09Z",
+            "mergedAt": "2026-08-05T12:26:22Z",
+            "closedAt": "2026-08-05T12:26:22Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 69,
+            "title": "fix(picker): prevent default mousedown",
+            "url": "https://github.com/antdv-next/vue-components/pull/69",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 41,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-05T11:15:00Z",
+            "mergedAt": "2026-08-05T11:16:35Z",
+            "closedAt": "2026-08-05T11:16:35Z",
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
             "number": 68,
             "title": "chore(release): @v-c/picker 1.3.1",
             "url": "https://github.com/antdv-next/vue-components/pull/68",
@@ -396,58 +444,10 @@
                 },
                 "url": "https://github.com/antdv-next/happy-work-theme"
             }
-        },
-        {
-            "number": 17,
-            "title": "feat(snippet): add {{n}} placeholder support for parameterized snippets",
-            "url": "https://github.com/ffgenius/relay/pull/17",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 110,
-            "deletions": 12,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-07T07:53:40Z",
-            "mergedAt": "2026-07-07T07:54:55Z",
-            "closedAt": "2026-07-07T07:54:55Z",
-            "repository": {
-                "name": "relay",
-                "nameWithOwner": "ffgenius/relay",
-                "homepageUrl": null,
-                "description": "Secure Cross-Platform Command Router",
-                "owner": {
-                    "login": "ffgenius",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4"
-                },
-                "url": "https://github.com/ffgenius/relay"
-            }
-        },
-        {
-            "number": 636,
-            "title": "site: sync theme styles from ant-design",
-            "url": "https://github.com/antdv-next/antdv-next/pull/636",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 1733,
-            "deletions": 117,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-06T15:23:47Z",
-            "mergedAt": "2026-07-07T01:57:04Z",
-            "closedAt": "2026-07-07T01:57:04Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 372,
+        "total": 378,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1315,7 +1315,7 @@
             },
             {
                 "date": "2026-08-05",
-                "count": 6
+                "count": 12
             },
             {
                 "date": "2026-08-06",

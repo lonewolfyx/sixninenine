@@ -206,6 +206,30 @@
     },
     "pullRequest": [
         {
+            "number": 687,
+            "title": "fix(layout): support trigger prop/slot for LayoutSider",
+            "url": "https://github.com/antdv-next/antdv-next/pull/687",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 26,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-06T02:18:23Z",
+            "mergedAt": "2026-08-06T02:33:43Z",
+            "closedAt": "2026-08-06T02:33:43Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 684,
             "title": "chore: update deps",
             "url": "https://github.com/antdv-next/antdv-next/pull/684",
@@ -420,34 +444,10 @@
                 },
                 "url": "https://github.com/antdv-next/happy-work-theme"
             }
-        },
-        {
-            "number": 2,
-            "title": "refactor: migrate from raw DOM CSS injection to @antdv-next/cssinjs",
-            "url": "https://github.com/antdv-next/happy-work-theme/pull/2",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 2568,
-            "deletions": 719,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-13T06:55:36Z",
-            "mergedAt": "2026-07-13T06:57:38Z",
-            "closedAt": "2026-07-13T06:57:38Z",
-            "repository": {
-                "name": "happy-work-theme",
-                "nameWithOwner": "antdv-next/happy-work-theme",
-                "homepageUrl": null,
-                "description": "Antdv Next Happy Work Theme",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/happy-work-theme"
-            }
         }
     ],
     "contributions": {
-        "total": 378,
+        "total": 380,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1319,7 +1319,7 @@
             },
             {
                 "date": "2026-08-06",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-08-07",

@@ -59,6 +59,54 @@
     },
     "pullRequest": [
         {
+            "number": 213,
+            "title": "fix: extract embedded shared component props",
+            "url": "https://github.com/ant-design/ant-design-cli/pull/213",
+            "state": "OPEN",
+            "changedFiles": 20,
+            "additions": 8979,
+            "deletions": 379,
+            "totalCommentsCount": 20,
+            "createdAt": "2026-08-06T01:55:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-cli",
+                "nameWithOwner": "ant-design/ant-design-cli",
+                "homepageUrl": "https://ant.design/docs/react/cli",
+                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design-cli"
+            }
+        },
+        {
+            "number": 2,
+            "title": "fix: extract embedded shared component props",
+            "url": "https://github.com/QDyanbing/ant-design-cli/pull/2",
+            "state": "CLOSED",
+            "changedFiles": 20,
+            "additions": 8943,
+            "deletions": 341,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-06T01:52:48Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-06T01:55:47Z",
+            "repository": {
+                "name": "ant-design-cli",
+                "nameWithOwner": "QDyanbing/ant-design-cli",
+                "homepageUrl": "https://www.npmjs.com/@ant-design/cli",
+                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/ant-design-cli"
+            }
+        },
+        {
             "number": 58885,
             "title": "fix(Alert): show close button when closable contains onClose",
             "url": "https://github.com/ant-design/ant-design/pull/58885",
@@ -249,58 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58801,
-            "title": "fix(Spin): correct standalone indicator positioning when nested",
-            "url": "https://github.com/ant-design/ant-design/pull/58801",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 195,
-            "deletions": 3,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-27T01:28:22Z",
-            "mergedAt": "2026-07-27T07:30:37Z",
-            "closedAt": "2026-07-27T07:30:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58784,
-            "title": "feat(Input): support global variant config for subcomponents",
-            "url": "https://github.com/ant-design/ant-design/pull/58784",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 1275,
-            "deletions": 14,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-07-24T01:44:50Z",
-            "mergedAt": "2026-07-28T03:44:06Z",
-            "closedAt": "2026-07-28T03:44:06Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 3986,
+        "total": 4000,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1168,11 +1168,11 @@
             },
             {
                 "date": "2026-08-05",
-                "count": 13
+                "count": 12
             },
             {
                 "date": "2026-08-06",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-08-07",

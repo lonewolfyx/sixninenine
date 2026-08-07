@@ -59,6 +59,30 @@
     },
     "pullRequest": [
         {
+            "number": 58912,
+            "title": "refactor(DatePicker): avoid semantic props type assertion",
+            "url": "https://github.com/ant-design/ant-design/pull/58912",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-08-07T12:13:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58905,
             "title": "fix(DatePicker): pass props to RangePicker semantic callbacks",
             "url": "https://github.com/ant-design/ant-design/pull/58905",
@@ -66,7 +90,7 @@
             "changedFiles": 3,
             "additions": 36,
             "deletions": 9,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-08-07T02:45:28Z",
             "mergedAt": "2026-08-07T02:58:45Z",
             "closedAt": "2026-08-07T02:58:45Z",
@@ -88,7 +112,7 @@
             "url": "https://github.com/ant-design/ant-design-cli/pull/213",
             "state": "OPEN",
             "changedFiles": 20,
-            "additions": 8979,
+            "additions": 8986,
             "deletions": 379,
             "totalCommentsCount": 20,
             "createdAt": "2026-08-06T01:55:33Z",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58831,
-            "title": "feat: support custom components in Pagination",
-            "url": "https://github.com/ant-design/ant-design/pull/58831",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 665,
-            "deletions": 1,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-07-29T07:23:40Z",
-            "mergedAt": "2026-08-07T07:26:24Z",
-            "closedAt": "2026-08-07T07:26:24Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4030,
+        "total": 4031,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1172,11 +1172,11 @@
             },
             {
                 "date": "2026-08-06",
-                "count": 21
+                "count": 20
             },
             {
                 "date": "2026-08-07",
-                "count": 24
+                "count": 26
             },
             {
                 "date": "2026-08-08",

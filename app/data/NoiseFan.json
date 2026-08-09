@@ -31,17 +31,65 @@
     },
     "pullRequest": [
         {
+            "number": 10895,
+            "title": "docs: normalize ordered list number",
+            "url": "https://github.com/vitest-dev/vitest/pull/10895",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-09T18:31:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitest",
+                "nameWithOwner": "vitest-dev/vitest",
+                "homepageUrl": "https://vitest.dev",
+                "description": "Next generation testing framework powered by Vite.",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/vitest"
+            }
+        },
+        {
+            "number": 1012,
+            "title": "docs(cn): update /guide/recipes",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1012",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 168,
+            "deletions": 168,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-08-09T18:13:21Z",
+            "mergedAt": "2026-08-09T18:28:36Z",
+            "closedAt": "2026-08-09T18:28:36Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 1011,
             "title": "docs(cn): update /guide",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1011",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 71,
-            "deletions": 71,
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 132,
+            "deletions": 133,
             "totalCommentsCount": 1,
             "createdAt": "2026-08-09T05:08:18Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-09T14:44:59Z",
+            "closedAt": "2026-08-09T14:44:59Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 11,
-            "title": "feat: error recovery",
-            "url": "https://github.com/NoiseFan/code-agent/pull/11",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 396,
-            "deletions": 10,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-25T21:22:16Z",
-            "mergedAt": "2026-06-25T21:22:53Z",
-            "closedAt": "2026-06-25T21:22:53Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
-        },
-        {
-            "number": 10,
-            "title": "feat: s10 system prompt",
-            "url": "https://github.com/NoiseFan/code-agent/pull/10",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 592,
-            "deletions": 117,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-06-23T17:53:40Z",
-            "mergedAt": "2026-06-24T18:57:09Z",
-            "closedAt": "2026-06-24T18:57:09Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 476,
+        "total": 480,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1156,11 +1156,11 @@
             },
             {
                 "date": "2026-08-09",
-                "count": 3
+                "count": 4
             },
             {
                 "date": "2026-08-10",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-11",

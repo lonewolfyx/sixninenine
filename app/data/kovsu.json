@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 18278,
+            "title": "fix(stream-manager): stop leaking per-stream destroyed listeners on WebContents",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18278",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 8,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-10T01:42:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 18068,
             "title": "fix(paths): divert dev logs directory away from packaged installs",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18068",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19782,
-            "title": "Keep LESS indirect property lookups tight",
-            "url": "https://github.com/prettier/prettier/pull/19782",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 101,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-08-04T07:47:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 561,
+        "total": 560,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1716,7 +1716,7 @@
             },
             {
                 "date": "2026-08-07",
-                "count": 4
+                "count": 2
             },
             {
                 "date": "2026-08-08",
@@ -1728,7 +1728,7 @@
             },
             {
                 "date": "2026-08-10",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-08-11",

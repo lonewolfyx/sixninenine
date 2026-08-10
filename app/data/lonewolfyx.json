@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 695,
+            "title": "ci(workflows): upgrade GitHub Actions versions and use node lts",
+            "url": "https://github.com/antdv-next/antdv-next/pull/695",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 26,
+            "deletions": 25,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-10T07:01:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 4,
             "title": "docs(profile): update README with local metrics images",
             "url": "https://github.com/lonewolfyx/lonewolfyx/pull/4",
@@ -870,30 +894,6 @@
                     "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(config): add path configuration for plugins directory",
-            "url": "https://github.com/lonewolfyx/vite-plus-plugin/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-06T05:59:30Z",
-            "mergedAt": "2026-08-06T06:00:02Z",
-            "closedAt": "2026-08-06T06:00:02Z",
-            "repository": {
-                "name": "vite-plus-plugin",
-                "nameWithOwner": "lonewolfyx/vite-plus-plugin",
-                "homepageUrl": null,
-                "description": "Efficient expansion of the Vite Plus ecosystem, seamlessly integrating core configurations.",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vite-plus-plugin"
             }
         },
         {
@@ -1066,7 +1066,7 @@
         }
     ],
     "contributions": {
-        "total": 10715,
+        "total": 10733,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1954,7 +1954,7 @@
             },
             {
                 "date": "2026-08-10",
-                "count": 4
+                "count": 22
             },
             {
                 "date": "2026-08-11",

@@ -6,7 +6,7 @@
         "url": "https://github.com/kovsu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=adc11ef878b8e3079c3d442b666556b5d869defe&v=4",
         "pronouns": "",
-        "followers": 83,
+        "followers": 84,
         "following": 27
     },
     "languages": [
@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 18294,
+            "title": "fix(mcp-runtime): propagate stream abort signal into in-flight MCP tool calls",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18294",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 386,
+            "deletions": 25,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-08-10T07:26:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 18278,
             "title": "fix(stream-manager): stop leaking per-stream destroyed listeners on WebContents",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18278",
@@ -606,7 +630,7 @@
             "changedFiles": 2,
             "additions": 1,
             "deletions": 8,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-08-10T01:42:36Z",
             "mergedAt": null,
             "closedAt": null,
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 17814,
-            "title": "perf(agent-session): publish background flow parts per message",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17814",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 158,
-            "deletions": 45,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-04T10:15:13Z",
-            "mergedAt": "2026-08-04T11:05:20Z",
-            "closedAt": "2026-08-04T11:05:20Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 560,
+        "total": 561,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1728,7 +1728,7 @@
             },
             {
                 "date": "2026-08-10",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-08-11",

@@ -54,6 +54,10 @@ export const openSourceMembers: OpenSourceMembersType = {
     'Vue': {
         contributors: ['jsy-0526', 'ArthurDarkstone', 'skyfeiz'],
     },
+    'Ant Design': {
+        team: ['QDyanbing'],
+        contributors: ['984507092', 'broBinChen'],
+    },
     'Vue Use': {
         team: ['ilyaliao'],
         contributors: [
@@ -93,10 +97,6 @@ export const openSourceMembers: OpenSourceMembersType = {
     },
     'SoybeanJS': {
         team: ['skyfeiz'],
-    },
-    'Ant Design': {
-        team: ['QDyanbing'],
-        contributors: ['984507092', 'broBinChen'],
     },
     'Ant Design Mobile': {
         contributors: ['984507092'],

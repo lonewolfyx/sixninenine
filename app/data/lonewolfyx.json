@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1778534,
+            "size": 1778550,
             "repoCount": 29,
             "progress": "51.01"
         },
@@ -825,17 +825,209 @@
     },
     "pullRequest": [
         {
+            "number": 49,
+            "title": "feat(members): move QDyanbing from contributors to team for Ant Design",
+            "url": "https://github.com/lonewolfyx/sixninenine/pull/49",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-11T07:05:44Z",
+            "mergedAt": "2026-08-11T07:05:56Z",
+            "closedAt": "2026-08-11T07:05:57Z",
+            "repository": {
+                "name": "sixninenine",
+                "nameWithOwner": "lonewolfyx/sixninenine",
+                "homepageUrl": "https://sixninenine.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/sixninenine"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat: antdv-next cli",
+            "url": "https://github.com/antdv-next/cli/pull/1",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 4320,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-11T06:45:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 23,
+            "title": "chore(deps): update typescript to version 6 in dev dependencies",
+            "url": "https://github.com/lonewolfyx/setup/pull/23",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-11T05:21:25Z",
+            "mergedAt": "2026-08-11T05:22:31Z",
+            "closedAt": "2026-08-11T05:22:31Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 22,
+            "title": "fix(config): replace nano-staged with lint-staged in package configuration",
+            "url": "https://github.com/lonewolfyx/setup/pull/22",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-11T05:18:24Z",
+            "mergedAt": "2026-08-11T05:19:05Z",
+            "closedAt": "2026-08-11T05:19:05Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 21,
+            "title": "refactor(cli): remove git verify commit configuration",
+            "url": "https://github.com/lonewolfyx/setup/pull/21",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-11T05:10:45Z",
+            "mergedAt": "2026-08-11T05:16:38Z",
+            "closedAt": "2026-08-11T05:16:38Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 20,
+            "title": "fix(github-workflows): update comment action to backup version",
+            "url": "https://github.com/lonewolfyx/setup/pull/20",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-11T05:08:31Z",
+            "mergedAt": "2026-08-11T05:09:03Z",
+            "closedAt": "2026-08-11T05:09:03Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 19,
+            "title": "fix(task): update gitignore template with enhanced content structure",
+            "url": "https://github.com/lonewolfyx/setup/pull/19",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 143,
+            "deletions": 140,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-11T05:07:09Z",
+            "mergedAt": "2026-08-11T05:08:32Z",
+            "closedAt": "2026-08-11T05:08:32Z",
+            "repository": {
+                "name": "setup",
+                "nameWithOwner": "lonewolfyx/setup",
+                "homepageUrl": null,
+                "description": "Instant project boilerplate setup",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/setup"
+            }
+        },
+        {
+            "number": 697,
+            "title": "feat(renovate): add configure renovate bot settings for github actions",
+            "url": "https://github.com/antdv-next/antdv-next/pull/697",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-11T02:50:55Z",
+            "mergedAt": "2026-08-11T03:30:51Z",
+            "closedAt": "2026-08-11T03:30:51Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 696,
             "title": "chore(gitignore): add pnpm store to gitignore",
             "url": "https://github.com/antdv-next/antdv-next/pull/696",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 3,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-11T01:28:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-11T03:19:32Z",
+            "closedAt": "2026-08-11T03:19:33Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -871,202 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/git-yaml-template"
             }
-        },
-        {
-            "number": 695,
-            "title": "ci(workflows): upgrade GitHub Actions versions and use node lts",
-            "url": "https://github.com/antdv-next/antdv-next/pull/695",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 26,
-            "deletions": 25,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-10T07:01:53Z",
-            "mergedAt": "2026-08-11T00:42:13Z",
-            "closedAt": "2026-08-11T00:42:13Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 4,
-            "title": "docs(profile): update README with local metrics images",
-            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/4",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-07T02:56:20Z",
-            "mergedAt": "2026-08-07T02:56:44Z",
-            "closedAt": "2026-08-07T02:56:44Z",
-            "repository": {
-                "name": "lonewolfyx",
-                "nameWithOwner": "lonewolfyx/lonewolfyx",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx"
-            }
-        },
-        {
-            "number": 3,
-            "title": "ci(profile): add GitHub profile statistics workflow",
-            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 51,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-08-07T02:50:13Z",
-            "mergedAt": "2026-08-07T02:52:29Z",
-            "closedAt": "2026-08-07T02:52:29Z",
-            "repository": {
-                "name": "lonewolfyx",
-                "nameWithOwner": "lonewolfyx/lonewolfyx",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx"
-            }
-        },
-        {
-            "number": 53,
-            "title": "chore: update new favicon.ico",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/53",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-06T05:47:37Z",
-            "mergedAt": "2026-08-06T05:47:54Z",
-            "closedAt": "2026-08-06T05:47:54Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 52,
-            "title": "docs(blogs): update import meta glob documentation",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/52",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-06T05:20:41Z",
-            "mergedAt": "2026-08-06T05:20:55Z",
-            "closedAt": "2026-08-06T05:20:55Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 51,
-            "title": "docs(blog): add blog post about import.meta.glob in frontend toolchain",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/51",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 61,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-06T03:16:30Z",
-            "mergedAt": "2026-08-06T03:16:44Z",
-            "closedAt": "2026-08-06T03:16:44Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 50,
-            "title": "feat(content): enhance ProseImg component with proper src handling",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/50",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 71,
-            "deletions": 29,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-06T02:12:24Z",
-            "mergedAt": "2026-08-06T02:12:50Z",
-            "closedAt": "2026-08-06T02:12:50Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 67,
-            "title": "fix(picker): disable attribute inheritance for panel components",
-            "url": "https://github.com/antdv-next/vue-components/pull/67",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-05T06:43:24Z",
-            "mergedAt": "2026-08-05T06:48:40Z",
-            "closedAt": "2026-08-05T06:48:40Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 10777,
+        "total": 10804,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1958,7 +1958,7 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 7
+                "count": 34
             },
             {
                 "date": "2026-08-12",

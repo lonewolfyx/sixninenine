@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1376534,
+            "size": 1390250,
             "repoCount": 6,
-            "progress": "84.57"
+            "progress": "84.66"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 123650,
             "repoCount": 8,
-            "progress": "7.60"
+            "progress": "7.53"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63156,
             "repoCount": 2,
-            "progress": "3.88"
+            "progress": "3.85"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "3.42"
+            "progress": "3.39"
         },
         {
             "name": "Less",
             "color": "#1d365d",
-            "size": 7943,
+            "size": 8566,
             "repoCount": 2,
-            "progress": "0.49"
+            "progress": "0.52"
         },
         {
             "name": "Shell",
@@ -170,14 +170,62 @@
     },
     "pullRequest": [
         {
+            "number": 58940,
+            "title": "test(BorderBeam): avoid testing internal hook directly",
+            "url": "https://github.com/ant-design/ant-design/pull/58940",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 20,
+            "deletions": 11,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-08-11T06:44:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 58939,
+            "title": "site: enable BackTop scroll progress on documentation pages",
+            "url": "https://github.com/ant-design/ant-design/pull/58939",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-11T03:30:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58938,
             "title": "docs: add guide for AI-assisted open source contributions",
             "url": "https://github.com/ant-design/ant-design/pull/58938",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 726,
-            "deletions": 0,
-            "totalCommentsCount": 4,
+            "changedFiles": 3,
+            "additions": 728,
+            "deletions": 1,
+            "totalCommentsCount": 12,
             "createdAt": "2026-08-11T02:35:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -360,58 +408,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58853,
-            "title": "fix(Drawer): honor disabled close button configuration",
-            "url": "https://github.com/ant-design/ant-design/pull/58853",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 23,
-            "deletions": 3,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-07-31T00:57:44Z",
-            "mergedAt": "2026-08-08T09:46:18Z",
-            "closedAt": "2026-08-08T09:46:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58843,
-            "title": "fix(Table): skip disabled rows across pages when selecting all data",
-            "url": "https://github.com/ant-design/ant-design/pull/58843",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 34,
-            "deletions": 2,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-07-30T08:30:50Z",
-            "mergedAt": "2026-08-01T00:22:58Z",
-            "closedAt": "2026-08-01T00:22:58Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4093,
+        "total": 4105,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1295,7 +1295,7 @@
             },
             {
                 "date": "2026-08-09",
-                "count": 16
+                "count": 15
             },
             {
                 "date": "2026-08-10",
@@ -1303,7 +1303,7 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 3
+                "count": 16
             },
             {
                 "date": "2026-08-12",

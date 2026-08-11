@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 696,
+            "title": "chore(gitignore): add pnpm store to gitignore",
+            "url": "https://github.com/antdv-next/antdv-next/pull/696",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-11T01:28:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 4,
             "title": "ci(workflow): update GitHub Actions workflow dependencies",
             "url": "https://github.com/lonewolfyx-template/git-yaml-template/pull/4",
@@ -852,14 +876,14 @@
             "number": 695,
             "title": "ci(workflows): upgrade GitHub Actions versions and use node lts",
             "url": "https://github.com/antdv-next/antdv-next/pull/695",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 26,
             "deletions": 25,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-10T07:01:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-11T00:42:13Z",
+            "closedAt": "2026-08-11T00:42:13Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 66,
-            "title": "fix(picker): add popup container ref to single picker component",
-            "url": "https://github.com/antdv-next/vue-components/pull/66",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-05T06:40:30Z",
-            "mergedAt": "2026-08-05T06:48:20Z",
-            "closedAt": "2026-08-05T06:48:20Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 10760,
+        "total": 10777,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1954,11 +1954,11 @@
             },
             {
                 "date": "2026-08-10",
-                "count": 49
+                "count": 59
             },
             {
                 "date": "2026-08-11",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-08-12",

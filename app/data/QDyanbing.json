@@ -162,13 +162,37 @@
                             }
                         }
                     ],
-                    "totalCount": 37
+                    "totalCount": 38
                 }
             }
         ],
         "totalCount": 1
     },
     "pullRequest": [
+        {
+            "number": 58938,
+            "title": "docs: add guide for AI-assisted open source contributions",
+            "url": "https://github.com/ant-design/ant-design/pull/58938",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 726,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-08-11T02:35:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 58912,
             "title": "refactor(DatePicker): avoid semantic props type assertion",
@@ -384,34 +408,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58835,
-            "title": "fix(Input): handle OTP mask input types consistently",
-            "url": "https://github.com/ant-design/ant-design/pull/58835",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 15,
-            "deletions": 14,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-29T11:39:21Z",
-            "mergedAt": "2026-07-29T19:19:02Z",
-            "closedAt": "2026-07-29T19:19:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4090,
+        "total": 4093,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1303,7 +1303,7 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-12",

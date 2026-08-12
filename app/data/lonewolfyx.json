@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 702,
+            "title": "ci(validate-pr-title): add semantic pull-request validation workflow",
+            "url": "https://github.com/antdv-next/antdv-next/pull/702",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 31,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-12T13:55:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 701,
             "title": "ci(pkg-size): add package size detection workflow",
             "url": "https://github.com/antdv-next/antdv-next/pull/701",
@@ -949,10 +973,10 @@
             "title": "feat: antdv-next cli",
             "url": "https://github.com/antdv-next/cli/pull/1",
             "state": "OPEN",
-            "changedFiles": 40,
-            "additions": 5177,
+            "changedFiles": 46,
+            "additions": 5894,
             "deletions": 0,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-08-11T06:45:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 20,
-            "title": "fix(github-workflows): update comment action to backup version",
-            "url": "https://github.com/lonewolfyx/setup/pull/20",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-11T05:08:31Z",
-            "mergedAt": "2026-08-11T05:09:03Z",
-            "closedAt": "2026-08-11T05:09:03Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 10860,
+        "total": 10872,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1962,7 +1962,7 @@
             },
             {
                 "date": "2026-08-12",
-                "count": 14
+                "count": 26
             },
             {
                 "date": "2026-08-13",

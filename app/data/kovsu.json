@@ -578,7 +578,7 @@
                             "name": "Eli",
                             "bio": "∃!Earthling; Programmer; Nerd; HS Student.\r\n∩{Flutter, TypeScript, Svelte, Elm, Python, Zsh, POSIX};\\n\r\n∪{Zig, Java, Nix, Tailwind CSS, Preact};\\r\\n\r\n∖{React}\\",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/88557639?u=cc8da19e923e55dc296b1f13b56e483d90bc68e6&v=4",
-                            "company": "Pattonville School District (@PSDTools, @PHS-TSA)",
+                            "company": "@RHIT",
                             "createdAt": "2021-08-06T18:50:54Z",
                             "email": "",
                             "location": "Earth, Solar System, Orion Arm, Milky Way, Local Group, Virgo Supercluster, Universe",
@@ -598,6 +598,54 @@
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 18416,
+            "title": "fix(provider-settings): restore model name truncation in manage drawer",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18416",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-12T02:36:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 18414,
+            "title": "fix(model-selector): add edge fade to overflowing tag filter row",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18414",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 71,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-12T02:21:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
         {
             "number": 18365,
             "title": "fix(system-ocr): re-encode JPEG to PNG on Windows so OCR decodes it",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18068,
-            "title": "fix(paths): divert dev logs directory away from packaged installs",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18068",
-            "state": "OPEN",
-            "changedFiles": 13,
-            "additions": 258,
-            "deletions": 19,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-07T02:52:53Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 17997,
-            "title": "fix(stream-manager): ignore stale terminal callbacks",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/17997",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 146,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-06T07:47:32Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 571,
+        "total": 574,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1736,7 +1736,7 @@
             },
             {
                 "date": "2026-08-12",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-13",

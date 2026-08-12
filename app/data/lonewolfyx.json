@@ -825,6 +825,78 @@
     },
     "pullRequest": [
         {
+            "number": 701,
+            "title": "ci(pkg-size): add package size detection workflow",
+            "url": "https://github.com/antdv-next/antdv-next/pull/701",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 162,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-12T01:41:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 699,
+            "title": "refactor(ci): restructure test workflow with conditional execution",
+            "url": "https://github.com/antdv-next/antdv-next/pull/699",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 33,
+            "deletions": 12,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-11T16:07:54Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-12T01:13:59Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 698,
+            "title": "test(workflow): update test workflow to use sharded execution",
+            "url": "https://github.com/antdv-next/antdv-next/pull/698",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-11T15:49:09Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-11T16:07:13Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 50,
             "title": "fix(members): move Ant Design entry from bottom to proper alphabetical position",
             "url": "https://github.com/lonewolfyx/sixninenine/pull/50",
@@ -877,8 +949,8 @@
             "title": "feat: antdv-next cli",
             "url": "https://github.com/antdv-next/cli/pull/1",
             "state": "OPEN",
-            "changedFiles": 34,
-            "additions": 4617,
+            "changedFiles": 35,
+            "additions": 4622,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-08-11T06:45:59Z",
@@ -991,82 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 19,
-            "title": "fix(task): update gitignore template with enhanced content structure",
-            "url": "https://github.com/lonewolfyx/setup/pull/19",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 143,
-            "deletions": 140,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-11T05:07:09Z",
-            "mergedAt": "2026-08-11T05:08:32Z",
-            "closedAt": "2026-08-11T05:08:32Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
-        },
-        {
-            "number": 697,
-            "title": "feat(renovate): add configure renovate bot settings for github actions",
-            "url": "https://github.com/antdv-next/antdv-next/pull/697",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 18,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-11T02:50:55Z",
-            "mergedAt": "2026-08-11T03:30:51Z",
-            "closedAt": "2026-08-11T03:30:51Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 696,
-            "title": "chore(gitignore): add pnpm store to gitignore",
-            "url": "https://github.com/antdv-next/antdv-next/pull/696",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-11T01:28:39Z",
-            "mergedAt": "2026-08-11T03:19:32Z",
-            "closedAt": "2026-08-11T03:19:33Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 10822,
+        "total": 10851,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1958,11 +1958,11 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 52
+                "count": 76
             },
             {
                 "date": "2026-08-12",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-08-13",

@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 13,
+            "title": "feat(utils): add URL validation utility function",
+            "url": "https://github.com/lonewolfyx/utils/pull/13",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 42,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-13T08:42:02Z",
+            "mergedAt": "2026-08-13T08:42:18Z",
+            "closedAt": "2026-08-13T08:42:18Z",
+            "repository": {
+                "name": "utils",
+                "nameWithOwner": "lonewolfyx/utils",
+                "homepageUrl": "https://lonewolfyx-utils.vercel.app",
+                "description": "Collection of common JavaScript / TypeScript utils",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/utils"
+            }
+        },
+        {
             "number": 702,
             "title": "ci(validate-pr-title): add semantic pull-request validation workflow",
             "url": "https://github.com/antdv-next/antdv-next/pull/702",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/setup"
             }
-        },
-        {
-            "number": 21,
-            "title": "refactor(cli): remove git verify commit configuration",
-            "url": "https://github.com/lonewolfyx/setup/pull/21",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-11T05:10:45Z",
-            "mergedAt": "2026-08-11T05:16:38Z",
-            "closedAt": "2026-08-11T05:16:38Z",
-            "repository": {
-                "name": "setup",
-                "nameWithOwner": "lonewolfyx/setup",
-                "homepageUrl": null,
-                "description": "Instant project boilerplate setup",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/setup"
-            }
         }
     ],
     "contributions": {
-        "total": 10915,
+        "total": 10932,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1966,7 +1966,7 @@
             },
             {
                 "date": "2026-08-13",
-                "count": 13
+                "count": 30
             },
             {
                 "date": "2026-08-14",

@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/137589237?u=82d145701ac01d47bf64c14b689a29316f117220&v=4",
         "pronouns": "",
         "followers": 7,
-        "following": 25
+        "following": 26
     },
     "languages": [
         {
@@ -58,6 +58,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 706,
+            "title": "fix(form): stop deriving validation rules from FormItem required",
+            "url": "https://github.com/antdv-next/antdv-next/pull/706",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 27,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-13T15:12:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
         {
             "number": 23464,
             "title": "refactor(components): [skeleton/skeletonItem] use type-based definitions",
@@ -273,34 +297,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/sixninenine"
             }
-        },
-        {
-            "number": 828,
-            "title": "docs(cli):  Translate the missing content of cli-generated",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/828",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 15,
-            "totalCommentsCount": 4,
-            "createdAt": "2025-12-06T16:19:22Z",
-            "mergedAt": "2025-12-06T17:30:41Z",
-            "closedAt": "2025-12-06T17:30:41Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 233,
+        "total": 234,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1200,7 +1200,7 @@
             },
             {
                 "date": "2026-08-13",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-08-14",

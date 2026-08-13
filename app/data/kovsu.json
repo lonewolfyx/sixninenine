@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 18492,
+            "title": "fix(stream-manager): pass assistantId through the retry context resolution",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18492",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-13T02:52:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 19839,
+            "title": "Print leading thematic break as `***`",
+            "url": "https://github.com/prettier/prettier/pull/19839",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 69,
+            "deletions": 15,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-13T01:29:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 18416,
             "title": "fix(provider-settings): restore model name truncation in manage drawer",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18416",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18294,
-            "title": "fix(mcp-runtime): propagate stream abort signal into in-flight MCP tool calls",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18294",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 538,
-            "deletions": 39,
-            "totalCommentsCount": 17,
-            "createdAt": "2026-08-10T07:26:43Z",
-            "mergedAt": "2026-08-10T10:24:16Z",
-            "closedAt": "2026-08-10T10:24:16Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 18278,
-            "title": "fix(stream-manager): stop leaking per-stream destroyed listeners on WebContents",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18278",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 1,
-            "deletions": 8,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-10T01:42:36Z",
-            "mergedAt": "2026-08-12T07:21:07Z",
-            "closedAt": "2026-08-12T07:21:07Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 578,
+        "total": 581,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1740,7 +1740,7 @@
             },
             {
                 "date": "2026-08-13",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-14",

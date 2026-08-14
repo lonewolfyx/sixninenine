@@ -143,6 +143,30 @@
     },
     "pullRequest": [
         {
+            "number": 24726,
+            "title": "fix(components): [date-picker] remove keyboard navigation for `quarters`",
+            "url": "https://github.com/element-plus/element-plus/pull/24726",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 73,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-14T07:06:42Z",
+            "mergedAt": "2026-08-14T08:24:50Z",
+            "closedAt": "2026-08-14T08:24:51Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 3155,
             "title": "feat: add `isSameOrAfter`/`isSameOrBefore` types to `quarterOfYear`",
             "url": "https://github.com/iamkun/dayjs/pull/3155",
@@ -357,34 +381,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23507,
-            "title": "fix(components): [select/select-v2] avoid triggering multiple `visible-change` during the first search",
-            "url": "https://github.com/element-plus/element-plus/pull/23507",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-01-23T01:37:25Z",
-            "mergedAt": "2026-01-30T08:48:41Z",
-            "closedAt": "2026-01-30T08:48:41Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 264,
+        "total": 267,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1288,7 +1288,7 @@
             },
             {
                 "date": "2026-08-14",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-15",

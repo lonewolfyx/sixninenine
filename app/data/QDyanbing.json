@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1411108,
+            "size": 1436835,
             "repoCount": 6,
-            "progress": "84.04"
+            "progress": "84.25"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 138551,
             "repoCount": 9,
-            "progress": "8.25"
+            "progress": "8.12"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63156,
             "repoCount": 2,
-            "progress": "3.76"
+            "progress": "3.70"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "3.31"
+            "progress": "3.26"
         },
         {
             "name": "Less",
             "color": "#1d365d",
-            "size": 9831,
+            "size": 10473,
             "repoCount": 2,
-            "progress": "0.59"
+            "progress": "0.61"
         },
         {
             "name": "Shell",
@@ -277,6 +277,30 @@
     },
     "pullRequest": [
         {
+            "number": 58989,
+            "title": "docs(Form): correct required default value",
+            "url": "https://github.com/ant-design/ant-design/pull/58989",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-08-14T02:57:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 58979,
             "title": "feat(Dropdown): add menu Semantic DOM",
             "url": "https://github.com/ant-design/ant-design/pull/58979",
@@ -304,14 +328,14 @@
             "number": 58976,
             "title": "docs: use AGENTS.md as the canonical project guide",
             "url": "https://github.com/ant-design/ant-design/pull/58976",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 7,
             "additions": 300,
             "deletions": 300,
             "totalCommentsCount": 9,
             "createdAt": "2026-08-13T02:05:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-14T00:26:19Z",
+            "closedAt": "2026-08-14T00:26:19Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -491,34 +515,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58905,
-            "title": "fix(DatePicker): pass props to RangePicker semantic callbacks",
-            "url": "https://github.com/ant-design/ant-design/pull/58905",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 36,
-            "deletions": 9,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-07T02:45:28Z",
-            "mergedAt": "2026-08-07T02:58:45Z",
-            "closedAt": "2026-08-07T02:58:45Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4150,
+        "total": 4165,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1422,7 +1422,7 @@
             },
             {
                 "date": "2026-08-14",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-08-15",

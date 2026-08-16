@@ -599,17 +599,41 @@
     },
     "pullRequest": [
         {
+            "number": 18692,
+            "title": "fix(mcp-runtime): tombstone removed servers to stop ghost stdio clients",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18692",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 328,
+            "deletions": 54,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-16T09:38:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 18670,
             "title": "fix(mcp): redact secrets from logging notification message",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18670",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 52,
             "deletions": 3,
             "totalCommentsCount": 1,
             "createdAt": "2026-08-15T17:23:30Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-16T07:39:18Z",
+            "closedAt": "2026-08-16T07:39:19Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18335,
-            "title": "fix(system-ocr): send image bytes on Windows so JPEG decodes",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18335",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 67,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-11T02:32:36Z",
-            "mergedAt": "2026-08-11T03:56:17Z",
-            "closedAt": "2026-08-11T03:56:17Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 588,
+        "total": 590,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1752,7 +1752,7 @@
             },
             {
                 "date": "2026-08-16",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-08-17",

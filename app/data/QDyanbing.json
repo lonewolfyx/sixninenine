@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 18,
+        "followers": 19,
         "following": 15
     },
     "languages": [
@@ -277,6 +277,30 @@
     },
     "pullRequest": [
         {
+            "number": 758,
+            "title": "fix: correct XFilled icon rendering",
+            "url": "https://github.com/ant-design/ant-design-icons/pull/758",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-08-17T11:10:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-icons",
+                "nameWithOwner": "ant-design/ant-design-icons",
+                "homepageUrl": "https://ant.design/components/icon/",
+                "description": "⭐ Ant Design SVG Icons",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design-icons"
+            }
+        },
+        {
             "number": 59016,
             "title": "fix(Transfer): avoid duplicate onSearch calls when clearing",
             "url": "https://github.com/ant-design/ant-design/pull/59016",
@@ -491,34 +515,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58938,
-            "title": "docs: add guide for AI-assisted open source contributions",
-            "url": "https://github.com/ant-design/ant-design/pull/58938",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 606,
-            "deletions": 1,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-08-11T02:35:26Z",
-            "mergedAt": "2026-08-12T02:53:49Z",
-            "closedAt": "2026-08-12T02:53:49Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4226,
+        "total": 4230,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1434,7 +1434,7 @@
             },
             {
                 "date": "2026-08-17",
-                "count": 16
+                "count": 20
             },
             {
                 "date": "2026-08-18",

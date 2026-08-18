@@ -825,6 +825,30 @@
     },
     "pullRequest": [
         {
+            "number": 751,
+            "title": "fix(router): improve hash navigation stability with layout adjustments",
+            "url": "https://github.com/antdv-next/antdv-next/pull/751",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 48,
+            "deletions": 10,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-18T01:43:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 713,
             "title": "docs(getting-started): update getting started documentation with spacing improvements",
             "url": "https://github.com/antdv-next/antdv-next/pull/713",
@@ -1039,34 +1063,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 698,
-            "title": "test(workflow): update test workflow to use sharded execution",
-            "url": "https://github.com/antdv-next/antdv-next/pull/698",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-11T15:49:09Z",
-            "mergedAt": null,
-            "closedAt": "2026-08-11T16:07:13Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 11173,
+        "total": 11189,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1982,11 +1982,11 @@
             },
             {
                 "date": "2026-08-17",
-                "count": 41
+                "count": 52
             },
             {
                 "date": "2026-08-18",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-08-19",

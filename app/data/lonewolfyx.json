@@ -897,6 +897,102 @@
     },
     "pullRequest": [
         {
+            "number": 14,
+            "title": "feat(cli): add demo command for component examples",
+            "url": "https://github.com/antdv-next/cli/pull/14",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 142,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-18T16:33:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 13,
+            "title": "ci(build-size): enable build size check for pull requests",
+            "url": "https://github.com/antdv-next/cli/pull/13",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-18T14:46:26Z",
+            "mergedAt": "2026-08-18T14:48:22Z",
+            "closedAt": "2026-08-18T14:48:22Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 12,
+            "title": "ci(build-size-comment): update build size report labels to English",
+            "url": "https://github.com/antdv-next/cli/pull/12",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-18T14:16:59Z",
+            "mergedAt": "2026-08-18T14:43:56Z",
+            "closedAt": "2026-08-18T14:43:56Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 11,
+            "title": "docs(readme): update antd command to antdv in mcpServers configuration",
+            "url": "https://github.com/antdv-next/cli/pull/11",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 130,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-18T13:37:15Z",
+            "mergedAt": "2026-08-18T13:53:56Z",
+            "closedAt": "2026-08-18T13:53:56Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 10,
             "title": "ci(size-repo): add build size comparison workflow",
             "url": "https://github.com/antdv-next/cli/pull/10",
@@ -1039,106 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 4,
-            "title": "ci(test): add test workflow configuration",
-            "url": "https://github.com/antdv-next/cli/pull/4",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 36,
-            "deletions": 7,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T06:01:10Z",
-            "mergedAt": "2026-08-18T06:13:00Z",
-            "closedAt": "2026-08-18T06:13:00Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 3,
-            "title": "docs(readme): update installation and command documentation",
-            "url": "https://github.com/antdv-next/cli/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 20,
-            "deletions": 21,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-18T05:53:18Z",
-            "mergedAt": "2026-08-18T05:54:59Z",
-            "closedAt": "2026-08-18T05:54:59Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 751,
-            "title": "fix(router): improve hash navigation stability with layout adjustments",
-            "url": "https://github.com/antdv-next/antdv-next/pull/751",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 48,
-            "deletions": 10,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-18T01:43:51Z",
-            "mergedAt": "2026-08-18T02:35:14Z",
-            "closedAt": "2026-08-18T02:35:14Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 713,
-            "title": "docs(getting-started): update getting started documentation with spacing improvements",
-            "url": "https://github.com/antdv-next/antdv-next/pull/713",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-14T05:30:25Z",
-            "mergedAt": "2026-08-14T05:43:40Z",
-            "closedAt": "2026-08-14T05:43:40Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 11238,
+        "total": 11262,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2058,11 +2058,11 @@
             },
             {
                 "date": "2026-08-18",
-                "count": 54
+                "count": 77
             },
             {
                 "date": "2026-08-19",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-08-20",

@@ -15,42 +15,42 @@
             "color": "#f1e05a",
             "size": 577325,
             "repoCount": 26,
-            "progress": "36.20"
+            "progress": "35.99"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 542539,
             "repoCount": 20,
-            "progress": "34.02"
+            "progress": "33.82"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 276544,
             "repoCount": 15,
-            "progress": "17.34"
+            "progress": "17.24"
         },
         {
             "name": "MDX",
             "color": "#fcb32c",
             "size": 102259,
             "repoCount": 1,
-            "progress": "6.41"
+            "progress": "6.37"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 49648,
             "repoCount": 15,
-            "progress": "3.11"
+            "progress": "3.09"
         },
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 34006,
-            "repoCount": 4,
-            "progress": "2.13"
+            "size": 43621,
+            "repoCount": 5,
+            "progress": "2.72"
         },
         {
             "name": "HTML",
@@ -624,17 +624,41 @@
     },
     "pullRequest": [
         {
+            "number": 4,
+            "title": "chore: add playground verification skill",
+            "url": "https://github.com/ilyaliao/monaco-unocss/pull/4",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 684,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-18T15:11:40Z",
+            "mergedAt": "2026-08-18T15:14:05Z",
+            "closedAt": "2026-08-18T15:14:05Z",
+            "repository": {
+                "name": "monaco-unocss",
+                "nameWithOwner": "ilyaliao/monaco-unocss",
+                "homepageUrl": "https://monaco-unocss-playground.vercel.app/",
+                "description": "UnoCSS intellisense support in Monaco editor",
+                "owner": {
+                    "login": "ilyaliao",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
+                },
+                "url": "https://github.com/ilyaliao/monaco-unocss"
+            }
+        },
+        {
             "number": 3,
             "title": "chore: add Cloud Agent development environment",
             "url": "https://github.com/ilyaliao/monaco-unocss/pull/3",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 48,
             "deletions": 0,
             "totalCommentsCount": 1,
             "createdAt": "2026-08-18T12:33:54Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-18T13:33:48Z",
+            "closedAt": "2026-08-18T13:33:48Z",
             "repository": {
                 "name": "monaco-unocss",
                 "nameWithOwner": "ilyaliao/monaco-unocss",
@@ -838,34 +862,10 @@
                 },
                 "url": "https://github.com/TableProApp/TablePro"
             }
-        },
-        {
-            "number": 25,
-            "title": "feat: support hiding PRs from private repos",
-            "url": "https://github.com/atinux/my-pull-requests/pull/25",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-06-11T17:38:41Z",
-            "mergedAt": "2026-06-12T15:40:27Z",
-            "closedAt": "2026-06-12T15:40:27Z",
-            "repository": {
-                "name": "my-pull-requests",
-                "nameWithOwner": "atinux/my-pull-requests",
-                "homepageUrl": "https://prs.atinux.com",
-                "description": "Showcase your Open Source Contributions (pull requests).",
-                "owner": {
-                    "login": "atinux",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/904724?u=6c520432e20d5ed603246764658accea4b4043c3&v=4"
-                },
-                "url": "https://github.com/atinux/my-pull-requests"
-            }
         }
     ],
     "contributions": {
-        "total": 971,
+        "total": 976,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1785,11 +1785,11 @@
             },
             {
                 "date": "2026-08-18",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-08-19",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-08-20",

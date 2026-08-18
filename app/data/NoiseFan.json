@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
         "followers": 22,
-        "following": 17
+        "following": 18
     },
     "languages": [
         {
@@ -30,6 +30,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 59031,
+            "title": "docs: sync TimePicker API types",
+            "url": "https://github.com/ant-design/ant-design/pull/59031",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-08-18T02:32:11Z",
+            "mergedAt": "2026-08-18T02:56:06Z",
+            "closedAt": "2026-08-18T02:56:06Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59030,
+            "title": "docs(DatePicker): restore showNow version",
+            "url": "https://github.com/ant-design/ant-design/pull/59030",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-08-18T02:27:36Z",
+            "mergedAt": "2026-08-18T02:37:35Z",
+            "closedAt": "2026-08-18T02:37:35Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 59027,
             "title": "docs: sync Transfer `local.notFoundContent` default value",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1005,
-            "title": "chore: add `eslint-plugin-md-style` to v3 branch",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1005",
-            "state": "MERGED",
-            "changedFiles": 69,
-            "additions": 3587,
-            "deletions": 2482,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-21T12:06:22Z",
-            "mergedAt": "2026-07-21T12:12:44Z",
-            "closedAt": "2026-07-21T12:12:44Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 14,
-            "title": "chore: add lint hook",
-            "url": "https://github.com/NoiseFan/code-agent/pull/14",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 314,
-            "deletions": 81,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-07T15:01:55Z",
-            "mergedAt": "2026-07-07T15:02:55Z",
-            "closedAt": "2026-07-07T15:02:55Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
         }
     ],
     "contributions": {
-        "total": 488,
+        "total": 492,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1192,7 +1192,7 @@
             },
             {
                 "date": "2026-08-18",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-08-19",

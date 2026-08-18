@@ -599,14 +599,38 @@
     },
     "pullRequest": [
         {
+            "number": 18777,
+            "title": "fix(obsidian-export): prevent duplicate export on double click",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/18777",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 39,
+            "deletions": 32,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-18T02:14:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 18776,
             "title": "feat(artifact-pane): add copy path context menu to workspace file tree",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18776",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 70,
-            "deletions": 5,
-            "totalCommentsCount": 0,
+            "changedFiles": 6,
+            "additions": 111,
+            "deletions": 7,
+            "totalCommentsCount": 3,
             "createdAt": "2026-08-18T01:44:26Z",
             "mergedAt": null,
             "closedAt": null,
@@ -627,10 +651,10 @@
             "title": "perf(core): cache selection matcher regular expressions",
             "url": "https://github.com/flint-fyi/flint/pull/3247",
             "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 10,
+            "changedFiles": 2,
+            "additions": 33,
             "deletions": 1,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-08-18T01:10:11Z",
             "mergedAt": null,
             "closedAt": null,
@@ -650,14 +674,14 @@
             "number": 18773,
             "title": "fix(xlsx-preview): terminate parse worker on terminal states",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18773",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 33,
             "deletions": 2,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 2,
             "createdAt": "2026-08-18T00:48:55Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-18T03:19:50Z",
+            "closedAt": "2026-08-18T03:19:50Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -698,14 +722,14 @@
             "number": 18716,
             "title": "fix(dsh-runtime): bind send_message anchors by their target subagent id",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18716",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 104,
             "deletions": 15,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-08-17T02:58:17Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-18T02:39:49Z",
+            "closedAt": "2026-08-18T02:39:49Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18492,
-            "title": "fix(stream-manager): pass assistantId through the retry context resolution",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18492",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-13T02:52:00Z",
-            "mergedAt": "2026-08-13T03:21:34Z",
-            "closedAt": "2026-08-13T03:21:34Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 598,
+        "total": 601,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1760,7 +1760,7 @@
             },
             {
                 "date": "2026-08-18",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-08-19",

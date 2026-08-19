@@ -897,6 +897,54 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "feat(doc): add doc command",
+            "url": "https://github.com/antdv-next/cli/pull/27",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 37,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-19T15:24:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 26,
+            "title": "fix(args): replace tokenArgs with componentArgs in command configuration",
+            "url": "https://github.com/antdv-next/cli/pull/26",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 4,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-19T15:10:05Z",
+            "mergedAt": "2026-08-19T15:15:52Z",
+            "closedAt": "2026-08-19T15:15:52Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 59052,
             "title": "docs(Slider): document range object type",
             "url": "https://github.com/ant-design/ant-design/pull/59052",
@@ -1087,58 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 20,
-            "title": "ci(autofix): update autofix action to latest version",
-            "url": "https://github.com/antdv-next/cli/pull/20",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T05:27:17Z",
-            "mergedAt": "2026-08-19T05:28:10Z",
-            "closedAt": "2026-08-19T05:28:10Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 19,
-            "title": "refactor(sync): move utility functions to separate modules",
-            "url": "https://github.com/antdv-next/cli/pull/19",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 678,
-            "deletions": 728,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-19T05:20:54Z",
-            "mergedAt": "2026-08-19T05:26:23Z",
-            "closedAt": "2026-08-19T05:26:23Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11333,
+        "total": 11352,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2062,7 +2062,7 @@
             },
             {
                 "date": "2026-08-19",
-                "count": 62
+                "count": 81
             },
             {
                 "date": "2026-08-20",

@@ -897,6 +897,78 @@
     },
     "pullRequest": [
         {
+            "number": 59052,
+            "title": "docs(Slider): document range object type",
+            "url": "https://github.com/ant-design/ant-design/pull/59052",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-08-19T08:32:06Z",
+            "mergedAt": "2026-08-19T10:53:43Z",
+            "closedAt": "2026-08-19T10:53:43Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59051,
+            "title": "docs: add Upload data version",
+            "url": "https://github.com/ant-design/ant-design/pull/59051",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 14,
+            "createdAt": "2026-08-19T08:11:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59050,
+            "title": "docs: add explicit anchors to Chinese headings",
+            "url": "https://github.com/ant-design/ant-design/pull/59050",
+            "state": "MERGED",
+            "changedFiles": 26,
+            "additions": 34,
+            "deletions": 34,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-19T08:02:51Z",
+            "mergedAt": "2026-08-19T08:13:43Z",
+            "closedAt": "2026-08-19T08:13:43Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 25,
             "title": "ci: add PR title validation workflow",
             "url": "https://github.com/antdv-next/cli/pull/25",
@@ -1063,82 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 18,
-            "title": "chore(lint): disable unused variable rule for imports",
-            "url": "https://github.com/antdv-next/cli/pull/18",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 6,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-19T02:42:36Z",
-            "mergedAt": "2026-08-19T02:43:34Z",
-            "closedAt": "2026-08-19T02:43:34Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 17,
-            "title": "feat(semantic): add component semantic structure query command",
-            "url": "https://github.com/antdv-next/cli/pull/17",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 83,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-19T02:38:09Z",
-            "mergedAt": "2026-08-19T02:40:52Z",
-            "closedAt": "2026-08-19T02:40:52Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 16,
-            "title": "ci(sync): remove pnpm version specification from sync workflow",
-            "url": "https://github.com/antdv-next/cli/pull/16",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T02:10:09Z",
-            "mergedAt": "2026-08-19T02:10:29Z",
-            "closedAt": "2026-08-19T02:10:29Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11313,
+        "total": 11333,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2062,7 +2062,7 @@
             },
             {
                 "date": "2026-08-19",
-                "count": 42
+                "count": 62
             },
             {
                 "date": "2026-08-20",

@@ -7,29 +7,29 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
         "followers": 20,
-        "following": 15
+        "following": 16
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1530468,
+            "size": 1532672,
             "repoCount": 6,
-            "progress": "84.86"
+            "progress": "84.88"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 140498,
             "repoCount": 9,
-            "progress": "7.79"
+            "progress": "7.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63425,
             "repoCount": 2,
-            "progress": "3.52"
+            "progress": "3.51"
         },
         {
             "name": "HTML",
@@ -43,7 +43,7 @@
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.71"
+            "progress": "0.70"
         },
         {
             "name": "Shell",
@@ -280,6 +280,30 @@
     },
     "pullRequest": [
         {
+            "number": 229,
+            "title": "feat: warn when --version resolves to a different bundled snapshot",
+            "url": "https://github.com/ant-design/ant-design-cli/pull/229",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 173,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-19T05:27:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design-cli",
+                "nameWithOwner": "ant-design/ant-design-cli",
+                "homepageUrl": "https://ant.design/docs/react/cli",
+                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design-cli"
+            }
+        },
+        {
             "number": 59029,
             "title": "fix(Tree): handle zero key in DirectoryTree range selection",
             "url": "https://github.com/ant-design/ant-design/pull/59029",
@@ -494,34 +518,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58961,
-            "title": "docs(BorderBeam): clarify size limitations",
-            "url": "https://github.com/ant-design/ant-design/pull/58961",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 16,
-            "deletions": 0,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-08-12T01:04:00Z",
-            "mergedAt": "2026-08-12T01:19:33Z",
-            "closedAt": "2026-08-12T01:19:33Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4247,
+        "total": 4260,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1445,7 +1445,7 @@
             },
             {
                 "date": "2026-08-19",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-08-20",

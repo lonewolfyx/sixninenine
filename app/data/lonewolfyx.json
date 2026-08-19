@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
         "pronouns": "",
         "followers": 98,
-        "following": 93
+        "following": 94
     },
     "languages": [
         {
@@ -897,17 +897,41 @@
     },
     "pullRequest": [
         {
-            "number": 14,
-            "title": "feat(cli): add demo command for component examples",
-            "url": "https://github.com/antdv-next/cli/pull/14",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 142,
+            "number": 25,
+            "title": "ci: add PR title validation workflow",
+            "url": "https://github.com/antdv-next/cli/pull/25",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 31,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-19T06:24:00Z",
+            "mergedAt": "2026-08-19T06:24:49Z",
+            "closedAt": "2026-08-19T06:24:49Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 24,
+            "title": "fix(commands): replace console.log with error logging utility",
+            "url": "https://github.com/antdv-next/cli/pull/24",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
             "deletions": 4,
             "totalCommentsCount": 2,
-            "createdAt": "2026-08-18T16:33:16Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "createdAt": "2026-08-19T06:19:38Z",
+            "mergedAt": "2026-08-19T06:20:39Z",
+            "closedAt": "2026-08-19T06:20:39Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -921,17 +945,41 @@
             }
         },
         {
-            "number": 13,
-            "title": "ci(build-size): enable build size check for pull requests",
-            "url": "https://github.com/antdv-next/cli/pull/13",
+            "number": 23,
+            "title": "feat(error): replace console.log with logErrorComponent utility",
+            "url": "https://github.com/antdv-next/cli/pull/23",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 9,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-19T06:03:11Z",
+            "mergedAt": "2026-08-19T06:04:04Z",
+            "closedAt": "2026-08-19T06:04:04Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 22,
+            "title": "ci(sync): add conditional sync check to GitHub workflow",
+            "url": "https://github.com/antdv-next/cli/pull/22",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
+            "additions": 30,
+            "deletions": 0,
             "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T14:46:26Z",
-            "mergedAt": "2026-08-18T14:48:22Z",
-            "closedAt": "2026-08-18T14:48:22Z",
+            "createdAt": "2026-08-19T05:50:02Z",
+            "mergedAt": "2026-08-19T05:51:10Z",
+            "closedAt": "2026-08-19T05:51:10Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -945,65 +993,17 @@
             }
         },
         {
-            "number": 12,
-            "title": "ci(build-size-comment): update build size report labels to English",
-            "url": "https://github.com/antdv-next/cli/pull/12",
+            "number": 21,
+            "title": "feat(scripts): add check-sync-needed script for antdv-next package",
+            "url": "https://github.com/antdv-next/cli/pull/21",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T14:16:59Z",
-            "mergedAt": "2026-08-18T14:43:56Z",
-            "closedAt": "2026-08-18T14:43:56Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 11,
-            "title": "docs(readme): update antd command to antdv in mcpServers configuration",
-            "url": "https://github.com/antdv-next/cli/pull/11",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 130,
-            "deletions": 34,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T13:37:15Z",
-            "mergedAt": "2026-08-18T13:53:56Z",
-            "closedAt": "2026-08-18T13:53:56Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 10,
-            "title": "ci(size-repo): add build size comparison workflow",
-            "url": "https://github.com/antdv-next/cli/pull/10",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 290,
+            "additions": 58,
             "deletions": 0,
             "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T08:54:29Z",
-            "mergedAt": "2026-08-18T09:00:38Z",
-            "closedAt": "2026-08-18T09:00:38Z",
+            "createdAt": "2026-08-19T05:48:55Z",
+            "mergedAt": "2026-08-19T05:50:22Z",
+            "closedAt": "2026-08-19T05:50:22Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1017,41 +1017,17 @@
             }
         },
         {
-            "number": 5,
-            "title": "ci(github-actions): add workflows for package publishing and testing",
-            "url": "https://github.com/lonewolfyx-template/git-yaml-template/pull/5",
+            "number": 20,
+            "title": "ci(autofix): update autofix action to latest version",
+            "url": "https://github.com/antdv-next/cli/pull/20",
             "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 72,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T08:18:39Z",
-            "mergedAt": "2026-08-18T08:19:10Z",
-            "closedAt": "2026-08-18T08:19:10Z",
-            "repository": {
-                "name": "git-yaml-template",
-                "nameWithOwner": "lonewolfyx-template/git-yaml-template",
-                "homepageUrl": null,
-                "description": ".github yaml template",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/git-yaml-template"
-            }
-        },
-        {
-            "number": 9,
-            "title": "ci: restrict workflow triggers to source and test directories",
-            "url": "https://github.com/antdv-next/cli/pull/9",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 6,
+            "changedFiles": 1,
+            "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T08:00:00Z",
-            "mergedAt": "2026-08-18T08:01:14Z",
-            "closedAt": "2026-08-18T08:01:14Z",
+            "createdAt": "2026-08-19T05:27:17Z",
+            "mergedAt": "2026-08-19T05:28:10Z",
+            "closedAt": "2026-08-19T05:28:10Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1065,17 +1041,17 @@
             }
         },
         {
-            "number": 7,
-            "title": "test(cli): remove unit tests and add integration tests for env command",
-            "url": "https://github.com/antdv-next/cli/pull/7",
+            "number": 19,
+            "title": "refactor(sync): move utility functions to separate modules",
+            "url": "https://github.com/antdv-next/cli/pull/19",
             "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 90,
-            "deletions": 45,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T06:44:17Z",
-            "mergedAt": "2026-08-18T06:45:36Z",
-            "closedAt": "2026-08-18T06:45:37Z",
+            "changedFiles": 14,
+            "additions": 678,
+            "deletions": 728,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-19T05:20:54Z",
+            "mergedAt": "2026-08-19T05:26:23Z",
+            "closedAt": "2026-08-19T05:26:23Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1089,17 +1065,17 @@
             }
         },
         {
-            "number": 6,
-            "title": "style(format): standardize indentation and whitespace across files",
-            "url": "https://github.com/antdv-next/cli/pull/6",
+            "number": 18,
+            "title": "chore(lint): disable unused variable rule for imports",
+            "url": "https://github.com/antdv-next/cli/pull/18",
             "state": "MERGED",
-            "changedFiles": 65,
-            "additions": 190813,
-            "deletions": 190813,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T06:31:14Z",
-            "mergedAt": "2026-08-18T06:32:28Z",
-            "closedAt": "2026-08-18T06:32:28Z",
+            "changedFiles": 5,
+            "additions": 6,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-19T02:42:36Z",
+            "mergedAt": "2026-08-19T02:43:34Z",
+            "closedAt": "2026-08-19T02:43:34Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1113,17 +1089,41 @@
             }
         },
         {
-            "number": 5,
-            "title": "docs: update readme",
-            "url": "https://github.com/antdv-next/cli/pull/5",
+            "number": 17,
+            "title": "feat(semantic): add component semantic structure query command",
+            "url": "https://github.com/antdv-next/cli/pull/17",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 83,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-19T02:38:09Z",
+            "mergedAt": "2026-08-19T02:40:52Z",
+            "closedAt": "2026-08-19T02:40:52Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 16,
+            "title": "ci(sync): remove pnpm version specification from sync workflow",
+            "url": "https://github.com/antdv-next/cli/pull/16",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
+            "additions": 0,
+            "deletions": 2,
             "totalCommentsCount": 0,
-            "createdAt": "2026-08-18T06:16:35Z",
-            "mergedAt": "2026-08-18T06:16:50Z",
-            "closedAt": "2026-08-18T06:16:50Z",
+            "createdAt": "2026-08-19T02:10:09Z",
+            "mergedAt": "2026-08-19T02:10:29Z",
+            "closedAt": "2026-08-19T02:10:29Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1138,7 +1138,7 @@
         }
     ],
     "contributions": {
-        "total": 11278,
+        "total": 11313,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2030,7 +2030,7 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 76
+                "count": 75
             },
             {
                 "date": "2026-08-12",
@@ -2062,7 +2062,7 @@
             },
             {
                 "date": "2026-08-19",
-                "count": 6
+                "count": 42
             },
             {
                 "date": "2026-08-20",

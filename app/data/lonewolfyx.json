@@ -897,6 +897,78 @@
     },
     "pullRequest": [
         {
+            "number": 30,
+            "title": "feat(info): add info command",
+            "url": "https://github.com/antdv-next/cli/pull/30",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 114,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-20T08:58:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 29,
+            "title": "feat(config): add component option to configuration",
+            "url": "https://github.com/antdv-next/cli/pull/29",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-20T07:56:15Z",
+            "mergedAt": "2026-08-20T07:57:09Z",
+            "closedAt": "2026-08-20T07:57:09Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 28,
+            "title": "feat(sync): enhance component API parsing with subcomponent support",
+            "url": "https://github.com/antdv-next/cli/pull/28",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 170510,
+            "deletions": 131804,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-20T07:36:21Z",
+            "mergedAt": "2026-08-20T07:40:57Z",
+            "closedAt": "2026-08-20T07:40:57Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 763,
             "title": "docs(typography): fix heading anchors to match upstream",
             "url": "https://github.com/antdv-next/antdv-next/pull/763",
@@ -948,14 +1020,14 @@
             "number": 27,
             "title": "feat(doc): add doc command",
             "url": "https://github.com/antdv-next/cli/pull/27",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 37,
             "deletions": 4,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-19T15:24:37Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-20T07:40:29Z",
+            "closedAt": "2026-08-20T07:40:29Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1063,82 +1135,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 25,
-            "title": "ci: add PR title validation workflow",
-            "url": "https://github.com/antdv-next/cli/pull/25",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 31,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T06:24:00Z",
-            "mergedAt": "2026-08-19T06:24:49Z",
-            "closedAt": "2026-08-19T06:24:49Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 24,
-            "title": "fix(commands): replace console.log with error logging utility",
-            "url": "https://github.com/antdv-next/cli/pull/24",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-19T06:19:38Z",
-            "mergedAt": "2026-08-19T06:20:39Z",
-            "closedAt": "2026-08-19T06:20:39Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 23,
-            "title": "feat(error): replace console.log with logErrorComponent utility",
-            "url": "https://github.com/antdv-next/cli/pull/23",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 9,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-19T06:03:11Z",
-            "mergedAt": "2026-08-19T06:04:04Z",
-            "closedAt": "2026-08-19T06:04:04Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11387,
+        "total": 11407,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2066,7 +2066,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 24
+                "count": 44
             },
             {
                 "date": "2026-08-21",

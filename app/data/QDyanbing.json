@@ -280,17 +280,41 @@
     },
     "pullRequest": [
         {
+            "number": 59062,
+            "title": "site: restore relative component LLMs links",
+            "url": "https://github.com/ant-design/ant-design/pull/59062",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-08-20T11:13:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 15325,
             "title": "fix(server-renderer): handle hasOwnProperty attrs",
             "url": "https://github.com/vuejs/core/pull/15325",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 2,
             "additions": 14,
             "deletions": 1,
-            "totalCommentsCount": 1,
+            "totalCommentsCount": 2,
             "createdAt": "2026-08-20T07:10:38Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-08-20T07:45:11Z",
             "repository": {
                 "name": "core",
                 "nameWithOwner": "vuejs/core",
@@ -494,34 +518,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design-icons"
             }
-        },
-        {
-            "number": 59016,
-            "title": "fix(Transfer): avoid duplicate onSearch calls when clearing",
-            "url": "https://github.com/ant-design/ant-design/pull/59016",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 3,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-17T01:17:39Z",
-            "mergedAt": "2026-08-17T02:19:56Z",
-            "closedAt": "2026-08-17T02:19:56Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4289,
+        "total": 4291,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1449,7 +1449,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 23
+                "count": 25
             },
             {
                 "date": "2026-08-21",

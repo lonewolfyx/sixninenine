@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1532672,
+            "size": 1549619,
             "repoCount": 6,
-            "progress": "84.88"
+            "progress": "85.02"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 140498,
             "repoCount": 9,
-            "progress": "7.78"
+            "progress": "7.71"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63425,
             "repoCount": 2,
-            "progress": "3.51"
+            "progress": "3.48"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "3.08"
+            "progress": "3.05"
         },
         {
             "name": "Less",
@@ -280,6 +280,102 @@
     },
     "pullRequest": [
         {
+            "number": 15325,
+            "title": "fix(server-renderer): handle hasOwnProperty attrs",
+            "url": "https://github.com/vuejs/core/pull/15325",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 14,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-20T07:10:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "core",
+                "nameWithOwner": "vuejs/core",
+                "homepageUrl": "https://vuejs.org/",
+                "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/core"
+            }
+        },
+        {
+            "number": 59060,
+            "title": "fix(List): recommend Listy in deprecation warning",
+            "url": "https://github.com/ant-design/ant-design/pull/59060",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 17,
+            "deletions": 17,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-20T03:48:31Z",
+            "mergedAt": "2026-08-20T06:02:04Z",
+            "closedAt": "2026-08-20T06:02:04Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59059,
+            "title": "feat(Checkbox): support classNames and styles in Checkbox.Group",
+            "url": "https://github.com/ant-design/ant-design/pull/59059",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 755,
+            "deletions": 5,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-20T03:29:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59058,
+            "title": "feat(Radio): support classNames and styles in Radio.Group",
+            "url": "https://github.com/ant-design/ant-design/pull/59058",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 771,
+            "deletions": 11,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-20T02:27:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59047,
             "title": "docs: correct Tabs tabPosition API type",
             "url": "https://github.com/ant-design/ant-design/pull/59047",
@@ -422,106 +518,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 58989,
-            "title": "docs(Form): correct required default value",
-            "url": "https://github.com/ant-design/ant-design/pull/58989",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-08-14T02:57:23Z",
-            "mergedAt": "2026-08-14T06:01:14Z",
-            "closedAt": "2026-08-14T06:01:14Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58979,
-            "title": "feat(Dropdown): add menu Semantic DOM",
-            "url": "https://github.com/ant-design/ant-design/pull/58979",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 115,
-            "deletions": 4,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-08-13T06:19:24Z",
-            "mergedAt": "2026-08-16T08:58:59Z",
-            "closedAt": "2026-08-16T08:58:59Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58976,
-            "title": "docs: use AGENTS.md as the canonical project guide",
-            "url": "https://github.com/ant-design/ant-design/pull/58976",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 300,
-            "deletions": 300,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-13T02:05:05Z",
-            "mergedAt": "2026-08-14T00:26:19Z",
-            "closedAt": "2026-08-14T00:26:19Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 58968,
-            "title": "docs: refine AI-assisted maintenance guide",
-            "url": "https://github.com/ant-design/ant-design/pull/58968",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 112,
-            "deletions": 280,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-08-12T09:25:08Z",
-            "mergedAt": "2026-08-12T11:09:57Z",
-            "closedAt": "2026-08-12T11:09:57Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4266,
+        "total": 4289,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1449,7 +1449,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 0
+                "count": 23
             },
             {
                 "date": "2026-08-21",

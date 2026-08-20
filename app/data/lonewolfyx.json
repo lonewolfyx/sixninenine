@@ -897,6 +897,54 @@
     },
     "pullRequest": [
         {
+            "number": 763,
+            "title": "docs(typography): fix heading anchors to match upstream",
+            "url": "https://github.com/antdv-next/antdv-next/pull/763",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-20T06:27:09Z",
+            "mergedAt": "2026-08-20T06:36:23Z",
+            "closedAt": "2026-08-20T06:36:23Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 5391,
+            "title": "docs(markdown): update and correction of 'Part file' translation",
+            "url": "https://github.com/vuejs/vitepress/pull/5391",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-20T06:04:27Z",
+            "mergedAt": "2026-08-20T06:12:00Z",
+            "closedAt": "2026-08-20T06:12:00Z",
+            "repository": {
+                "name": "vitepress",
+                "nameWithOwner": "vuejs/vitepress",
+                "homepageUrl": "https://vitepress.dev",
+                "description": "Vite & Vue powered static site generator.",
+                "owner": {
+                    "login": "vuejs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
+                },
+                "url": "https://github.com/vuejs/vitepress"
+            }
+        },
+        {
             "number": 27,
             "title": "feat(doc): add doc command",
             "url": "https://github.com/antdv-next/cli/pull/27",
@@ -972,14 +1020,14 @@
             "number": 59051,
             "title": "docs: add Upload data version",
             "url": "https://github.com/ant-design/ant-design/pull/59051",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 14,
             "createdAt": "2026-08-19T08:11:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-20T06:55:04Z",
+            "closedAt": "2026-08-20T06:55:04Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -1087,58 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 22,
-            "title": "ci(sync): add conditional sync check to GitHub workflow",
-            "url": "https://github.com/antdv-next/cli/pull/22",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 30,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T05:50:02Z",
-            "mergedAt": "2026-08-19T05:51:10Z",
-            "closedAt": "2026-08-19T05:51:10Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 21,
-            "title": "feat(scripts): add check-sync-needed script for antdv-next package",
-            "url": "https://github.com/antdv-next/cli/pull/21",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 58,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T05:48:55Z",
-            "mergedAt": "2026-08-19T05:50:22Z",
-            "closedAt": "2026-08-19T05:50:22Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11367,
+        "total": 11387,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2066,7 +2066,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 4
+                "count": 24
             },
             {
                 "date": "2026-08-21",

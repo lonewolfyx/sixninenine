@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "feat(valid-custom-container-type): add custom container type rule ",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/31",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 774,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-20T06:54:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 59049,
             "title": "docs: correct Table rowSelection selections default value",
             "url": "https://github.com/ant-design/ant-design/pull/59049",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1010,
-            "title": "docs(cn): update /config document",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1010",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 116,
-            "deletions": 120,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-09T03:39:13Z",
-            "mergedAt": "2026-08-09T04:27:43Z",
-            "closedAt": "2026-08-09T04:27:43Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 495,
+        "total": 496,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1200,7 +1200,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-08-21",

@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 19083,
+            "title": "fix(right-pane): animate maximize and restore instead of committing at the boundary",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19083",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 412,
+            "deletions": 211,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-21T03:02:08Z",
+            "mergedAt": "2026-08-21T05:46:42Z",
+            "closedAt": "2026-08-21T05:46:42Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19034,
             "title": "fix(artifact-pane): clear the elevated composer in a maximized pane",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/19034",
@@ -796,8 +820,8 @@
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18776",
             "state": "OPEN",
             "changedFiles": 16,
-            "additions": 131,
-            "deletions": 7,
+            "additions": 128,
+            "deletions": 8,
             "totalCommentsCount": 4,
             "createdAt": "2026-08-18T01:44:26Z",
             "mergedAt": null,
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 3247,
-            "title": "perf(core): cache selection matcher regular expressions",
-            "url": "https://github.com/flint-fyi/flint/pull/3247",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 33,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-08-18T01:10:11Z",
-            "mergedAt": "2026-08-18T14:02:05Z",
-            "closedAt": "2026-08-18T14:02:05Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 615,
+        "total": 618,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1772,7 +1772,7 @@
             },
             {
                 "date": "2026-08-21",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-22",

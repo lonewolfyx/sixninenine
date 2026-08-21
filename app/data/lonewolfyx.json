@@ -897,6 +897,30 @@
     },
     "pullRequest": [
         {
+            "number": 31,
+            "title": "feat(doctor): add doctor command",
+            "url": "https://github.com/antdv-next/cli/pull/31",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 696,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-21T07:21:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 2,
             "title": "chore(deps): update pnpm package manager version",
             "url": "https://github.com/lonewolfyx/query-pkg/pull/2",
@@ -948,14 +972,14 @@
             "number": 30,
             "title": "feat(info): add info command",
             "url": "https://github.com/antdv-next/cli/pull/30",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 114,
             "deletions": 4,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-20T08:58:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-21T07:24:28Z",
+            "closedAt": "2026-08-21T07:24:28Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1111,34 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 59052,
-            "title": "docs(Slider): document range object type",
-            "url": "https://github.com/ant-design/ant-design/pull/59052",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-08-19T08:32:06Z",
-            "mergedAt": "2026-08-19T10:53:43Z",
-            "closedAt": "2026-08-19T10:53:43Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 11444,
+        "total": 11458,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2070,7 +2070,7 @@
             },
             {
                 "date": "2026-08-21",
-                "count": 11
+                "count": 25
             },
             {
                 "date": "2026-08-22",

@@ -897,6 +897,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "chore(deps): update pnpm package manager version",
+            "url": "https://github.com/lonewolfyx/query-pkg/pull/2",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 950,
+            "deletions": 930,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-21T01:47:10Z",
+            "mergedAt": "2026-08-21T01:48:21Z",
+            "closedAt": "2026-08-21T01:48:21Z",
+            "repository": {
+                "name": "query-pkg",
+                "nameWithOwner": "lonewolfyx/query-pkg",
+                "homepageUrl": null,
+                "description": "Get information on local packages.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/query-pkg"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(package): add package keyword to package.json",
+            "url": "https://github.com/lonewolfyx/query-pkg/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-21T01:40:55Z",
+            "mergedAt": "2026-08-21T01:48:06Z",
+            "closedAt": "2026-08-21T01:48:07Z",
+            "repository": {
+                "name": "query-pkg",
+                "nameWithOwner": "lonewolfyx/query-pkg",
+                "homepageUrl": null,
+                "description": "Get information on local packages.",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/query-pkg"
+            }
+        },
+        {
             "number": 30,
             "title": "feat(info): add info command",
             "url": "https://github.com/antdv-next/cli/pull/30",
@@ -1087,58 +1135,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59051,
-            "title": "docs: add Upload data version",
-            "url": "https://github.com/ant-design/ant-design/pull/59051",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-08-19T08:11:40Z",
-            "mergedAt": "2026-08-20T06:55:04Z",
-            "closedAt": "2026-08-20T06:55:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59050,
-            "title": "docs: add explicit anchors to Chinese headings",
-            "url": "https://github.com/ant-design/ant-design/pull/59050",
-            "state": "MERGED",
-            "changedFiles": 26,
-            "additions": 34,
-            "deletions": 34,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-08-19T08:02:51Z",
-            "mergedAt": "2026-08-19T08:13:43Z",
-            "closedAt": "2026-08-19T08:13:43Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 11422,
+        "total": 11444,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2066,11 +2066,11 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 59
+                "count": 70
             },
             {
                 "date": "2026-08-21",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-08-22",

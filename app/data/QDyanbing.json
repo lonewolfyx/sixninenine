@@ -15,7 +15,7 @@
             "color": "#3178c6",
             "size": 1549619,
             "repoCount": 6,
-            "progress": "85.02"
+            "progress": "84.98"
         },
         {
             "name": "JavaScript",
@@ -51,6 +51,13 @@
             "size": 876,
             "repoCount": 3,
             "progress": "0.05"
+        },
+        {
+            "name": "Dockerfile",
+            "color": "#384d54",
+            "size": 707,
+            "repoCount": 1,
+            "progress": "0.04"
         }
     ],
     "organizations": {
@@ -280,17 +287,65 @@
     },
     "pullRequest": [
         {
+            "number": 59066,
+            "title": "fix(Grid): remove stale Row alignment classes after prop updates",
+            "url": "https://github.com/ant-design/ant-design/pull/59066",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 62,
+            "deletions": 20,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-21T01:16:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59064,
+            "title": "fix(Descriptions): preserve item state when key is 0",
+            "url": "https://github.com/ant-design/ant-design/pull/59064",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 30,
+            "deletions": 5,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-21T00:28:00Z",
+            "mergedAt": "2026-08-21T01:26:07Z",
+            "closedAt": "2026-08-21T01:26:07Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59062,
             "title": "site: restore relative component LLMs links",
             "url": "https://github.com/ant-design/ant-design/pull/59062",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 7,
             "createdAt": "2026-08-20T11:13:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-21T00:05:41Z",
+            "closedAt": "2026-08-21T00:05:41Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -470,58 +525,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59028,
-            "title": "fix(Cascader): respect null notFoundContent",
-            "url": "https://github.com/ant-design/ant-design/pull/59028",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 20,
-            "deletions": 6,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-08-18T00:34:46Z",
-            "mergedAt": "2026-08-19T08:21:23Z",
-            "closedAt": "2026-08-19T08:21:23Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 758,
-            "title": "fix: correct XFilled icon rendering",
-            "url": "https://github.com/ant-design/ant-design-icons/pull/758",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-08-17T11:10:22Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design-icons",
-                "nameWithOwner": "ant-design/ant-design-icons",
-                "homepageUrl": "https://ant.design/components/icon/",
-                "description": "⭐ Ant Design SVG Icons",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design-icons"
-            }
         }
     ],
     "contributions": {
-        "total": 4291,
+        "total": 4301,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1453,7 +1460,7 @@
             },
             {
                 "date": "2026-08-21",
-                "count": 0
+                "count": 10
             },
             {
                 "date": "2026-08-22",

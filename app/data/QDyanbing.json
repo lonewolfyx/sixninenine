@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1598557,
+            "size": 1601559,
             "repoCount": 6,
-            "progress": "81.33"
+            "progress": "81.36"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "8.67"
+            "progress": "8.66"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 65620,
             "repoCount": 2,
-            "progress": "3.34"
+            "progress": "3.33"
         },
         {
             "name": "Swift",
@@ -43,7 +43,7 @@
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.83"
+            "progress": "2.82"
         },
         {
             "name": "Less",
@@ -191,7 +191,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 25
+                    "totalCount": 26
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59084,
+            "title": "fix(Splitter): respect size limits when container resizes",
+            "url": "https://github.com/ant-design/ant-design/pull/59084",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 141,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-24T12:44:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 7,
             "title": "feat(release): automate release preparation",
             "url": "https://github.com/QDyanbing/react-project-template/pull/7",
@@ -345,14 +369,14 @@
             "number": 59079,
             "title": "fix(Form): render numeric zero labels",
             "url": "https://github.com/ant-design/ant-design/pull/59079",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 12,
             "deletions": 2,
             "totalCommentsCount": 9,
             "createdAt": "2026-08-24T01:20:32Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-24T07:53:02Z",
+            "closedAt": "2026-08-24T07:53:02Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/vuejs/core"
             }
-        },
-        {
-            "number": 59060,
-            "title": "fix(List): recommend Listy in deprecation warning",
-            "url": "https://github.com/ant-design/ant-design/pull/59060",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 17,
-            "deletions": 17,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-08-20T03:48:31Z",
-            "mergedAt": "2026-08-20T06:02:04Z",
-            "closedAt": "2026-08-20T06:02:04Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4346,
+        "total": 4356,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1479,7 +1479,7 @@
             },
             {
                 "date": "2026-08-24",
-                "count": 8
+                "count": 18
             },
             {
                 "date": "2026-08-25",

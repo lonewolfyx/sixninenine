@@ -416,7 +416,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 25
+                    "totalCount": 26
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -897,185 +897,89 @@
     },
     "pullRequest": [
         {
-            "number": 37,
-            "title": "fix(info): improve component API output formatting",
-            "url": "https://github.com/antdv-next/cli/pull/37",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 68,
-            "deletions": 86,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-24T02:12:45Z",
-            "mergedAt": "2026-08-24T02:51:52Z",
-            "closedAt": "2026-08-24T02:51:52Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 36,
-            "title": "feat(info): add common props support to component info command",
-            "url": "https://github.com/antdv-next/cli/pull/36",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 78,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-24T02:02:44Z",
-            "mergedAt": "2026-08-24T02:04:22Z",
-            "closedAt": "2026-08-24T02:04:22Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 11,
-            "title": "ci(pr-welcome): update comment action to backup version",
-            "url": "https://github.com/lonewolfyx-template/cli-template/pull/11",
+            "number": 47,
+            "title": "fix(mcp): use demos name to return single demo result",
+            "url": "https://github.com/antdv-next/cli/pull/47",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T08:39:17Z",
-            "mergedAt": "2026-08-21T08:39:28Z",
-            "closedAt": "2026-08-21T08:39:28Z",
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T10:47:51Z",
+            "mergedAt": "2026-08-24T10:49:04Z",
+            "closedAt": "2026-08-24T10:49:04Z",
             "repository": {
-                "name": "cli-template",
-                "nameWithOwner": "lonewolfyx-template/cli-template",
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
                 "homepageUrl": null,
-                "description": "cli template",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
                 },
-                "url": "https://github.com/lonewolfyx-template/cli-template"
+                "url": "https://github.com/antdv-next/cli"
             }
         },
         {
-            "number": 35,
-            "title": "docs(funding): add funding configuration for open collective and custom sponsor links",
-            "url": "https://github.com/antdv-next/cli/pull/35",
+            "number": 46,
+            "title": "feat(mcp): implement Model Context Protocol server for Ant Design Vue",
+            "url": "https://github.com/antdv-next/cli/pull/46",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 957,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T08:50:05Z",
+            "mergedAt": "2026-08-24T08:53:28Z",
+            "closedAt": "2026-08-24T08:53:28Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 45,
+            "title": "feat(mcp): implement Model Context Protocol server for Ant Design Vue",
+            "url": "https://github.com/antdv-next/cli/pull/45",
+            "state": "CLOSED",
+            "changedFiles": 5,
+            "additions": 957,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-24T08:44:28Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-24T08:46:26Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 44,
+            "title": "feat(semantic): extract component semantic retrieval logic",
+            "url": "https://github.com/antdv-next/cli/pull/44",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T07:54:04Z",
-            "mergedAt": "2026-08-21T07:54:23Z",
-            "closedAt": "2026-08-21T07:54:23Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 34,
-            "title": "ci(autofix): update autofix workflow permissions and concurrency settings",
-            "url": "https://github.com/antdv-next/cli/pull/34",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T07:44:58Z",
-            "mergedAt": "2026-08-21T07:46:43Z",
-            "closedAt": "2026-08-21T07:46:43Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 33,
-            "title": "ci(workflow): add lint step to sync workflow",
-            "url": "https://github.com/antdv-next/cli/pull/33",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T07:35:06Z",
-            "mergedAt": "2026-08-21T07:36:03Z",
-            "closedAt": "2026-08-21T07:36:03Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 32,
-            "title": "chore(data): remove zero-width characters from component metadata",
-            "url": "https://github.com/antdv-next/cli/pull/32",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 56,
-            "deletions": 56,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T07:27:58Z",
-            "mergedAt": "2026-08-21T07:28:52Z",
-            "closedAt": "2026-08-21T07:28:52Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 31,
-            "title": "feat(doctor): add doctor command",
-            "url": "https://github.com/antdv-next/cli/pull/31",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 696,
+            "additions": 8,
             "deletions": 3,
             "totalCommentsCount": 2,
-            "createdAt": "2026-08-21T07:21:39Z",
-            "mergedAt": "2026-08-21T07:24:39Z",
-            "closedAt": "2026-08-21T07:24:39Z",
+            "createdAt": "2026-08-24T08:41:43Z",
+            "mergedAt": "2026-08-24T08:42:47Z",
+            "closedAt": "2026-08-24T08:42:47Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1089,56 +993,152 @@
             }
         },
         {
-            "number": 2,
-            "title": "chore(deps): update pnpm package manager version",
-            "url": "https://github.com/lonewolfyx/query-pkg/pull/2",
+            "number": 43,
+            "title": "feat(list): add JSON output formatting for component list",
+            "url": "https://github.com/antdv-next/cli/pull/43",
             "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 950,
-            "deletions": 930,
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 2,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-21T01:47:10Z",
-            "mergedAt": "2026-08-21T01:48:21Z",
-            "closedAt": "2026-08-21T01:48:21Z",
+            "createdAt": "2026-08-24T08:28:52Z",
+            "mergedAt": "2026-08-24T08:29:46Z",
+            "closedAt": "2026-08-24T08:29:47Z",
             "repository": {
-                "name": "query-pkg",
-                "nameWithOwner": "lonewolfyx/query-pkg",
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
                 "homepageUrl": null,
-                "description": "Get information on local packages.",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
                 },
-                "url": "https://github.com/lonewolfyx/query-pkg"
+                "url": "https://github.com/antdv-next/cli"
             }
         },
         {
-            "number": 1,
-            "title": "feat(package): add package keyword to package.json",
-            "url": "https://github.com/lonewolfyx/query-pkg/pull/1",
+            "number": 42,
+            "title": "refactor(design): extract design markdown reading into separate function",
+            "url": "https://github.com/antdv-next/cli/pull/42",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 3,
+            "additions": 5,
             "deletions": 1,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-21T01:40:55Z",
-            "mergedAt": "2026-08-21T01:48:06Z",
-            "closedAt": "2026-08-21T01:48:07Z",
+            "createdAt": "2026-08-24T08:14:37Z",
+            "mergedAt": "2026-08-24T08:15:26Z",
+            "closedAt": "2026-08-24T08:15:26Z",
             "repository": {
-                "name": "query-pkg",
-                "nameWithOwner": "lonewolfyx/query-pkg",
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
                 "homepageUrl": null,
-                "description": "Get information on local packages.",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
                 },
-                "url": "https://github.com/lonewolfyx/query-pkg"
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 41,
+            "title": "refactor(token): extract component token retrieval logic into separate function",
+            "url": "https://github.com/antdv-next/cli/pull/41",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 19,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T08:04:31Z",
+            "mergedAt": "2026-08-24T08:05:22Z",
+            "closedAt": "2026-08-24T08:05:22Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 40,
+            "title": "refactor(doc): extract component document retrieval logic",
+            "url": "https://github.com/antdv-next/cli/pull/40",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T07:56:06Z",
+            "mergedAt": "2026-08-24T07:57:14Z",
+            "closedAt": "2026-08-24T07:57:14Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 39,
+            "title": "fix(info): export getComponentInfo function for external access",
+            "url": "https://github.com/antdv-next/cli/pull/39",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T07:53:33Z",
+            "mergedAt": "2026-08-24T07:56:16Z",
+            "closedAt": "2026-08-24T07:56:16Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 38,
+            "title": "fix(demo): export functions and extract component demo retrieval logic",
+            "url": "https://github.com/antdv-next/cli/pull/38",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 14,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T07:51:31Z",
+            "mergedAt": "2026-08-24T07:52:26Z",
+            "closedAt": "2026-08-24T07:52:26Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
             }
         }
     ],
     "contributions": {
-        "total": 11652,
+        "total": 11686,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2082,7 +2082,7 @@
             },
             {
                 "date": "2026-08-24",
-                "count": 21
+                "count": 55
             },
             {
                 "date": "2026-08-25",

@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "test: rule-data renovate workflow sandbox",
+            "url": "https://github.com/kovsu/flint/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 114,
+            "deletions": 33,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-24T09:25:30Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-24T09:28:23Z",
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "kovsu/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "kovsu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=adc11ef878b8e3079c3d442b666556b5d869defe&v=4"
+                },
+                "url": "https://github.com/kovsu/flint"
+            }
+        },
+        {
             "number": 19916,
             "title": "Fix line break before `!` after a comment in member chains",
             "url": "https://github.com/prettier/prettier/pull/19916",
@@ -722,14 +746,14 @@
             "number": 18951,
             "title": "fix(code-editor): resolve editor height and language extension lookups",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/18951",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 20,
             "additions": 80,
             "deletions": 722,
-            "totalCommentsCount": 7,
+            "totalCommentsCount": 8,
             "createdAt": "2026-08-20T03:37:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-24T08:58:03Z",
+            "closedAt": "2026-08-24T08:58:04Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18876,
-            "title": "fix(message-service): preserve turnOptions on parts-only data patches",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18876",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 68,
-            "deletions": 5,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-19T03:34:28Z",
-            "mergedAt": "2026-08-19T08:44:54Z",
-            "closedAt": "2026-08-19T08:44:54Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 628,
+        "total": 631,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1784,7 +1784,7 @@
             },
             {
                 "date": "2026-08-24",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-08-25",

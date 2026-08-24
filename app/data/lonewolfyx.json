@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
         "pronouns": "",
         "followers": 98,
-        "following": 94
+        "following": 95
     },
     "languages": [
         {
@@ -897,6 +897,30 @@
     },
     "pullRequest": [
         {
+            "number": 37,
+            "title": "fix(info): improve component API output formatting",
+            "url": "https://github.com/antdv-next/cli/pull/37",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 68,
+            "deletions": 86,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-24T02:12:45Z",
+            "mergedAt": "2026-08-24T02:51:52Z",
+            "closedAt": "2026-08-24T02:51:52Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 36,
             "title": "feat(info): add common props support to component info command",
             "url": "https://github.com/antdv-next/cli/pull/36",
@@ -1111,34 +1135,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/query-pkg"
             }
-        },
-        {
-            "number": 30,
-            "title": "feat(info): add info command",
-            "url": "https://github.com/antdv-next/cli/pull/30",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 114,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-20T08:58:31Z",
-            "mergedAt": "2026-08-21T07:24:28Z",
-            "closedAt": "2026-08-21T07:24:28Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11637,
+        "total": 11652,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2082,7 +2082,7 @@
             },
             {
                 "date": "2026-08-24",
-                "count": 6
+                "count": 21
             },
             {
                 "date": "2026-08-25",

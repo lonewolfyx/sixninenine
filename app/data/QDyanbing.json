@@ -294,6 +294,78 @@
     },
     "pullRequest": [
         {
+            "number": 6,
+            "title": "docs: define version release conventions",
+            "url": "https://github.com/QDyanbing/react-project-template/pull/6",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 116,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-24T01:26:44Z",
+            "mergedAt": "2026-08-24T01:34:09Z",
+            "closedAt": "2026-08-24T01:34:09Z",
+            "repository": {
+                "name": "react-project-template",
+                "nameWithOwner": "QDyanbing/react-project-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/react-project-template"
+            }
+        },
+        {
+            "number": 59079,
+            "title": "fix(Form): render numeric zero labels",
+            "url": "https://github.com/ant-design/ant-design/pull/59079",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-24T01:20:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59078,
+            "title": "fix(Table): invoke custom header onKeyDown for all keys",
+            "url": "https://github.com/ant-design/ant-design/pull/59078",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-24T01:03:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 3,
             "title": "feat: add pull request contribution workflow",
             "url": "https://github.com/QDyanbing/react-project-template/pull/3",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59058,
-            "title": "feat(Radio): support classNames and styles in Radio.Group",
-            "url": "https://github.com/ant-design/ant-design/pull/59058",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 791,
-            "deletions": 12,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-20T02:27:53Z",
-            "mergedAt": "2026-08-21T08:45:58Z",
-            "closedAt": "2026-08-21T08:45:58Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59047,
-            "title": "docs: correct Tabs tabPosition API type",
-            "url": "https://github.com/ant-design/ant-design/pull/59047",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-19T07:33:44Z",
-            "mergedAt": "2026-08-19T07:49:33Z",
-            "closedAt": "2026-08-19T07:49:33Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 229,
-            "title": "feat: warn when --version resolves to a different bundled snapshot",
-            "url": "https://github.com/ant-design/ant-design-cli/pull/229",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 173,
-            "deletions": 1,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-08-19T05:27:42Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design-cli",
-                "nameWithOwner": "ant-design/ant-design-cli",
-                "homepageUrl": "https://ant.design/docs/react/cli",
-                "description": "  Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design-cli"
-            }
         }
     ],
     "contributions": {
-        "total": 4338,
+        "total": 4344,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1479,7 +1479,7 @@
             },
             {
                 "date": "2026-08-24",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-08-25",

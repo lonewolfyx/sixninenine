@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 236820,
+            "size": 240205,
             "repoCount": 3,
             "progress": "99.50"
         },
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 37,
+            "title": "fix(custom-container): parse continuous containers and brother text ",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/37",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 980,
+            "deletions": 382,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-25T17:29:37Z",
+            "mergedAt": "2026-08-25T17:43:29Z",
+            "closedAt": "2026-08-25T17:43:29Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
         {
             "number": 36,
             "title": "refactor: reorganize parser, rule helpers, and tests",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59030,
-            "title": "docs(DatePicker): restore showNow version",
-            "url": "https://github.com/ant-design/ant-design/pull/59030",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-08-18T02:27:36Z",
-            "mergedAt": "2026-08-18T02:37:35Z",
-            "closedAt": "2026-08-18T02:37:35Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 507,
+        "total": 509,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1224,7 +1224,7 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-08-27",

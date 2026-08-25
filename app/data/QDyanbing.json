@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1601559,
+            "size": 1610078,
             "repoCount": 6,
-            "progress": "81.36"
+            "progress": "81.44"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "8.66"
+            "progress": "8.62"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 65620,
             "repoCount": 2,
-            "progress": "3.33"
+            "progress": "3.32"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "3.00"
+            "progress": "2.98"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.82"
+            "progress": "2.81"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.65"
+            "progress": "0.64"
         },
         {
             "name": "Shell",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59087,
+            "title": "fix(Tag): prioritize local CheckableTag styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59087",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 31,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-25T01:27:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59085,
+            "title": "fix(Menu): stop icon drift after inline collapse",
+            "url": "https://github.com/ant-design/ant-design/pull/59085",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-25T01:07:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59084,
             "title": "fix(Splitter): respect size limits when container resizes",
             "url": "https://github.com/ant-design/ant-design/pull/59084",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59062,
-            "title": "site: restore relative component LLMs links",
-            "url": "https://github.com/ant-design/ant-design/pull/59062",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-08-20T11:13:31Z",
-            "mergedAt": "2026-08-21T00:05:41Z",
-            "closedAt": "2026-08-21T00:05:41Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 15325,
-            "title": "fix(server-renderer): handle hasOwnProperty attrs",
-            "url": "https://github.com/vuejs/core/pull/15325",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 14,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-20T07:10:38Z",
-            "mergedAt": null,
-            "closedAt": "2026-08-20T07:45:11Z",
-            "repository": {
-                "name": "core",
-                "nameWithOwner": "vuejs/core",
-                "homepageUrl": "https://vuejs.org/",
-                "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-                "owner": {
-                    "login": "vuejs",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4"
-                },
-                "url": "https://github.com/vuejs/core"
-            }
         }
     ],
     "contributions": {
-        "total": 4356,
+        "total": 4369,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1483,7 +1483,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-08-26",

@@ -599,17 +599,65 @@
     },
     "pullRequest": [
         {
+            "number": 3261,
+            "title": "ci: file issues for missing rule-data coverage on Renovate PRs",
+            "url": "https://github.com/flint-fyi/flint/pull/3261",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 459,
+            "deletions": 122,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-24T19:20:35Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3,
+            "title": "test: rule-data renovate workflow sandbox round 2",
+            "url": "https://github.com/kovsu/flint/pull/3",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 114,
+            "deletions": 33,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-24T19:16:51Z",
+            "mergedAt": null,
+            "closedAt": "2026-08-24T19:20:07Z",
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "kovsu/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
+                "owner": {
+                    "login": "kovsu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=adc11ef878b8e3079c3d442b666556b5d869defe&v=4"
+                },
+                "url": "https://github.com/kovsu/flint"
+            }
+        },
+        {
             "number": 3260,
             "title": "fix(rule-data): point sort-data at src/data.json",
             "url": "https://github.com/flint-fyi/flint/pull/3260",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 3,
             "createdAt": "2026-08-24T18:51:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-24T21:54:54Z",
+            "closedAt": "2026-08-24T21:54:54Z",
             "repository": {
                 "name": "flint",
                 "nameWithOwner": "flint-fyi/flint",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18950,
-            "title": "fix(code-viewer): highlight the first frame without the debounce delay",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18950",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 83,
-            "deletions": 5,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-08-20T02:38:12Z",
-            "mergedAt": "2026-08-20T08:54:32Z",
-            "closedAt": "2026-08-20T08:54:32Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 18901,
-            "title": "fix(pyodide): inject context variables into python execution scope",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18901",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T07:55:56Z",
-            "mergedAt": "2026-08-19T11:42:38Z",
-            "closedAt": "2026-08-19T11:42:38Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 632,
+        "total": 635,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1788,7 +1788,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-08-26",

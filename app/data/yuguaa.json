@@ -247,6 +247,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat: add user-selectable accent colors and custom accent functionality",
+            "url": "https://github.com/wangmiaozero/pi-harness/pull/2",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 481,
+            "deletions": 98,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-25T02:12:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pi-harness",
+                "nameWithOwner": "wangmiaozero/pi-harness",
+                "homepageUrl": "",
+                "description": "The Complete Desktop Harness for Pi Coding Agent",
+                "owner": {
+                    "login": "wangmiaozero",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/45121589?u=e86ed38e0ceab0fb9ffaf7c2a9b46d122b85b0c2&v=4"
+                },
+                "url": "https://github.com/wangmiaozero/pi-harness"
+            }
+        },
+        {
             "number": 16,
             "title": "Fix/dashboard",
             "url": "https://github.com/yuguaa/code-review-copilot/pull/16",
@@ -461,34 +485,10 @@
                 },
                 "url": "https://github.com/yuguaa/code-review-copilot"
             }
-        },
-        {
-            "number": 7,
-            "title": "Feat/diff",
-            "url": "https://github.com/yuguaa/code-review-copilot/pull/7",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 1012,
-            "deletions": 262,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-02-04T08:10:06Z",
-            "mergedAt": "2026-02-04T08:10:41Z",
-            "closedAt": "2026-02-04T08:10:41Z",
-            "repository": {
-                "name": "code-review-copilot",
-                "nameWithOwner": "yuguaa/code-review-copilot",
-                "homepageUrl": "https://code-review-copilot-indol.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "yuguaa",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/58333667?u=79436c97ec4a1e06386245e2d849b8a3022d3976&v=4"
-                },
-                "url": "https://github.com/yuguaa/code-review-copilot"
-            }
         }
     ],
     "contributions": {
-        "total": 332,
+        "total": 333,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1436,7 +1436,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-08-26",

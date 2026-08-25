@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 19349,
+            "title": "feat(agent-skills): bridge workspace .agents/skills into the Claude runtime",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19349",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 966,
+            "deletions": 38,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-08-25T03:48:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 3261,
             "title": "ci: file issues for missing rule-data coverage on Renovate PRs",
             "url": "https://github.com/flint-fyi/flint/pull/3261",
@@ -699,10 +723,10 @@
             "title": "Fix line break before `!` after a comment in member chains",
             "url": "https://github.com/prettier/prettier/pull/19916",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 45,
-            "deletions": 0,
-            "totalCommentsCount": 4,
+            "changedFiles": 8,
+            "additions": 203,
+            "deletions": 3,
+            "totalCommentsCount": 7,
             "createdAt": "2026-08-24T01:56:28Z",
             "mergedAt": null,
             "closedAt": null,
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 18951,
-            "title": "fix(code-editor): resolve editor height and language extension lookups",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/18951",
-            "state": "MERGED",
-            "changedFiles": 20,
-            "additions": 80,
-            "deletions": 722,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-08-20T03:37:19Z",
-            "mergedAt": "2026-08-24T08:58:03Z",
-            "closedAt": "2026-08-24T08:58:04Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 635,
+        "total": 638,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1788,7 +1788,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 4
+                "count": 7
             },
             {
                 "date": "2026-08-26",

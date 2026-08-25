@@ -319,6 +319,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "refactor: optimize scrollbar",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/2",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 131,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-25T07:17:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": null,
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(docs): remove Vite optimizeDeps excludes",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 15,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-25T03:02:16Z",
+            "mergedAt": "2026-08-25T03:08:43Z",
+            "closedAt": "2026-08-25T03:08:43Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": null,
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
             "number": 687,
             "title": "fix(layout): support trigger prop/slot for LayoutSider",
             "url": "https://github.com/antdv-next/antdv-next/pull/687",
@@ -509,58 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 648,
-            "title": "chore: update @antdv-next/happy-work-theme version to 1.0.1",
-            "url": "https://github.com/antdv-next/antdv-next/pull/648",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T07:15:16Z",
-            "mergedAt": null,
-            "closedAt": "2026-07-13T07:17:51Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 3,
-            "title": "chore: bump version to 1.0.1",
-            "url": "https://github.com/antdv-next/happy-work-theme/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-13T07:02:37Z",
-            "mergedAt": "2026-07-13T07:02:50Z",
-            "closedAt": "2026-07-13T07:02:50Z",
-            "repository": {
-                "name": "happy-work-theme",
-                "nameWithOwner": "antdv-next/happy-work-theme",
-                "homepageUrl": null,
-                "description": "Antdv Next Happy Work Theme",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/happy-work-theme"
-            }
         }
     ],
     "contributions": {
-        "total": 397,
+        "total": 400,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1508,7 +1508,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-26",

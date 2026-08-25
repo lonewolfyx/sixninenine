@@ -319,13 +319,37 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "docs: add issue template forms",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/3",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 652,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-25T11:38:42Z",
+            "mergedAt": "2026-08-25T11:46:07Z",
+            "closedAt": "2026-08-25T11:46:08Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": null,
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
             "number": 2,
             "title": "refactor: optimize scrollbar",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/2",
             "state": "OPEN",
-            "changedFiles": 11,
+            "changedFiles": 12,
             "additions": 131,
-            "deletions": 13,
+            "deletions": 14,
             "totalCommentsCount": 0,
             "createdAt": "2026-08-25T07:17:26Z",
             "mergedAt": null,
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 649,
-            "title": "chore: update @antdv-next/happy-work-theme version to 1.0.1",
-            "url": "https://github.com/antdv-next/antdv-next/pull/649",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 7,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-13T07:20:06Z",
-            "mergedAt": "2026-07-13T07:41:50Z",
-            "closedAt": "2026-07-13T07:41:50Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 400,
+        "total": 407,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1508,7 +1508,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 3
+                "count": 10
             },
             {
                 "date": "2026-08-26",

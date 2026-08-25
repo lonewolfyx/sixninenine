@@ -599,14 +599,86 @@
     },
     "pullRequest": [
         {
+            "number": 19375,
+            "title": "fix(mini-app): realign tab pool current state from consistent snapshots",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19375",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 93,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-25T09:28:14Z",
+            "mergedAt": "2026-08-25T10:43:10Z",
+            "closedAt": "2026-08-25T10:43:10Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 19372,
+            "title": "fix(artifact-pane): pad composer inset inside code surfaces",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19372",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 13,
+            "deletions": 6,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-25T08:58:22Z",
+            "mergedAt": "2026-08-25T09:21:04Z",
+            "closedAt": "2026-08-25T09:21:04Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 10002,
+            "title": "`table-input` - Restore feature in PR page",
+            "url": "https://github.com/refined-github/refined-github/pull/10002",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-25T08:13:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "refined-github",
+                "nameWithOwner": "refined-github/refined-github",
+                "homepageUrl": "",
+                "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+                "owner": {
+                    "login": "refined-github",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/53074291?v=4"
+                },
+                "url": "https://github.com/refined-github/refined-github"
+            }
+        },
+        {
             "number": 19349,
             "title": "feat(agent-skills): bridge workspace .agents/skills into the Claude runtime",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/19349",
             "state": "OPEN",
             "changedFiles": 13,
-            "additions": 966,
-            "deletions": 38,
-            "totalCommentsCount": 12,
+            "additions": 1058,
+            "deletions": 45,
+            "totalCommentsCount": 19,
             "createdAt": "2026-08-25T03:48:19Z",
             "mergedAt": null,
             "closedAt": null,
@@ -630,7 +702,7 @@
             "changedFiles": 8,
             "additions": 459,
             "deletions": 122,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 11,
             "createdAt": "2026-08-24T19:20:35Z",
             "mergedAt": null,
             "closedAt": null,
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19094,
-            "title": "fix(message-locate): bind global-search locate requests to their conversation",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/19094",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 317,
-            "deletions": 32,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-21T08:36:05Z",
-            "mergedAt": "2026-08-21T10:07:13Z",
-            "closedAt": "2026-08-21T10:07:13Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19083,
-            "title": "fix(right-pane): animate maximize and restore instead of committing at the boundary",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/19083",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 412,
-            "deletions": 211,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T03:02:08Z",
-            "mergedAt": "2026-08-21T05:46:42Z",
-            "closedAt": "2026-08-21T05:46:42Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19034,
-            "title": "fix(artifact-pane): clear the elevated composer in a maximized pane",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/19034",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 270,
-            "deletions": 6,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-20T08:37:43Z",
-            "mergedAt": "2026-08-22T14:08:55Z",
-            "closedAt": "2026-08-22T14:08:55Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 638,
+        "total": 644,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1788,7 +1788,7 @@
             },
             {
                 "date": "2026-08-25",
-                "count": 7
+                "count": 13
             },
             {
                 "date": "2026-08-26",

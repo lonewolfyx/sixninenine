@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1610078,
+            "size": 1630489,
             "repoCount": 6,
-            "progress": "81.44"
+            "progress": "81.63"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "8.62"
+            "progress": "8.54"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 65620,
             "repoCount": 2,
-            "progress": "3.32"
+            "progress": "3.29"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.98"
+            "progress": "2.95"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.81"
+            "progress": "2.78"
         },
         {
             "name": "Less",
@@ -57,7 +57,7 @@
             "color": "#89e051",
             "size": 2685,
             "repoCount": 4,
-            "progress": "0.14"
+            "progress": "0.13"
         },
         {
             "name": "Dockerfile",
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59095,
+            "title": "feat(BorderBeam): support individual beam configuration",
+            "url": "https://github.com/ant-design/ant-design/pull/59095",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 148,
+            "deletions": 40,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-26T07:09:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59087,
             "title": "fix(Tag): prioritize local CheckableTag styles",
             "url": "https://github.com/ant-design/ant-design/pull/59087",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59064,
-            "title": "fix(Descriptions): preserve item state when key is 0",
-            "url": "https://github.com/ant-design/ant-design/pull/59064",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 30,
-            "deletions": 5,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-08-21T00:28:00Z",
-            "mergedAt": "2026-08-21T01:26:07Z",
-            "closedAt": "2026-08-21T01:26:07Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4372,
+        "total": 4388,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1487,7 +1487,7 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 1
+                "count": 17
             },
             {
                 "date": "2026-08-27",

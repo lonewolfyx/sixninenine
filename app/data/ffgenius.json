@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 54,
+            "title": "fix: fix typo",
+            "url": "https://github.com/antdv-next/cli/pull/54",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-08-26T09:06:23Z",
+            "mergedAt": "2026-08-26T11:54:21Z",
+            "closedAt": "2026-08-26T11:54:21Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 3,
             "title": "docs: add issue template forms",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/3",
@@ -347,9 +371,9 @@
             "title": "refactor: optimize scrollbar",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/2",
             "state": "OPEN",
-            "changedFiles": 36,
-            "additions": 1033,
-            "deletions": 92,
+            "changedFiles": 50,
+            "additions": 4148,
+            "deletions": 164,
             "totalCommentsCount": 0,
             "createdAt": "2026-08-25T07:17:26Z",
             "mergedAt": null,
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/img-crop"
             }
-        },
-        {
-            "number": 677,
-            "title": "feat(docs): supplement the upload demo",
-            "url": "https://github.com/antdv-next/antdv-next/pull/677",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 208,
-            "deletions": 116,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-07-25T09:15:45Z",
-            "mergedAt": "2026-07-25T12:55:53Z",
-            "closedAt": "2026-07-25T12:55:53Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 407,
+        "total": 410,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1512,7 +1512,7 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-27",

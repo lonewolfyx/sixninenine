@@ -897,6 +897,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat(action): add GitHub PR stats action with SVG generation",
+            "url": "https://github.com/lonewolfyx-workflows/github-pr-stats/pull/1",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 1702,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-26T15:17:25Z",
+            "mergedAt": "2026-08-26T15:17:36Z",
+            "closedAt": "2026-08-26T15:17:36Z",
+            "repository": {
+                "name": "github-pr-stats",
+                "nameWithOwner": "lonewolfyx-workflows/github-pr-stats",
+                "homepageUrl": null,
+                "description": "Generate repository-level pull request contribution statistics for a GitHub user and render them as an SVG table.",
+                "owner": {
+                    "login": "lonewolfyx-workflows",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-workflows/github-pr-stats"
+            }
+        },
+        {
             "number": 55,
             "title": "test(cli): update version reference in test files",
             "url": "https://github.com/antdv-next/cli/pull/55",
@@ -1111,34 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 46,
-            "title": "feat(mcp): implement Model Context Protocol server for Ant Design Vue",
-            "url": "https://github.com/antdv-next/cli/pull/46",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 957,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-24T08:50:05Z",
-            "mergedAt": "2026-08-24T08:53:28Z",
-            "closedAt": "2026-08-24T08:53:28Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11825,
+        "total": 11853,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2090,11 +2090,11 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 46
+                "count": 66
             },
             {
                 "date": "2026-08-27",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-08-28",

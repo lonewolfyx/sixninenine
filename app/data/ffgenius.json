@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 777,
+            "title": "docs: remove update:open event entries",
+            "url": "https://github.com/antdv-next/antdv-next/pull/777",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 0,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-27T02:01:30Z",
+            "mergedAt": "2026-08-27T02:12:33Z",
+            "closedAt": "2026-08-27T02:12:33Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 54,
             "title": "fix: fix typo",
             "url": "https://github.com/antdv-next/cli/pull/54",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 2,
-            "title": "feat(img-crop): complete crop reset behavior",
-            "url": "https://github.com/antdv-next/img-crop/pull/2",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 136,
-            "deletions": 13,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-07-29T15:40:28Z",
-            "mergedAt": "2026-07-29T15:43:31Z",
-            "closedAt": "2026-07-29T15:43:31Z",
-            "repository": {
-                "name": "img-crop",
-                "nameWithOwner": "antdv-next/img-crop",
-                "homepageUrl": null,
-                "description": "Vue 3 image cropping components — interactive cropper and antdv-next Upload integration",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/img-crop"
-            }
         }
     ],
     "contributions": {
-        "total": 410,
+        "total": 413,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1516,7 +1516,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-08-28",

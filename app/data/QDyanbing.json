@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1630489,
+            "size": 1646644,
             "repoCount": 6,
-            "progress": "81.63"
+            "progress": "81.76"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "8.54"
+            "progress": "8.46"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 65620,
+            "size": 66090,
             "repoCount": 2,
-            "progress": "3.29"
+            "progress": "3.28"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.95"
+            "progress": "2.93"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.78"
+            "progress": "2.76"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.64"
+            "progress": "0.63"
         },
         {
             "name": "Shell",
@@ -294,17 +294,65 @@
     },
     "pullRequest": [
         {
+            "number": 59121,
+            "title": "fix(Transfer): disable select all for disabled search results",
+            "url": "https://github.com/ant-design/ant-design/pull/59121",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 24,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-08-27T08:29:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59109,
+            "title": "fix(Checkbox): allow group to override global disabled state",
+            "url": "https://github.com/ant-design/ant-design/pull/59109",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 18,
+            "deletions": 7,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-08-27T02:17:24Z",
+            "mergedAt": "2026-08-27T07:08:07Z",
+            "closedAt": "2026-08-27T07:08:07Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59100,
             "title": "fix(Alert): restrict global closable configuration type",
             "url": "https://github.com/ant-design/ant-design/pull/59100",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 7,
             "deletions": 3,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-08-26T09:27:49Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-27T07:09:26Z",
+            "closedAt": "2026-08-27T07:09:26Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -345,14 +393,14 @@
             "number": 59087,
             "title": "fix(Tag): prioritize local CheckableTag styles",
             "url": "https://github.com/ant-design/ant-design/pull/59087",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 31,
             "deletions": 1,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 11,
             "createdAt": "2026-08-25T01:27:34Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-27T07:10:24Z",
+            "closedAt": "2026-08-27T07:10:24Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59078,
-            "title": "fix(Table): invoke custom header onKeyDown for all keys",
-            "url": "https://github.com/ant-design/ant-design/pull/59078",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 15,
-            "deletions": 1,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-08-24T01:03:04Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat: add pull request contribution workflow",
-            "url": "https://github.com/QDyanbing/react-project-template/pull/3",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 487,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-21T02:50:51Z",
-            "mergedAt": "2026-08-21T03:18:00Z",
-            "closedAt": "2026-08-21T03:18:00Z",
-            "repository": {
-                "name": "react-project-template",
-                "nameWithOwner": "QDyanbing/react-project-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/react-project-template"
-            }
         }
     ],
     "contributions": {
-        "total": 4395,
+        "total": 4416,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1411,7 +1411,7 @@
             },
             {
                 "date": "2026-08-07",
-                "count": 29
+                "count": 28
             },
             {
                 "date": "2026-08-08",
@@ -1491,7 +1491,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 1
+                "count": 23
             },
             {
                 "date": "2026-08-28",

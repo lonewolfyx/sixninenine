@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 19563,
+            "title": "fix(moonshot): omit fixed temperature and top_p for all Kimi models",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19563",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 46,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T07:50:54Z",
+            "mergedAt": "2026-08-27T09:59:35Z",
+            "closedAt": "2026-08-27T09:59:35Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19470,
             "title": "fix(tab-router): cover outgoing page during external retargets",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/19470",
@@ -724,9 +748,9 @@
             "url": "https://github.com/refined-github/refined-github/pull/10002",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 5,
+            "additions": 8,
             "deletions": 3,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 5,
             "createdAt": "2026-08-25T08:13:25Z",
             "mergedAt": null,
             "closedAt": null,
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/kovsu/flint"
             }
-        },
-        {
-            "number": 3260,
-            "title": "fix(rule-data): point sort-data at src/data.json",
-            "url": "https://github.com/flint-fyi/flint/pull/3260",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-24T18:51:59Z",
-            "mergedAt": "2026-08-24T21:54:54Z",
-            "closedAt": "2026-08-24T21:54:54Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 650,
+        "total": 652,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1796,7 +1796,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-08-28",

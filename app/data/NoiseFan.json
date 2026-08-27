@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 42,
+            "title": " feat: add `space-around-custom-container` rule",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/42",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 350,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T09:28:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 41,
+            "title": "docs(padding-around-custom-container): rewrite rule documentation",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/41",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 184,
+            "deletions": 98,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T04:29:19Z",
+            "mergedAt": "2026-08-27T07:41:35Z",
+            "closedAt": "2026-08-27T07:41:35Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 40,
             "title": "ci: bump GitHub Actions to latest majors",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/40",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 32,
-            "title": "chore: update dependencies",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/32",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 1239,
-            "deletions": 1266,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-20T09:21:35Z",
-            "mergedAt": "2026-08-20T09:40:44Z",
-            "closedAt": "2026-08-20T09:40:44Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 31,
-            "title": "feat(valid-custom-container-type): add custom container type rule ",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/31",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 726,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-20T06:54:40Z",
-            "mergedAt": "2026-08-20T07:49:24Z",
-            "closedAt": "2026-08-20T07:49:24Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 514,
+        "total": 537,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -760,7 +760,7 @@
             },
             {
                 "date": "2026-05-02",
-                "count": 11
+                "count": 19
             },
             {
                 "date": "2026-05-03",
@@ -772,7 +772,7 @@
             },
             {
                 "date": "2026-05-05",
-                "count": 23
+                "count": 30
             },
             {
                 "date": "2026-05-06",
@@ -1228,7 +1228,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 4
+                "count": 12
             },
             {
                 "date": "2026-08-28",

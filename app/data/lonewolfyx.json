@@ -897,6 +897,150 @@
     },
     "pullRequest": [
         {
+            "number": 7,
+            "title": "feat(profile): add GitHub PR stats to profile summary",
+            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/7",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T05:46:21Z",
+            "mergedAt": "2026-08-27T05:46:46Z",
+            "closedAt": "2026-08-27T05:46:46Z",
+            "repository": {
+                "name": "lonewolfyx",
+                "nameWithOwner": "lonewolfyx/lonewolfyx",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx"
+            }
+        },
+        {
+            "number": 2,
+            "title": "fix(action): remove pnpm installation step and use npx directly",
+            "url": "https://github.com/lonewolfyx-workflows/github-pr-stats/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 8,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-27T05:41:01Z",
+            "mergedAt": "2026-08-27T05:41:09Z",
+            "closedAt": "2026-08-27T05:41:09Z",
+            "repository": {
+                "name": "github-pr-stats",
+                "nameWithOwner": "lonewolfyx-workflows/github-pr-stats",
+                "homepageUrl": null,
+                "description": "Generate repository-level pull request contribution statistics for a GitHub user and render them as an SVG table.",
+                "owner": {
+                    "login": "lonewolfyx-workflows",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-workflows/github-pr-stats"
+            }
+        },
+        {
+            "number": 6,
+            "title": "ci(workflow): update comment action to backup version",
+            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/6",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T05:31:13Z",
+            "mergedAt": "2026-08-27T05:31:26Z",
+            "closedAt": "2026-08-27T05:31:26Z",
+            "repository": {
+                "name": "lonewolfyx",
+                "nameWithOwner": "lonewolfyx/lonewolfyx",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx"
+            }
+        },
+        {
+            "number": 5,
+            "title": "ci: add GitHub PR stats workflow",
+            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/5",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 37,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T05:29:16Z",
+            "mergedAt": "2026-08-27T05:29:32Z",
+            "closedAt": "2026-08-27T05:29:32Z",
+            "repository": {
+                "name": "lonewolfyx",
+                "nameWithOwner": "lonewolfyx/lonewolfyx",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx"
+            }
+        },
+        {
+            "number": 59,
+            "title": "feat(bug): add gh CLI integration for direct issue submission",
+            "url": "https://github.com/antdv-next/cli/pull/59",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 76,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-27T02:25:11Z",
+            "mergedAt": "2026-08-27T02:26:31Z",
+            "closedAt": "2026-08-27T02:26:31Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
+            "number": 56,
+            "title": "fix(bug): update createBug function to use resolved config instead of parsed args",
+            "url": "https://github.com/antdv-next/cli/pull/56",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 32,
+            "deletions": 14,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-27T01:29:25Z",
+            "mergedAt": "2026-08-27T01:41:33Z",
+            "closedAt": "2026-08-27T01:41:33Z",
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 1,
             "title": "feat(action): add GitHub PR stats action with SVG generation",
             "url": "https://github.com/lonewolfyx-workflows/github-pr-stats/pull/1",
@@ -948,14 +1092,14 @@
             "number": 776,
             "title": "docs(website): add comprehensive CLI documentation and AI integration guides",
             "url": "https://github.com/antdv-next/antdv-next/pull/776",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 749,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-26T08:54:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-27T01:59:31Z",
+            "closedAt": "2026-08-27T01:59:31Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -991,154 +1135,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 52,
-            "title": "build(config): update tsdown configuration for build optimization",
-            "url": "https://github.com/antdv-next/cli/pull/52",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-26T06:48:24Z",
-            "mergedAt": "2026-08-26T06:51:21Z",
-            "closedAt": "2026-08-26T06:51:21Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 51,
-            "title": "feat(setup): implement comprehensive setup command for AI agents and CI",
-            "url": "https://github.com/antdv-next/cli/pull/51",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 370,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-26T06:45:46Z",
-            "mergedAt": "2026-08-26T06:47:11Z",
-            "closedAt": "2026-08-26T06:47:11Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 50,
-            "title": "docs(skills): add antdv skill documentation and npm ignore rules",
-            "url": "https://github.com/antdv-next/cli/pull/50",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 248,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-25T14:41:42Z",
-            "mergedAt": "2026-08-25T14:50:29Z",
-            "closedAt": "2026-08-25T14:50:29Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 49,
-            "title": "feat(cli): add init command for project initialization",
-            "url": "https://github.com/antdv-next/cli/pull/49",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 84,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-25T06:27:22Z",
-            "mergedAt": "2026-08-25T06:33:00Z",
-            "closedAt": "2026-08-25T06:33:00Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 48,
-            "title": "chore(package): remove types field from package.json",
-            "url": "https://github.com/antdv-next/cli/pull/48",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-25T02:42:30Z",
-            "mergedAt": "2026-08-25T02:42:56Z",
-            "closedAt": "2026-08-25T02:42:56Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 47,
-            "title": "fix(mcp): use demos name to return single demo result",
-            "url": "https://github.com/antdv-next/cli/pull/47",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-24T10:47:51Z",
-            "mergedAt": "2026-08-24T10:49:04Z",
-            "closedAt": "2026-08-24T10:49:04Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 11853,
+        "total": 11891,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2090,11 +2090,11 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 66
+                "count": 67
             },
             {
                 "date": "2026-08-27",
-                "count": 8
+                "count": 45
             },
             {
                 "date": "2026-08-28",

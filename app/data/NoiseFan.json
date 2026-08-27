@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 258121,
+            "size": 267846,
             "repoCount": 3,
-            "progress": "99.54"
+            "progress": "99.55"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1201,
             "repoCount": 2,
-            "progress": "0.46"
+            "progress": "0.45"
         }
     ],
     "organizations": {
@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 43,
+            "title": "docs(valid-custom-container-type): rewrite rule documentation",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/43",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 119,
+            "deletions": 26,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-27T21:14:17Z",
+            "mergedAt": "2026-08-27T21:17:04Z",
+            "closedAt": "2026-08-27T21:17:04Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 42,
             "title": " feat: add `space-around-custom-container` rule",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/42",
-            "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 350,
-            "deletions": 3,
+            "state": "MERGED",
+            "changedFiles": 27,
+            "additions": 694,
+            "deletions": 102,
             "totalCommentsCount": 1,
             "createdAt": "2026-08-27T09:28:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-27T21:07:14Z",
+            "closedAt": "2026-08-27T21:07:14Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 33,
-            "title": "types(custom-container): correct parser helper option types",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/33",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 20,
-            "deletions": 22,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-20T11:47:38Z",
-            "mergedAt": "2026-08-20T11:48:23Z",
-            "closedAt": "2026-08-20T11:48:23Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 537,
+        "total": 541,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1232,7 +1232,7 @@
             },
             {
                 "date": "2026-08-28",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-08-29",

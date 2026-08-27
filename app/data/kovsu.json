@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 19585,
+            "title": "fix(code-cli): write Hermes config to the home Hermes actually reads",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/19585",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 326,
+            "deletions": 54,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-08-27T10:09:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 19563,
             "title": "fix(moonshot): omit fixed temperature and top_p for all Kimi models",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/19563",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3,
-            "title": "test: rule-data renovate workflow sandbox round 2",
-            "url": "https://github.com/kovsu/flint/pull/3",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 114,
-            "deletions": 33,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-24T19:16:51Z",
-            "mergedAt": null,
-            "closedAt": "2026-08-24T19:20:07Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "kovsu/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter. ❤️‍🔥",
-                "owner": {
-                    "login": "kovsu",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=adc11ef878b8e3079c3d442b666556b5d869defe&v=4"
-                },
-                "url": "https://github.com/kovsu/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 652,
+        "total": 653,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1796,7 +1796,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-08-28",

@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 808,
+            "title": "feat: add common value guard utilities",
+            "url": "https://github.com/react-component/util/pull/808",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 48,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-08-27T11:51:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "util",
+                "nameWithOwner": "react-component/util",
+                "homepageUrl": "https://react-component.github.io/util",
+                "description": "🛠️ Shared React utilities for rc-component packages.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/util"
+            }
+        },
+        {
             "number": 59121,
             "title": "fix(Transfer): disable select all for disabled search results",
             "url": "https://github.com/ant-design/ant-design/pull/59121",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/QDyanbing/react-project-template"
             }
-        },
-        {
-            "number": 59079,
-            "title": "fix(Form): render numeric zero labels",
-            "url": "https://github.com/ant-design/ant-design/pull/59079",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-08-24T01:20:32Z",
-            "mergedAt": "2026-08-24T07:53:02Z",
-            "closedAt": "2026-08-24T07:53:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4416,
+        "total": 4420,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1491,7 +1491,7 @@
             },
             {
                 "date": "2026-08-27",
-                "count": 23
+                "count": 27
             },
             {
                 "date": "2026-08-28",

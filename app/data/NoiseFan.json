@@ -6,23 +6,23 @@
         "url": "https://github.com/NoiseFan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4",
         "pronouns": "",
-        "followers": 23,
+        "followers": 24,
         "following": 18
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 267846,
+            "size": 277935,
             "repoCount": 3,
-            "progress": "99.55"
+            "progress": "99.57"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1201,
             "repoCount": 2,
-            "progress": "0.45"
+            "progress": "0.43"
         }
     ],
     "organizations": {
@@ -31,17 +31,65 @@
     },
     "pullRequest": [
         {
-            "number": 43,
-            "title": "docs(valid-custom-container-type): rewrite rule documentation",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/43",
+            "number": 57,
+            "title": "chore: migrate to monorepo",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/57",
+            "state": "OPEN",
+            "changedFiles": 112,
+            "additions": 986,
+            "deletions": 381,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-03T17:32:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 56,
+            "title": "ci: publish package to npm on release",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/56",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 55,
+            "deletions": 25,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-03T02:08:58Z",
+            "mergedAt": "2026-09-03T02:31:26Z",
+            "closedAt": "2026-09-03T02:31:26Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 55,
+            "title": "docs(valid-heading-anchor): rewrite rule documentation",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/55",
             "state": "MERGED",
             "changedFiles": 2,
-            "additions": 119,
-            "deletions": 26,
+            "additions": 207,
+            "deletions": 7,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-27T21:14:17Z",
-            "mergedAt": "2026-08-27T21:17:04Z",
-            "closedAt": "2026-08-27T21:17:04Z",
+            "createdAt": "2026-09-02T06:15:58Z",
+            "mergedAt": "2026-09-02T06:20:05Z",
+            "closedAt": "2026-09-02T06:20:05Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -55,65 +103,17 @@
             }
         },
         {
-            "number": 42,
-            "title": " feat: add `space-around-custom-container` rule",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/42",
-            "state": "MERGED",
-            "changedFiles": 27,
-            "additions": 694,
-            "deletions": 102,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-27T09:28:05Z",
-            "mergedAt": "2026-08-27T21:07:14Z",
-            "closedAt": "2026-08-27T21:07:14Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 41,
-            "title": "docs(padding-around-custom-container): rewrite rule documentation",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/41",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 184,
-            "deletions": 98,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-27T04:29:19Z",
-            "mergedAt": "2026-08-27T07:41:35Z",
-            "closedAt": "2026-08-27T07:41:35Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 40,
-            "title": "ci: bump GitHub Actions to latest majors",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/40",
+            "number": 54,
+            "title": "docs(space-around-word): rewrite rule documentation",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/54",
             "state": "MERGED",
             "changedFiles": 3,
-            "additions": 13,
-            "deletions": 13,
+            "additions": 258,
+            "deletions": 40,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-26T16:35:51Z",
-            "mergedAt": "2026-08-26T16:47:19Z",
-            "closedAt": "2026-08-26T16:47:19Z",
+            "createdAt": "2026-09-02T06:12:36Z",
+            "mergedAt": "2026-09-02T06:53:12Z",
+            "closedAt": "2026-09-02T06:53:12Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -127,65 +127,17 @@
             }
         },
         {
-            "number": 39,
-            "title": "feat: add `padding-around-custom-container` rule",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/39",
+            "number": 53,
+            "title": "refactor(parser): consolidate text parsing under the parser directory",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/53",
             "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 856,
-            "deletions": 14,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-26T16:01:54Z",
-            "mergedAt": "2026-08-26T16:28:01Z",
-            "closedAt": "2026-08-26T16:28:01Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 38,
-            "title": "feat: add `padding-around-custom-container` rule",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/38",
-            "state": "CLOSED",
-            "changedFiles": 14,
-            "additions": 790,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-26T15:44:31Z",
-            "mergedAt": null,
-            "closedAt": "2026-08-26T16:00:49Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 37,
-            "title": "fix(custom-container): parse continuous containers and brother text ",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/37",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 980,
-            "deletions": 382,
+            "changedFiles": 20,
+            "additions": 20,
+            "deletions": 20,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-25T17:29:37Z",
-            "mergedAt": "2026-08-25T17:43:29Z",
-            "closedAt": "2026-08-25T17:43:29Z",
+            "createdAt": "2026-09-02T03:26:58Z",
+            "mergedAt": "2026-09-02T03:32:42Z",
+            "closedAt": "2026-09-02T03:32:42Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -199,17 +151,65 @@
             }
         },
         {
-            "number": 36,
-            "title": "refactor: reorganize parser, rule helpers, and tests",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/36",
+            "number": 1014,
+            "title": "docs: normalize second-person pronoun to 你 across docs",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1014",
             "state": "MERGED",
-            "changedFiles": 54,
-            "additions": 523,
-            "deletions": 798,
+            "changedFiles": 22,
+            "additions": 47,
+            "deletions": 47,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-24T08:27:47Z",
-            "mergedAt": "2026-08-24T13:39:01Z",
-            "closedAt": "2026-08-24T13:39:01Z",
+            "createdAt": "2026-08-31T11:54:29Z",
+            "mergedAt": "2026-08-31T11:56:27Z",
+            "closedAt": "2026-08-31T11:56:27Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1013,
+            "title": "chore: upgrade eslint-plugin-md-style",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1013",
+            "state": "MERGED",
+            "changedFiles": 57,
+            "additions": 1152,
+            "deletions": 392,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-31T03:48:06Z",
+            "mergedAt": "2026-08-31T04:00:38Z",
+            "closedAt": "2026-08-31T04:00:38Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 52,
+            "title": "chore: add script to auto-generate rules table in README",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/52",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 32,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-30T18:52:00Z",
+            "mergedAt": "2026-08-30T23:46:26Z",
+            "closedAt": "2026-08-30T23:46:26Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -223,17 +223,17 @@
             }
         },
         {
-            "number": 35,
-            "title": "feat(custom-container): support opening-tag attributes",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/35",
+            "number": 51,
+            "title": "refactor: derive recommended preset from rule meta",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/51",
             "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 129,
-            "deletions": 4,
+            "changedFiles": 5,
+            "additions": 9,
+            "deletions": 6,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-24T03:18:32Z",
-            "mergedAt": "2026-08-24T03:20:18Z",
-            "closedAt": "2026-08-24T03:20:18Z",
+            "createdAt": "2026-08-30T18:50:20Z",
+            "mergedAt": "2026-08-30T23:44:40Z",
+            "closedAt": "2026-08-30T23:44:40Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -247,17 +247,17 @@
             }
         },
         {
-            "number": 34,
-            "title": "refactor(custom-container): refactor cumstom-container AST parser",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/34",
+            "number": 50,
+            "title": "feat(create-rule): auto-generate rule docs URL in meta",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/50",
             "state": "MERGED",
-            "changedFiles": 31,
-            "additions": 1007,
-            "deletions": 389,
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 0,
             "totalCommentsCount": 1,
-            "createdAt": "2026-08-23T15:55:00Z",
-            "mergedAt": "2026-08-23T18:02:00Z",
-            "closedAt": "2026-08-23T18:02:00Z",
+            "createdAt": "2026-08-30T17:52:09Z",
+            "mergedAt": "2026-08-30T17:55:30Z",
+            "closedAt": "2026-08-30T17:55:30Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -272,11 +272,11 @@
         }
     ],
     "contributions": {
-        "total": 541,
+        "total": 565,
         "contributions": [
             {
                 "date": "2026-01-01",
-                "count": 5
+                "count": 4
             },
             {
                 "date": "2026-01-02",
@@ -552,7 +552,7 @@
             },
             {
                 "date": "2026-03-11",
-                "count": 1
+                "count": 0
             },
             {
                 "date": "2026-03-12",
@@ -660,11 +660,11 @@
             },
             {
                 "date": "2026-04-07",
-                "count": 9
+                "count": 6
             },
             {
                 "date": "2026-04-08",
-                "count": 4
+                "count": 3
             },
             {
                 "date": "2026-04-09",
@@ -684,7 +684,7 @@
             },
             {
                 "date": "2026-04-13",
-                "count": 9
+                "count": 7
             },
             {
                 "date": "2026-04-14",
@@ -704,7 +704,7 @@
             },
             {
                 "date": "2026-04-18",
-                "count": 6
+                "count": 5
             },
             {
                 "date": "2026-04-19",
@@ -768,11 +768,11 @@
             },
             {
                 "date": "2026-05-04",
-                "count": 14
+                "count": 11
             },
             {
                 "date": "2026-05-05",
-                "count": 30
+                "count": 28
             },
             {
                 "date": "2026-05-06",
@@ -796,7 +796,7 @@
             },
             {
                 "date": "2026-05-11",
-                "count": 6
+                "count": 5
             },
             {
                 "date": "2026-05-12",
@@ -832,7 +832,7 @@
             },
             {
                 "date": "2026-05-20",
-                "count": 2
+                "count": 1
             },
             {
                 "date": "2026-05-21",
@@ -1112,7 +1112,7 @@
             },
             {
                 "date": "2026-07-29",
-                "count": 7
+                "count": 8
             },
             {
                 "date": "2026-07-30",
@@ -1164,7 +1164,7 @@
             },
             {
                 "date": "2026-08-11",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-08-12",
@@ -1232,7 +1232,7 @@
             },
             {
                 "date": "2026-08-28",
-                "count": 4
+                "count": 10
             },
             {
                 "date": "2026-08-29",
@@ -1240,27 +1240,27 @@
             },
             {
                 "date": "2026-08-30",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-08-31",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-09-01",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-02",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-09-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-04",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-05",

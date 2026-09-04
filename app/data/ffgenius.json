@@ -216,7 +216,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 26
+                    "totalCount": 27
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -229,7 +229,7 @@
                             "company": null,
                             "createdAt": "2014-07-26T04:56:04Z",
                             "email": "olddrivero.king@qq.com",
-                            "location": "India",
+                            "location": "BlueStar",
                             "twitterUsername": null,
                             "url": "https://github.com/lonewolfyx",
                             "websiteUrl": "https://lonewolfyx.vercel.app",
@@ -319,17 +319,209 @@
     },
     "pullRequest": [
         {
+            "number": 14,
+            "title": "chore: add repository PR creation skill",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/14",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 401,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-03T08:07:04Z",
+            "mergedAt": "2026-09-03T08:08:37Z",
+            "closedAt": "2026-09-03T08:08:37Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 810,
+            "title": "feat: use medium instead of middle for size",
+            "url": "https://github.com/antdv-next/antdv-next/pull/810",
+            "state": "MERGED",
+            "changedFiles": 249,
+            "additions": 435,
+            "deletions": 470,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-03T06:33:06Z",
+            "mergedAt": "2026-09-04T00:33:47Z",
+            "closedAt": "2026-09-04T00:33:47Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
+            "number": 11,
+            "title": "feat(pro): introduce InputTag component",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/11",
+            "state": "OPEN",
+            "changedFiles": 42,
+            "additions": 2565,
+            "deletions": 29,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-01T16:28:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat(pro): introduce Heatmap component",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/9",
+            "state": "OPEN",
+            "changedFiles": 128,
+            "additions": 44326,
+            "deletions": 218,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-30T14:04:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 6,
+            "title": "feat(pro): support Pro component auto imports",
+            "url": "https://github.com/antdv-next/auto-import-resolver/pull/6",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 151,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-08-29T18:26:04Z",
+            "mergedAt": "2026-08-31T01:58:51Z",
+            "closedAt": "2026-08-31T01:58:51Z",
+            "repository": {
+                "name": "auto-import-resolver",
+                "nameWithOwner": "antdv-next/auto-import-resolver",
+                "homepageUrl": null,
+                "description": "Antdv Next Auto Import Resolver",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/auto-import-resolver"
+            }
+        },
+        {
+            "number": 7,
+            "title": "docs: load demo source chunks on demand",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/7",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 596,
+            "deletions": 177,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-29T17:49:12Z",
+            "mergedAt": "2026-08-29T17:50:35Z",
+            "closedAt": "2026-08-29T17:50:35Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 4,
+            "title": "ci: add coverage, preview and semantic-pr workflows",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/4",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 117,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-29T04:52:03Z",
+            "mergedAt": "2026-08-29T04:52:59Z",
+            "closedAt": "2026-08-29T04:52:59Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
+            "number": 74,
+            "title": "fix(trigger): close parent popup when leaving a nested sub-popup",
+            "url": "https://github.com/antdv-next/vue-components/pull/74",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 61,
+            "deletions": 12,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-08-28T11:18:17Z",
+            "mergedAt": "2026-08-29T08:25:03Z",
+            "closedAt": "2026-08-29T08:25:03Z",
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
             "number": 779,
             "title": "docs(site): generate static document contributors",
             "url": "https://github.com/antdv-next/antdv-next/pull/779",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 8,
             "additions": 881,
             "deletions": 103,
             "totalCommentsCount": 2,
             "createdAt": "2026-08-27T13:33:11Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-08-27T23:17:38Z",
+            "closedAt": "2026-08-27T23:17:38Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -365,202 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 54,
-            "title": "fix: fix typo",
-            "url": "https://github.com/antdv-next/cli/pull/54",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-26T09:06:23Z",
-            "mergedAt": "2026-08-26T11:54:21Z",
-            "closedAt": "2026-08-26T11:54:21Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
-        },
-        {
-            "number": 3,
-            "title": "docs: add issue template forms",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/3",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 652,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-25T11:38:42Z",
-            "mergedAt": "2026-08-25T11:46:07Z",
-            "closedAt": "2026-08-25T11:46:08Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": null,
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
-        },
-        {
-            "number": 2,
-            "title": "refactor: optimize scrollbar",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/2",
-            "state": "OPEN",
-            "changedFiles": 50,
-            "additions": 4148,
-            "deletions": 164,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-25T07:17:26Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": null,
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
-        },
-        {
-            "number": 1,
-            "title": "fix(docs): remove Vite optimizeDeps excludes",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 15,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-25T03:02:16Z",
-            "mergedAt": "2026-08-25T03:08:43Z",
-            "closedAt": "2026-08-25T03:08:43Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": null,
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
-        },
-        {
-            "number": 687,
-            "title": "fix(layout): support trigger prop/slot for LayoutSider",
-            "url": "https://github.com/antdv-next/antdv-next/pull/687",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 26,
-            "deletions": 6,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-06T02:18:23Z",
-            "mergedAt": "2026-08-06T02:33:43Z",
-            "closedAt": "2026-08-06T02:33:43Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 684,
-            "title": "chore: update deps",
-            "url": "https://github.com/antdv-next/antdv-next/pull/684",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 34,
-            "deletions": 134,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-08-05T11:52:09Z",
-            "mergedAt": "2026-08-05T12:26:22Z",
-            "closedAt": "2026-08-05T12:26:22Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 69,
-            "title": "fix(picker): prevent default mousedown",
-            "url": "https://github.com/antdv-next/vue-components/pull/69",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 41,
-            "deletions": 10,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-05T11:15:00Z",
-            "mergedAt": "2026-08-05T11:16:35Z",
-            "closedAt": "2026-08-05T11:16:35Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
-        },
-        {
-            "number": 68,
-            "title": "chore(release): @v-c/picker 1.3.1",
-            "url": "https://github.com/antdv-next/vue-components/pull/68",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-05T06:57:23Z",
-            "mergedAt": "2026-08-05T06:59:08Z",
-            "closedAt": "2026-08-05T06:59:08Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 414,
+        "total": 455,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1520,35 +1520,35 @@
             },
             {
                 "date": "2026-08-28",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-08-29",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-08-30",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-08-31",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-01",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-09-02",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-09-03",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-04",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-05",

@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59216,
+            "title": "refactor(Dropdown): simplify popup node normalization",
+            "url": "https://github.com/ant-design/ant-design/pull/59216",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-05T03:26:00Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59207,
             "title": "fix: align popupRender behavior, types, and docs",
             "url": "https://github.com/ant-design/ant-design/pull/59207",
@@ -301,7 +325,7 @@
             "changedFiles": 16,
             "additions": 46,
             "deletions": 34,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 11,
             "createdAt": "2026-09-04T06:41:40Z",
             "mergedAt": "2026-09-04T16:04:40Z",
             "closedAt": "2026-09-04T16:04:40Z",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/react-component/table"
             }
-        },
-        {
-            "number": 1009,
-            "title": "refactor: use shared renderability guards",
-            "url": "https://github.com/react-component/picker/pull/1009",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 40,
-            "deletions": 28,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T00:43:59Z",
-            "mergedAt": "2026-09-03T02:31:57Z",
-            "closedAt": "2026-09-03T02:31:57Z",
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://react-component.github.io/picker",
-                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
         }
     ],
     "contributions": {
-        "total": 4587,
+        "total": 4588,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1527,7 +1527,7 @@
             },
             {
                 "date": "2026-09-05",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-09-06",

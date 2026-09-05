@@ -973,6 +973,30 @@
     },
     "pullRequest": [
         {
+            "number": 1601,
+            "title": "fix: remove duplicate ssr-lit module entry",
+            "url": "https://github.com/nuxt/modules/pull/1601",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 15,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-05T06:06:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "modules",
+                "nameWithOwner": "nuxt/modules",
+                "homepageUrl": "https://nuxt.com/modules",
+                "description": "Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.",
+                "owner": {
+                    "login": "nuxt",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/23360933?v=4"
+                },
+                "url": "https://github.com/nuxt/modules"
+            }
+        },
+        {
             "number": 806,
             "title": "chore: add PR creation skill",
             "url": "https://github.com/antdv-next/antdv-next/pull/806",
@@ -1187,34 +1211,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 63,
-            "title": "refactor(changelog): move metadata loading into diff utility",
-            "url": "https://github.com/antdv-next/cli/pull/63",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 83,
-            "deletions": 49,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-28T01:36:09Z",
-            "mergedAt": "2026-08-28T01:37:18Z",
-            "closedAt": "2026-08-28T01:37:18Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 12241,
+        "total": 12261,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2206,7 +2206,7 @@
             },
             {
                 "date": "2026-09-05",
-                "count": 19
+                "count": 39
             },
             {
                 "date": "2026-09-06",

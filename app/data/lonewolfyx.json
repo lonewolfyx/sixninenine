@@ -973,6 +973,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "feat(data-nuxt): add icons to Nuxt module entries",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/3",
+            "state": "OPEN",
+            "changedFiles": 371,
+            "additions": 2610,
+            "deletions": 213,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-06T15:35:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 2,
             "title": "feat: add required icon field to project meta schema and generators",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/2",
@@ -1187,34 +1211,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 66,
-            "title": "refactor(mcp): migrate to high-level server API",
-            "url": "https://github.com/antdv-next/cli/pull/66",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 37,
-            "deletions": 53,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-28T02:45:05Z",
-            "mergedAt": "2026-08-28T02:46:21Z",
-            "closedAt": "2026-08-28T02:46:21Z",
-            "repository": {
-                "name": "cli",
-                "nameWithOwner": "antdv-next/cli",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/cli"
-            }
         }
     ],
     "contributions": {
-        "total": 12351,
+        "total": 12357,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2210,7 +2210,7 @@
             },
             {
                 "date": "2026-09-06",
-                "count": 22
+                "count": 28
             },
             {
                 "date": "2026-09-07",

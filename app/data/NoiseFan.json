@@ -31,17 +31,65 @@
     },
     "pullRequest": [
         {
+            "number": 1020,
+            "title": "feat: add old-version banner for v4 docs",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1020",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 81,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-06T15:36:04Z",
+            "mergedAt": "2026-09-06T15:37:18Z",
+            "closedAt": "2026-09-06T15:37:18Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 11160,
+            "title": "docs: fix docs/guide/projects.md tip block",
+            "url": "https://github.com/vitest-dev/vitest/pull/11160",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-06T15:18:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vitest",
+                "nameWithOwner": "vitest-dev/vitest",
+                "homepageUrl": "https://vitest.dev",
+                "description": "Next generation testing framework powered by Vite.",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/vitest"
+            }
+        },
+        {
             "number": 1019,
             "title": "docs(cn): update /guide",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1019",
-            "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 214,
-            "deletions": 214,
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 239,
+            "deletions": 243,
             "totalCommentsCount": 4,
             "createdAt": "2026-09-06T07:51:31Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-06T12:32:32Z",
+            "closedAt": "2026-09-06T12:32:32Z",
             "repository": {
                 "name": "docs-cn",
                 "nameWithOwner": "vitest-dev/docs-cn",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1013,
-            "title": "chore: upgrade eslint-plugin-md-style",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1013",
-            "state": "MERGED",
-            "changedFiles": 57,
-            "additions": 1152,
-            "deletions": 392,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-31T03:48:06Z",
-            "mergedAt": "2026-08-31T04:00:38Z",
-            "closedAt": "2026-08-31T04:00:38Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 52,
-            "title": "chore: add script to auto-generate rules table in README",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/52",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 32,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-30T18:52:00Z",
-            "mergedAt": "2026-08-30T23:46:26Z",
-            "closedAt": "2026-08-30T23:46:26Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 570,
+        "total": 573,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1268,7 +1268,7 @@
             },
             {
                 "date": "2026-09-06",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-09-07",

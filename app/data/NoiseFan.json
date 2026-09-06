@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 1019,
+            "title": "docs(cn): update /guide",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1019",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 214,
+            "deletions": 214,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-09-06T07:51:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 1018,
             "title": "d2m",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1018",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 51,
-            "title": "refactor: derive recommended preset from rule meta",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/51",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 9,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-30T18:50:20Z",
-            "mergedAt": "2026-08-30T23:44:40Z",
-            "closedAt": "2026-08-30T23:44:40Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 569,
+        "total": 570,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1268,7 +1268,7 @@
             },
             {
                 "date": "2026-09-06",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-09-07",

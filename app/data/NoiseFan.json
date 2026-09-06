@@ -31,6 +31,78 @@
     },
     "pullRequest": [
         {
+            "number": 1023,
+            "title": "docs(cn): fix twoslash errors in snapshot guide v1",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1023",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 2,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-06T16:26:19Z",
+            "mergedAt": "2026-09-06T16:28:38Z",
+            "closedAt": "2026-09-06T16:28:38Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1022,
+            "title": "chore(deps): bump dev dependencies and tidy config v2",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1022",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 559,
+            "deletions": 637,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-06T15:58:06Z",
+            "mergedAt": "2026-09-06T16:17:19Z",
+            "closedAt": "2026-09-06T16:17:19Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1021,
+            "title": "d2m",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1021",
+            "state": "MERGED",
+            "changedFiles": 317,
+            "additions": 21850,
+            "deletions": 10256,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-06T15:47:32Z",
+            "mergedAt": "2026-09-06T15:48:48Z",
+            "closedAt": "2026-09-06T15:48:48Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 1020,
             "title": "feat: add old-version banner for v4 docs",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1020",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 54,
-            "title": "docs(space-around-word): rewrite rule documentation",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/54",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 258,
-            "deletions": 40,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-02T06:12:36Z",
-            "mergedAt": "2026-09-02T06:53:12Z",
-            "closedAt": "2026-09-02T06:53:12Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 53,
-            "title": "refactor(parser): consolidate text parsing under the parser directory",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/53",
-            "state": "MERGED",
-            "changedFiles": 20,
-            "additions": 20,
-            "deletions": 20,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-02T03:26:58Z",
-            "mergedAt": "2026-09-02T03:32:42Z",
-            "closedAt": "2026-09-02T03:32:42Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 1014,
-            "title": "docs: normalize second-person pronoun to 你 across docs",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1014",
-            "state": "MERGED",
-            "changedFiles": 22,
-            "additions": 47,
-            "deletions": 47,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-31T11:54:29Z",
-            "mergedAt": "2026-08-31T11:56:27Z",
-            "closedAt": "2026-08-31T11:56:27Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 573,
+        "total": 577,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1268,11 +1268,11 @@
             },
             {
                 "date": "2026-09-06",
-                "count": 5
+                "count": 8
             },
             {
                 "date": "2026-09-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-08",

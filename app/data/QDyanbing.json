@@ -294,6 +294,78 @@
     },
     "pullRequest": [
         {
+            "number": 59238,
+            "title": "docs: explain SVG icon alignment in FAQ",
+            "url": "https://github.com/ant-design/ant-design/pull/59238",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 20,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-07T03:13:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59236,
+            "title": "docs: align open-state callback parameter names",
+            "url": "https://github.com/ant-design/ant-design/pull/59236",
+            "state": "MERGED",
+            "changedFiles": 20,
+            "additions": 59,
+            "deletions": 59,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-07T01:19:37Z",
+            "mergedAt": "2026-09-07T02:12:13Z",
+            "closedAt": "2026-09-07T02:12:13Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 1014,
+            "title": "feat: add suffix and deprecate suffixIcon",
+            "url": "https://github.com/react-component/picker/pull/1014",
+            "state": "MERGED",
+            "changedFiles": 15,
+            "additions": 53,
+            "deletions": 32,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-07T00:39:44Z",
+            "mergedAt": "2026-09-07T03:24:09Z",
+            "closedAt": "2026-09-07T03:24:09Z",
+            "repository": {
+                "name": "picker",
+                "nameWithOwner": "react-component/picker",
+                "homepageUrl": "https://react-component.github.io/picker",
+                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/picker"
+            }
+        },
+        {
             "number": 59216,
             "title": "refactor(Dropdown): simplify popup node normalization",
             "url": "https://github.com/ant-design/ant-design/pull/59216",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/react-component/tree"
             }
-        },
-        {
-            "number": 1094,
-            "title": "refactor: use renderable guard for marks",
-            "url": "https://github.com/react-component/slider/pull/1094",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T01:56:04Z",
-            "closedAt": "2026-09-03T01:56:04Z",
-            "repository": {
-                "name": "slider",
-                "nameWithOwner": "react-component/slider",
-                "homepageUrl": "https://react-component.github.io/slider",
-                "description": "🎚️ Accessible React slider for single values, ranges, marks, and editable handles.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/slider"
-            }
-        },
-        {
-            "number": 532,
-            "title": "refactor: use renderable guard for placeholder",
-            "url": "https://github.com/react-component/image/pull/532",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T02:32:16Z",
-            "closedAt": "2026-09-03T02:32:16Z",
-            "repository": {
-                "name": "image",
-                "nameWithOwner": "react-component/image",
-                "homepageUrl": "https://react-component.github.io/image",
-                "description": "🖼️ Image display, fallback, and preview tooling for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/image"
-            }
-        },
-        {
-            "number": 1511,
-            "title": "refactor: use shared value and renderability guards",
-            "url": "https://github.com/react-component/table/pull/1511",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 13,
-            "deletions": 17,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T00:44:00Z",
-            "mergedAt": "2026-09-03T02:32:08Z",
-            "closedAt": "2026-09-03T02:32:08Z",
-            "repository": {
-                "name": "table",
-                "nameWithOwner": "react-component/table",
-                "homepageUrl": "https://react-component.github.io/table",
-                "description": "📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/table"
-            }
         }
     ],
     "contributions": {
-        "total": 4624,
+        "total": 4631,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1527,7 +1527,7 @@
             },
             {
                 "date": "2026-09-05",
-                "count": 22
+                "count": 21
             },
             {
                 "date": "2026-09-06",
@@ -1535,7 +1535,7 @@
             },
             {
                 "date": "2026-09-07",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-09-08",

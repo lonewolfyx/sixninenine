@@ -319,6 +319,54 @@
     },
     "pullRequest": [
         {
+            "number": 4,
+            "title": "Add add function to utils.ts for summation",
+            "url": "https://github.com/lonewolfyx/test-antdv-next-pr-comments/pull/4",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-09-07T08:58:47Z",
+            "mergedAt": null,
+            "closedAt": "2026-09-07T11:34:56Z",
+            "repository": {
+                "name": "test-antdv-next-pr-comments",
+                "nameWithOwner": "lonewolfyx/test-antdv-next-pr-comments",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/test-antdv-next-pr-comments"
+            }
+        },
+        {
+            "number": 16,
+            "title": "feat(Scrollbar): add explicit scroll fade API",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/16",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 384,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-07T08:09:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
             "number": 14,
             "title": "chore: add repository PR creation skill",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/14",
@@ -509,58 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/vue-components"
             }
-        },
-        {
-            "number": 779,
-            "title": "docs(site): generate static document contributors",
-            "url": "https://github.com/antdv-next/antdv-next/pull/779",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 881,
-            "deletions": 103,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-27T13:33:11Z",
-            "mergedAt": "2026-08-27T23:17:38Z",
-            "closedAt": "2026-08-27T23:17:38Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 777,
-            "title": "docs: remove update:open event entries",
-            "url": "https://github.com/antdv-next/antdv-next/pull/777",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 0,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-27T02:01:30Z",
-            "mergedAt": "2026-08-27T02:12:33Z",
-            "closedAt": "2026-08-27T02:12:33Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 456,
+        "total": 460,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1560,7 +1560,7 @@
             },
             {
                 "date": "2026-09-07",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-09-08",

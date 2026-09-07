@@ -294,17 +294,89 @@
     },
     "pullRequest": [
         {
+            "number": 59242,
+            "title": "site: fix token customization popover code selection",
+            "url": "https://github.com/ant-design/ant-design/pull/59242",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 23,
+            "deletions": 24,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-07T08:21:18Z",
+            "mergedAt": "2026-09-07T09:09:57Z",
+            "closedAt": "2026-09-07T09:09:58Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 269,
+            "title": "feat: support open API with visible compatibility",
+            "url": "https://github.com/react-component/dropdown/pull/269",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 227,
+            "deletions": 68,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-07T07:00:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "dropdown",
+                "nameWithOwner": "react-component/dropdown",
+                "homepageUrl": "https://react-component.github.io/dropdown",
+                "description": "🔽 A trigger-driven dropdown component for React.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/dropdown"
+            }
+        },
+        {
+            "number": 59240,
+            "title": "fix: align picker components with suffix API",
+            "url": "https://github.com/ant-design/ant-design/pull/59240",
+            "state": "OPEN",
+            "changedFiles": 23,
+            "additions": 204,
+            "deletions": 93,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-09-07T05:30:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59238,
             "title": "docs: explain SVG icon alignment in FAQ",
             "url": "https://github.com/ant-design/ant-design/pull/59238",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 20,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-07T03:13:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-07T05:38:15Z",
+            "closedAt": "2026-09-07T05:38:15Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/react-component/mentions"
             }
-        },
-        {
-            "number": 587,
-            "title": "refactor: use renderable guards for panel content",
-            "url": "https://github.com/react-component/dialog/pull/587",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 8,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T01:57:02Z",
-            "closedAt": "2026-09-03T01:57:02Z",
-            "repository": {
-                "name": "dialog",
-                "nameWithOwner": "react-component/dialog",
-                "homepageUrl": "https://react-component.github.io/dialog",
-                "description": "💬 A composable dialog component for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/dialog"
-            }
-        },
-        {
-            "number": 721,
-            "title": "refactor: use renderable guards for pagination items",
-            "url": "https://github.com/react-component/pagination/pull/721",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 13,
-            "deletions": 8,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T01:56:32Z",
-            "closedAt": "2026-09-03T01:56:32Z",
-            "repository": {
-                "name": "pagination",
-                "nameWithOwner": "react-component/pagination",
-                "homepageUrl": "https://react-component.github.io/pagination",
-                "description": "📄 React pagination primitives for page navigation, size changing, quick jumping, and locale-aware controls.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/pagination"
-            }
-        },
-        {
-            "number": 1073,
-            "title": "refactor: use renderable guards for node icons",
-            "url": "https://github.com/react-component/tree/pull/1073",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T02:32:20Z",
-            "closedAt": "2026-09-03T02:32:21Z",
-            "repository": {
-                "name": "tree",
-                "nameWithOwner": "react-component/tree",
-                "homepageUrl": "https://react-component.github.io/tree",
-                "description": "🌳 Accessible tree view primitives for React, maintained in the Ant Design ecosystem.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tree"
-            }
         }
     ],
     "contributions": {
-        "total": 4631,
+        "total": 4638,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1535,7 +1535,7 @@
             },
             {
                 "date": "2026-09-07",
-                "count": 8
+                "count": 15
             },
             {
                 "date": "2026-09-08",

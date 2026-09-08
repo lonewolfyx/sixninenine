@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 24842,
+            "title": "docs(components): [date-picker] clarify show-footer supported types",
+            "url": "https://github.com/element-plus/element-plus/pull/24842",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-09-08T04:16:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 24621,
             "title": "fix(components): [autocomplete] clear stale suggestions on refocus",
             "url": "https://github.com/element-plus/element-plus/pull/24621",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 23874,
-            "title": "refactor(types): [form] tighten `trigger` type to 'change' | 'blur'",
-            "url": "https://github.com/element-plus/element-plus/pull/23874",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-03-21T16:49:35Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-15T14:23:35Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 200,
+        "total": 201,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1276,7 +1276,7 @@
             },
             {
                 "date": "2026-09-08",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-09",

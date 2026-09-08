@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59246,
+            "title": "fix(FloatButton): prevent hover menu flickering",
+            "url": "https://github.com/ant-design/ant-design/pull/59246",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 38,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-09-08T02:49:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59242,
             "title": "site: fix token customization popover code selection",
             "url": "https://github.com/ant-design/ant-design/pull/59242",
@@ -322,10 +346,10 @@
             "title": "feat: support open API with visible compatibility",
             "url": "https://github.com/react-component/dropdown/pull/269",
             "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 227,
-            "deletions": 68,
-            "totalCommentsCount": 1,
+            "changedFiles": 13,
+            "additions": 294,
+            "deletions": 70,
+            "totalCommentsCount": 2,
             "createdAt": "2026-09-07T07:00:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -349,7 +373,7 @@
             "changedFiles": 23,
             "additions": 204,
             "deletions": 93,
-            "totalCommentsCount": 13,
+            "totalCommentsCount": 14,
             "createdAt": "2026-09-07T05:30:23Z",
             "mergedAt": null,
             "closedAt": null,
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 337,
-            "title": "refactor: use renderable guard for suffix",
-            "url": "https://github.com/react-component/mentions/pull/337",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 5,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-03T01:44:47Z",
-            "mergedAt": "2026-09-03T02:32:12Z",
-            "closedAt": "2026-09-03T02:32:12Z",
-            "repository": {
-                "name": "mentions",
-                "nameWithOwner": "react-component/mentions",
-                "homepageUrl": "https://react-component.github.io/mentions",
-                "description": "💬 React mentions textarea with searchable suggestions and keyboard navigation.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mentions"
-            }
         }
     ],
     "contributions": {
-        "total": 4638,
+        "total": 4639,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1539,7 +1539,7 @@
             },
             {
                 "date": "2026-09-08",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-09",

@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 20200,
+            "title": "fix(agent-task): keep run log session link for failed and cancelled runs",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20200",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 114,
+            "deletions": 51,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-08T02:49:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 20197,
+            "title": "fix(word-export): render indented code, ordered lists, images and strikethrough",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20197",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 232,
+            "deletions": 29,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-09-08T02:12:58Z",
+            "mergedAt": "2026-09-08T03:53:35Z",
+            "closedAt": "2026-09-08T03:53:35Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 3412,
             "title": "fix(core): resolve cache paths relative to host cwd",
             "url": "https://github.com/flint-fyi/flint/pull/3412",
@@ -627,10 +675,10 @@
             "title": "fix(agent-tasks): refresh task run history on job state changes",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20154",
             "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 66,
-            "deletions": 5,
-            "totalCommentsCount": 3,
+            "changedFiles": 10,
+            "additions": 247,
+            "deletions": 16,
+            "totalCommentsCount": 4,
             "createdAt": "2026-09-07T07:27:10Z",
             "mergedAt": null,
             "closedAt": null,
@@ -651,10 +699,10 @@
             "title": "fix(translate): cancel the in-flight stream before replacing output",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20152",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 137,
-            "deletions": 13,
-            "totalCommentsCount": 3,
+            "changedFiles": 17,
+            "additions": 190,
+            "deletions": 89,
+            "totalCommentsCount": 4,
             "createdAt": "2026-09-07T06:56:44Z",
             "mergedAt": null,
             "closedAt": null,
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 19961,
-            "title": "fix(file): compare inodes as bigint in isSameFile",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/19961",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-04T03:28:04Z",
-            "mergedAt": "2026-09-04T04:09:31Z",
-            "closedAt": "2026-09-04T04:09:31Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 19960,
-            "title": "fix(filesystem-mcp): defer regex validation to fallback",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/19960",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 31,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-04T03:09:04Z",
-            "mergedAt": "2026-09-04T04:12:23Z",
-            "closedAt": "2026-09-04T04:12:23Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 724,
+        "total": 727,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1844,7 +1844,7 @@
             },
             {
                 "date": "2026-09-08",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-09",

@@ -138,7 +138,7 @@
                             "createdAt": "2012-09-13T17:01:44Z",
                             "email": "",
                             "location": "Shanghai",
-                            "twitterUsername": "elliotchen200",
+                            "twitterUsername": "elliotchen100",
                             "url": "https://github.com/cyfyifanchen",
                             "websiteUrl": "cyfyifanchen.com",
                             "status": {
@@ -318,6 +318,30 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 840,
+            "title": "fix(yml): fix eslint errors",
+            "url": "https://github.com/antdv-next/antdv-next/pull/840",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-08T01:27:01Z",
+            "mergedAt": "2026-09-08T01:46:45Z",
+            "closedAt": "2026-09-08T01:46:45Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
         {
             "number": 17,
             "title": "feat(pro): introduce Cron component",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 74,
-            "title": "fix(trigger): close parent popup when leaving a nested sub-popup",
-            "url": "https://github.com/antdv-next/vue-components/pull/74",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 61,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-28T11:18:17Z",
-            "mergedAt": "2026-08-29T08:25:03Z",
-            "closedAt": "2026-08-29T08:25:03Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
         }
     ],
     "contributions": {
-        "total": 461,
+        "total": 465,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1564,7 +1564,7 @@
             },
             {
                 "date": "2026-09-08",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-09-09",

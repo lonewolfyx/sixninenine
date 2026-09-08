@@ -973,6 +973,222 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "feat: add llms.txt link to site header",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/23",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-08T08:48:47Z",
+            "mergedAt": "2026-09-08T08:49:07Z",
+            "closedAt": "2026-09-08T08:49:07Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 22,
+            "title": "refactor: use shared category metadata for category page labels",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/22",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 16,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-08T08:43:27Z",
+            "mergedAt": "2026-09-08T08:46:15Z",
+            "closedAt": "2026-09-08T08:46:15Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 21,
+            "title": "feat: add llms.txt endpoint for LLM-friendly project discovery",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/21",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 224,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-08T08:24:42Z",
+            "mergedAt": "2026-09-08T08:25:54Z",
+            "closedAt": "2026-09-08T08:25:54Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 20,
+            "title": "refactor: return category counts as a keyed map from stats endpoint",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/20",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-08T06:33:33Z",
+            "mergedAt": "2026-09-08T06:35:41Z",
+            "closedAt": "2026-09-08T06:35:41Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 19,
+            "title": "fix: use more descriptive category labels",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/19",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-08T06:22:22Z",
+            "mergedAt": "2026-09-08T06:23:55Z",
+            "closedAt": "2026-09-08T06:23:55Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 18,
+            "title": "refactor: rename projectCategory to projectCategories and fix shared constants auto-import",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/18",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-08T06:11:44Z",
+            "mergedAt": "2026-09-08T06:13:56Z",
+            "closedAt": "2026-09-08T06:13:56Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 17,
+            "title": "fix(app): use NuxtLink for header nav and correct nav labels",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/17",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 5,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-08T06:03:04Z",
+            "mergedAt": "2026-09-08T06:04:00Z",
+            "closedAt": "2026-09-08T06:04:00Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 16,
+            "title": "feat(app): add dynamic category pages",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/16",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 234,
+            "deletions": 93,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-08T05:48:35Z",
+            "mergedAt": "2026-09-08T05:50:54Z",
+            "closedAt": "2026-09-08T05:50:54Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 15,
+            "title": "feat(nuxt): auto-import shared constants",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/15",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-08T05:48:21Z",
+            "mergedAt": "2026-09-08T05:50:02Z",
+            "closedAt": "2026-09-08T05:50:02Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 14,
             "title": "refactor(api): validate projects query with zod",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/14",
@@ -988,223 +1204,7 @@
                 "name": "vuejs-community",
                 "nameWithOwner": "vuejs-community/vuejs-community",
                 "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 13,
-            "title": "feat(api): return project pagination metadata",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/13",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 25,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-08T02:44:50Z",
-            "mergedAt": "2026-09-08T02:46:34Z",
-            "closedAt": "2026-09-08T02:46:34Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 12,
-            "title": "docs(schema): document community project fields",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/12",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-08T02:27:35Z",
-            "mergedAt": "2026-09-08T02:28:51Z",
-            "closedAt": "2026-09-08T02:28:51Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 11,
-            "title": "docs(create-pr): align workflow with repository conventions",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/11",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 109,
-            "deletions": 456,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-08T01:40:29Z",
-            "mergedAt": "2026-09-08T01:42:53Z",
-            "closedAt": "2026-09-08T01:42:53Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 10,
-            "title": "feat(api): paginate project results",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-08T01:16:41Z",
-            "mergedAt": "2026-09-08T01:18:06Z",
-            "closedAt": "2026-09-08T01:18:06Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 9,
-            "title": "docs: restructure contributing guide and add Chinese version",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/9",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 305,
-            "deletions": 87,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T15:21:02Z",
-            "mergedAt": "2026-09-07T15:22:04Z",
-            "closedAt": "2026-09-07T15:22:04Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 8,
-            "title": "docs: add MIT license file",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/8",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 21,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T14:56:17Z",
-            "mergedAt": "2026-09-07T14:57:02Z",
-            "closedAt": "2026-09-07T14:57:02Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 7,
-            "title": "docs: rewrite README with badges, features, and contribution guide",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 60,
-            "deletions": 51,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T14:49:23Z",
-            "mergedAt": "2026-09-07T14:49:45Z",
-            "closedAt": "2026-09-07T14:49:45Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 838,
-            "title": "ci(size-repo): publish size reports for fork pull requests",
-            "url": "https://github.com/antdv-next/antdv-next/pull/838",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 151,
-            "deletions": 98,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-07T13:57:29Z",
-            "mergedAt": "2026-09-07T14:06:03Z",
-            "closedAt": "2026-09-07T14:06:04Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 6,
-            "title": "feat: expose project icons in API responses",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/6",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 14,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T13:19:27Z",
-            "mergedAt": "2026-09-07T13:20:11Z",
-            "closedAt": "2026-09-07T13:20:11Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": null,
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
                 "owner": {
                     "login": "vuejs-community",
                     "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
@@ -1214,7 +1214,7 @@
         }
     ],
     "contributions": {
-        "total": 12420,
+        "total": 12444,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2214,11 +2214,11 @@
             },
             {
                 "date": "2026-09-07",
-                "count": 41
+                "count": 42
             },
             {
                 "date": "2026-09-08",
-                "count": 14
+                "count": 37
             },
             {
                 "date": "2026-09-09",

@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1856679,
+            "size": 1890039,
             "repoCount": 6,
-            "progress": "83.43"
+            "progress": "83.62"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "7.66"
+            "progress": "7.54"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 67421,
+            "size": 68963,
             "repoCount": 2,
-            "progress": "3.03"
+            "progress": "3.05"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.65"
+            "progress": "2.61"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.50"
+            "progress": "2.46"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.57"
+            "progress": "0.56"
         },
         {
             "name": "Shell",
@@ -294,12 +294,84 @@
     },
     "pullRequest": [
         {
+            "number": 59250,
+            "title": "fix(ConfigProvider): inherit zeroRuntime in nested themes",
+            "url": "https://github.com/ant-design/ant-design/pull/59250",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-08T08:37:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 1514,
+            "title": "chore: upgrade dropdown demo to v2",
+            "url": "https://github.com/react-component/table/pull/1514",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 7,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-09-08T08:35:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "table",
+                "nameWithOwner": "react-component/table",
+                "homepageUrl": "https://react-component.github.io/table",
+                "description": "📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/table"
+            }
+        },
+        {
+            "number": 1023,
+            "title": "feat!: migrate more dropdown to open API",
+            "url": "https://github.com/react-component/tabs/pull/1023",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 35,
+            "deletions": 5,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-08T08:35:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tabs",
+                "nameWithOwner": "react-component/tabs",
+                "homepageUrl": "https://react-component.github.io/tabs",
+                "description": "📑 Flexible React tabs with overflow, editable items, custom tab bars, and accessible panels.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tabs"
+            }
+        },
+        {
             "number": 59246,
             "title": "fix(FloatButton): prevent hover menu flickering",
             "url": "https://github.com/ant-design/ant-design/pull/59246",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 38,
+            "additions": 28,
             "deletions": 0,
             "totalCommentsCount": 10,
             "createdAt": "2026-09-08T02:49:26Z",
@@ -343,16 +415,16 @@
         },
         {
             "number": 269,
-            "title": "feat: support open API with visible compatibility",
+            "title": "feat!: replace visible API with open",
             "url": "https://github.com/react-component/dropdown/pull/269",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 13,
-            "additions": 294,
-            "deletions": 70,
-            "totalCommentsCount": 2,
+            "additions": 241,
+            "deletions": 74,
+            "totalCommentsCount": 3,
             "createdAt": "2026-09-07T07:00:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-08T08:17:14Z",
+            "closedAt": "2026-09-08T08:17:14Z",
             "repository": {
                 "name": "dropdown",
                 "nameWithOwner": "react-component/dropdown",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/react-component/picker"
             }
-        },
-        {
-            "number": 59216,
-            "title": "refactor(Dropdown): simplify popup node normalization",
-            "url": "https://github.com/ant-design/ant-design/pull/59216",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-05T03:26:00Z",
-            "mergedAt": "2026-09-05T06:42:24Z",
-            "closedAt": "2026-09-05T06:42:24Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59207,
-            "title": "fix: align popupRender behavior, types, and docs",
-            "url": "https://github.com/ant-design/ant-design/pull/59207",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 46,
-            "deletions": 34,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-04T06:41:40Z",
-            "mergedAt": "2026-09-04T16:04:40Z",
-            "closedAt": "2026-09-04T16:04:40Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59198,
-            "title": "fix(Table): preserve filters on hidden responsive columns",
-            "url": "https://github.com/ant-design/ant-design/pull/59198",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 35,
-            "deletions": 2,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-09-03T06:06:10Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4639,
+        "total": 4658,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1539,7 +1539,7 @@
             },
             {
                 "date": "2026-09-08",
-                "count": 1
+                "count": 20
             },
             {
                 "date": "2026-09-09",

@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1890039,
+            "size": 1904767,
             "repoCount": 6,
-            "progress": "83.62"
+            "progress": "83.72"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "7.54"
+            "progress": "7.49"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 68963,
             "repoCount": 2,
-            "progress": "3.05"
+            "progress": "3.03"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.61"
+            "progress": "2.59"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.46"
+            "progress": "2.44"
         },
         {
             "name": "Less",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59260,
+            "title": "fix(Table): vertically center virtual cell content",
+            "url": "https://github.com/ant-design/ant-design/pull/59260",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-09T08:32:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59259,
+            "title": "chore: upgrade rc Dropdown and Tabs dependencies",
+            "url": "https://github.com/ant-design/ant-design/pull/59259",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 68,
+            "deletions": 12,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-09-09T08:27:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59255,
             "title": "fix(Modal): preserve onCancel when cancel button has onClick",
             "url": "https://github.com/ant-design/ant-design/pull/59255",
@@ -345,14 +393,14 @@
             "number": 59250,
             "title": "fix(ConfigProvider): inherit zeroRuntime in nested themes",
             "url": "https://github.com/ant-design/ant-design/pull/59250",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-08T08:37:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-09T08:06:49Z",
+            "closedAt": "2026-09-09T08:06:49Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/react-component/dropdown"
             }
-        },
-        {
-            "number": 59240,
-            "title": "fix: align picker components with suffix API",
-            "url": "https://github.com/ant-design/ant-design/pull/59240",
-            "state": "OPEN",
-            "changedFiles": 23,
-            "additions": 204,
-            "deletions": 93,
-            "totalCommentsCount": 14,
-            "createdAt": "2026-09-07T05:30:23Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59238,
-            "title": "docs: explain SVG icon alignment in FAQ",
-            "url": "https://github.com/ant-design/ant-design/pull/59238",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 20,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-07T03:13:08Z",
-            "mergedAt": "2026-09-07T05:38:15Z",
-            "closedAt": "2026-09-07T05:38:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4664,
+        "total": 4672,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1543,7 +1543,7 @@
             },
             {
                 "date": "2026-09-09",
-                "count": 6
+                "count": 14
             },
             {
                 "date": "2026-09-10",

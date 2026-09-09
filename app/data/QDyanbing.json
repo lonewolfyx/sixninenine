@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59255,
+            "title": "fix(Modal): preserve onCancel when cancel button has onClick",
+            "url": "https://github.com/ant-design/ant-design/pull/59255",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-09T02:10:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59254,
+            "title": "fix(Modal): preserve falsy button text",
+            "url": "https://github.com/ant-design/ant-design/pull/59254",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 60,
+            "deletions": 8,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-09T01:49:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59250,
             "title": "fix(ConfigProvider): inherit zeroRuntime in nested themes",
             "url": "https://github.com/ant-design/ant-design/pull/59250",
@@ -321,14 +369,14 @@
             "number": 1514,
             "title": "chore: upgrade dropdown demo to v2",
             "url": "https://github.com/react-component/table/pull/1514",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 7,
             "deletions": 7,
             "totalCommentsCount": 4,
             "createdAt": "2026-09-08T08:35:04Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-09T03:25:52Z",
+            "closedAt": "2026-09-09T03:25:52Z",
             "repository": {
                 "name": "table",
                 "nameWithOwner": "react-component/table",
@@ -345,14 +393,14 @@
             "number": 1023,
             "title": "feat!: migrate more dropdown to open API",
             "url": "https://github.com/react-component/tabs/pull/1023",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 35,
             "deletions": 5,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-08T08:35:04Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-09T03:25:51Z",
+            "closedAt": "2026-09-09T03:25:51Z",
             "repository": {
                 "name": "tabs",
                 "nameWithOwner": "react-component/tabs",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59236,
-            "title": "docs: align open-state callback parameter names",
-            "url": "https://github.com/ant-design/ant-design/pull/59236",
-            "state": "MERGED",
-            "changedFiles": 20,
-            "additions": 59,
-            "deletions": 59,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-07T01:19:37Z",
-            "mergedAt": "2026-09-07T02:12:13Z",
-            "closedAt": "2026-09-07T02:12:13Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 1014,
-            "title": "feat: add suffix and deprecate suffixIcon",
-            "url": "https://github.com/react-component/picker/pull/1014",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 53,
-            "deletions": 32,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-07T00:39:44Z",
-            "mergedAt": "2026-09-07T03:24:09Z",
-            "closedAt": "2026-09-07T03:24:09Z",
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://react-component.github.io/picker",
-                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
         }
     ],
     "contributions": {
-        "total": 4658,
+        "total": 4664,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1543,7 +1543,7 @@
             },
             {
                 "date": "2026-09-09",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-09-10",

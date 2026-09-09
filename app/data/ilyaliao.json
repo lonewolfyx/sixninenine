@@ -624,6 +624,30 @@
     },
     "pullRequest": [
         {
+            "number": 5630,
+            "title": "docs: fix team page avatars and add new team members",
+            "url": "https://github.com/vueuse/vueuse/pull/5630",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 452,
+            "deletions": 226,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-09-09T13:41:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vueuse",
+                "nameWithOwner": "vueuse/vueuse",
+                "homepageUrl": "https://vueuse.org",
+                "description": "Collection of essential Vue Composition Utilities for Vue 3",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/vueuse"
+            }
+        },
+        {
             "number": 4,
             "title": "chore: add playground verification skill",
             "url": "https://github.com/ilyaliao/monaco-unocss/pull/4",
@@ -838,34 +862,10 @@
                 },
                 "url": "https://github.com/unplugin/unplugin-vue-components"
             }
-        },
-        {
-            "number": 1691,
-            "title": "feat(i18n): add Traditional Chinese (繁體中文) localization",
-            "url": "https://github.com/TableProApp/TablePro/pull/1691",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 19772,
-            "deletions": 4,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-06-15T18:32:16Z",
-            "mergedAt": "2026-06-16T04:08:37Z",
-            "closedAt": "2026-06-16T04:08:37Z",
-            "repository": {
-                "name": "TablePro",
-                "nameWithOwner": "TableProApp/TablePro",
-                "homepageUrl": "https://tablepro.app",
-                "description": "Free and open source database client built natively for developers",
-                "owner": {
-                    "login": "TableProApp",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/260450047?v=4"
-                },
-                "url": "https://github.com/TableProApp/TablePro"
-            }
         }
     ],
     "contributions": {
-        "total": 1072,
+        "total": 1073,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1873,7 +1873,7 @@
             },
             {
                 "date": "2026-09-09",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-09-10",

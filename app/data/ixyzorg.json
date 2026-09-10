@@ -31,14 +31,38 @@
     },
     "pullRequest": [
         {
+            "number": 24860,
+            "title": "fix(components): prevent duplicate keyboard handling in dates picker",
+            "url": "https://github.com/element-plus/element-plus/pull/24860",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 50,
+            "deletions": 1,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-09-10T06:15:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 24848,
             "title": "feat(components): support multiple week selection in date picker",
             "url": "https://github.com/element-plus/element-plus/pull/24848",
             "state": "OPEN",
             "changedFiles": 14,
-            "additions": 372,
-            "deletions": 37,
-            "totalCommentsCount": 16,
+            "additions": 414,
+            "deletions": 79,
+            "totalCommentsCount": 30,
             "createdAt": "2026-09-09T09:10:43Z",
             "mergedAt": null,
             "closedAt": null,
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 24033,
-            "title": "fix(components): [select/v2] ios click listening",
-            "url": "https://github.com/element-plus/element-plus/pull/24033",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 9,
-            "deletions": 5,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-04-12T12:44:59Z",
-            "mergedAt": "2026-05-23T12:31:48Z",
-            "closedAt": "2026-05-23T12:31:48Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 203,
+        "total": 205,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1284,7 +1284,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-11",

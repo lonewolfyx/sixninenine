@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 278744,
+            "size": 278883,
             "repoCount": 3,
             "progress": "99.57"
         },
@@ -30,6 +30,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 60,
+            "title": "chore: fix publish script",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/60",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T10:10:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 59,
+            "title": "fix(valid-heading-anchor): make fixer idempotent for normalized loose anchors",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/59",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 18,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T09:43:12Z",
+            "mergedAt": "2026-09-10T09:52:18Z",
+            "closedAt": "2026-09-10T09:52:19Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 58,
+            "title": "feat(space-around-inline-element): support checking nested inline elements",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/58",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 97,
+            "deletions": 16,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T07:32:00Z",
+            "mergedAt": "2026-09-10T07:39:08Z",
+            "closedAt": "2026-09-10T07:39:09Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
         {
             "number": 1030,
             "title": "d2m",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/vitest"
             }
-        },
-        {
-            "number": 11179,
-            "title": "docs: update legacy Chinese docs domain",
-            "url": "https://github.com/vitest-dev/vitest/pull/11179",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-08T03:24:03Z",
-            "mergedAt": "2026-09-08T07:37:25Z",
-            "closedAt": "2026-09-08T07:37:25Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
-        },
-        {
-            "number": 1028,
-            "title": "chore: update all version document link v4",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1028",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 14,
-            "deletions": 14,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-07T03:02:14Z",
-            "mergedAt": "2026-09-07T03:40:41Z",
-            "closedAt": "2026-09-07T03:40:41Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 1027,
-            "title": "chore: update all version document link v2",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1027",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 253,
-            "deletions": 336,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T02:56:21Z",
-            "mergedAt": "2026-09-07T03:41:59Z",
-            "closedAt": "2026-09-07T03:41:59Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 597,
+        "total": 604,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1284,7 +1284,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-09-11",

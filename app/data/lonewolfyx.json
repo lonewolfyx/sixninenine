@@ -973,6 +973,30 @@
     },
     "pullRequest": [
         {
+            "number": 52,
+            "title": "feat(generate): add daily full-sync plugin snapshot pipeline",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/52",
+            "state": "OPEN",
+            "changedFiles": 22,
+            "additions": 4626,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-10T11:31:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 51,
             "title": "docs(data-hooks): use official English taglines for project descriptions",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/51",
@@ -1187,34 +1211,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 42,
-            "title": "feat(app): replace project meta filter buttons with select dropdowns",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/42",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 64,
-            "deletions": 66,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-09T07:26:38Z",
-            "mergedAt": "2026-09-09T07:27:40Z",
-            "closedAt": "2026-09-09T07:27:40Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12532,
+        "total": 12538,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2226,7 +2226,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 7
+                "count": 13
             },
             {
                 "date": "2026-09-11",

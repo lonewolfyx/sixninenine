@@ -294,14 +294,38 @@
     },
     "pullRequest": [
         {
+            "number": 59267,
+            "title": "fix(Table): preserve pagination semantic classNames and styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59267",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 81,
+            "deletions": 3,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-10T07:19:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59266,
             "title": "demo: fix Tabs semantic popup highlighting",
             "url": "https://github.com/ant-design/ant-design/pull/59266",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 24,
-            "deletions": 7,
-            "totalCommentsCount": 9,
+            "changedFiles": 4,
+            "additions": 68,
+            "deletions": 8,
+            "totalCommentsCount": 10,
             "createdAt": "2026-09-10T04:30:00Z",
             "mergedAt": null,
             "closedAt": null,
@@ -345,14 +369,14 @@
             "number": 2051,
             "title": "test: update snapshots for latest Ant Design",
             "url": "https://github.com/ant-design/x/pull/2051",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 59,
             "deletions": 61,
             "totalCommentsCount": 3,
             "createdAt": "2026-09-10T02:49:12Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-10T07:33:53Z",
+            "closedAt": "2026-09-10T07:33:53Z",
             "repository": {
                 "name": "x",
                 "nameWithOwner": "ant-design/x",
@@ -373,7 +397,7 @@
             "changedFiles": 1,
             "additions": 2,
             "deletions": 0,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-09-10T02:30:34Z",
             "mergedAt": null,
             "closedAt": null,
@@ -393,14 +417,14 @@
             "number": 59263,
             "title": "fix(Form): prevent vertical Form.Item controls from shrinking",
             "url": "https://github.com/ant-design/ant-design/pull/59263",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-10T01:45:47Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-10T08:23:46Z",
+            "closedAt": "2026-09-10T08:23:47Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -417,14 +441,14 @@
             "number": 59260,
             "title": "fix(Table): vertically center virtual cell content",
             "url": "https://github.com/ant-design/ant-design/pull/59260",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 4,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-09T08:32:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-10T08:31:26Z",
+            "closedAt": "2026-09-10T08:31:26Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -465,14 +489,14 @@
             "number": 59255,
             "title": "fix(Modal): preserve onCancel when cancel button has onClick",
             "url": "https://github.com/ant-design/ant-design/pull/59255",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 16,
             "deletions": 1,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-09-09T02:10:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-10T09:55:26Z",
+            "closedAt": "2026-09-10T09:55:26Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59250,
-            "title": "fix(ConfigProvider): inherit zeroRuntime in nested themes",
-            "url": "https://github.com/ant-design/ant-design/pull/59250",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-08T08:37:25Z",
-            "mergedAt": "2026-09-09T08:06:49Z",
-            "closedAt": "2026-09-09T08:06:49Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4677,
+        "total": 4683,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1547,7 +1547,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 5
+                "count": 11
             },
             {
                 "date": "2026-09-11",

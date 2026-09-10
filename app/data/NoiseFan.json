@@ -31,17 +31,89 @@
     },
     "pullRequest": [
         {
+            "number": 63,
+            "title": "docs: rewrite AGENTS.md for pnpm workspace layout",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/63",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 31,
+            "deletions": 24,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T13:52:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 62,
+            "title": "chore: generate rules on release instead of pre-commit",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/62",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T12:52:52Z",
+            "mergedAt": "2026-09-10T12:58:47Z",
+            "closedAt": "2026-09-10T12:58:47Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
+            "number": 61,
+            "title": "chore: add package keywords for npm discoverability",
+            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/61",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-10T12:38:51Z",
+            "mergedAt": "2026-09-10T12:52:46Z",
+            "closedAt": "2026-09-10T12:52:46Z",
+            "repository": {
+                "name": "eslint-plugin-md-style",
+                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
+                "homepageUrl": "",
+                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
+            }
+        },
+        {
             "number": 60,
             "title": "chore: fix publish script",
             "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/60",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 6,
+            "deletions": 7,
             "totalCommentsCount": 1,
             "createdAt": "2026-09-10T10:10:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-10T11:55:05Z",
+            "closedAt": "2026-09-10T11:55:05Z",
             "repository": {
                 "name": "eslint-plugin-md-style",
                 "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/vitest"
             }
-        },
-        {
-            "number": 11183,
-            "title": "docs: update legacy Chinese docs domain for v2",
-            "url": "https://github.com/vitest-dev/vitest/pull/11183",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-08T03:36:09Z",
-            "mergedAt": "2026-09-08T07:39:30Z",
-            "closedAt": "2026-09-08T07:39:30Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
-        },
-        {
-            "number": 11182,
-            "title": "docs: update legacy Chinese docs domain for v3",
-            "url": "https://github.com/vitest-dev/vitest/pull/11182",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-08T03:34:03Z",
-            "mergedAt": "2026-09-08T07:38:54Z",
-            "closedAt": "2026-09-08T07:38:54Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
-        },
-        {
-            "number": 11181,
-            "title": "docs: update legacy Chinese docs domain for v4",
-            "url": "https://github.com/vitest-dev/vitest/pull/11181",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-08T03:31:02Z",
-            "mergedAt": "2026-09-08T07:38:32Z",
-            "closedAt": "2026-09-08T07:38:32Z",
-            "repository": {
-                "name": "vitest",
-                "nameWithOwner": "vitest-dev/vitest",
-                "homepageUrl": "https://vitest.dev",
-                "description": "Next generation testing framework powered by Vite.",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/vitest"
-            }
         }
     ],
     "contributions": {
-        "total": 604,
+        "total": 613,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1284,7 +1284,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 7
+                "count": 16
             },
             {
                 "date": "2026-09-11",

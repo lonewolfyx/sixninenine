@@ -294,17 +294,65 @@
     },
     "pullRequest": [
         {
+            "number": 59273,
+            "title": "feat(Listy): support rowHoverable",
+            "url": "https://github.com/ant-design/ant-design/pull/59273",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 537,
+            "deletions": 327,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-09-11T01:45:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59272,
+            "title": "fix(ColorPicker): avoid mutating preset items",
+            "url": "https://github.com/ant-design/ant-design/pull/59272",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-11T00:53:05Z",
+            "mergedAt": "2026-09-11T01:11:01Z",
+            "closedAt": "2026-09-11T01:11:02Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59267,
             "title": "fix(Table): preserve pagination semantic classNames and styles",
             "url": "https://github.com/ant-design/ant-design/pull/59267",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 81,
             "deletions": 3,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-10T07:19:44Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-11T04:01:14Z",
+            "closedAt": "2026-09-11T04:01:14Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59255,
-            "title": "fix(Modal): preserve onCancel when cancel button has onClick",
-            "url": "https://github.com/ant-design/ant-design/pull/59255",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 16,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-09T02:10:19Z",
-            "mergedAt": "2026-09-10T09:55:26Z",
-            "closedAt": "2026-09-10T09:55:26Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59254,
-            "title": "fix(Modal): preserve falsy button text",
-            "url": "https://github.com/ant-design/ant-design/pull/59254",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 60,
-            "deletions": 8,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-09T01:49:33Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4683,
+        "total": 4692,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1551,7 +1551,7 @@
             },
             {
                 "date": "2026-09-11",
-                "count": 0
+                "count": 9
             },
             {
                 "date": "2026-09-12",

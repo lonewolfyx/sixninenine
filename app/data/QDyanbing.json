@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59277,
+            "title": "site: normalize locale-aware links in Chinese docs",
+            "url": "https://github.com/ant-design/ant-design/pull/59277",
+            "state": "MERGED",
+            "changedFiles": 97,
+            "additions": 320,
+            "deletions": 289,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-09-11T09:05:49Z",
+            "mergedAt": "2026-09-11T10:16:04Z",
+            "closedAt": "2026-09-11T10:16:04Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59273,
             "title": "feat(Listy): support rowHoverable",
             "url": "https://github.com/ant-design/ant-design/pull/59273",
@@ -369,14 +393,14 @@
             "number": 59266,
             "title": "demo: fix Tabs semantic popup highlighting",
             "url": "https://github.com/ant-design/ant-design/pull/59266",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 68,
             "deletions": 8,
-            "totalCommentsCount": 10,
+            "totalCommentsCount": 11,
             "createdAt": "2026-09-10T04:30:00Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-11T08:19:15Z",
+            "closedAt": "2026-09-11T08:19:15Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59259,
-            "title": "chore: upgrade rc Dropdown and Tabs dependencies",
-            "url": "https://github.com/ant-design/ant-design/pull/59259",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 69,
-            "deletions": 13,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-09T08:27:02Z",
-            "mergedAt": "2026-09-10T02:24:27Z",
-            "closedAt": "2026-09-10T02:24:27Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4692,
+        "total": 4696,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1551,7 +1551,7 @@
             },
             {
                 "date": "2026-09-11",
-                "count": 9
+                "count": 13
             },
             {
                 "date": "2026-09-12",

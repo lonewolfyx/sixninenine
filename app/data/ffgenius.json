@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 860,
+            "title": "ci: refine size report comparison and comment publishing",
+            "url": "https://github.com/antdv-next/antdv-next/pull/860",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 98,
+            "deletions": 176,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-11T08:16:31Z",
+            "mergedAt": "2026-09-11T09:44:35Z",
+            "closedAt": "2026-09-11T09:44:35Z",
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 840,
             "title": "fix(yml): fix eslint errors",
             "url": "https://github.com/antdv-next/antdv-next/pull/840",
@@ -347,8 +371,8 @@
             "title": "feat(pro): introduce Cron component",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/17",
             "state": "OPEN",
-            "changedFiles": 117,
-            "additions": 16296,
+            "changedFiles": 118,
+            "additions": 16442,
             "deletions": 142,
             "totalCommentsCount": 1,
             "createdAt": "2026-09-07T14:13:57Z",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 4,
-            "title": "ci: add coverage, preview and semantic-pr workflows",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/4",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 117,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-29T04:52:03Z",
-            "mergedAt": "2026-08-29T04:52:59Z",
-            "closedAt": "2026-08-29T04:52:59Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 478,
+        "total": 480,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1576,7 +1576,7 @@
             },
             {
                 "date": "2026-09-11",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-12",

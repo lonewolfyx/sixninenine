@@ -1011,6 +1011,30 @@
     },
     "pullRequest": [
         {
+            "number": 69,
+            "title": "feat(upgrade): add CLI self-update command",
+            "url": "https://github.com/antdv-next/cli/pull/69",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 502,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-12T16:06:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cli",
+                "nameWithOwner": "antdv-next/cli",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/cli"
+            }
+        },
+        {
             "number": 855,
             "title": "ci: exclude locale bundle files from size check",
             "url": "https://github.com/antdv-next/antdv-next/pull/855",
@@ -1225,34 +1249,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 46,
-            "title": "feat: remove tag filter from project search",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/46",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-09T08:10:23Z",
-            "mergedAt": "2026-09-09T08:10:51Z",
-            "closedAt": "2026-09-09T08:10:51Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12584,
+        "total": 12591,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2272,11 +2272,11 @@
             },
             {
                 "date": "2026-09-12",
-                "count": 13
+                "count": 19
             },
             {
                 "date": "2026-09-13",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-14",

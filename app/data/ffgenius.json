@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "fix: align InputTag Heatmap and Cron with component conventions",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/19",
+            "state": "MERGED",
+            "changedFiles": 92,
+            "additions": 882,
+            "deletions": 446,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-12T15:00:50Z",
+            "mergedAt": "2026-09-12T15:09:22Z",
+            "closedAt": "2026-09-12T15:09:22Z",
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
             "number": 860,
             "title": "ci: refine size report comparison and comment publishing",
             "url": "https://github.com/antdv-next/antdv-next/pull/860",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/auto-import-resolver"
             }
-        },
-        {
-            "number": 7,
-            "title": "docs: load demo source chunks on demand",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/7",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 596,
-            "deletions": 177,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-29T17:49:12Z",
-            "mergedAt": "2026-08-29T17:50:35Z",
-            "closedAt": "2026-08-29T17:50:35Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 493,
+        "total": 498,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1580,7 +1580,7 @@
             },
             {
                 "date": "2026-09-12",
-                "count": 13
+                "count": 18
             },
             {
                 "date": "2026-09-13",

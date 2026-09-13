@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 20050,
+            "title": "Format `<style>` containing mustaches",
+            "url": "https://github.com/prettier/prettier/pull/20050",
+            "state": "CLOSED",
+            "changedFiles": 9,
+            "additions": 286,
+            "deletions": 65,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-09-13T09:32:50Z",
+            "mergedAt": null,
+            "closedAt": "2026-09-13T10:03:09Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 20393,
             "title": "fix(stream-manager): wait for terminal dispatch before admitting a follow-up stream",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20393",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20324,
-            "title": "fix(logger): redact URL credentials in file logs",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20324",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 268,
-            "deletions": 5,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-10T07:16:20Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 758,
+        "total": 761,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1864,7 +1864,7 @@
             },
             {
                 "date": "2026-09-13",
-                "count": 3
+                "count": 6
             },
             {
                 "date": "2026-09-14",

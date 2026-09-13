@@ -1011,17 +1011,65 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "fix: publish before creating release commit and tag",
+            "url": "https://github.com/lonewolfyx-collective/dnmp/pull/3",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 167,
+            "deletions": 22,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-13T03:47:54Z",
+            "mergedAt": "2026-09-13T03:50:42Z",
+            "closedAt": "2026-09-13T03:50:42Z",
+            "repository": {
+                "name": "dnmp",
+                "nameWithOwner": "lonewolfyx-collective/dnmp",
+                "homepageUrl": null,
+                "description": "Interactive CLI that bumps your version numbers and more",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/dnmp"
+            }
+        },
+        {
+            "number": 2,
+            "title": "fix(git): use scoped release commits in monorepos",
+            "url": "https://github.com/lonewolfyx-collective/dnmp/pull/2",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 41,
+            "deletions": 11,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-13T03:34:00Z",
+            "mergedAt": "2026-09-13T03:36:51Z",
+            "closedAt": "2026-09-13T03:36:51Z",
+            "repository": {
+                "name": "dnmp",
+                "nameWithOwner": "lonewolfyx-collective/dnmp",
+                "homepageUrl": null,
+                "description": "Interactive CLI that bumps your version numbers and more",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/dnmp"
+            }
+        },
+        {
             "number": 69,
             "title": "feat(upgrade): add CLI self-update command",
             "url": "https://github.com/antdv-next/cli/pull/69",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 502,
             "deletions": 11,
             "totalCommentsCount": 2,
             "createdAt": "2026-09-12T16:06:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-13T02:49:43Z",
+            "closedAt": "2026-09-13T02:49:43Z",
             "repository": {
                 "name": "cli",
                 "nameWithOwner": "antdv-next/cli",
@@ -1201,58 +1249,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 48,
-            "title": "feat(data-ui): add antdv-next",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/48",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 28,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-09T08:36:20Z",
-            "mergedAt": "2026-09-09T08:38:02Z",
-            "closedAt": "2026-09-09T08:38:02Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 47,
-            "title": "feat(app): add category descriptions to page headers",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/47",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 72,
-            "deletions": 18,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-09T08:23:19Z",
-            "mergedAt": "2026-09-09T08:24:31Z",
-            "closedAt": "2026-09-09T08:24:31Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12591,
+        "total": 12606,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2272,11 +2272,11 @@
             },
             {
                 "date": "2026-09-12",
-                "count": 19
+                "count": 21
             },
             {
                 "date": "2026-09-13",
-                "count": 1
+                "count": 14
             },
             {
                 "date": "2026-09-14",

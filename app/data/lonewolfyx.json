@@ -297,7 +297,7 @@
                             }
                         }
                     ],
-                    "totalCount": 279
+                    "totalCount": 280
                 }
             },
             {
@@ -1011,6 +1011,30 @@
     },
     "pullRequest": [
         {
+            "number": 53,
+            "title": "feat(sync): add npm download synchronization command",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/53",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 302,
+            "deletions": 1423,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-14T15:45:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 3,
             "title": "fix: publish before creating release commit and tag",
             "url": "https://github.com/lonewolfyx-collective/dnmp/pull/3",
@@ -1225,34 +1249,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 49,
-            "title": "chore(data): sync project stats",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/49",
-            "state": "MERGED",
-            "changedFiles": 71,
-            "additions": 75,
-            "deletions": 75,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-09T13:33:38Z",
-            "mergedAt": "2026-09-09T13:35:20Z",
-            "closedAt": "2026-09-09T13:35:20Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12636,
+        "total": 12644,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2280,7 +2280,7 @@
             },
             {
                 "date": "2026-09-14",
-                "count": 11
+                "count": 19
             },
             {
                 "date": "2026-09-15",

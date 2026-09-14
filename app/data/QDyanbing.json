@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59288,
+            "title": "type(Tooltip): exclude unsupported rc props",
+            "url": "https://github.com/ant-design/ant-design/pull/59288",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 5,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-14T02:43:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59277,
             "title": "site: normalize locale-aware links in Chinese docs",
             "url": "https://github.com/ant-design/ant-design/pull/59277",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59260,
-            "title": "fix(Table): vertically center virtual cell content",
-            "url": "https://github.com/ant-design/ant-design/pull/59260",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-09T08:32:10Z",
-            "mergedAt": "2026-09-10T08:31:26Z",
-            "closedAt": "2026-09-10T08:31:26Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4726,
+        "total": 4727,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1563,7 +1563,7 @@
             },
             {
                 "date": "2026-09-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-15",

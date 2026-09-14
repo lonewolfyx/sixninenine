@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 876,
+            "title": "fix(InputNumber): align allowClear styles with Input",
+            "url": "https://github.com/antdv-next/antdv-next/pull/876",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 60,
+            "deletions": 49,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-14T04:01:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 19,
             "title": "fix: align InputTag Heatmap and Cron with component conventions",
             "url": "https://github.com/antdv-next/antdv-next-pro/pull/19",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 6,
-            "title": "feat(pro): support Pro component auto imports",
-            "url": "https://github.com/antdv-next/auto-import-resolver/pull/6",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 151,
-            "deletions": 9,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-29T18:26:04Z",
-            "mergedAt": "2026-08-31T01:58:51Z",
-            "closedAt": "2026-08-31T01:58:51Z",
-            "repository": {
-                "name": "auto-import-resolver",
-                "nameWithOwner": "antdv-next/auto-import-resolver",
-                "homepageUrl": null,
-                "description": "Antdv Next Auto Import Resolver",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/auto-import-resolver"
-            }
         }
     ],
     "contributions": {
-        "total": 501,
+        "total": 507,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1588,7 +1588,7 @@
             },
             {
                 "date": "2026-09-14",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-09-15",

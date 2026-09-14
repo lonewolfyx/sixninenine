@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1973818,
+            "size": 2005924,
             "repoCount": 6,
-            "progress": "84.15"
+            "progress": "84.36"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "7.27"
+            "progress": "7.17"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 70337,
+            "size": 70660,
             "repoCount": 2,
-            "progress": "3.00"
+            "progress": "2.97"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.51"
+            "progress": "2.48"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.37"
+            "progress": "2.34"
         },
         {
             "name": "Less",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59290,
+            "title": "fix(Tag): handle CheckableTagGroup selection mode switching",
+            "url": "https://github.com/ant-design/ant-design/pull/59290",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 65,
+            "deletions": 7,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-09-14T07:59:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59289,
+            "title": "fix(Form): render numeric zero in extra content",
+            "url": "https://github.com/ant-design/ant-design/pull/59289",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 25,
+            "deletions": 9,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-14T06:49:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59288,
             "title": "type(Tooltip): exclude unsupported rc props",
             "url": "https://github.com/ant-design/ant-design/pull/59288",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/x"
             }
-        },
-        {
-            "number": 2050,
-            "title": "fix(Folder): align switcher hover background",
-            "url": "https://github.com/ant-design/x/pull/2050",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-10T02:30:34Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "ant-design/x",
-                "homepageUrl": "https://x.ant.design",
-                "description": "Craft AI-driven interface effortlessly🤖",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/x"
-            }
-        },
-        {
-            "number": 59263,
-            "title": "fix(Form): prevent vertical Form.Item controls from shrinking",
-            "url": "https://github.com/ant-design/ant-design/pull/59263",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-10T01:45:47Z",
-            "mergedAt": "2026-09-10T08:23:46Z",
-            "closedAt": "2026-09-10T08:23:47Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4727,
+        "total": 4739,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1563,7 +1563,7 @@
             },
             {
                 "date": "2026-09-14",
-                "count": 1
+                "count": 13
             },
             {
                 "date": "2026-09-15",

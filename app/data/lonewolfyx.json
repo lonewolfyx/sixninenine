@@ -1011,6 +1011,102 @@
     },
     "pullRequest": [
         {
+            "number": 58,
+            "title": "fix(sync): treat missing npm download data as zero",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/58",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-15T16:26:36Z",
+            "mergedAt": "2026-09-15T16:29:34Z",
+            "closedAt": "2026-09-15T16:29:34Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 57,
+            "title": "ci(sync): pass GENERATE_TOKEN secret to sync step",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/57",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-15T15:03:00Z",
+            "mergedAt": "2026-09-15T15:07:31Z",
+            "closedAt": "2026-09-15T15:07:31Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 56,
+            "title": "chore(data-plugins): remove legacy plugin generator and generated sources",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/56",
+            "state": "MERGED",
+            "changedFiles": 2940,
+            "additions": 0,
+            "deletions": 98500,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-15T14:58:48Z",
+            "mergedAt": "2026-09-15T15:00:40Z",
+            "closedAt": "2026-09-15T15:00:40Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 55,
+            "title": "feat(generate): add generate-data package for plugin collection",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/55",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 401,
+            "deletions": 14,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-15T14:48:58Z",
+            "mergedAt": "2026-09-15T14:52:42Z",
+            "closedAt": "2026-09-15T14:52:42Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 54,
             "title": "refactor(sync): remove legacy npm-git-data script in favor of sync package",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/54",
@@ -1153,106 +1249,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 854,
-            "title": "ci: publish size reports for fork pull requests",
-            "url": "https://github.com/antdv-next/antdv-next/pull/854",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 151,
-            "deletions": 98,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-10T12:55:33Z",
-            "mergedAt": null,
-            "closedAt": "2026-09-10T12:56:21Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 191,
-            "title": "ci(lint): set node-version to `lts/*`",
-            "url": "https://github.com/uni-helper/create-uni/pull/191",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 212,
-            "deletions": 146,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-10T12:38:17Z",
-            "mergedAt": "2026-09-10T12:46:53Z",
-            "closedAt": "2026-09-10T12:46:53Z",
-            "repository": {
-                "name": "create-uni",
-                "nameWithOwner": "uni-helper/create-uni",
-                "homepageUrl": "https://uni-helper.cn/create-uni",
-                "description": "🛠️快速创建uni-app项目",
-                "owner": {
-                    "login": "uni-helper",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/117957276?v=4"
-                },
-                "url": "https://github.com/uni-helper/create-uni"
-            }
-        },
-        {
-            "number": 52,
-            "title": "feat(generate): add daily full-sync plugin snapshot pipeline",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/52",
-            "state": "MERGED",
-            "changedFiles": 22,
-            "additions": 4626,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-10T11:31:13Z",
-            "mergedAt": "2026-09-13T14:55:20Z",
-            "closedAt": "2026-09-13T14:55:20Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 51,
-            "title": "docs(data-hooks): use official English taglines for project descriptions",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/51",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 17,
-            "deletions": 17,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T02:56:39Z",
-            "mergedAt": "2026-09-13T14:54:33Z",
-            "closedAt": "2026-09-13T14:54:33Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12659,
+        "total": 12671,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2284,11 +2284,11 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 13
+                "count": 23
             },
             {
                 "date": "2026-09-16",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-17",

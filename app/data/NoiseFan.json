@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 278883,
+            "size": 291394,
             "repoCount": 3,
-            "progress": "99.57"
+            "progress": "99.59"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 1201,
             "repoCount": 2,
-            "progress": "0.43"
+            "progress": "0.41"
         }
     ],
     "organizations": {
@@ -30,6 +30,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 15,
+            "title": "feat(tool): add ask-user-question",
+            "url": "https://github.com/NoiseFan/code-agent/pull/15",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 367,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-15T14:48:35Z",
+            "mergedAt": "2026-09-15T14:49:32Z",
+            "closedAt": "2026-09-15T14:49:32Z",
+            "repository": {
+                "name": "code-agent",
+                "nameWithOwner": "NoiseFan/code-agent",
+                "homepageUrl": "",
+                "description": "learn code agent",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/code-agent"
+            }
+        },
         {
             "number": 1032,
             "title": "docs(cn): update /api/",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 1030,
-            "title": "d2m",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1030",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 34,
-            "deletions": 36,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-09T13:45:05Z",
-            "mergedAt": "2026-09-09T13:47:09Z",
-            "closedAt": "2026-09-09T13:47:09Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 626,
+        "total": 628,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1304,7 +1304,7 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-09-16",

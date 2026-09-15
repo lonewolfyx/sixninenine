@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2005924,
+            "size": 2055271,
             "repoCount": 6,
-            "progress": "84.36"
+            "progress": "84.66"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "7.17"
+            "progress": "7.02"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 70660,
+            "size": 71069,
             "repoCount": 2,
-            "progress": "2.97"
+            "progress": "2.93"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.48"
+            "progress": "2.43"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.34"
+            "progress": "2.29"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.54"
+            "progress": "0.52"
         },
         {
             "name": "Shell",
@@ -294,14 +294,38 @@
     },
     "pullRequest": [
         {
+            "number": 59297,
+            "title": "fix(Avatar): retry image loading when srcSet changes",
+            "url": "https://github.com/ant-design/ant-design/pull/59297",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 24,
+            "deletions": 1,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-09-15T07:04:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59295,
             "title": "fix(Upload): avoid focusable file names without preview",
             "url": "https://github.com/ant-design/ant-design/pull/59295",
             "state": "OPEN",
-            "changedFiles": 6,
+            "changedFiles": 7,
             "additions": 20,
-            "deletions": 26,
-            "totalCommentsCount": 8,
+            "deletions": 40,
+            "totalCommentsCount": 9,
             "createdAt": "2026-09-15T03:40:57Z",
             "mergedAt": null,
             "closedAt": null,
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59266,
-            "title": "demo: fix Tabs semantic popup highlighting",
-            "url": "https://github.com/ant-design/ant-design/pull/59266",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 68,
-            "deletions": 8,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-10T04:30:00Z",
-            "mergedAt": "2026-09-11T08:19:15Z",
-            "closedAt": "2026-09-11T08:19:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4742,
+        "total": 4760,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1567,7 +1567,7 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 3
+                "count": 21
             },
             {
                 "date": "2026-09-16",

@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 886,
+            "title": "fix: port ant-design 6.6.4 fixes (ColorPicker/Splitter/Table/Transfer)",
+            "url": "https://github.com/antdv-next/antdv-next/pull/886",
+            "state": "OPEN",
+            "changedFiles": 16,
+            "additions": 277,
+            "deletions": 23,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-15T02:57:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 877,
             "title": "docs: normalize component version markers",
             "url": "https://github.com/antdv-next/antdv-next/pull/877",
@@ -346,14 +370,14 @@
             "number": 876,
             "title": "fix(InputNumber): align allowClear styles with Input",
             "url": "https://github.com/antdv-next/antdv-next/pull/876",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 8,
             "additions": 60,
             "deletions": 49,
             "totalCommentsCount": 3,
             "createdAt": "2026-09-14T04:01:02Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-15T01:50:24Z",
+            "closedAt": "2026-09-15T01:50:24Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 11,
-            "title": "feat(pro): introduce InputTag component",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/11",
-            "state": "MERGED",
-            "changedFiles": 42,
-            "additions": 2565,
-            "deletions": 29,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-01T16:28:16Z",
-            "mergedAt": "2026-09-12T06:42:45Z",
-            "closedAt": "2026-09-12T06:42:45Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 510,
+        "total": 515,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1592,7 +1592,7 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-09-16",

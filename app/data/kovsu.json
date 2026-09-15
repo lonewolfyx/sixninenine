@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 3464,
+            "title": "refactor: build the ts server host from linter host",
+            "url": "https://github.com/flint-fyi/flint/pull/3464",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 274,
+            "deletions": 99,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-15T03:39:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3463,
+            "title": "refactor: pass import.meta.url to `debugForFile`",
+            "url": "https://github.com/flint-fyi/flint/pull/3463",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 15,
+            "deletions": 15,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-15T01:06:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 20508,
             "title": "fix(composer): stop rewriting the input with a stale snapshot after a long-text paste",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20508",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20387,
-            "title": "chore(tests): stop returning mocks from lifecycle hooks",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20387",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 27,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-11T08:12:54Z",
-            "mergedAt": "2026-09-12T19:24:02Z",
-            "closedAt": "2026-09-12T19:24:02Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 20031,
-            "title": "Handlebars: Stop formatting `<style lang=\"\">` as CSS",
-            "url": "https://github.com/prettier/prettier/pull/20031",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 83,
-            "deletions": 47,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-11T07:50:46Z",
-            "mergedAt": "2026-09-11T08:09:34Z",
-            "closedAt": "2026-09-11T08:09:34Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 767,
+        "total": 771,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1872,7 +1872,7 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-09-16",

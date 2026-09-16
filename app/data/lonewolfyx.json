@@ -6,7 +6,7 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
         "pronouns": "",
-        "followers": 99,
+        "followers": 100,
         "following": 96
     },
     "languages": [
@@ -935,6 +935,30 @@
     },
     "pullRequest": [
         {
+            "number": 63,
+            "title": "fix(sync): throttle GitHub requests and fall back to zero stars on 404",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/63",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 65,
+            "deletions": 23,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-16T12:30:37Z",
+            "mergedAt": "2026-09-16T12:34:56Z",
+            "closedAt": "2026-09-16T12:34:56Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 62,
             "title": "fix(sync): fall back to zero downloads on npm 404 responses",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/62",
@@ -1149,34 +1173,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 53,
-            "title": "feat(sync): add npm download synchronization command",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/53",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 368,
-            "deletions": 1423,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-14T15:45:23Z",
-            "mergedAt": "2026-09-15T02:32:59Z",
-            "closedAt": "2026-09-15T02:32:59Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12694,
+        "total": 12701,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2212,7 +2212,7 @@
             },
             {
                 "date": "2026-09-16",
-                "count": 21
+                "count": 28
             },
             {
                 "date": "2026-09-17",

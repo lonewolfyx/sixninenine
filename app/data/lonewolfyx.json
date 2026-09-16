@@ -817,82 +817,6 @@
                 }
             },
             {
-                "name": "SixNineNine Dev",
-                "createdAt": "2026-01-12T14:02:39Z",
-                "avatarUrl": "https://avatars.githubusercontent.com/u/254471465?v=4",
-                "description": "WelCome SixNineNine Dev Team",
-                "email": null,
-                "location": "Hell World",
-                "login": "699dev",
-                "url": "https://github.com/699dev",
-                "websiteUrl": null,
-                "twitterUsername": null,
-                "repositories": {
-                    "totalCount": 1
-                },
-                "membersWithRole": {
-                    "nodes": [
-                        {
-                            "id": "MDQ6VXNlcjgyNzMwNjg=",
-                            "login": "lonewolfyx",
-                            "name": "OldDriver",
-                            "bio": "We're not producers, we're just porters. Love life and have fun.",
-                            "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
-                            "company": null,
-                            "createdAt": "2014-07-26T04:56:04Z",
-                            "email": "olddrivero.king@qq.com",
-                            "location": "BlueStar",
-                            "twitterUsername": null,
-                            "url": "https://github.com/lonewolfyx",
-                            "websiteUrl": "https://lonewolfyx.vercel.app",
-                            "status": {
-                                "emoji": ":face_with_thermometer:",
-                                "message": "Out sick"
-                            }
-                        }
-                    ],
-                    "totalCount": 1
-                }
-            },
-            {
-                "name": "Config Preset",
-                "createdAt": "2026-01-14T14:17:15Z",
-                "avatarUrl": "https://avatars.githubusercontent.com/u/254921326?v=4",
-                "description": "Preset to manage ESLint, Prettier, Biome, Oxlint and other tools, let code style and quality specifications out of the box",
-                "email": null,
-                "location": null,
-                "login": "config-preset",
-                "url": "https://github.com/config-preset",
-                "websiteUrl": null,
-                "twitterUsername": null,
-                "repositories": {
-                    "totalCount": 3
-                },
-                "membersWithRole": {
-                    "nodes": [
-                        {
-                            "id": "MDQ6VXNlcjgyNzMwNjg=",
-                            "login": "lonewolfyx",
-                            "name": "OldDriver",
-                            "bio": "We're not producers, we're just porters. Love life and have fun.",
-                            "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
-                            "company": null,
-                            "createdAt": "2014-07-26T04:56:04Z",
-                            "email": "olddrivero.king@qq.com",
-                            "location": "BlueStar",
-                            "twitterUsername": null,
-                            "url": "https://github.com/lonewolfyx",
-                            "websiteUrl": "https://lonewolfyx.vercel.app",
-                            "status": {
-                                "emoji": ":face_with_thermometer:",
-                                "message": "Out sick"
-                            }
-                        }
-                    ],
-                    "totalCount": 1
-                }
-            },
-            {
                 "name": "Nuxtjs Community",
                 "createdAt": "2026-01-17T15:16:36Z",
                 "avatarUrl": "https://avatars.githubusercontent.com/u/255548554?v=4",
@@ -1007,9 +931,33 @@
                 }
             }
         ],
-        "totalCount": 17
+        "totalCount": 15
     },
     "pullRequest": [
+        {
+            "number": 59,
+            "title": "ci(sync): increase sync workflow timeout to 180 minutes",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/59",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-16T01:53:14Z",
+            "mergedAt": "2026-09-16T02:13:21Z",
+            "closedAt": "2026-09-16T02:13:21Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
         {
             "number": 58,
             "title": "fix(sync): treat missing npm download data as zero",
@@ -1225,34 +1173,10 @@
                 },
                 "url": "https://github.com/antdv-next/cli"
             }
-        },
-        {
-            "number": 855,
-            "title": "ci: exclude locale bundle files from size check",
-            "url": "https://github.com/antdv-next/antdv-next/pull/855",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 2,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-10T13:02:19Z",
-            "mergedAt": "2026-09-10T15:26:07Z",
-            "closedAt": "2026-09-10T15:26:07Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 12676,
+        "total": 12682,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2264,7 +2188,7 @@
             },
             {
                 "date": "2026-09-10",
-                "count": 30
+                "count": 29
             },
             {
                 "date": "2026-09-11",
@@ -2284,11 +2208,11 @@
             },
             {
                 "date": "2026-09-15",
-                "count": 27
+                "count": 28
             },
             {
                 "date": "2026-09-16",
-                "count": 3
+                "count": 9
             },
             {
                 "date": "2026-09-17",

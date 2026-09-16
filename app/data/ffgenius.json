@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 891,
+            "title": "fix(docs): remove invalid YAML frontmatter in Masonry en-US doc",
+            "url": "https://github.com/antdv-next/antdv-next/pull/891",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-16T01:58:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next",
+                "nameWithOwner": "antdv-next/antdv-next",
+                "homepageUrl": "https://www.antdv-next.com",
+                "description": "Ant Design for Vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next"
+            }
+        },
+        {
             "number": 886,
             "title": "fix: port ant-design 6.6.4 fixes (ColorPicker/Splitter/Table/Transfer)",
             "url": "https://github.com/antdv-next/antdv-next/pull/886",
@@ -346,14 +370,14 @@
             "number": 877,
             "title": "docs: normalize component version markers",
             "url": "https://github.com/antdv-next/antdv-next/pull/877",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 45,
             "additions": 158,
             "deletions": 164,
             "totalCommentsCount": 3,
             "createdAt": "2026-09-14T07:08:48Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-16T01:26:49Z",
+            "closedAt": "2026-09-16T01:26:49Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 810,
-            "title": "feat: use medium instead of middle for size",
-            "url": "https://github.com/antdv-next/antdv-next/pull/810",
-            "state": "MERGED",
-            "changedFiles": 249,
-            "additions": 435,
-            "deletions": 470,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-03T06:33:06Z",
-            "mergedAt": "2026-09-04T00:33:47Z",
-            "closedAt": "2026-09-04T00:33:47Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 517,
+        "total": 521,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1596,7 +1596,7 @@
             },
             {
                 "date": "2026-09-16",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-09-17",

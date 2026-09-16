@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2055271,
+            "size": 2095056,
             "repoCount": 6,
-            "progress": "84.66"
+            "progress": "84.89"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 170489,
             "repoCount": 9,
-            "progress": "7.02"
+            "progress": "6.91"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 71069,
+            "size": 71449,
             "repoCount": 2,
-            "progress": "2.93"
+            "progress": "2.90"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.43"
+            "progress": "2.39"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.29"
+            "progress": "2.25"
         },
         {
             "name": "Less",
@@ -294,17 +294,41 @@
     },
     "pullRequest": [
         {
+            "number": 59304,
+            "title": "docs: document Tooltip realignment after layout changes",
+            "url": "https://github.com/ant-design/ant-design/pull/59304",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 82,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-16T05:56:31Z",
+            "mergedAt": "2026-09-16T08:35:46Z",
+            "closedAt": "2026-09-16T08:35:46Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59303,
             "title": "fix(Transfer): pass direction to footer callbacks",
             "url": "https://github.com/ant-design/ant-design/pull/59303",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 11,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-16T02:50:58Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-16T07:59:08Z",
+            "closedAt": "2026-09-16T07:59:08Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -321,14 +345,14 @@
             "number": 59297,
             "title": "fix(Avatar): retry image loading when srcSet changes",
             "url": "https://github.com/ant-design/ant-design/pull/59297",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 24,
             "deletions": 1,
             "totalCommentsCount": 11,
             "createdAt": "2026-09-15T07:04:02Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-16T08:28:41Z",
+            "closedAt": "2026-09-16T08:28:41Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -441,14 +465,14 @@
             "number": 59288,
             "title": "type(Tooltip): exclude unsupported rc props",
             "url": "https://github.com/ant-design/ant-design/pull/59288",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 12,
             "deletions": 5,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-14T02:43:52Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-16T08:39:46Z",
+            "closedAt": "2026-09-16T08:39:46Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -491,9 +515,9 @@
             "url": "https://github.com/ant-design/ant-design/pull/59273",
             "state": "OPEN",
             "changedFiles": 10,
-            "additions": 537,
-            "deletions": 327,
-            "totalCommentsCount": 11,
+            "additions": 230,
+            "deletions": 18,
+            "totalCommentsCount": 12,
             "createdAt": "2026-09-11T01:45:05Z",
             "mergedAt": null,
             "closedAt": null,
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59272,
-            "title": "fix(ColorPicker): avoid mutating preset items",
-            "url": "https://github.com/ant-design/ant-design/pull/59272",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 15,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-11T00:53:05Z",
-            "mergedAt": "2026-09-11T01:11:01Z",
-            "closedAt": "2026-09-11T01:11:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4762,
+        "total": 4784,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1571,7 +1571,7 @@
             },
             {
                 "date": "2026-09-16",
-                "count": 2
+                "count": 24
             },
             {
                 "date": "2026-09-17",

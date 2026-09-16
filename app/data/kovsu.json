@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 3471,
+            "title": "refactor: stop reading `process.argv` in `FlintAssertionError`",
+            "url": "https://github.com/flint-fyi/flint/pull/3471",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 157,
+            "deletions": 70,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-16T08:20:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3470,
+            "title": "refactor: use host current directory instead of `process.cwd()`",
+            "url": "https://github.com/flint-fyi/flint/pull/3470",
+            "state": "OPEN",
+            "changedFiles": 10,
+            "additions": 91,
+            "deletions": 43,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-16T07:08:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
             "number": 20627,
             "title": "fix(image-export): inline remote images through a bounded fetch pool",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20627",
@@ -654,7 +702,7 @@
             "changedFiles": 3,
             "additions": 101,
             "deletions": 12,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 8,
             "createdAt": "2026-09-16T02:09:55Z",
             "mergedAt": null,
             "closedAt": null,
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20507,
-            "title": "fix(mcp-catalog): keep the failure backoff when a tools refresh fails",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20507",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 54,
-            "deletions": 4,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-09-14T03:12:34Z",
-            "mergedAt": "2026-09-14T03:59:05Z",
-            "closedAt": "2026-09-14T03:59:05Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 20505,
-            "title": "fix(filesystem-mcp): reject dangling symlinks that escape the workspace root",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20505",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 166,
-            "deletions": 42,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-14T02:41:06Z",
-            "mergedAt": "2026-09-15T12:46:25Z",
-            "closedAt": "2026-09-15T12:46:25Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 782,
+        "total": 785,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1876,7 +1876,7 @@
             },
             {
                 "date": "2026-09-16",
-                "count": 7
+                "count": 10
             },
             {
                 "date": "2026-09-17",

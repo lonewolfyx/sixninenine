@@ -319,6 +319,54 @@
     },
     "pullRequest": [
         {
+            "number": 103,
+            "title": "chore(sync): port 5 upstream rc-* changes (slider, virtual-list, tabs)",
+            "url": "https://github.com/antdv-next/vue-components/pull/103",
+            "state": "OPEN",
+            "changedFiles": 16,
+            "additions": 782,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-17T11:55:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "vue-components",
+                "nameWithOwner": "antdv-next/vue-components",
+                "homepageUrl": null,
+                "description": "this is a headless componet for vue",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/vue-components"
+            }
+        },
+        {
+            "number": 21,
+            "title": "feat(pro): introduce comment component",
+            "url": "https://github.com/antdv-next/antdv-next-pro/pull/21",
+            "state": "OPEN",
+            "changedFiles": 34,
+            "additions": 2465,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-17T08:48:52Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "antdv-next-pro",
+                "nameWithOwner": "antdv-next/antdv-next-pro",
+                "homepageUrl": "https://pro.antdv-next.com",
+                "description": "Antdv Next Pro Extra mode",
+                "owner": {
+                    "login": "antdv-next",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
+                },
+                "url": "https://github.com/antdv-next/antdv-next-pro"
+            }
+        },
+        {
             "number": 891,
             "title": "fix(docs): remove invalid YAML frontmatter in Masonry en-US doc",
             "url": "https://github.com/antdv-next/antdv-next/pull/891",
@@ -346,14 +394,14 @@
             "number": 886,
             "title": "fix: port ant-design 6.6.4 fixes (ColorPicker/Splitter/Table/Transfer)",
             "url": "https://github.com/antdv-next/antdv-next/pull/886",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 16,
             "additions": 277,
             "deletions": 23,
             "totalCommentsCount": 3,
             "createdAt": "2026-09-15T02:57:07Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-17T07:02:57Z",
+            "closedAt": "2026-09-17T07:02:57Z",
             "repository": {
                 "name": "antdv-next",
                 "nameWithOwner": "antdv-next/antdv-next",
@@ -509,58 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 16,
-            "title": "feat(Scrollbar): add explicit scroll fade API",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/16",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 384,
-            "deletions": 7,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-07T08:09:01Z",
-            "mergedAt": "2026-09-12T06:39:46Z",
-            "closedAt": "2026-09-12T06:39:46Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
-        },
-        {
-            "number": 14,
-            "title": "chore: add repository PR creation skill",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/14",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 401,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-03T08:07:04Z",
-            "mergedAt": "2026-09-03T08:08:37Z",
-            "closedAt": "2026-09-03T08:08:37Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 529,
+        "total": 535,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1600,7 +1600,7 @@
             },
             {
                 "date": "2026-09-17",
-                "count": 2
+                "count": 8
             },
             {
                 "date": "2026-09-18",

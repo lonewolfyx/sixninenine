@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 24887,
+            "title": "feat(components): [link] add truncated prop for single-line ellipsis",
+            "url": "https://github.com/element-plus/element-plus/pull/24887",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 94,
+            "deletions": 8,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-09-18T08:06:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 24879,
             "title": "docs(components): [message] correct message types description",
             "url": "https://github.com/element-plus/element-plus/pull/24879",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2026-09-18T01:52:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-18T08:03:57Z",
+            "closedAt": "2026-09-18T08:03:57Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -58,14 +82,14 @@
             "number": 24878,
             "title": "docs(components): [notification] correct type count and include primary",
             "url": "https://github.com/element-plus/element-plus/pull/24878",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 4,
             "deletions": 6,
-            "totalCommentsCount": 6,
+            "totalCommentsCount": 7,
             "createdAt": "2026-09-17T09:46:37Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-18T08:04:31Z",
+            "closedAt": "2026-09-18T08:04:31Z",
             "repository": {
                 "name": "element-plus",
                 "nameWithOwner": "element-plus/element-plus",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 24065,
-            "title": "refactor(components): remove unnecessary conditions",
-            "url": "https://github.com/element-plus/element-plus/pull/24065",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 4,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-04-14T10:31:40Z",
-            "mergedAt": null,
-            "closedAt": "2026-04-14T12:27:27Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
         }
     ],
     "contributions": {
-        "total": 212,
+        "total": 215,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1316,7 +1316,7 @@
             },
             {
                 "date": "2026-09-18",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-09-19",

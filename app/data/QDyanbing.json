@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2119429,
+            "size": 2129787,
             "repoCount": 6,
             "progress": "85.04"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 170489,
+            "size": 172324,
             "repoCount": 9,
-            "progress": "6.84"
+            "progress": "6.88"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.87"
+            "progress": "2.86"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.37"
+            "progress": "2.35"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.23"
+            "progress": "2.22"
         },
         {
             "name": "Less",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59325,
+            "title": "fix(Typography): preserve text editing when onClick is provided",
+            "url": "https://github.com/ant-design/ant-design/pull/59325",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 47,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-18T07:46:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59324,
+            "title": "fix(Upload): preserve linkProps onClick handler",
+            "url": "https://github.com/ant-design/ant-design/pull/59324",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 32,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-09-18T06:08:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59315,
             "title": "test: pin jsdom to 30.0.1",
             "url": "https://github.com/ant-design/ant-design/pull/59315",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59294,
-            "title": "fix: preserve dialog actions with custom button onClick",
-            "url": "https://github.com/ant-design/ant-design/pull/59294",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 86,
-            "deletions": 3,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-15T03:14:50Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59290,
-            "title": "fix(Tag): handle CheckableTagGroup selection mode switching",
-            "url": "https://github.com/ant-design/ant-design/pull/59290",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 65,
-            "deletions": 7,
-            "totalCommentsCount": 13,
-            "createdAt": "2026-09-14T07:59:31Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4808,
+        "total": 4820,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1579,7 +1579,7 @@
             },
             {
                 "date": "2026-09-18",
-                "count": 2
+                "count": 14
             },
             {
                 "date": "2026-09-19",

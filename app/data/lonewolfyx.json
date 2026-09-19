@@ -935,6 +935,30 @@
     },
     "pullRequest": [
         {
+            "number": 69,
+            "title": "chore(skill): stop requiring project stats",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/69",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 22,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-19T13:27:31Z",
+            "mergedAt": "2026-09-19T13:55:57Z",
+            "closedAt": "2026-09-19T13:55:57Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 68,
             "title": "fix(llms): widen category label map key type to string",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/68",
@@ -1149,34 +1173,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 59,
-            "title": "ci(sync): increase sync workflow timeout to 180 minutes",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/59",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-16T01:53:14Z",
-            "mergedAt": "2026-09-16T02:13:21Z",
-            "closedAt": "2026-09-16T02:13:21Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12767,
+        "total": 12773,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2224,7 +2224,7 @@
             },
             {
                 "date": "2026-09-19",
-                "count": 12
+                "count": 18
             },
             {
                 "date": "2026-09-20",

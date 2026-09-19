@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 1034,
+            "title": "docs(cn): fix api/browser/locators.md",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1034",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 12,
+            "deletions": 12,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-19T15:48:36Z",
+            "mergedAt": "2026-09-19T15:51:20Z",
+            "closedAt": "2026-09-19T15:51:20Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
+            "number": 1033,
+            "title": "docs(cn): update api/",
+            "url": "https://github.com/vitest-dev/docs-cn/pull/1033",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 55,
+            "deletions": 58,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-19T14:43:33Z",
+            "mergedAt": "2026-09-19T15:31:44Z",
+            "closedAt": "2026-09-19T15:31:44Z",
+            "repository": {
+                "name": "docs-cn",
+                "nameWithOwner": "vitest-dev/docs-cn",
+                "homepageUrl": "https://cn.vitest.dev",
+                "description": "Vitest 中文文档",
+                "owner": {
+                    "login": "vitest-dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
+                },
+                "url": "https://github.com/vitest-dev/docs-cn"
+            }
+        },
+        {
             "number": 15,
             "title": "feat(tool): add ask-user-question",
             "url": "https://github.com/NoiseFan/code-agent/pull/15",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 59,
-            "title": "fix(valid-heading-anchor): make fixer idempotent for normalized loose anchors",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/59",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 18,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T09:43:12Z",
-            "mergedAt": "2026-09-10T09:52:18Z",
-            "closedAt": "2026-09-10T09:52:19Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 58,
-            "title": "feat(space-around-inline-element): support checking nested inline elements",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/58",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 97,
-            "deletions": 16,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T07:32:00Z",
-            "mergedAt": "2026-09-10T07:39:08Z",
-            "closedAt": "2026-09-10T07:39:09Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 636,
+        "total": 640,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1320,7 +1320,7 @@
             },
             {
                 "date": "2026-09-19",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-09-20",

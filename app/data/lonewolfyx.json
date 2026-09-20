@@ -935,6 +935,54 @@
     },
     "pullRequest": [
         {
+            "number": 81,
+            "title": "fix(schema): tolerate invalid optional project links",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/81",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 130,
+            "deletions": 25,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-20T13:16:01Z",
+            "mergedAt": "2026-09-20T16:14:53Z",
+            "closedAt": "2026-09-20T16:14:53Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
+            "number": 80,
+            "title": "fix(data): normalize and deduplicate Nuxt module metadata",
+            "url": "https://github.com/vuejs-community/vuejs-community/pull/80",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 99,
+            "deletions": 11,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-20T12:21:25Z",
+            "mergedAt": "2026-09-20T13:08:46Z",
+            "closedAt": "2026-09-20T13:08:46Z",
+            "repository": {
+                "name": "vuejs-community",
+                "nameWithOwner": "vuejs-community/vuejs-community",
+                "homepageUrl": "https://vuejs-community.vercel.app",
+                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
+                "owner": {
+                    "login": "vuejs-community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
+                },
+                "url": "https://github.com/vuejs-community/vuejs-community"
+            }
+        },
+        {
             "number": 79,
             "title": "style: align files with lint conventions",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/79",
@@ -1125,58 +1173,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 71,
-            "title": "fix(data-component): correct package name",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/71",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-19T17:03:08Z",
-            "mergedAt": "2026-09-19T17:04:05Z",
-            "closedAt": "2026-09-19T17:04:05Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 70,
-            "title": "docs: improve README architecture and data pipeline guidance",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/70",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 39,
-            "deletions": 25,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-19T17:00:37Z",
-            "mergedAt": "2026-09-19T17:02:16Z",
-            "closedAt": "2026-09-19T17:02:16Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12810,
+        "total": 12818,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2228,11 +2228,11 @@
             },
             {
                 "date": "2026-09-20",
-                "count": 30
+                "count": 37
             },
             {
                 "date": "2026-09-21",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-22",

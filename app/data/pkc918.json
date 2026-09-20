@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/58922004?u=884d36837ae876b55052a83aee0d84c185275bea&v=4",
         "pronouns": "he/him",
         "followers": 161,
-        "following": 127
+        "following": 128
     },
     "languages": [
         {
@@ -359,6 +359,30 @@
     },
     "pullRequest": [
         {
+            "number": 12,
+            "title": "feat(codex): add plugin packaging",
+            "url": "https://github.com/vueuse/skills/pull/12",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 70,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-20T02:16:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "skills",
+                "nameWithOwner": "vueuse/skills",
+                "homepageUrl": "",
+                "description": "Agent Skills for VueUse",
+                "owner": {
+                    "login": "vueuse",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
+                },
+                "url": "https://github.com/vueuse/skills"
+            }
+        },
+        {
             "number": 10,
             "title": "feat: support windows",
             "url": "https://github.com/pkc918/DevPilot/pull/10",
@@ -573,34 +597,10 @@
                 },
                 "url": "https://github.com/skills-club/skills-live"
             }
-        },
-        {
-            "number": 6,
-            "title": "chore: add README.md",
-            "url": "https://github.com/skills-club/skills-live/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 54,
-            "deletions": 51,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-02-24T09:40:19Z",
-            "mergedAt": "2026-02-24T09:40:27Z",
-            "closedAt": "2026-02-24T09:40:27Z",
-            "repository": {
-                "name": "skills-live",
-                "nameWithOwner": "skills-club/skills-live",
-                "homepageUrl": "https://skills-club.cc",
-                "description": "Collect the best practice skills",
-                "owner": {
-                    "login": "skills-club",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/256032599?v=4"
-                },
-                "url": "https://github.com/skills-club/skills-live"
-            }
         }
     ],
     "contributions": {
-        "total": 677,
+        "total": 678,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1652,7 +1652,7 @@
             },
             {
                 "date": "2026-09-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-21",

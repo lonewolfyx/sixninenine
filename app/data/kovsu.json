@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 20832,
+            "title": "fix(command-resolver): keep best-effort callers working when lookup fails",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20832",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 58,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-20T09:02:02Z",
+            "mergedAt": "2026-09-20T10:31:31Z",
+            "closedAt": "2026-09-20T10:31:31Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 20104,
             "title": "Fix unstable JSX single-character text before a self-closing element",
             "url": "https://github.com/prettier/prettier/pull/20104",
@@ -606,7 +630,7 @@
             "changedFiles": 4,
             "additions": 82,
             "deletions": 1,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 7,
             "createdAt": "2026-09-18T08:57:54Z",
             "mergedAt": null,
             "closedAt": null,
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 3470,
-            "title": "refactor: use host current directory instead of `process.cwd()`",
-            "url": "https://github.com/flint-fyi/flint/pull/3470",
-            "state": "OPEN",
-            "changedFiles": 10,
-            "additions": 91,
-            "deletions": 43,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-16T07:08:29Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 799,
+        "total": 802,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1892,7 +1892,7 @@
             },
             {
                 "date": "2026-09-20",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-21",

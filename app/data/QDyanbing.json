@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2158444,
+            "size": 2168067,
             "repoCount": 6,
-            "progress": "85.21"
+            "progress": "85.26"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 172324,
             "repoCount": 9,
-            "progress": "6.80"
+            "progress": "6.78"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.82"
+            "progress": "2.81"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.33"
+            "progress": "2.32"
         },
         {
             "name": "HTML",
@@ -294,17 +294,65 @@
     },
     "pullRequest": [
         {
+            "number": 59342,
+            "title": "fix(Table): include tree descendants when selecting all data",
+            "url": "https://github.com/ant-design/ant-design/pull/59342",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 55,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-20T07:10:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59341,
+            "title": "fix(Tree): skip unselectable nodes in DirectoryTree shift selection",
+            "url": "https://github.com/ant-design/ant-design/pull/59341",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 55,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-09-20T06:23:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59332,
             "title": "fix(Tour): pass click events to button callbacks",
             "url": "https://github.com/ant-design/ant-design/pull/59332",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 34,
             "deletions": 6,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-20T01:04:34Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-20T09:16:46Z",
+            "closedAt": "2026-09-20T09:16:46Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59303,
-            "title": "fix(Transfer): pass direction to footer callbacks",
-            "url": "https://github.com/ant-design/ant-design/pull/59303",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 11,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-16T02:50:58Z",
-            "mergedAt": "2026-09-16T07:59:08Z",
-            "closedAt": "2026-09-16T07:59:08Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59297,
-            "title": "fix(Avatar): retry image loading when srcSet changes",
-            "url": "https://github.com/ant-design/ant-design/pull/59297",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 24,
-            "deletions": 1,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-15T07:04:02Z",
-            "mergedAt": "2026-09-16T08:28:41Z",
-            "closedAt": "2026-09-16T08:28:41Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4838,
+        "total": 4851,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1587,7 +1587,7 @@
             },
             {
                 "date": "2026-09-20",
-                "count": 1
+                "count": 14
             },
             {
                 "date": "2026-09-21",

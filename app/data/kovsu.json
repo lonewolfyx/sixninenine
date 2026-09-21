@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 3512,
+            "title": "refactor(utils): remove `makeAbsolute` function",
+            "url": "https://github.com/flint-fyi/flint/pull/3512",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 1,
+            "deletions": 8,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-21T09:44:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 20883,
+            "title": "fix(error-detail): render error cause as text instead of HTML",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20883",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 23,
+            "deletions": 52,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-21T07:56:22Z",
+            "mergedAt": "2026-09-21T11:38:51Z",
+            "closedAt": "2026-09-21T11:38:51Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 20832,
             "title": "fix(command-resolver): keep best-effort callers working when lookup fails",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/20832",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20666,
-            "title": "fix(error-classifier): point knowledge nav target to /app/knowledge",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20666",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-17T06:23:24Z",
-            "mergedAt": "2026-09-17T06:28:53Z",
-            "closedAt": "2026-09-17T06:28:53Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 3471,
-            "title": "refactor: stop reading `process.argv` in `FlintAssertionError`",
-            "url": "https://github.com/flint-fyi/flint/pull/3471",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 175,
-            "deletions": 70,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-16T08:20:38Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 802,
+        "total": 805,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1896,7 +1896,7 @@
             },
             {
                 "date": "2026-09-21",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-22",

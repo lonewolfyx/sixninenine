@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2168067,
+            "size": 2173783,
             "repoCount": 6,
-            "progress": "85.21"
+            "progress": "85.25"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 173860,
             "repoCount": 10,
-            "progress": "6.83"
+            "progress": "6.82"
         },
         {
             "name": "CSS",
@@ -36,7 +36,7 @@
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.32"
+            "progress": "2.31"
         },
         {
             "name": "HTML",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59353,
+            "title": "fix(Button): respect delay for custom loading icons",
+            "url": "https://github.com/ant-design/ant-design/pull/59353",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 31,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-21T11:17:46Z",
+            "mergedAt": "2026-09-21T11:40:16Z",
+            "closedAt": "2026-09-21T11:40:16Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59348,
+            "title": "fix(Transfer): limit shift selection to filtered items",
+            "url": "https://github.com/ant-design/ant-design/pull/59348",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 198,
+            "deletions": 10,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-21T06:08:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59346,
             "title": "docs: use public types in component demos",
             "url": "https://github.com/ant-design/ant-design/pull/59346",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59313,
-            "title": "fix(Avatar): recalculate text scale after numeric size changes",
-            "url": "https://github.com/ant-design/ant-design/pull/59313",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 32,
-            "deletions": 2,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-17T01:01:59Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59308,
-            "title": "fix: avoid stale values in event callbacks",
-            "url": "https://github.com/ant-design/ant-design/pull/59308",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 39,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-16T12:22:23Z",
-            "mergedAt": "2026-09-16T14:42:18Z",
-            "closedAt": "2026-09-16T14:42:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4856,
+        "total": 4866,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1487,7 +1487,7 @@
             },
             {
                 "date": "2026-08-26",
-                "count": 22
+                "count": 23
             },
             {
                 "date": "2026-08-27",
@@ -1591,7 +1591,7 @@
             },
             {
                 "date": "2026-09-21",
-                "count": 5
+                "count": 14
             },
             {
                 "date": "2026-09-22",

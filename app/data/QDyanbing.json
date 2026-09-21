@@ -15,14 +15,14 @@
             "color": "#3178c6",
             "size": 2168067,
             "repoCount": 6,
-            "progress": "85.26"
+            "progress": "85.21"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 172324,
-            "repoCount": 9,
-            "progress": "6.78"
+            "size": 173860,
+            "repoCount": 10,
+            "progress": "6.83"
         },
         {
             "name": "CSS",
@@ -43,7 +43,7 @@
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.19"
+            "progress": "2.18"
         },
         {
             "name": "Less",
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59346,
+            "title": "docs: use public types in component demos",
+            "url": "https://github.com/ant-design/ant-design/pull/59346",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 12,
+            "deletions": 10,
+            "totalCommentsCount": 11,
+            "createdAt": "2026-09-21T01:26:45Z",
+            "mergedAt": "2026-09-21T02:52:10Z",
+            "closedAt": "2026-09-21T02:52:10Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59342,
             "title": "fix(Table): include tree descendants when selecting all data",
             "url": "https://github.com/ant-design/ant-design/pull/59342",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59304,
-            "title": "docs: document Tooltip realignment after layout changes",
-            "url": "https://github.com/ant-design/ant-design/pull/59304",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 82,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-16T05:56:31Z",
-            "mergedAt": "2026-09-16T08:35:46Z",
-            "closedAt": "2026-09-16T08:35:46Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4851,
+        "total": 4856,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1591,7 +1591,7 @@
             },
             {
                 "date": "2026-09-21",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-09-22",

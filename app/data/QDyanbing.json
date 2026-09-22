@@ -252,8 +252,8 @@
                         {
                             "id": "MDQ6VXNlcjUxMTg4Njc2",
                             "login": "darkingtail",
-                            "name": null,
-                            "bio": "hi",
+                            "name": "xuwang",
+                            "bio": "💫 KISS. Open‑source enthusiast.",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/51188676?u=eea82c04262ce0d6679352984e0bba97289110e2&v=4",
                             "company": null,
                             "createdAt": "2019-05-30T06:16:28Z",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59358,
+            "title": "fix(AutoComplete): do not inherit ConfigProvider select.allowClear",
+            "url": "https://github.com/ant-design/ant-design/pull/59358",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 47,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-22T07:51:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59356,
+            "title": "fix(DatePicker): apply ConfigProvider DatePicker locale to RangePicker",
+            "url": "https://github.com/ant-design/ant-design/pull/59356",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-09-22T06:27:02Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59353,
             "title": "fix(Button): respect delay for custom loading icons",
             "url": "https://github.com/ant-design/ant-design/pull/59353",
@@ -321,14 +369,14 @@
             "number": 59348,
             "title": "fix(Transfer): limit shift selection to filtered items",
             "url": "https://github.com/ant-design/ant-design/pull/59348",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 198,
             "deletions": 10,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-21T06:08:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-22T11:03:16Z",
+            "closedAt": "2026-09-22T11:03:16Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -373,7 +421,7 @@
             "changedFiles": 2,
             "additions": 55,
             "deletions": 1,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-09-20T07:10:27Z",
             "mergedAt": null,
             "closedAt": null,
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59315,
-            "title": "test: pin jsdom to 30.0.1",
-            "url": "https://github.com/ant-design/ant-design/pull/59315",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-17T01:55:14Z",
-            "mergedAt": "2026-09-17T02:13:27Z",
-            "closedAt": "2026-09-17T02:13:27Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59314,
-            "title": "fix(Badge): preserve fractional offset values",
-            "url": "https://github.com/ant-design/ant-design/pull/59314",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 9,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-17T01:26:47Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4871,
+        "total": 4876,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1595,7 +1595,7 @@
             },
             {
                 "date": "2026-09-22",
-                "count": 5
+                "count": 10
             },
             {
                 "date": "2026-09-23",

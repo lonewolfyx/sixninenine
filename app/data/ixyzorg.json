@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "Remove emoji from greeting in README",
+            "url": "https://github.com/ixyzorg/ixyzorg/pull/1",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-22T09:30:38Z",
+            "mergedAt": "2026-09-22T09:30:48Z",
+            "closedAt": "2026-09-22T09:30:48Z",
+            "repository": {
+                "name": "ixyzorg",
+                "nameWithOwner": "ixyzorg/ixyzorg",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "ixyzorg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/166777320?v=4"
+                },
+                "url": "https://github.com/ixyzorg/ixyzorg"
+            }
+        },
+        {
+            "number": 24905,
+            "title": "fix(docs): remove use strict and empty exports from JavaScript demos",
+            "url": "https://github.com/element-plus/element-plus/pull/24905",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 23,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-22T08:01:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
+        },
+        {
             "number": 24904,
             "title": "fix(components): support viewer slot in image-viewer",
             "url": "https://github.com/element-plus/element-plus/pull/24904",
@@ -56,13 +104,13 @@
         },
         {
             "number": 24903,
-            "title": "feat(components): [image] add grab cursor to image viewer",
+            "title": "improvement(components): [image-viewer] add grab cursor to image viewer",
             "url": "https://github.com/element-plus/element-plus/pull/24903",
             "state": "OPEN",
             "changedFiles": 1,
             "additions": 8,
             "deletions": 0,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2026-09-22T03:26:25Z",
             "mergedAt": null,
             "closedAt": null,
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
-        },
-        {
-            "number": 24621,
-            "title": "fix(components): [autocomplete] clear stale suggestions on refocus",
-            "url": "https://github.com/element-plus/element-plus/pull/24621",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 22,
-            "deletions": 0,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-07-29T03:21:53Z",
-            "mergedAt": "2026-07-29T10:21:09Z",
-            "closedAt": "2026-07-29T10:21:09Z",
-            "repository": {
-                "name": "element-plus",
-                "nameWithOwner": "element-plus/element-plus",
-                "homepageUrl": "https://element-plus.org",
-                "description": "🎉 A Vue.js 3 UI Library made by Element team",
-                "owner": {
-                    "login": "element-plus",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
-                },
-                "url": "https://github.com/element-plus/element-plus"
-            }
-        },
-        {
-            "number": 9991,
-            "title": "chore: update docs for esbuild bundler note",
-            "url": "https://github.com/microsoft/vscode-docs/pull/9991",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-06-27T13:49:45Z",
-            "mergedAt": null,
-            "closedAt": "2026-06-28T19:47:48Z",
-            "repository": {
-                "name": "vscode-docs",
-                "nameWithOwner": "microsoft/vscode-docs",
-                "homepageUrl": "http://code.visualstudio.com/docs",
-                "description": "Public documentation for Visual Studio Code",
-                "owner": {
-                    "login": "microsoft",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
-                },
-                "url": "https://github.com/microsoft/vscode-docs"
-            }
         }
     ],
     "contributions": {
-        "total": 217,
+        "total": 221,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1332,7 +1332,7 @@
             },
             {
                 "date": "2026-09-22",
-                "count": 2
+                "count": 6
             },
             {
                 "date": "2026-09-23",

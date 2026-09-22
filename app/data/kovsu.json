@@ -599,14 +599,62 @@
     },
     "pullRequest": [
         {
+            "number": 20921,
+            "title": "fix(ai-core): scope internal resolver plugins to the request",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20921",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 108,
+            "deletions": 79,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-22T03:56:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 20919,
+            "title": "perf(image-export): render SVG to canvas through a blob URL instead of base64",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/20919",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 86,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-09-22T02:24:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 3512,
             "title": "refactor(utils): remove `makeAbsolute` function",
             "url": "https://github.com/flint-fyi/flint/pull/3512",
             "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 1,
+            "changedFiles": 4,
+            "additions": 7,
             "deletions": 8,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 5,
             "createdAt": "2026-09-21T09:44:51Z",
             "mergedAt": null,
             "closedAt": null,
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20669,
-            "title": "fix(rich-editor): revoke blob URLs created for pasted images",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20669",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-17T07:54:44Z",
-            "mergedAt": "2026-09-17T19:03:49Z",
-            "closedAt": "2026-09-17T19:03:49Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 20668,
-            "title": "fix(export): keep code untouched when forcing dollar math",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20668",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 204,
-            "deletions": 44,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-09-17T07:41:20Z",
-            "mergedAt": "2026-09-17T09:07:04Z",
-            "closedAt": "2026-09-17T09:07:04Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 805,
+        "total": 808,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1900,7 +1900,7 @@
             },
             {
                 "date": "2026-09-22",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-23",

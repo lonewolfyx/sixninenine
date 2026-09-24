@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2193780,
+            "size": 2206892,
             "repoCount": 6,
-            "progress": "85.00"
+            "progress": "85.08"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "7.15"
+            "progress": "7.12"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.77"
+            "progress": "2.76"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.28"
+            "progress": "2.27"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.15"
+            "progress": "2.14"
         },
         {
             "name": "Less",
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59379,
+            "title": "type(Rate): exclude ignored direction prop",
+            "url": "https://github.com/ant-design/ant-design/pull/59379",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-24T06:57:03Z",
+            "mergedAt": "2026-09-24T08:17:34Z",
+            "closedAt": "2026-09-24T08:17:34Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59375,
             "title": "fix(Tree): restore DirectoryTree shift selection with numeric keys",
             "url": "https://github.com/ant-design/ant-design/pull/59375",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59342,
-            "title": "fix(Table): include tree descendants when selecting all data",
-            "url": "https://github.com/ant-design/ant-design/pull/59342",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 55,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-20T07:10:27Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4893,
+        "total": 4905,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1603,7 +1603,7 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 3
+                "count": 15
             },
             {
                 "date": "2026-09-25",

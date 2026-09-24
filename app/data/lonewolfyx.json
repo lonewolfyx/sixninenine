@@ -6,7 +6,7 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
         "pronouns": "",
-        "followers": 101,
+        "followers": 100,
         "following": 96
     },
     "languages": [
@@ -935,6 +935,30 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "chore(workflow): add automated workflows for linting and contribution management",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/1",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 115,
+            "deletions": 18,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-24T08:34:00Z",
+            "mergedAt": "2026-09-24T08:47:38Z",
+            "closedAt": "2026-09-24T08:47:38Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 83,
             "title": "feat(hero): add draggable selection box effect to hero headline",
             "url": "https://github.com/vuejs-community/vuejs-community/pull/83",
@@ -1149,34 +1173,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 76,
-            "title": "fix(a11y): correct navigation action semantics",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/76",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 95,
-            "deletions": 142,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-20T04:39:33Z",
-            "mergedAt": "2026-09-20T04:51:53Z",
-            "closedAt": "2026-09-20T04:51:54Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12893,
+        "total": 12903,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2244,7 +2244,7 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 4
+                "count": 14
             },
             {
                 "date": "2026-09-25",

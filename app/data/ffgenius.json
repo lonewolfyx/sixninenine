@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 59376,
+            "title": "feat: re-export the CSS-in-JS runtime from antd",
+            "url": "https://github.com/ant-design/ant-design/pull/59376",
+            "state": "OPEN",
+            "changedFiles": 13,
+            "additions": 114,
+            "deletions": 76,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-09-24T03:40:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 103,
             "title": "chore(sync): port 5 upstream rc-* changes (slider, virtual-list, tabs)",
             "url": "https://github.com/antdv-next/vue-components/pull/103",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 17,
-            "title": "feat(pro): introduce Cron component",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/17",
-            "state": "MERGED",
-            "changedFiles": 119,
-            "additions": 16286,
-            "deletions": 107,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-07T14:13:57Z",
-            "mergedAt": "2026-09-12T08:02:32Z",
-            "closedAt": "2026-09-12T08:02:32Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 560,
+        "total": 561,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1628,7 +1628,7 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-09-25",

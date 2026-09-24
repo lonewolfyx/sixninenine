@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59375,
+            "title": "fix(Tree): restore DirectoryTree shift selection with numeric keys",
+            "url": "https://github.com/ant-design/ant-design/pull/59375",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 34,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-24T02:52:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59373,
+            "title": "type(Form): exclude unsupported onMetaChange from Form.Item",
+            "url": "https://github.com/ant-design/ant-design/pull/59373",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-24T02:24:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59366,
             "title": "fix(Carousel): exclude ignored verticalSwiping prop",
             "url": "https://github.com/ant-design/ant-design/pull/59366",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59341,
-            "title": "fix(Tree): skip unselectable nodes in DirectoryTree shift selection",
-            "url": "https://github.com/ant-design/ant-design/pull/59341",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 55,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-20T06:23:58Z",
-            "mergedAt": "2026-09-23T15:44:20Z",
-            "closedAt": "2026-09-23T15:44:20Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59332,
-            "title": "fix(Tour): pass click events to button callbacks",
-            "url": "https://github.com/ant-design/ant-design/pull/59332",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 34,
-            "deletions": 6,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-20T01:04:34Z",
-            "mergedAt": "2026-09-20T09:16:46Z",
-            "closedAt": "2026-09-20T09:16:46Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4890,
+        "total": 4893,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1603,7 +1603,7 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-09-25",

@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59382,
+            "title": "type(Upload): expose customRequest abort handle",
+            "url": "https://github.com/ant-design/ant-design/pull/59382",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 39,
+            "deletions": 11,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-24T12:20:38Z",
+            "mergedAt": "2026-09-24T15:42:14Z",
+            "closedAt": "2026-09-24T15:42:15Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59379,
             "title": "type(Rate): exclude ignored direction prop",
             "url": "https://github.com/ant-design/ant-design/pull/59379",
@@ -345,14 +369,14 @@
             "number": 59373,
             "title": "type(Form): exclude unsupported onMetaChange from Form.Item",
             "url": "https://github.com/ant-design/ant-design/pull/59373",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-24T02:24:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-24T15:27:49Z",
+            "closedAt": "2026-09-24T15:27:49Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59346,
-            "title": "docs: use public types in component demos",
-            "url": "https://github.com/ant-design/ant-design/pull/59346",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 12,
-            "deletions": 10,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-09-21T01:26:45Z",
-            "mergedAt": "2026-09-21T02:52:10Z",
-            "closedAt": "2026-09-21T02:52:10Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 4905,
+        "total": 4908,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1603,7 +1603,7 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 15
+                "count": 18
             },
             {
                 "date": "2026-09-25",

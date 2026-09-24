@@ -935,6 +935,102 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "feat(workspace): add chrome extension and tampermonkey packages",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/11",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 40,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-24T17:05:57Z",
+            "mergedAt": "2026-09-24T17:07:37Z",
+            "closedAt": "2026-09-24T17:07:37Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 9,
+            "title": "types(api): update tsconfig extends and remove unused compiler options",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/9",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-24T16:56:10Z",
+            "mergedAt": "2026-09-24T17:02:14Z",
+            "closedAt": "2026-09-24T17:02:14Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 5,
+            "title": "types(tsconfig): update base configuration settings",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/5",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 4,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-24T16:54:00Z",
+            "mergedAt": "2026-09-24T16:54:35Z",
+            "closedAt": "2026-09-24T16:54:35Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 4,
+            "title": "feat(api): add GitHub organizations API with Octokit integration",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/4",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 649,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-24T15:38:40Z",
+            "mergedAt": "2026-09-24T15:54:40Z",
+            "closedAt": "2026-09-24T15:54:40Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 1,
             "title": "chore(workflow): add automated workflows for linting and contribution management",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/1",
@@ -1077,106 +1173,10 @@
                 },
                 "url": "https://github.com/vuejs-community/vuejs-community"
             }
-        },
-        {
-            "number": 80,
-            "title": "fix(data): normalize and deduplicate Nuxt module metadata",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/80",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 99,
-            "deletions": 11,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-20T12:21:25Z",
-            "mergedAt": "2026-09-20T13:08:46Z",
-            "closedAt": "2026-09-20T13:08:46Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 79,
-            "title": "style: align files with lint conventions",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/79",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 114,
-            "deletions": 121,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-20T04:59:10Z",
-            "mergedAt": "2026-09-20T05:05:10Z",
-            "closedAt": "2026-09-20T05:05:10Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 78,
-            "title": "feat(seo): enrich category page metadata",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/78",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 31,
-            "deletions": 15,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-20T04:39:39Z",
-            "mergedAt": "2026-09-20T04:52:48Z",
-            "closedAt": "2026-09-20T04:52:48Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 77,
-            "title": "feat(projects): add list feedback and URL filters",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/77",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 118,
-            "deletions": 27,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-20T04:39:35Z",
-            "mergedAt": "2026-09-20T04:52:33Z",
-            "closedAt": "2026-09-20T04:52:33Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12903,
+        "total": 12914,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2244,11 +2244,11 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 14
+                "count": 19
             },
             {
                 "date": "2026-09-25",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-09-26",

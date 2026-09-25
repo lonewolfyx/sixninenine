@@ -9,64 +9,7 @@
         "followers": 100,
         "following": 96
     },
-    "languages": [
-        {
-            "name": "TypeScript",
-            "color": "#3178c6",
-            "size": 1794994,
-            "repoCount": 29,
-            "progress": "50.90"
-        },
-        {
-            "name": "Vue",
-            "color": "#41b883",
-            "size": 1433684,
-            "repoCount": 15,
-            "progress": "40.65"
-        },
-        {
-            "name": "Swift",
-            "color": "#F05138",
-            "size": 147771,
-            "repoCount": 1,
-            "progress": "4.19"
-        },
-        {
-            "name": "CSS",
-            "color": "#663399",
-            "size": 92582,
-            "repoCount": 16,
-            "progress": "2.63"
-        },
-        {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 32136,
-            "repoCount": 28,
-            "progress": "0.91"
-        },
-        {
-            "name": "Shell",
-            "color": "#89e051",
-            "size": 24596,
-            "repoCount": 1,
-            "progress": "0.70"
-        },
-        {
-            "name": "HTML",
-            "color": "#e34c26",
-            "size": 867,
-            "repoCount": 2,
-            "progress": "0.02"
-        },
-        {
-            "name": "SCSS",
-            "color": "#c6538c",
-            "size": 207,
-            "repoCount": 1,
-            "progress": "0.01"
-        }
-    ],
+    "languages": [],
     "organizations": {
         "nodes": [
             {
@@ -935,6 +878,126 @@
     },
     "pullRequest": [
         {
+            "number": 16,
+            "title": "chore: land extension and userscript changes missed by stacked PR merge order",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/16",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 608,
+            "deletions": 88,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-25T02:45:03Z",
+            "mergedAt": "2026-09-25T02:46:36Z",
+            "closedAt": "2026-09-25T02:46:36Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 15,
+            "title": "feat(tampermonkey): add userscript build bundling core",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/15",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 474,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-25T02:26:39Z",
+            "mergedAt": "2026-09-25T02:36:05Z",
+            "closedAt": "2026-09-25T02:36:05Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 14,
+            "title": "feat(chrome-extension): add MV3 content script bundling core",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/14",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 469,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-25T02:26:39Z",
+            "mergedAt": "2026-09-25T02:35:42Z",
+            "closedAt": "2026-09-25T02:35:42Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 13,
+            "title": "feat(core): add shared core package for org list and hover card",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/13",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 620,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-25T02:26:15Z",
+            "mergedAt": "2026-09-25T02:35:29Z",
+            "closedAt": "2026-09-25T02:35:29Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 12,
+            "title": "feat(api): return join_time with batched org detail requests",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/12",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 18,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-25T02:26:14Z",
+            "mergedAt": "2026-09-25T02:35:17Z",
+            "closedAt": "2026-09-25T02:35:17Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 11,
             "title": "feat(workspace): add chrome extension and tampermonkey packages",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/11",
@@ -1053,130 +1116,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 83,
-            "title": "feat(hero): add draggable selection box effect to hero headline",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/83",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 80,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-22T16:30:39Z",
-            "mergedAt": "2026-09-23T04:58:35Z",
-            "closedAt": "2026-09-23T04:58:35Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 107,
-            "title": "refactor(build): unify per-package vite configs into definePackageConfig",
-            "url": "https://github.com/antdv-next/vue-components/pull/107",
-            "state": "MERGED",
-            "changedFiles": 46,
-            "additions": 226,
-            "deletions": 929,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-22T09:17:10Z",
-            "mergedAt": "2026-09-22T14:01:27Z",
-            "closedAt": "2026-09-22T14:01:27Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
-        },
-        {
-            "number": 1,
-            "title": "refactor(build): unify per-package vite configs into definePackageConfig",
-            "url": "https://github.com/lonewolfyx/vue-components/pull/1",
-            "state": "OPEN",
-            "changedFiles": 46,
-            "additions": 226,
-            "deletions": 929,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-22T09:15:25Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "lonewolfyx/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/vue-components"
-            }
-        },
-        {
-            "number": 82,
-            "title": "fix(data): prevent plugin metadata filename collisions",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/82",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 57,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-22T09:09:31Z",
-            "mergedAt": "2026-09-22T09:24:12Z",
-            "closedAt": "2026-09-22T09:24:12Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
-        },
-        {
-            "number": 81,
-            "title": "fix(schema): tolerate invalid optional project links",
-            "url": "https://github.com/vuejs-community/vuejs-community/pull/81",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 130,
-            "deletions": 25,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-20T13:16:01Z",
-            "mergedAt": "2026-09-20T16:14:53Z",
-            "closedAt": "2026-09-20T16:14:53Z",
-            "repository": {
-                "name": "vuejs-community",
-                "nameWithOwner": "vuejs-community/vuejs-community",
-                "homepageUrl": "https://vuejs-community.vercel.app",
-                "description": "Discover Vue libraries, UI components, composables, Nuxt modules, Vite plugins, and developer tools in one open, community-driven ecosystem.",
-                "owner": {
-                    "login": "vuejs-community",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/274419191?v=4"
-                },
-                "url": "https://github.com/vuejs-community/vuejs-community"
-            }
         }
     ],
     "contributions": {
-        "total": 12919,
+        "total": 12934,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2244,11 +2187,11 @@
             },
             {
                 "date": "2026-09-24",
-                "count": 23
+                "count": 24
             },
             {
                 "date": "2026-09-25",
-                "count": 7
+                "count": 21
             },
             {
                 "date": "2026-09-26",

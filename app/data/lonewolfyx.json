@@ -935,6 +935,30 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "feat(tampermonkey): standalone org expansion with panel replay and hover cards",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/23",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 841,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-26T16:49:13Z",
+            "mergedAt": "2026-09-26T16:50:02Z",
+            "closedAt": "2026-09-26T16:50:02Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 22,
             "title": "refactor(chrome-extension): consolidate tsdown config to multi-entry ESM",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/22",
@@ -1149,34 +1173,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 13,
-            "title": "feat(core): add shared core package for org list and hover card",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/13",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 620,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-25T02:26:15Z",
-            "mergedAt": "2026-09-25T02:35:29Z",
-            "closedAt": "2026-09-25T02:35:29Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 12971,
+        "total": 12979,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2252,11 +2252,11 @@
             },
             {
                 "date": "2026-09-26",
-                "count": 19
+                "count": 24
             },
             {
                 "date": "2026-09-27",
-                "count": 7
+                "count": 10
             },
             {
                 "date": "2026-09-28",

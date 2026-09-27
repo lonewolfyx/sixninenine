@@ -935,6 +935,78 @@
     },
     "pullRequest": [
         {
+            "number": 26,
+            "title": "Fix Tampermonkey organization rendering stability",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/26",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 512,
+            "deletions": 630,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-27T04:16:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 25,
+            "title": "Add repository contribution rules",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/25",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-27T03:10:38Z",
+            "mergedAt": "2026-09-27T03:11:16Z",
+            "closedAt": "2026-09-27T03:11:16Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 24,
+            "title": "feat(tampermonkey): rebuild standalone userscript",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/24",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 841,
+            "deletions": 13,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-27T03:07:28Z",
+            "mergedAt": "2026-09-27T03:08:52Z",
+            "closedAt": "2026-09-27T03:08:52Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": null,
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 23,
             "title": "feat(tampermonkey): standalone org expansion with panel replay and hover cards",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/23",
@@ -1101,82 +1173,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 16,
-            "title": "chore: land extension and userscript changes missed by stacked PR merge order",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/16",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 608,
-            "deletions": 88,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-25T02:45:03Z",
-            "mergedAt": "2026-09-25T02:46:36Z",
-            "closedAt": "2026-09-25T02:46:36Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 15,
-            "title": "feat(tampermonkey): add userscript build bundling core",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/15",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 474,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-25T02:26:39Z",
-            "mergedAt": "2026-09-25T02:36:05Z",
-            "closedAt": "2026-09-25T02:36:05Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 14,
-            "title": "feat(chrome-extension): add MV3 content script bundling core",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/14",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 469,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-25T02:26:39Z",
-            "mergedAt": "2026-09-25T02:35:42Z",
-            "closedAt": "2026-09-25T02:35:42Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 12979,
+        "total": 12990,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2252,11 +2252,11 @@
             },
             {
                 "date": "2026-09-26",
-                "count": 24
+                "count": 26
             },
             {
                 "date": "2026-09-27",
-                "count": 10
+                "count": 19
             },
             {
                 "date": "2026-09-28",

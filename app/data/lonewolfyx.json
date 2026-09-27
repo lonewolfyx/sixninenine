@@ -935,6 +935,78 @@
     },
     "pullRequest": [
         {
+            "number": 41,
+            "title": "docs(api): translate code comments to English",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/41",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-27T17:30:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 40,
+            "title": "feat(api): cache organization responses for 6 hours",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/40",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 19,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-27T17:28:02Z",
+            "mergedAt": "2026-09-27T17:28:43Z",
+            "closedAt": "2026-09-27T17:28:43Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 39,
+            "title": "chore: point API base URL to the production deployment",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/39",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-27T17:15:34Z",
+            "mergedAt": "2026-09-27T17:16:07Z",
+            "closedAt": "2026-09-27T17:16:07Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 38,
             "title": "docs: add project README",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/38",
@@ -1101,82 +1173,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 30,
-            "title": "fix(tampermonkey): inline injected org links to preserve native spacing",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/30",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T13:48:53Z",
-            "mergedAt": "2026-09-27T13:51:11Z",
-            "closedAt": "2026-09-27T13:51:11Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 29,
-            "title": "fix(tampermonkey): hide entry marker with !important and re-validate section before render",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/29",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 25,
-            "deletions": 10,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T13:34:44Z",
-            "mergedAt": "2026-09-27T13:42:43Z",
-            "closedAt": "2026-09-27T13:42:43Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 28,
-            "title": "docs: clarify AI and pull request rules",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/28",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T12:48:34Z",
-            "mergedAt": "2026-09-27T12:49:29Z",
-            "closedAt": "2026-09-27T12:49:29Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 13023,
+        "total": 13029,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2232,11 +2232,11 @@
             },
             {
                 "date": "2026-09-21",
-                "count": 24
+                "count": 23
             },
             {
                 "date": "2026-09-22",
-                "count": 21
+                "count": 20
             },
             {
                 "date": "2026-09-23",
@@ -2256,11 +2256,11 @@
             },
             {
                 "date": "2026-09-27",
-                "count": 46
+                "count": 48
             },
             {
                 "date": "2026-09-28",
-                "count": 6
+                "count": 12
             },
             {
                 "date": "2026-09-29",

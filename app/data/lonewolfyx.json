@@ -935,69 +935,21 @@
     },
     "pullRequest": [
         {
-            "number": 27,
-            "title": "perf(tampermonkey): reduce observer and cache overhead",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/27",
+            "number": 38,
+            "title": "docs: add project README",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/38",
             "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 19,
-            "deletions": 5,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-09-27T11:55:32Z",
-            "mergedAt": "2026-09-27T12:10:25Z",
-            "closedAt": "2026-09-27T12:10:25Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 9,
-            "title": "ci: add renovate",
-            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/9",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
+            "changedFiles": 3,
+            "additions": 167,
             "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T11:51:46Z",
-            "mergedAt": "2026-09-27T11:51:55Z",
-            "closedAt": "2026-09-27T11:51:55Z",
-            "repository": {
-                "name": "lonewolfyx",
-                "nameWithOwner": "lonewolfyx/lonewolfyx",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx"
-            }
-        },
-        {
-            "number": 26,
-            "title": "Fix Tampermonkey organization rendering stability",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/26",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 502,
-            "deletions": 614,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-09-27T04:16:41Z",
-            "mergedAt": "2026-09-27T06:58:07Z",
-            "closedAt": "2026-09-27T06:58:07Z",
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-27T16:55:15Z",
+            "mergedAt": "2026-09-27T16:58:56Z",
+            "closedAt": "2026-09-27T16:58:56Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1007,21 +959,21 @@
             }
         },
         {
-            "number": 25,
-            "title": "Add repository contribution rules",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/25",
+            "number": 37,
+            "title": "refactor: extract shared API base URL and timeout into core",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/37",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T03:10:38Z",
-            "mergedAt": "2026-09-27T03:11:16Z",
-            "closedAt": "2026-09-27T03:11:16Z",
+            "changedFiles": 5,
+            "additions": 15,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-09-27T16:35:38Z",
+            "mergedAt": "2026-09-27T16:42:58Z",
+            "closedAt": "2026-09-27T16:42:58Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1031,21 +983,21 @@
             }
         },
         {
-            "number": 24,
-            "title": "feat(tampermonkey): rebuild standalone userscript",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/24",
+            "number": 35,
+            "title": "refactor: extract shared browser runtime into @github-unlimited-orgs/core",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/35",
             "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 841,
-            "deletions": 13,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-27T03:07:28Z",
-            "mergedAt": "2026-09-27T03:08:52Z",
-            "closedAt": "2026-09-27T03:08:52Z",
+            "changedFiles": 20,
+            "additions": 488,
+            "deletions": 1096,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-27T16:18:35Z",
+            "mergedAt": "2026-09-27T16:24:25Z",
+            "closedAt": "2026-09-27T16:24:26Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1055,21 +1007,21 @@
             }
         },
         {
-            "number": 23,
-            "title": "feat(tampermonkey): standalone org expansion with panel replay and hover cards",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/23",
+            "number": 34,
+            "title": "chore: remove legacy core package and obsolete plan documents",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/34",
             "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 841,
-            "deletions": 13,
+            "changedFiles": 15,
+            "additions": 0,
+            "deletions": 910,
             "totalCommentsCount": 1,
-            "createdAt": "2026-09-26T16:49:13Z",
-            "mergedAt": "2026-09-26T16:50:02Z",
-            "closedAt": "2026-09-26T16:50:02Z",
+            "createdAt": "2026-09-27T15:01:06Z",
+            "mergedAt": "2026-09-27T15:03:35Z",
+            "closedAt": "2026-09-27T15:03:35Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1079,21 +1031,93 @@
             }
         },
         {
-            "number": 22,
-            "title": "refactor(chrome-extension): consolidate tsdown config to multi-entry ESM",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/22",
+            "number": 33,
+            "title": "refactor(chrome-extension): align module structure with the tampermonkey package",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/33",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 664,
+            "deletions": 595,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-27T14:55:24Z",
+            "mergedAt": "2026-09-27T14:56:10Z",
+            "closedAt": "2026-09-27T14:56:10Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 32,
+            "title": "perf(tampermonkey): bound runtime observer overhead",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/32",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 64,
+            "deletions": 16,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-27T14:06:18Z",
+            "mergedAt": "2026-09-27T14:13:12Z",
+            "closedAt": "2026-09-27T14:13:12Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 31,
+            "title": "feat(tampermonkey): fetch organizations from the project API",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/31",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 35,
+            "deletions": 53,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-09-27T13:58:52Z",
+            "mergedAt": "2026-09-27T13:59:40Z",
+            "closedAt": "2026-09-27T13:59:41Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
+            "number": 30,
+            "title": "fix(tampermonkey): inline injected org links to preserve native spacing",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/30",
             "state": "MERGED",
             "changedFiles": 1,
             "additions": 13,
-            "deletions": 16,
+            "deletions": 9,
             "totalCommentsCount": 1,
-            "createdAt": "2026-09-26T16:29:13Z",
-            "mergedAt": "2026-09-26T16:29:58Z",
-            "closedAt": "2026-09-26T16:29:58Z",
+            "createdAt": "2026-09-27T13:48:53Z",
+            "mergedAt": "2026-09-27T13:51:11Z",
+            "closedAt": "2026-09-27T13:51:11Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1103,21 +1127,21 @@
             }
         },
         {
-            "number": 21,
-            "title": "chore(chrome-extension): translate source comments and messages to English",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/21",
+            "number": 29,
+            "title": "fix(tampermonkey): hide entry marker with !important and re-validate section before render",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/29",
             "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 54,
-            "deletions": 42,
+            "changedFiles": 2,
+            "additions": 25,
+            "deletions": 10,
             "totalCommentsCount": 1,
-            "createdAt": "2026-09-26T16:18:10Z",
-            "mergedAt": "2026-09-26T16:20:50Z",
-            "closedAt": "2026-09-26T16:20:50Z",
+            "createdAt": "2026-09-27T13:34:44Z",
+            "mergedAt": "2026-09-27T13:42:43Z",
+            "closedAt": "2026-09-27T13:42:43Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1127,45 +1151,21 @@
             }
         },
         {
-            "number": 20,
-            "title": "refactor(chrome-extension): harden scan lifecycle and data channels",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/20",
+            "number": 28,
+            "title": "docs: clarify AI and pull request rules",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/28",
             "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 504,
-            "deletions": 435,
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 0,
             "totalCommentsCount": 1,
-            "createdAt": "2026-09-26T16:11:43Z",
-            "mergedAt": "2026-09-26T16:12:17Z",
-            "closedAt": "2026-09-26T16:12:17Z",
+            "createdAt": "2026-09-27T12:48:34Z",
+            "mergedAt": "2026-09-27T12:49:29Z",
+            "closedAt": "2026-09-27T12:49:29Z",
             "repository": {
                 "name": "github-unlimited-orgs",
                 "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 19,
-            "title": "feat(chrome-extension): panel data replay, scan guards and incognito option",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/19",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 229,
-            "deletions": 175,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-26T15:40:50Z",
-            "mergedAt": "2026-09-26T15:47:03Z",
-            "closedAt": "2026-09-26T15:47:03Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": null,
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
                 "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
                 "owner": {
                     "login": "lonewolfyx",
@@ -1176,7 +1176,7 @@
         }
     ],
     "contributions": {
-        "total": 12999,
+        "total": 13023,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2256,11 +2256,11 @@
             },
             {
                 "date": "2026-09-27",
-                "count": 28
+                "count": 46
             },
             {
                 "date": "2026-09-28",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-09-29",

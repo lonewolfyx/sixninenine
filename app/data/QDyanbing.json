@@ -294,248 +294,248 @@
     },
     "pullRequest": [
         {
-            "number": 59398,
-            "title": "docs(Table): document scroll global configuration versions",
-            "url": "https://github.com/ant-design/ant-design/pull/59398",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 10,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-27T01:41:12Z",
-            "mergedAt": "2026-09-27T03:01:03Z",
-            "closedAt": "2026-09-27T03:01:03Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59382,
-            "title": "type(Upload): expose customRequest abort handle",
-            "url": "https://github.com/ant-design/ant-design/pull/59382",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 39,
-            "deletions": 11,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-24T12:20:38Z",
-            "mergedAt": "2026-09-24T15:42:14Z",
-            "closedAt": "2026-09-24T15:42:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59379,
-            "title": "type(Rate): exclude ignored direction prop",
-            "url": "https://github.com/ant-design/ant-design/pull/59379",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-24T06:57:03Z",
-            "mergedAt": "2026-09-24T08:17:34Z",
-            "closedAt": "2026-09-24T08:17:34Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59375,
-            "title": "fix(Tree): restore DirectoryTree shift selection with numeric keys",
-            "url": "https://github.com/ant-design/ant-design/pull/59375",
+            "number": 546,
+            "title": "refactor: use the shared non-nullable overlay guard",
+            "url": "https://github.com/react-component/tooltip/pull/546",
             "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 34,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-24T02:52:36Z",
+            "changedFiles": 3,
+            "additions": 26,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:44Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
+                "name": "tooltip",
+                "nameWithOwner": "react-component/tooltip",
+                "homepageUrl": "https://react-component.github.io/tooltip",
+                "description": "💡 Positioned React tooltip for hover, focus, click, and controlled popup flows.",
                 "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
                 },
-                "url": "https://github.com/ant-design/ant-design"
+                "url": "https://github.com/react-component/tooltip"
             }
         },
         {
-            "number": 59373,
-            "title": "type(Form): exclude unsupported onMetaChange from Form.Item",
-            "url": "https://github.com/ant-design/ant-design/pull/59373",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-24T02:24:08Z",
-            "mergedAt": "2026-09-24T15:27:49Z",
-            "closedAt": "2026-09-24T15:27:49Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59366,
-            "title": "fix(Carousel): exclude ignored verticalSwiping prop",
-            "url": "https://github.com/ant-design/ant-design/pull/59366",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-23T01:41:07Z",
-            "mergedAt": "2026-09-23T14:13:38Z",
-            "closedAt": "2026-09-23T14:13:38Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59364,
-            "title": "fix: pass TreeSelect and Mentions names to renderEmpty",
-            "url": "https://github.com/ant-design/ant-design/pull/59364",
+            "number": 39,
+            "title": "fix: preserve zero-valued children",
+            "url": "https://github.com/react-component/mutate-observer/pull/39",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 31,
+            "changedFiles": 3,
+            "additions": 17,
             "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-23T01:29:48Z",
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:38Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
+                "name": "mutate-observer",
+                "nameWithOwner": "react-component/mutate-observer",
+                "homepageUrl": "https://react-component.github.io/mutate-observer",
+                "description": "👁️ React wrapper and hook for observing DOM mutations with a typed MutationObserver API.",
                 "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
                 },
-                "url": "https://github.com/ant-design/ant-design"
+                "url": "https://github.com/react-component/mutate-observer"
             }
         },
         {
-            "number": 59358,
-            "title": "fix(AutoComplete): do not inherit ConfigProvider select.allowClear",
-            "url": "https://github.com/ant-design/ant-design/pull/59358",
+            "number": 112,
+            "title": "fix: preserve zero-valued close icon overrides",
+            "url": "https://github.com/react-component/tour/pull/112",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 32,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tour",
+                "nameWithOwner": "react-component/tour",
+                "homepageUrl": "https://react-component.github.io/tour",
+                "description": "🧭 Guided React tours with masks, target tracking, keyboard navigation, and custom panels.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tour"
+            }
+        },
+        {
+            "number": 1516,
+            "title": "fix: preserve zero-valued column titles",
+            "url": "https://github.com/react-component/table/pull/1516",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 46,
+            "deletions": 4,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "table",
+                "nameWithOwner": "react-component/table",
+                "homepageUrl": "https://react-component.github.io/table",
+                "description": "📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/table"
+            }
+        },
+        {
+            "number": 399,
+            "title": "fix: preserve zero-valued step content and icon styles",
+            "url": "https://github.com/react-component/steps/pull/399",
             "state": "OPEN",
             "changedFiles": 2,
+            "additions": 22,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "steps",
+                "nameWithOwner": "react-component/steps",
+                "homepageUrl": "https://react-component.github.io/steps",
+                "description": "🚶 Structured React steps for progress, navigation, and multi-step workflows.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/steps"
+            }
+        },
+        {
+            "number": 73,
+            "title": "fix: preserve zero-valued overflow indicators",
+            "url": "https://github.com/react-component/overflow/pull/73",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 36,
+            "deletions": 9,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:40:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "overflow",
+                "nameWithOwner": "react-component/overflow",
+                "homepageUrl": "overflow-git-master.react-component.vercel.app",
+                "description": "📦 Auto collapse box util component",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/overflow"
+            }
+        },
+        {
+            "number": 723,
+            "title": "fix: preserve zero-valued content and valid jumper markup",
+            "url": "https://github.com/react-component/pagination/pull/723",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 125,
+            "deletions": 14,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:39:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pagination",
+                "nameWithOwner": "react-component/pagination",
+                "homepageUrl": "https://react-component.github.io/pagination",
+                "description": "📄 React pagination primitives for page navigation, size changing, quick jumping, and locale-aware controls.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/pagination"
+            }
+        },
+        {
+            "number": 534,
+            "title": "fix: handle empty covers and zero-valued close icons",
+            "url": "https://github.com/react-component/image/pull/534",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 72,
+            "deletions": 15,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:39:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "image",
+                "nameWithOwner": "react-component/image",
+                "homepageUrl": "https://react-component.github.io/image",
+                "description": "🖼️ Image display, fallback, and preview tooling for React.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/image"
+            }
+        },
+        {
+            "number": 689,
+            "title": "fix: preserve zero-valued checkable content",
+            "url": "https://github.com/react-component/tree-select/pull/689",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 55,
+            "deletions": 27,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-09-28T02:39:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "tree-select",
+                "nameWithOwner": "react-component/tree-select",
+                "homepageUrl": "https://react-component.github.io/tree-select",
+                "description": "🌳 React TreeSelect component for choosing values from tree data, with search, checkable nodes, async loading, and virtual scrolling.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tree-select"
+            }
+        },
+        {
+            "number": 1254,
+            "title": "fix: preserve zero-valued dropdown content and icons",
+            "url": "https://github.com/react-component/select/pull/1254",
+            "state": "OPEN",
+            "changedFiles": 5,
             "additions": 47,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-22T07:51:04Z",
+            "deletions": 13,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-09-28T02:39:37Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
+                "name": "select",
+                "nameWithOwner": "react-component/select",
+                "homepageUrl": "https://react-component.github.io/select",
+                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
                 "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
                 },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59356,
-            "title": "fix(DatePicker): apply ConfigProvider DatePicker locale to RangePicker",
-            "url": "https://github.com/ant-design/ant-design/pull/59356",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-22T06:27:02Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59353,
-            "title": "fix(Button): respect delay for custom loading icons",
-            "url": "https://github.com/ant-design/ant-design/pull/59353",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 31,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-21T11:17:46Z",
-            "mergedAt": "2026-09-21T11:40:16Z",
-            "closedAt": "2026-09-21T11:40:16Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
+                "url": "https://github.com/react-component/select"
             }
         }
     ],
     "contributions": {
-        "total": 4955,
+        "total": 4975,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1619,7 +1619,7 @@
             },
             {
                 "date": "2026-09-28",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-09-29",

@@ -294,17 +294,89 @@
     },
     "pullRequest": [
         {
+            "number": 59424,
+            "title": "test: unlock jsdom and align style assertions",
+            "url": "https://github.com/ant-design/ant-design/pull/59424",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 20,
+            "deletions": 15,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-09-29T02:08:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59423,
+            "title": "fix(Breadcrumb): avoid undefined prefix in menu links",
+            "url": "https://github.com/ant-design/ant-design/pull/59423",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-29T01:38:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59422,
+            "title": "chore: skip TypeScript 7.0.x and Vitest 5.0.x updates",
+            "url": "https://github.com/ant-design/ant-design/pull/59422",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 0,
+            "totalCommentsCount": 13,
+            "createdAt": "2026-09-29T01:15:52Z",
+            "mergedAt": null,
+            "closedAt": "2026-09-29T01:28:55Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59417,
             "title": "docs: clarify Form horizontal layout on narrow screens",
             "url": "https://github.com/ant-design/ant-design/pull/59417",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 6,
             "deletions": 2,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-28T08:33:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-29T00:28:53Z",
+            "closedAt": "2026-09-29T00:28:53Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -321,14 +393,14 @@
             "number": 59414,
             "title": "fix(Card): respect tabProps.defaultActiveKey",
             "url": "https://github.com/ant-design/ant-design/pull/59414",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 39,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-09-28T06:44:56Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-29T02:05:58Z",
+            "closedAt": "2026-09-29T02:05:58Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/react-component/steps"
             }
-        },
-        {
-            "number": 73,
-            "title": "fix: preserve zero-valued overflow indicators",
-            "url": "https://github.com/react-component/overflow/pull/73",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 36,
-            "deletions": 9,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:40:05Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "overflow",
-                "nameWithOwner": "react-component/overflow",
-                "homepageUrl": "overflow-git-master.react-component.vercel.app",
-                "description": "📦 Auto collapse box util component",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/overflow"
-            }
-        },
-        {
-            "number": 723,
-            "title": "fix: preserve zero-valued content and valid jumper markup",
-            "url": "https://github.com/react-component/pagination/pull/723",
-            "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 125,
-            "deletions": 14,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:39:59Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "pagination",
-                "nameWithOwner": "react-component/pagination",
-                "homepageUrl": "https://react-component.github.io/pagination",
-                "description": "📄 React pagination primitives for page navigation, size changing, quick jumping, and locale-aware controls.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/pagination"
-            }
-        },
-        {
-            "number": 534,
-            "title": "fix: handle empty covers and zero-valued close icons",
-            "url": "https://github.com/react-component/image/pull/534",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 72,
-            "deletions": 15,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:39:55Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "image",
-                "nameWithOwner": "react-component/image",
-                "homepageUrl": "https://react-component.github.io/image",
-                "description": "🖼️ Image display, fallback, and preview tooling for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/image"
-            }
         }
     ],
     "contributions": {
-        "total": 4981,
+        "total": 4986,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1623,7 +1623,7 @@
             },
             {
                 "date": "2026-09-29",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-09-30",

@@ -13,30 +13,30 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2256294,
+            "size": 2265362,
             "repoCount": 6,
-            "progress": "85.36"
+            "progress": "85.41"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.99"
+            "progress": "6.96"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.71"
+            "progress": "2.70"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.23"
+            "progress": "2.22"
         },
         {
             "name": "HTML",
@@ -294,17 +294,41 @@
     },
     "pullRequest": [
         {
+            "number": 59432,
+            "title": "fix(Alert): restore disabled close button behavior",
+            "url": "https://github.com/ant-design/ant-design/pull/59432",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 49,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-09-30T00:49:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59424,
             "title": "test: unlock jsdom and align style assertions",
             "url": "https://github.com/ant-design/ant-design/pull/59424",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 20,
             "deletions": 15,
             "totalCommentsCount": 10,
             "createdAt": "2026-09-29T02:08:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-09-30T05:26:21Z",
+            "closedAt": "2026-09-30T05:26:21Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/react-component/table"
             }
-        },
-        {
-            "number": 399,
-            "title": "fix: preserve zero-valued step content and icon styles",
-            "url": "https://github.com/react-component/steps/pull/399",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 22,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:40:20Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "steps",
-                "nameWithOwner": "react-component/steps",
-                "homepageUrl": "https://react-component.github.io/steps",
-                "description": "🚶 Structured React steps for progress, navigation, and multi-step workflows.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/steps"
-            }
         }
     ],
     "contributions": {
-        "total": 4998,
+        "total": 5000,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1627,7 +1627,7 @@
             },
             {
                 "date": "2026-09-30",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-01",

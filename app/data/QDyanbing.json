@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59446,
+            "title": "fix(Avatar): preserve responsive size at larger breakpoints",
+            "url": "https://github.com/ant-design/ant-design/pull/59446",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 35,
+            "deletions": 4,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-09-30T14:44:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59432,
             "title": "fix(Alert): restore disabled close button behavior",
             "url": "https://github.com/ant-design/ant-design/pull/59432",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/react-component/tour"
             }
-        },
-        {
-            "number": 1516,
-            "title": "fix: preserve zero-valued column titles",
-            "url": "https://github.com/react-component/table/pull/1516",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 46,
-            "deletions": 4,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:40:26Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "table",
-                "nameWithOwner": "react-component/table",
-                "homepageUrl": "https://react-component.github.io/table",
-                "description": "📋 Low-level table primitives for React, maintained in the Ant Design ecosystem.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/table"
-            }
         }
     ],
     "contributions": {
-        "total": 5000,
+        "total": 5018,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1627,7 +1627,7 @@
             },
             {
                 "date": "2026-09-30",
-                "count": 2
+                "count": 20
             },
             {
                 "date": "2026-10-01",

@@ -917,15 +917,15 @@
                 }
             },
             {
-                "name": "lonewolfyx-collective",
+                "name": "Lonewolfyx's Collective",
                 "createdAt": "2026-09-01T11:03:10Z",
                 "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4",
-                "description": "",
+                "description": "A collection package of commonly used software developed by @lonewolfyx",
                 "email": null,
-                "location": null,
+                "location": "Lonewolfyx Coding Time",
                 "login": "lonewolfyx-collective",
                 "url": "https://github.com/lonewolfyx-collective",
-                "websiteUrl": null,
+                "websiteUrl": "https://lonewolfyx.vercel.app/projects",
                 "twitterUsername": null,
                 "repositories": {
                     "totalCount": 5
@@ -996,6 +996,30 @@
         "totalCount": 17
     },
     "pullRequest": [
+        {
+            "number": 21,
+            "title": "style(cli): standardize code formatting and update ESLint configuration",
+            "url": "https://github.com/lonewolfyx/lonewolfyx/pull/21",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 630,
+            "deletions": 735,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-01T14:13:11Z",
+            "mergedAt": "2026-10-01T14:13:49Z",
+            "closedAt": "2026-10-01T14:13:50Z",
+            "repository": {
+                "name": "lonewolfyx",
+                "nameWithOwner": "lonewolfyx/lonewolfyx",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/lonewolfyx"
+            }
+        },
         {
             "number": 4,
             "title": "docs: add repository agent guidelines",
@@ -1211,34 +1235,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/genereleaselog"
             }
-        },
-        {
-            "number": 5,
-            "title": "style(core): standardize code indentation across all source files",
-            "url": "https://github.com/lonewolfyx-collective/genereleaselog/pull/5",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 710,
-            "deletions": 710,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-28T12:50:24Z",
-            "mergedAt": "2026-09-28T12:51:15Z",
-            "closedAt": "2026-09-28T12:51:15Z",
-            "repository": {
-                "name": "genereleaselog",
-                "nameWithOwner": "lonewolfyx-collective/genereleaselog",
-                "homepageUrl": null,
-                "description": "🎨 Generate the Release log in accordance with the GitHub Conventional Commits",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/genereleaselog"
-            }
         }
     ],
     "contributions": {
-        "total": 13124,
+        "total": 13133,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2334,7 +2334,7 @@
             },
             {
                 "date": "2026-10-01",
-                "count": 12
+                "count": 21
             },
             {
                 "date": "2026-10-02",

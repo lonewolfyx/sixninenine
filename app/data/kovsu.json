@@ -576,7 +576,7 @@
                             "id": "MDQ6VXNlcjg4NTU3NjM5",
                             "login": "lishaduck",
                             "name": "Eli",
-                            "bio": "∃!Earthling; Programmer; Nerd; HS Student.\r\n∩{Flutter, TypeScript, Svelte, Elm, Python, Zsh, POSIX};\\n\r\n∪{Zig, Java, Nix, Tailwind CSS, Preact};\\r\\n\r\n∖{React}\\",
+                            "bio": "∃!Earthling; Programmer; Nerd; HS Student.\r\n∩{TypeScript, Flutter, Svelte, Elm, Python, Zsh, POSIX};\\n\r\n∪{Zig, Java, Nix, Tailwind CSS, Preact};\\r\\n\r\n∖{React}\\r",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/88557639?u=cc8da19e923e55dc296b1f13b56e483d90bc68e6&v=4",
                             "company": "@RHIT",
                             "createdAt": "2021-08-06T18:50:54Z",
@@ -598,6 +598,30 @@
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 21250,
+            "title": "fix(pi-runtime): classify destructive bash before the rtk rewrite",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/21250",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 12,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-01T05:44:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
         {
             "number": 21161,
             "title": "fix(agent-session): limit unconfirmed runtime exits to history rewrites",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio-app"
             }
-        },
-        {
-            "number": 20975,
-            "title": "fix(skill-install): bound clawhub responses before buffering",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/20975",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 124,
-            "deletions": 3,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-09-23T08:09:27Z",
-            "mergedAt": "2026-09-23T16:41:33Z",
-            "closedAt": "2026-09-23T16:41:33Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 839,
+        "total": 840,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1936,7 +1936,7 @@
             },
             {
                 "date": "2026-10-01",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-02",

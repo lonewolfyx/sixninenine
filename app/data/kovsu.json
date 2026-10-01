@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 21254,
+            "title": "fix(knowledge): run kb_read grep patterns through ripgrep",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/21254",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 291,
+            "deletions": 139,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-10-01T08:33:44Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 21250,
             "title": "fix(pi-runtime): classify destructive bash before the rtk rewrite",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/21250",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 1071,
-            "title": "fix(provider-catalog): open installed providers and label enabled ones",
-            "url": "https://github.com/CherryHQ/cherry-studio-app/pull/1071",
-            "state": "MERGED",
-            "changedFiles": 19,
-            "additions": 59,
-            "deletions": 24,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-23T08:17:57Z",
-            "mergedAt": "2026-09-23T11:54:12Z",
-            "closedAt": "2026-09-23T11:54:12Z",
-            "repository": {
-                "name": "cherry-studio-app",
-                "nameWithOwner": "CherryHQ/cherry-studio-app",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "🍒 This is the mobile version of Cherry Studio.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio-app"
-            }
         }
     ],
     "contributions": {
-        "total": 840,
+        "total": 841,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1936,7 +1936,7 @@
             },
             {
                 "date": "2026-10-01",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-10-02",

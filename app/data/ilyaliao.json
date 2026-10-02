@@ -6,7 +6,7 @@
         "url": "https://github.com/ilyaliao",
         "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
         "pronouns": "he/him",
-        "followers": 108,
+        "followers": 109,
         "following": 93
     },
     "languages": [
@@ -452,7 +452,7 @@
                             "company": "@vercel team @nuxt",
                             "createdAt": "2015-02-28T16:55:50Z",
                             "email": "hi@antfu.me",
-                            "location": "undefined",
+                            "location": "Gifu, Japan",
                             "twitterUsername": null,
                             "url": "https://github.com/antfu",
                             "websiteUrl": "https://antfu.me",
@@ -502,7 +502,7 @@
                             "company": "@vercel team @nuxt",
                             "createdAt": "2015-02-28T16:55:50Z",
                             "email": "hi@antfu.me",
-                            "location": "undefined",
+                            "location": "Gifu, Japan",
                             "twitterUsername": null,
                             "url": "https://github.com/antfu",
                             "websiteUrl": "https://antfu.me",
@@ -624,6 +624,30 @@
     },
     "pullRequest": [
         {
+            "number": 14705,
+            "title": "fix(web): a closed proactive diff stays closed when you return to a thread",
+            "url": "https://github.com/pingdotgg/t3code/pull/14705",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 133,
+            "deletions": 25,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-10-02T02:51:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 13593,
             "title": "fix(web): offer each turn's diff once and skip empty working trees",
             "url": "https://github.com/pingdotgg/t3code/pull/13593",
@@ -631,7 +655,7 @@
             "changedFiles": 5,
             "additions": 222,
             "deletions": 36,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 10,
             "createdAt": "2026-09-25T07:05:27Z",
             "mergedAt": null,
             "closedAt": "2026-10-01T21:02:37Z",
@@ -701,9 +725,9 @@
             "url": "https://github.com/pingdotgg/t3code/pull/12923",
             "state": "OPEN",
             "changedFiles": 15,
-            "additions": 784,
-            "deletions": 166,
-            "totalCommentsCount": 11,
+            "additions": 813,
+            "deletions": 170,
+            "totalCommentsCount": 14,
             "createdAt": "2026-09-21T14:59:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -838,34 +862,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 624,
-            "title": "fix(biome): respect disabled lint config",
-            "url": "https://github.com/unplugin/unplugin-auto-import/pull/624",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 27,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-08-02T06:30:47Z",
-            "mergedAt": "2026-08-02T23:39:16Z",
-            "closedAt": "2026-08-02T23:39:17Z",
-            "repository": {
-                "name": "unplugin-auto-import",
-                "nameWithOwner": "unplugin/unplugin-auto-import",
-                "homepageUrl": "",
-                "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-                "owner": {
-                    "login": "unplugin",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/143585159?v=4"
-                },
-                "url": "https://github.com/unplugin/unplugin-auto-import"
-            }
         }
     ],
     "contributions": {
-        "total": 1180,
+        "total": 1185,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1965,7 +1965,7 @@
             },
             {
                 "date": "2026-10-02",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-10-03",

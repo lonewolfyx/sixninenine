@@ -599,6 +599,30 @@
     },
     "pullRequest": [
         {
+            "number": 21289,
+            "title": "fix(xlsx-preview): stop ExcelJS from expanding declared ranges on load",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/21289",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 87,
+            "deletions": 13,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-10-03T02:33:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 21278,
             "title": "fix(xlsx-preview): read only existing cells when parsing sparse rows",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/21278",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio-app"
             }
-        },
-        {
-            "number": 1074,
-            "title": "feat(chat-input): directional effort label and smoother effort slider motion",
-            "url": "https://github.com/CherryHQ/cherry-studio-app/pull/1074",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 252,
-            "deletions": 51,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-23T10:01:10Z",
-            "mergedAt": "2026-09-23T10:33:58Z",
-            "closedAt": "2026-09-23T10:33:58Z",
-            "repository": {
-                "name": "cherry-studio-app",
-                "nameWithOwner": "CherryHQ/cherry-studio-app",
-                "homepageUrl": "https://cherry-ai.com",
-                "description": "🍒 This is the mobile version of Cherry Studio.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio-app"
-            }
         }
     ],
     "contributions": {
-        "total": 845,
+        "total": 846,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1944,7 +1944,7 @@
             },
             {
                 "date": "2026-10-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-04",

@@ -624,14 +624,38 @@
     },
     "pullRequest": [
         {
+            "number": 14997,
+            "title": "feat(web): add an environment scope filter to the sidebar",
+            "url": "https://github.com/pingdotgg/t3code/pull/14997",
+            "state": "OPEN",
+            "changedFiles": 17,
+            "additions": 939,
+            "deletions": 186,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-03T03:43:13Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 14705,
             "title": "fix(web): a closed proactive diff stays closed when you return to a thread",
             "url": "https://github.com/pingdotgg/t3code/pull/14705",
             "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 133,
-            "deletions": 25,
-            "totalCommentsCount": 3,
+            "changedFiles": 3,
+            "additions": 118,
+            "deletions": 20,
+            "totalCommentsCount": 4,
             "createdAt": "2026-10-02T02:51:46Z",
             "mergedAt": null,
             "closedAt": null,
@@ -838,34 +862,10 @@
                 },
                 "url": "https://github.com/ilyaliao/monaco-unocss"
             }
-        },
-        {
-            "number": 5562,
-            "title": "docs(nuxt): remove stale `useTitle` auto-import caveat",
-            "url": "https://github.com/vueuse/vueuse/pull/5562",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 1,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-08-02T13:39:33Z",
-            "mergedAt": "2026-08-13T02:00:49Z",
-            "closedAt": "2026-08-13T02:00:49Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 1185,
+        "total": 1186,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1969,7 +1969,7 @@
             },
             {
                 "date": "2026-10-03",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-04",

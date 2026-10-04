@@ -997,6 +997,102 @@
     },
     "pullRequest": [
         {
+            "number": 13,
+            "title": "fix: tolerate transient 404/401 during polling instead of kicking players",
+            "url": "https://github.com/lonewolfyx/holdem/pull/13",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-04T19:38:04Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 12,
+            "title": "feat: creator-only room dissolution and 30-minute inactivity cleanup",
+            "url": "https://github.com/lonewolfyx/holdem/pull/12",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 171,
+            "deletions": 55,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-10-04T17:10:40Z",
+            "mergedAt": "2026-10-04T17:15:59Z",
+            "closedAt": "2026-10-04T17:15:59Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 11,
+            "title": "fix: constant \"connecting/reconnecting\" on Vercel — replace WebSocket with HTTP polling + SQLite persistence",
+            "url": "https://github.com/lonewolfyx/holdem/pull/11",
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 867,
+            "deletions": 502,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-04T16:21:22Z",
+            "mergedAt": "2026-10-04T16:44:53Z",
+            "closedAt": "2026-10-04T16:44:53Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 11,
+            "title": "fix(workspace): retain the merged SDK delivery",
+            "url": "https://github.com/trace-script/trace-script/pull/11",
+            "state": "OPEN",
+            "changedFiles": 18,
+            "additions": 1569,
+            "deletions": 22,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T13:33:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 10,
             "title": "feat(sdk): add browser publishing and playground scenarios",
             "url": "https://github.com/trace-script/trace-script/pull/10",
@@ -1139,106 +1235,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/lonewolfyx"
             }
-        },
-        {
-            "number": 4,
-            "title": "docs: add repository agent guidelines",
-            "url": "https://github.com/trace-script/trace-script/pull/4",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 38,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-01T03:03:48Z",
-            "mergedAt": "2026-10-03T03:28:53Z",
-            "closedAt": "2026-10-03T03:28:53Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 3,
-            "title": "feat(demo): add standalone Agent Trace demo",
-            "url": "https://github.com/trace-script/trace-script/pull/3",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 585,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-01T02:56:15Z",
-            "mergedAt": "2026-10-03T14:36:52Z",
-            "closedAt": "2026-10-03T14:36:52Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 2,
-            "title": "chore(skills): add create-pr workflow",
-            "url": "https://github.com/trace-script/trace-script/pull/2",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 299,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-01T02:53:05Z",
-            "mergedAt": "2026-10-03T03:28:33Z",
-            "closedAt": "2026-10-03T03:28:33Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 1,
-            "title": "refactor: restructure into multi-package monorepo",
-            "url": "https://github.com/trace-script/trace-script/pull/1",
-            "state": "MERGED",
-            "changedFiles": 30,
-            "additions": 2700,
-            "deletions": 2823,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-30T15:37:00Z",
-            "mergedAt": "2026-09-30T15:53:43Z",
-            "closedAt": "2026-09-30T15:53:43Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 13256,
+        "total": 13289,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2346,11 +2346,11 @@
             },
             {
                 "date": "2026-10-04",
-                "count": 32
+                "count": 42
             },
             {
                 "date": "2026-10-05",
-                "count": 0
+                "count": 23
             },
             {
                 "date": "2026-10-06",

@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 12,
+            "title": "chore(lint): add autofix for extensionless TypeScript imports",
+            "url": "https://github.com/trace-script/trace-script/pull/12",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 129,
+            "deletions": 75,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T18:19:46Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 1035,
             "title": "docs(cn): update api/browser/interactivity.md",
             "url": "https://github.com/vitest-dev/docs-cn/pull/1035",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 61,
-            "title": "chore: add package keywords for npm discoverability",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/61",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T12:38:51Z",
-            "mergedAt": "2026-09-10T12:52:46Z",
-            "closedAt": "2026-09-10T12:52:46Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 660,
+        "total": 661,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1384,7 +1384,7 @@
             },
             {
                 "date": "2026-10-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-06",

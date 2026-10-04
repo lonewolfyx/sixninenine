@@ -928,7 +928,7 @@
                 "websiteUrl": "https://lonewolfyx.vercel.app/projects",
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 5
+                    "totalCount": 6
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -996,6 +996,126 @@
         "totalCount": 17
     },
     "pullRequest": [
+        {
+            "number": 10,
+            "title": "feat(sdk): add browser publishing and playground scenarios",
+            "url": "https://github.com/trace-script/trace-script/pull/10",
+            "state": "MERGED",
+            "changedFiles": 17,
+            "additions": 1566,
+            "deletions": 22,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T09:04:30Z",
+            "mergedAt": "2026-10-04T09:14:31Z",
+            "closedAt": "2026-10-04T09:14:31Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat(protocol): add validated trace events and aggregation",
+            "url": "https://github.com/trace-script/trace-script/pull/9",
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 1278,
+            "deletions": 12,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T09:00:36Z",
+            "mergedAt": "2026-10-04T09:14:13Z",
+            "closedAt": "2026-10-04T09:14:13Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 8,
+            "title": "feat(workspace): add extension and playground foundations",
+            "url": "https://github.com/trace-script/trace-script/pull/8",
+            "state": "MERGED",
+            "changedFiles": 63,
+            "additions": 10175,
+            "deletions": 1702,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T08:36:15Z",
+            "mergedAt": "2026-10-04T08:55:35Z",
+            "closedAt": "2026-10-04T08:55:35Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 7,
+            "title": "docs: record staged development and validation plan",
+            "url": "https://github.com/trace-script/trace-script/pull/7",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 1508,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T06:48:18Z",
+            "mergedAt": "2026-10-04T08:47:46Z",
+            "closedAt": "2026-10-04T08:47:46Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 6,
+            "title": "fix(tooling): support commit checks in Git worktrees",
+            "url": "https://github.com/trace-script/trace-script/pull/6",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 51,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-04T06:47:44Z",
+            "mergedAt": "2026-10-04T08:47:30Z",
+            "closedAt": "2026-10-04T08:47:30Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
         {
             "number": 21,
             "title": "style(cli): standardize code formatting and update ESLint configuration",
@@ -1115,130 +1235,10 @@
                 },
                 "url": "https://github.com/trace-script/trace-script"
             }
-        },
-        {
-            "number": 54,
-            "title": "feat(open-source): add github unlimited orgs project to showcase",
-            "url": "https://github.com/lonewolfyx/lonewolfyx.dev/pull/54",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 28,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-29T14:48:31Z",
-            "mergedAt": "2026-09-29T14:48:49Z",
-            "closedAt": "2026-09-29T14:48:49Z",
-            "repository": {
-                "name": "lonewolfyx.dev",
-                "nameWithOwner": "lonewolfyx/lonewolfyx.dev",
-                "homepageUrl": "https://lonewolfyx.vercel.app",
-                "description": "lonewolfyx's notion",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/lonewolfyx.dev"
-            }
-        },
-        {
-            "number": 15,
-            "title": "docs(package): add repository field to package.json",
-            "url": "https://github.com/lonewolfyx-template/citty-cli-template/pull/15",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-29T14:17:02Z",
-            "mergedAt": "2026-09-29T14:22:08Z",
-            "closedAt": "2026-09-29T14:22:08Z",
-            "repository": {
-                "name": "citty-cli-template",
-                "nameWithOwner": "lonewolfyx-template/citty-cli-template",
-                "homepageUrl": null,
-                "description": "cli template use for citty tool",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/citty-cli-template"
-            }
-        },
-        {
-            "number": 14,
-            "title": "style(format): standardize code indentation and formatting across files",
-            "url": "https://github.com/lonewolfyx-template/citty-cli-template/pull/14",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 182,
-            "deletions": 182,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-29T14:15:36Z",
-            "mergedAt": "2026-09-29T14:16:16Z",
-            "closedAt": "2026-09-29T14:16:16Z",
-            "repository": {
-                "name": "citty-cli-template",
-                "nameWithOwner": "lonewolfyx-template/citty-cli-template",
-                "homepageUrl": null,
-                "description": "cli template use for citty tool",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/citty-cli-template"
-            }
-        },
-        {
-            "number": 7,
-            "title": "ci: update release.yaml use lonewolfyx-workflows",
-            "url": "https://github.com/lonewolfyx-collective/genereleaselog/pull/7",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 9,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-29T13:46:53Z",
-            "mergedAt": "2026-09-29T13:47:01Z",
-            "closedAt": "2026-09-29T13:47:01Z",
-            "repository": {
-                "name": "genereleaselog",
-                "nameWithOwner": "lonewolfyx-collective/genereleaselog",
-                "homepageUrl": null,
-                "description": "🎨 Generate the Release log in accordance with the GitHub Conventional Commits",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/genereleaselog"
-            }
-        },
-        {
-            "number": 6,
-            "title": "chore(project): update repository links to new organization",
-            "url": "https://github.com/lonewolfyx-collective/genereleaselog/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-28T12:52:17Z",
-            "mergedAt": "2026-09-28T12:52:36Z",
-            "closedAt": "2026-09-28T12:52:37Z",
-            "repository": {
-                "name": "genereleaselog",
-                "nameWithOwner": "lonewolfyx-collective/genereleaselog",
-                "homepageUrl": null,
-                "description": "🎨 Generate the Release log in accordance with the GitHub Conventional Commits",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/genereleaselog"
-            }
         }
     ],
     "contributions": {
-        "total": 13229,
+        "total": 13256,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2346,7 +2346,7 @@
             },
             {
                 "date": "2026-10-04",
-                "count": 5
+                "count": 32
             },
             {
                 "date": "2026-10-05",

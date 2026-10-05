@@ -31,17 +31,41 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "feat(devtools): add Trace event panel and history replay",
+            "url": "https://github.com/trace-script/chrome-demo/pull/1",
+            "state": "MERGED",
+            "changedFiles": 37,
+            "additions": 3354,
+            "deletions": 649,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-05T11:16:26Z",
+            "mergedAt": "2026-10-05T11:41:44Z",
+            "closedAt": "2026-10-05T11:41:44Z",
+            "repository": {
+                "name": "chrome-demo",
+                "nameWithOwner": "trace-script/chrome-demo",
+                "homepageUrl": "",
+                "description": "An experimental repository for validating Trace Script product concepts, interaction designs, and functional prototypes",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/chrome-demo"
+            }
+        },
+        {
             "number": 12,
             "title": "chore(lint): add autofix for extensionless TypeScript imports",
             "url": "https://github.com/trace-script/trace-script/pull/12",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
             "additions": 129,
             "deletions": 75,
             "totalCommentsCount": 0,
             "createdAt": "2026-10-04T18:19:46Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-05T13:31:38Z",
+            "closedAt": "2026-10-05T13:31:38Z",
             "repository": {
                 "name": "trace-script",
                 "nameWithOwner": "trace-script/trace-script",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 62,
-            "title": "chore: generate rules on release instead of pre-commit",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/62",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 12,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T12:52:52Z",
-            "mergedAt": "2026-09-10T12:58:47Z",
-            "closedAt": "2026-09-10T12:58:47Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 661,
+        "total": 664,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1384,7 +1384,7 @@
             },
             {
                 "date": "2026-10-05",
-                "count": 1
+                "count": 4
             },
             {
                 "date": "2026-10-06",

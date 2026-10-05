@@ -599,12 +599,84 @@
     },
     "pullRequest": [
         {
+            "number": 3620,
+            "title": "perf(flint): skip the Node.js compile cache in CI",
+            "url": "https://github.com/flint-fyi/flint/pull/3620",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-10-05T09:07:55Z",
+            "mergedAt": null,
+            "closedAt": "2026-10-05T13:16:48Z",
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 3619,
+            "title": "test(e2e): disable node compile cache in spawned flint processes",
+            "url": "https://github.com/flint-fyi/flint/pull/3619",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-10-05T08:47:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 21330,
+            "title": "fix(renderer-utils): remove exponential backtracking from README and image regexes",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/21330",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 50,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-05T06:44:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 5,
             "title": "diag: e2e timeouts on Windows (do not merge)",
             "url": "https://github.com/kovsu/flint/pull/5",
             "state": "OPEN",
             "changedFiles": 491,
-            "additions": 20889,
+            "additions": 20961,
             "deletions": 16021,
             "totalCommentsCount": 0,
             "createdAt": "2026-10-04T12:14:56Z",
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 21160,
-            "title": "fix(tool-disclosure): match the thinking panel height and scroll containment",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/21160",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-29T03:02:51Z",
-            "mergedAt": "2026-09-30T08:32:06Z",
-            "closedAt": "2026-09-30T08:32:06Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 21155,
-            "title": "fix(skill-install): reject ZIP entries that collide once case and Unicode are folded",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/21155",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 93,
-            "deletions": 40,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-29T01:28:56Z",
-            "mergedAt": "2026-09-29T13:21:29Z",
-            "closedAt": "2026-09-29T13:21:29Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 3593,
-            "title": "fix(ts): `recursionOnlyArguments` should ignore bare calls inside same-named methods",
-            "url": "https://github.com/flint-fyi/flint/pull/3593",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 11,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-29T01:06:56Z",
-            "mergedAt": "2026-09-29T02:48:54Z",
-            "closedAt": "2026-09-29T02:48:54Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
         }
     ],
     "contributions": {
-        "total": 851,
+        "total": 854,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1952,7 +1952,7 @@
             },
             {
                 "date": "2026-10-05",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-10-06",

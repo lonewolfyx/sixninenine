@@ -41,7 +41,7 @@
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 55440,
+            "size": 55452,
             "repoCount": 5,
             "progress": "3.43"
         },
@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 16522,
+            "title": "fix(web): provider model names no longer get cut off by their slug",
+            "url": "https://github.com/pingdotgg/t3code/pull/16522",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 13,
+            "deletions": 7,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-06T17:36:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 66,
             "title": "fix(embed): preserve dark mode when tooltips open",
             "url": "https://github.com/antfu/pulls.review/pull/66",
@@ -705,8 +729,8 @@
             "state": "OPEN",
             "changedFiles": 3,
             "additions": 118,
-            "deletions": 20,
-            "totalCommentsCount": 4,
+            "deletions": 21,
+            "totalCommentsCount": 5,
             "createdAt": "2026-10-02T02:51:46Z",
             "mergedAt": null,
             "closedAt": null,
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 5630,
-            "title": "docs: fix team page avatars and add new team members",
-            "url": "https://github.com/vueuse/vueuse/pull/5630",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 452,
-            "deletions": 226,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-09-09T13:41:34Z",
-            "mergedAt": "2026-09-10T00:26:29Z",
-            "closedAt": "2026-09-10T00:26:29Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 1211,
+        "total": 1219,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1980,15 +1980,15 @@
             },
             {
                 "date": "2026-10-05",
-                "count": 6
+                "count": 9
             },
             {
                 "date": "2026-10-06",
-                "count": 12
+                "count": 16
             },
             {
                 "date": "2026-10-07",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-08",

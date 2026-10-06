@@ -31,17 +31,137 @@
     },
     "pullRequest": [
         {
+            "number": 18,
+            "title": "refactor(core): use zod JSON schema directly",
+            "url": "https://github.com/trace-script/trace-script/pull/18",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 6,
+            "deletions": 201,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-06T05:18:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 17,
+            "title": "docs(repo): streamline README guidance",
+            "url": "https://github.com/trace-script/trace-script/pull/17",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 24,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-06T05:06:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 16,
+            "title": "ci(repo): add CI checks and align Vitest aliases",
+            "url": "https://github.com/trace-script/trace-script/pull/16",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 89,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-06T04:36:35Z",
+            "mergedAt": "2026-10-06T04:52:28Z",
+            "closedAt": "2026-10-06T04:52:28Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 15,
+            "title": "chore: run repository tasks through turbo",
+            "url": "https://github.com/trace-script/trace-script/pull/15",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 40,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-06T04:11:25Z",
+            "mergedAt": "2026-10-06T04:22:43Z",
+            "closedAt": "2026-10-06T04:22:43Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 14,
+            "title": "Chore/turbo",
+            "url": "https://github.com/trace-script/trace-script/pull/14",
+            "state": "CLOSED",
+            "changedFiles": 83,
+            "additions": 718,
+            "deletions": 798,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-06T03:56:11Z",
+            "mergedAt": null,
+            "closedAt": "2026-10-06T03:56:56Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 13,
             "title": "refactor: repo structure",
             "url": "https://github.com/trace-script/trace-script/pull/13",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 82,
-            "additions": 670,
-            "deletions": 779,
+            "additions": 682,
+            "deletions": 791,
             "totalCommentsCount": 0,
             "createdAt": "2026-10-05T17:03:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-06T03:49:07Z",
+            "closedAt": "2026-10-06T03:49:07Z",
             "repository": {
                 "name": "trace-script",
                 "nameWithOwner": "trace-script/trace-script",
@@ -149,130 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1033,
-            "title": "docs(cn): update api/",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1033",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 55,
-            "deletions": 58,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-19T14:43:33Z",
-            "mergedAt": "2026-09-19T15:31:44Z",
-            "closedAt": "2026-09-19T15:31:44Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 15,
-            "title": "feat(tool): add ask-user-question",
-            "url": "https://github.com/NoiseFan/code-agent/pull/15",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 367,
-            "deletions": 17,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-15T14:48:35Z",
-            "mergedAt": "2026-09-15T14:49:32Z",
-            "closedAt": "2026-09-15T14:49:32Z",
-            "repository": {
-                "name": "code-agent",
-                "nameWithOwner": "NoiseFan/code-agent",
-                "homepageUrl": "",
-                "description": "learn code agent",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/code-agent"
-            }
-        },
-        {
-            "number": 1032,
-            "title": "docs(cn): update /api/",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1032",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 170,
-            "deletions": 176,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-13T12:30:22Z",
-            "mergedAt": "2026-09-13T12:44:53Z",
-            "closedAt": "2026-09-13T12:44:53Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 67,
-            "title": "chore(renovate): restrict typescript and node updates",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/67",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-12T12:22:55Z",
-            "mergedAt": "2026-09-12T12:25:17Z",
-            "closedAt": "2026-09-12T12:25:17Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
-        },
-        {
-            "number": 64,
-            "title": "chore: configure Renovate dependency updates",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/64",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 20,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-12T11:55:22Z",
-            "mergedAt": "2026-09-12T12:04:04Z",
-            "closedAt": "2026-09-12T12:04:04Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 665,
+        "total": 673,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1388,7 +1388,7 @@
             },
             {
                 "date": "2026-10-06",
-                "count": 1
+                "count": 9
             },
             {
                 "date": "2026-10-07",

@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 13,
+            "title": "refactor: repo structure",
+            "url": "https://github.com/trace-script/trace-script/pull/13",
+            "state": "OPEN",
+            "changedFiles": 82,
+            "additions": 670,
+            "deletions": 779,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-05T17:03:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 1,
             "title": "feat(devtools): add Trace event panel and history replay",
             "url": "https://github.com/trace-script/chrome-demo/pull/1",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
             }
-        },
-        {
-            "number": 63,
-            "title": "docs: rewrite AGENTS.md for pnpm workspace layout",
-            "url": "https://github.com/NoiseFan/eslint-plugin-md-style/pull/63",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 31,
-            "deletions": 24,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-10T13:52:12Z",
-            "mergedAt": "2026-09-11T08:56:26Z",
-            "closedAt": "2026-09-11T08:56:26Z",
-            "repository": {
-                "name": "eslint-plugin-md-style",
-                "nameWithOwner": "NoiseFan/eslint-plugin-md-style",
-                "homepageUrl": "",
-                "description": "ESLint plugin for enforcing style rules in Markdown-based documentation",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/eslint-plugin-md-style"
-            }
         }
     ],
     "contributions": {
-        "total": 664,
+        "total": 665,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1388,7 +1388,7 @@
             },
             {
                 "date": "2026-10-06",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-07",

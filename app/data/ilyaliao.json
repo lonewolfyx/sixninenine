@@ -627,6 +627,54 @@
     },
     "pullRequest": [
         {
+            "number": 66,
+            "title": "fix(embed): preserve dark mode when tooltips open",
+            "url": "https://github.com/antfu/pulls.review/pull/66",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 4,
+            "deletions": 12,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T20:15:53Z",
+            "mergedAt": "2026-10-05T23:03:30Z",
+            "closedAt": "2026-10-05T23:03:30Z",
+            "repository": {
+                "name": "pulls.review",
+                "nameWithOwner": "antfu/pulls.review",
+                "homepageUrl": "https://pulls.review/",
+                "description": "A better way for review GitHub Pull Requests",
+                "owner": {
+                    "login": "antfu",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?u=5c092d3773a443e480a294f2b67aa39395982f46&v=4"
+                },
+                "url": "https://github.com/antfu/pulls.review"
+            }
+        },
+        {
+            "number": 16156,
+            "title": "fix(web): ask before Close with comment closes a pull request",
+            "url": "https://github.com/pingdotgg/t3code/pull/16156",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 57,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T18:53:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 14997,
             "title": "feat(web): add an environment scope filter to the sidebar",
             "url": "https://github.com/pingdotgg/t3code/pull/14997",
@@ -817,58 +865,10 @@
                 },
                 "url": "https://github.com/vueuse/vueuse"
             }
-        },
-        {
-            "number": 4,
-            "title": "chore: add playground verification skill",
-            "url": "https://github.com/ilyaliao/monaco-unocss/pull/4",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 684,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T15:11:40Z",
-            "mergedAt": "2026-08-18T15:14:05Z",
-            "closedAt": "2026-08-18T15:14:05Z",
-            "repository": {
-                "name": "monaco-unocss",
-                "nameWithOwner": "ilyaliao/monaco-unocss",
-                "homepageUrl": "https://monaco-unocss-playground.vercel.app/",
-                "description": "UnoCSS intellisense support in Monaco editor",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/monaco-unocss"
-            }
-        },
-        {
-            "number": 3,
-            "title": "chore: add Cloud Agent development environment",
-            "url": "https://github.com/ilyaliao/monaco-unocss/pull/3",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 48,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-08-18T12:33:54Z",
-            "mergedAt": "2026-08-18T13:33:48Z",
-            "closedAt": "2026-08-18T13:33:48Z",
-            "repository": {
-                "name": "monaco-unocss",
-                "nameWithOwner": "ilyaliao/monaco-unocss",
-                "homepageUrl": "https://monaco-unocss-playground.vercel.app/",
-                "description": "UnoCSS intellisense support in Monaco editor",
-                "owner": {
-                    "login": "ilyaliao",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
-                },
-                "url": "https://github.com/ilyaliao/monaco-unocss"
-            }
         }
     ],
     "contributions": {
-        "total": 1199,
+        "total": 1210,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1984,7 +1984,7 @@
             },
             {
                 "date": "2026-10-06",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-10-07",

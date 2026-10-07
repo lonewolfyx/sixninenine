@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2329271,
+            "size": 2343785,
             "repoCount": 6,
-            "progress": "85.75"
+            "progress": "85.83"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.80"
+            "progress": "6.76"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.63"
+            "progress": "2.62"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.17"
+            "progress": "2.16"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.05"
+            "progress": "2.04"
         },
         {
             "name": "Less",
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59487,
+            "title": "fix(Transfer): render numeric zero selectAllLabels",
+            "url": "https://github.com/ant-design/ant-design/pull/59487",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 26,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-07T03:39:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59446,
             "title": "fix(Avatar): preserve responsive size at larger breakpoints",
             "url": "https://github.com/ant-design/ant-design/pull/59446",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/react-component/mutate-observer"
             }
-        },
-        {
-            "number": 112,
-            "title": "fix: preserve zero-valued close icon overrides",
-            "url": "https://github.com/react-component/tour/pull/112",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 32,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-28T02:40:32Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "tour",
-                "nameWithOwner": "react-component/tour",
-                "homepageUrl": "https://react-component.github.io/tour",
-                "description": "🧭 Guided React tours with masks, target tracking, keyboard navigation, and custom panels.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tour"
-            }
         }
     ],
     "contributions": {
-        "total": 5094,
+        "total": 5114,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1651,11 +1651,11 @@
             },
             {
                 "date": "2026-10-06",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-10-07",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-10-08",

@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 19,
+            "title": "chore(playground): simplify toolchain with Vite + Vue 3 scaffold",
+            "url": "https://github.com/trace-script/trace-script/pull/19",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 314,
+            "deletions": 99,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-07T03:05:57Z",
+            "mergedAt": "2026-10-07T03:27:55Z",
+            "closedAt": "2026-10-07T03:27:55Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 18,
             "title": "refactor(core): use zod JSON schema directly",
             "url": "https://github.com/trace-script/trace-script/pull/18",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/vitest-dev/docs-cn"
             }
-        },
-        {
-            "number": 1034,
-            "title": "docs(cn): fix api/browser/locators.md",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1034",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 12,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-19T15:48:36Z",
-            "mergedAt": "2026-09-19T15:51:20Z",
-            "closedAt": "2026-09-19T15:51:20Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 674,
+        "total": 676,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1392,7 +1392,7 @@
             },
             {
                 "date": "2026-10-07",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-08",

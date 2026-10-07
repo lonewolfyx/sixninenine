@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 16983,
+            "title": "fix(web,server): browser tabs follow the default appearance setting",
+            "url": "https://github.com/pingdotgg/t3code/pull/16983",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 34,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-07T22:42:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 16522,
             "title": "fix(web): provider model names no longer get cut off by their slug",
             "url": "https://github.com/pingdotgg/t3code/pull/16522",
@@ -730,7 +754,7 @@
             "changedFiles": 3,
             "additions": 118,
             "deletions": 21,
-            "totalCommentsCount": 5,
+            "totalCommentsCount": 6,
             "createdAt": "2026-10-02T02:51:46Z",
             "mergedAt": null,
             "closedAt": null,
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/pingdotgg/t3code"
             }
-        },
-        {
-            "number": 5642,
-            "title": "docs: hide noisy JSDoc tags in twoslash hover",
-            "url": "https://github.com/vueuse/vueuse/pull/5642",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 18,
-            "deletions": 1,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-09-20T08:27:41Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 1220,
+        "total": 1222,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1992,7 +1992,7 @@
             },
             {
                 "date": "2026-10-08",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-09",

@@ -890,7 +890,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 3
+                    "totalCount": 4
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -996,6 +996,54 @@
         "totalCount": 17
     },
     "pullRequest": [
+        {
+            "number": 14,
+            "title": "fix(renovate): add missing comma in typescript allowedVersions rule",
+            "url": "https://github.com/config-preset/renovate-config/pull/14",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-08T16:32:43Z",
+            "mergedAt": "2026-10-08T16:32:53Z",
+            "closedAt": "2026-10-08T16:32:53Z",
+            "repository": {
+                "name": "renovate-config",
+                "nameWithOwner": "config-preset/renovate-config",
+                "homepageUrl": null,
+                "description": "Renovate Config",
+                "owner": {
+                    "login": "config-preset",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/254921326?v=4"
+                },
+                "url": "https://github.com/config-preset/renovate-config"
+            }
+        },
+        {
+            "number": 12,
+            "title": "feat: add typescript allowed v6",
+            "url": "https://github.com/config-preset/renovate-config/pull/12",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-08T14:40:28Z",
+            "mergedAt": "2026-10-08T14:40:37Z",
+            "closedAt": "2026-10-08T14:40:37Z",
+            "repository": {
+                "name": "renovate-config",
+                "nameWithOwner": "config-preset/renovate-config",
+                "homepageUrl": null,
+                "description": "Renovate Config",
+                "owner": {
+                    "login": "config-preset",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/254921326?v=4"
+                },
+                "url": "https://github.com/config-preset/renovate-config"
+            }
+        },
         {
             "number": 22,
             "title": "feat(mvp): deliver local agent trace collection and inspection",
@@ -1187,58 +1235,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/holdem"
             }
-        },
-        {
-            "number": 12,
-            "title": "feat: creator-only room dissolution and 30-minute inactivity cleanup",
-            "url": "https://github.com/lonewolfyx/holdem/pull/12",
-            "state": "MERGED",
-            "changedFiles": 11,
-            "additions": 171,
-            "deletions": 55,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-10-04T17:10:40Z",
-            "mergedAt": "2026-10-04T17:15:59Z",
-            "closedAt": "2026-10-04T17:15:59Z",
-            "repository": {
-                "name": "holdem",
-                "nameWithOwner": "lonewolfyx/holdem",
-                "homepageUrl": "https://holdem-seven-tau.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/holdem"
-            }
-        },
-        {
-            "number": 11,
-            "title": "fix: constant \"connecting/reconnecting\" on Vercel — replace WebSocket with HTTP polling + SQLite persistence",
-            "url": "https://github.com/lonewolfyx/holdem/pull/11",
-            "state": "MERGED",
-            "changedFiles": 21,
-            "additions": 867,
-            "deletions": 502,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-04T16:21:22Z",
-            "mergedAt": "2026-10-04T16:44:53Z",
-            "closedAt": "2026-10-04T16:44:53Z",
-            "repository": {
-                "name": "holdem",
-                "nameWithOwner": "lonewolfyx/holdem",
-                "homepageUrl": "https://holdem-seven-tau.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/holdem"
-            }
         }
     ],
     "contributions": {
-        "total": 13437,
+        "total": 13455,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2362,11 +2362,11 @@
             },
             {
                 "date": "2026-10-08",
-                "count": 18
+                "count": 33
             },
             {
                 "date": "2026-10-09",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-10-10",

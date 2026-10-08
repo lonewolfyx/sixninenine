@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 17224,
+            "title": "feat(web): watch a pull request from its detail menu",
+            "url": "https://github.com/pingdotgg/t3code/pull/17224",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 43,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-08T15:50:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 16983,
             "title": "fix(web,server): browser tabs follow the default appearance setting",
             "url": "https://github.com/pingdotgg/t3code/pull/16983",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/unplugin/unplugin-auto-import"
             }
-        },
-        {
-            "number": 12923,
-            "title": "feat(web): add an environment scope filter to the sidebar",
-            "url": "https://github.com/pingdotgg/t3code/pull/12923",
-            "state": "CLOSED",
-            "changedFiles": 15,
-            "additions": 813,
-            "deletions": 170,
-            "totalCommentsCount": 15,
-            "createdAt": "2026-09-21T14:59:09Z",
-            "mergedAt": null,
-            "closedAt": "2026-10-02T20:03:51Z",
-            "repository": {
-                "name": "t3code",
-                "nameWithOwner": "pingdotgg/t3code",
-                "homepageUrl": "https://t3.codes",
-                "description": null,
-                "owner": {
-                    "login": "pingdotgg",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
-                },
-                "url": "https://github.com/pingdotgg/t3code"
-            }
         }
     ],
     "contributions": {
-        "total": 1242,
+        "total": 1245,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1992,11 +1992,11 @@
             },
             {
                 "date": "2026-10-08",
-                "count": 6
+                "count": 8
             },
             {
                 "date": "2026-10-09",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-10",

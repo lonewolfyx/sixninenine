@@ -928,7 +928,7 @@
                 "websiteUrl": "https://lonewolfyx.vercel.app/projects",
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 8
+                    "totalCount": 7
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -997,248 +997,248 @@
     },
     "pullRequest": [
         {
-            "number": 57,
-            "title": "fix: preserve catalog references and consolidate duplicate logic",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/57",
+            "number": 22,
+            "title": "feat(mvp): deliver local agent trace collection and inspection",
+            "url": "https://github.com/trace-script/trace-script/pull/22",
             "state": "OPEN",
-            "changedFiles": 7,
-            "additions": 37,
-            "deletions": 52,
+            "changedFiles": 56,
+            "additions": 4619,
+            "deletions": 64,
             "totalCommentsCount": 0,
-            "createdAt": "2026-10-08T04:09:39Z",
+            "createdAt": "2026-10-08T11:25:49Z",
             "mergedAt": null,
             "closedAt": null,
             "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
                 "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
                 },
-                "url": "https://github.com/lonewolfyx-collective/pm"
+                "url": "https://github.com/trace-script/trace-script"
             }
         },
         {
-            "number": 56,
-            "title": "refactor(catalog)!: use pnpm workspace writer requiring Node 22.13",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/56",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 271,
-            "deletions": 46,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-07T16:08:12Z",
-            "mergedAt": "2026-10-07T16:13:45Z",
-            "closedAt": "2026-10-07T16:13:45Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 55,
-            "title": "refactor(catalog): share string-only catalog name parsing",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/55",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 10,
-            "deletions": 15,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-07T15:38:08Z",
-            "mergedAt": "2026-10-07T15:38:53Z",
-            "closedAt": "2026-10-07T15:38:53Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 54,
-            "title": "feat(catalog)!: add catalog management with required package names for moves",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/54",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 825,
-            "deletions": 94,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T17:21:18Z",
-            "mergedAt": "2026-10-07T15:19:15Z",
-            "closedAt": "2026-10-07T15:19:15Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 53,
-            "title": "feat(init)!: replace README initialization with project scaffolding",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/53",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 94,
-            "deletions": 19,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T16:41:13Z",
-            "mergedAt": "2026-10-06T17:12:53Z",
-            "closedAt": "2026-10-06T17:12:53Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 52,
-            "title": "docs: add project readme",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/52",
+            "number": 23,
+            "title": "feat: visible in-app warning when a serverless deployment has no shared store",
+            "url": "https://github.com/lonewolfyx/holdem/pull/23",
             "state": "MERGED",
             "changedFiles": 1,
-            "additions": 160,
+            "additions": 31,
             "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T16:25:53Z",
-            "mergedAt": "2026-10-06T16:27:15Z",
-            "closedAt": "2026-10-06T16:27:15Z",
+            "totalCommentsCount": 4,
+            "createdAt": "2026-10-05T12:29:22Z",
+            "mergedAt": "2026-10-05T12:42:29Z",
+            "closedAt": "2026-10-05T12:42:29Z",
             "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
                 },
-                "url": "https://github.com/lonewolfyx-collective/pm"
+                "url": "https://github.com/lonewolfyx/holdem"
             }
         },
         {
-            "number": 51,
-            "title": "feat(init): add custom workspace selection",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/51",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 42,
-            "deletions": 31,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T16:05:47Z",
-            "mergedAt": "2026-10-06T16:09:44Z",
-            "closedAt": "2026-10-06T16:09:44Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 50,
-            "title": "fix(config): include existing empty workspace directories",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/50",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T15:15:34Z",
-            "mergedAt": "2026-10-06T15:16:21Z",
-            "closedAt": "2026-10-06T15:16:21Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 49,
-            "title": "feat(init): add readme initialization and monorepo setup",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/49",
+            "number": 22,
+            "title": "fix: create tables when opening the libSQL store (remote mode was 500ing)",
+            "url": "https://github.com/lonewolfyx/holdem/pull/22",
             "state": "MERGED",
             "changedFiles": 2,
-            "additions": 135,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T13:35:59Z",
-            "mergedAt": "2026-10-06T15:38:36Z",
-            "closedAt": "2026-10-06T15:38:36Z",
+            "additions": 16,
+            "deletions": 18,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T06:51:46Z",
+            "mergedAt": "2026-10-05T12:18:29Z",
+            "closedAt": "2026-10-05T12:18:29Z",
             "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
                 },
-                "url": "https://github.com/lonewolfyx-collective/pm"
+                "url": "https://github.com/lonewolfyx/holdem"
             }
         },
         {
-            "number": 48,
-            "title": "fix(package): correct init executable and record inlined schema dependency",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/48",
+            "number": 21,
+            "title": "feat: accept Vercel Marketplace Turso env names + libSQL store integration tests",
+            "url": "https://github.com/lonewolfyx/holdem/pull/21",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-06T13:14:33Z",
-            "mergedAt": "2026-10-06T13:18:26Z",
-            "closedAt": "2026-10-06T13:18:27Z",
+            "changedFiles": 3,
+            "additions": 152,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T06:34:43Z",
+            "mergedAt": "2026-10-05T06:36:22Z",
+            "closedAt": "2026-10-05T06:36:22Z",
             "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
                 "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
                 },
-                "url": "https://github.com/lonewolfyx-collective/pm"
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 20,
+            "title": "fix: unblock Vercel build — @lucide/vue pinned below pnpm release-age policy",
+            "url": "https://github.com/lonewolfyx/holdem/pull/20",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 10,
+            "deletions": 21,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T05:37:38Z",
+            "mergedAt": "2026-10-05T06:23:49Z",
+            "closedAt": "2026-10-05T06:23:49Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 19,
+            "title": "fix: join-mode lobby (no create form) + /api/health store diagnostic",
+            "url": "https://github.com/lonewolfyx/holdem/pull/19",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 124,
+            "deletions": 48,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-10-05T02:40:08Z",
+            "mergedAt": "2026-10-05T05:29:51Z",
+            "closedAt": "2026-10-05T05:29:51Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 18,
+            "title": "feat: shared room store (file/Turso) — multi-instance correctness on serverless",
+            "url": "https://github.com/lonewolfyx/holdem/pull/18",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 583,
+            "deletions": 179,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-05T02:30:32Z",
+            "mergedAt": "2026-10-05T02:33:07Z",
+            "closedAt": "2026-10-05T02:33:07Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 13,
+            "title": "fix: shared room store (file/Turso) — multi-instance correctness on serverless",
+            "url": "https://github.com/lonewolfyx/holdem/pull/13",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 22,
+            "deletions": 13,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-04T19:38:04Z",
+            "mergedAt": "2026-10-05T01:52:40Z",
+            "closedAt": "2026-10-05T01:52:40Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 12,
+            "title": "feat: creator-only room dissolution and 30-minute inactivity cleanup",
+            "url": "https://github.com/lonewolfyx/holdem/pull/12",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 171,
+            "deletions": 55,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-10-04T17:10:40Z",
+            "mergedAt": "2026-10-04T17:15:59Z",
+            "closedAt": "2026-10-04T17:15:59Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
+            }
+        },
+        {
+            "number": 11,
+            "title": "fix: constant \"connecting/reconnecting\" on Vercel — replace WebSocket with HTTP polling + SQLite persistence",
+            "url": "https://github.com/lonewolfyx/holdem/pull/11",
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 867,
+            "deletions": 502,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-04T16:21:22Z",
+            "mergedAt": "2026-10-04T16:44:53Z",
+            "closedAt": "2026-10-04T16:44:53Z",
+            "repository": {
+                "name": "holdem",
+                "nameWithOwner": "lonewolfyx/holdem",
+                "homepageUrl": "https://holdem-seven-tau.vercel.app",
+                "description": null,
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/holdem"
             }
         }
     ],
     "contributions": {
-        "total": 13426,
+        "total": 13437,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2362,7 +2362,7 @@
             },
             {
                 "date": "2026-10-08",
-                "count": 7
+                "count": 18
             },
             {
                 "date": "2026-10-09",

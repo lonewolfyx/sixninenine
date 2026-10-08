@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 21,
+            "title": "feat(sdk): ship a self-contained page SDK for minimal trace recording",
+            "url": "https://github.com/trace-script/trace-script/pull/21",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 541,
+            "deletions": 1225,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-08T04:59:06Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 20,
+            "title": "refactor(chrome-extensions): consolidate DevTools foundation tooling",
+            "url": "https://github.com/trace-script/trace-script/pull/20",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 10,
+            "deletions": 58,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-08T04:54:31Z",
+            "mergedAt": "2026-10-08T05:44:03Z",
+            "closedAt": "2026-10-08T05:44:03Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 19,
             "title": "chore(playground): simplify toolchain with Vite + Vue 3 scaffold",
             "url": "https://github.com/trace-script/trace-script/pull/19",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/trace-script/chrome-demo"
             }
-        },
-        {
-            "number": 12,
-            "title": "chore(lint): add autofix for extensionless TypeScript imports",
-            "url": "https://github.com/trace-script/trace-script/pull/12",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 129,
-            "deletions": 75,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-04T18:19:46Z",
-            "mergedAt": "2026-10-05T13:31:38Z",
-            "closedAt": "2026-10-05T13:31:38Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 1035,
-            "title": "docs(cn): update api/browser/interactivity.md",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1035",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 17,
-            "deletions": 16,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-19T16:11:01Z",
-            "mergedAt": "2026-09-19T16:15:06Z",
-            "closedAt": "2026-09-19T16:15:07Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
         }
     ],
     "contributions": {
-        "total": 677,
+        "total": 680,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1396,7 +1396,7 @@
             },
             {
                 "date": "2026-10-08",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-10-09",

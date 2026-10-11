@@ -3,7 +3,7 @@ type membersType = {
     aliasName?: string
 }
 export const members: membersType[] = [
-    { username: 'pkc918', aliasName: '肉丝哥' }, // 肉丝哥
+    // { username: 'pkc918', aliasName: '肉丝哥' }, // 肉丝哥
     { username: 'kovsu' }, // antdv 团队成员
     { username: 'ilyaliao' }, // vueuse 团队成员
     { username: 'Bao0630' }, // ant-design-x-vue 团队成员
@@ -61,7 +61,7 @@ export const openSourceMembers: OpenSourceMembersType = {
     'Vue Use': {
         team: ['ilyaliao'],
         contributors: [
-            'pkc918',
+            // 'pkc918',
             'ArthurDarkstone',
             'broBinChen',
             'doyuli',
@@ -72,10 +72,17 @@ export const openSourceMembers: OpenSourceMembersType = {
         ],
     },
     'MDN Docs Cn': {
-        contributors: ['lonewolfyx', 'pkc918'],
+        contributors: [
+            'lonewolfyx',
+            // 'pkc918'
+        ],
     },
     'ViteDevTools': {
-        contributors: ['lonewolfyx', 'pkc918', 'RYGRIT'],
+        contributors: [
+            'lonewolfyx',
+            // 'pkc918',
+            'RYGRIT'
+        ],
     },
     'Element Plus': {
         // team: ['keeplearning66'],

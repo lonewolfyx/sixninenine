@@ -6,51 +6,51 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 27,
+        "followers": 28,
         "following": 16
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2382049,
+            "size": 2419741,
             "repoCount": 6,
-            "progress": "86.02"
+            "progress": "86.21"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.67"
+            "progress": "6.58"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.58"
+            "progress": "2.55"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.13"
+            "progress": "2.10"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "2.01"
+            "progress": "1.98"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.46"
+            "progress": "0.45"
         },
         {
             "name": "Shell",
@@ -294,6 +294,78 @@
     },
     "pullRequest": [
         {
+            "number": 59524,
+            "title": "perf(Transfer): avoid redundant source list filtering",
+            "url": "https://github.com/ant-design/ant-design/pull/59524",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 22,
+            "deletions": 2,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-10-10T06:16:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59520,
+            "title": "refactor: remove legacy IE styles from Avatar and Notification",
+            "url": "https://github.com/ant-design/ant-design/pull/59520",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-10T01:28:34Z",
+            "mergedAt": "2026-10-10T08:22:03Z",
+            "closedAt": "2026-10-10T08:22:03Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59519,
+            "title": "refactor(Table): remove obsolete IE ref fallback",
+            "url": "https://github.com/ant-design/ant-design/pull/59519",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 56,
+            "deletions": 54,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-10T01:11:09Z",
+            "mergedAt": "2026-10-10T09:59:44Z",
+            "closedAt": "2026-10-10T09:59:44Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59511,
             "title": "refactor(Checkbox): remove redundant group options array check",
             "url": "https://github.com/ant-design/ant-design/pull/59511",
@@ -345,14 +417,14 @@
             "number": 59509,
             "title": "refactor(Table): remove redundant lazy cache check",
             "url": "https://github.com/ant-design/ant-design/pull/59509",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 0,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-10-09T01:04:36Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-10T09:45:12Z",
+            "closedAt": "2026-10-10T09:45:12Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -441,86 +513,14 @@
             "number": 59487,
             "title": "fix(Transfer): render numeric zero selectAllLabels",
             "url": "https://github.com/ant-design/ant-design/pull/59487",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
-            "additions": 26,
-            "deletions": 1,
+            "additions": 27,
+            "deletions": 2,
             "totalCommentsCount": 9,
             "createdAt": "2026-10-07T03:39:20Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59446,
-            "title": "fix(Avatar): preserve responsive size at larger breakpoints",
-            "url": "https://github.com/ant-design/ant-design/pull/59446",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 35,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-30T14:44:23Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59432,
-            "title": "fix(Alert): restore disabled close button behavior",
-            "url": "https://github.com/ant-design/ant-design/pull/59432",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 49,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-30T00:49:53Z",
-            "mergedAt": "2026-09-30T09:51:21Z",
-            "closedAt": "2026-09-30T09:51:21Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59424,
-            "title": "test: unlock jsdom and align style assertions",
-            "url": "https://github.com/ant-design/ant-design/pull/59424",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 20,
-            "deletions": 15,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-09-29T02:08:39Z",
-            "mergedAt": "2026-09-30T05:26:21Z",
-            "closedAt": "2026-09-30T05:26:21Z",
+            "mergedAt": "2026-10-10T09:14:33Z",
+            "closedAt": "2026-10-10T09:14:33Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -535,7 +535,7 @@
         }
     ],
     "contributions": {
-        "total": 5151,
+        "total": 5187,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1667,11 +1667,11 @@
             },
             {
                 "date": "2026-10-10",
-                "count": 0
+                "count": 21
             },
             {
                 "date": "2026-10-11",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-10-12",

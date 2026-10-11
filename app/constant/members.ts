@@ -81,7 +81,7 @@ export const openSourceMembers: OpenSourceMembersType = {
         contributors: [
             'lonewolfyx',
             // 'pkc918',
-            'RYGRIT'
+            'RYGRIT',
         ],
     },
     'Element Plus': {

@@ -11,67 +11,88 @@
     },
     "languages": [
         {
-            "name": "Vue",
-            "color": "#41b883",
-            "size": 292625,
-            "repoCount": 3,
-            "progress": "43.77"
+            "name": "Python",
+            "color": "#3572A5",
+            "size": 627164,
+            "repoCount": 2,
+            "progress": "33.33"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 264822,
-            "repoCount": 4,
-            "progress": "39.61"
+            "size": 582957,
+            "repoCount": 5,
+            "progress": "30.98"
         },
         {
-            "name": "JavaScript",
-            "color": "#f1e05a",
-            "size": 39644,
+            "name": "Vue",
+            "color": "#41b883",
+            "size": 292625,
             "repoCount": 3,
-            "progress": "5.93"
-        },
-        {
-            "name": "Python",
-            "color": "#3572A5",
-            "size": 35318,
-            "repoCount": 1,
-            "progress": "5.28"
+            "progress": "15.55"
         },
         {
             "name": "Swift",
             "color": "#F05138",
-            "size": 17095,
+            "size": 253651,
+            "repoCount": 2,
+            "progress": "13.48"
+        },
+        {
+            "name": "Rust",
+            "color": "#dea584",
+            "size": 50202,
             "repoCount": 1,
-            "progress": "2.56"
+            "progress": "2.67"
+        },
+        {
+            "name": "JavaScript",
+            "color": "#f1e05a",
+            "size": 39725,
+            "repoCount": 4,
+            "progress": "2.11"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 16434,
-            "repoCount": 3,
-            "progress": "2.46"
+            "size": 17981,
+            "repoCount": 4,
+            "progress": "0.96"
+        },
+        {
+            "name": "Shell",
+            "color": "#89e051",
+            "size": 14176,
+            "repoCount": 1,
+            "progress": "0.75"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 1152,
-            "repoCount": 1,
-            "progress": "0.17"
+            "size": 1444,
+            "repoCount": 2,
+            "progress": "0.08"
         },
         {
             "name": "Makefile",
             "color": "#427819",
             "size": 1063,
             "repoCount": 1,
-            "progress": "0.16"
+            "progress": "0.06"
+        },
+        {
+            "name": "Dockerfile",
+            "color": "#384d54",
+            "size": 436,
+            "repoCount": 1,
+            "progress": "0.02"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 416,
             "repoCount": 1,
-            "progress": "0.06"
+            "progress": "0.02"
         }
     ],
     "organizations": {
@@ -79,30 +100,6 @@
         "totalCount": 0
     },
     "pullRequest": [
-        {
-            "number": 1,
-            "title": "feat(pixel): add cleanup import workflow",
-            "url": "https://github.com/aaa150010/gpt-pool-analyzer/pull/1",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 780,
-            "deletions": 19,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-08-19T16:52:14Z",
-            "mergedAt": "2026-08-19T16:56:45Z",
-            "closedAt": "2026-08-19T16:56:45Z",
-            "repository": {
-                "name": "gpt-pool-analyzer",
-                "nameWithOwner": "aaa150010/gpt-pool-analyzer",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "aaa150010",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/102653995?v=4"
-                },
-                "url": "https://github.com/aaa150010/gpt-pool-analyzer"
-            }
-        },
         {
             "number": 1,
             "title": "feat: support mail-code mailbox payloads",
@@ -318,10 +315,34 @@
                 },
                 "url": "https://github.com/element-plus/element-plus"
             }
+        },
+        {
+            "number": 23809,
+            "title": "fix(components): [select] allow empty labels when `persistent` is false",
+            "url": "https://github.com/element-plus/element-plus/pull/23809",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 35,
+            "deletions": 2,
+            "totalCommentsCount": 12,
+            "createdAt": "2026-03-14T14:34:55Z",
+            "mergedAt": "2026-03-15T06:39:12Z",
+            "closedAt": "2026-03-15T06:39:12Z",
+            "repository": {
+                "name": "element-plus",
+                "nameWithOwner": "element-plus/element-plus",
+                "homepageUrl": "https://element-plus.org",
+                "description": "🎉 A Vue.js 3 UI Library made by Element team",
+                "owner": {
+                    "login": "element-plus",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/68583457?v=4"
+                },
+                "url": "https://github.com/element-plus/element-plus"
+            }
         }
     ],
     "contributions": {
-        "total": 266,
+        "total": 264,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1249,7 +1270,7 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 4
+                "count": 2
             },
             {
                 "date": "2026-08-21",

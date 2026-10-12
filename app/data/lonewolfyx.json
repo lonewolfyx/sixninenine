@@ -702,7 +702,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 11
+                    "totalCount": 10
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -961,6 +961,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(action): support custom npm publish tags",
+            "url": "https://github.com/lonewolfyx-workflows/npm-public-actions/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 33,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-12T13:07:10Z",
+            "mergedAt": "2026-10-12T13:11:12Z",
+            "closedAt": "2026-10-12T13:11:13Z",
+            "repository": {
+                "name": "npm-public-actions",
+                "nameWithOwner": "lonewolfyx-workflows/npm-public-actions",
+                "homepageUrl": null,
+                "description": "npm public ci",
+                "owner": {
+                    "login": "lonewolfyx-workflows",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-workflows/npm-public-actions"
+            }
+        },
+        {
+            "number": 2,
+            "title": "style: normalize release workflow permissions indentation",
+            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/2",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-12T13:01:18Z",
+            "mergedAt": "2026-10-12T13:01:38Z",
+            "closedAt": "2026-10-12T13:01:38Z",
+            "repository": {
+                "name": "github-workflows",
+                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
+                "homepageUrl": null,
+                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
+                "owner": {
+                    "login": "lonewolfyx-workflows",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: add test yml",
             "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/1",
@@ -1151,58 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 50,
-            "title": "fix(core): expand organizations on profile tabs",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/50",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-10T14:04:06Z",
-            "mergedAt": "2026-10-10T14:06:11Z",
-            "closedAt": "2026-10-10T14:06:11Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 1,
-            "title": "docs(readme): fix release workflow permissions scope",
-            "url": "https://github.com/lonewolfyx-workflows/npm-public-actions/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-09T15:29:40Z",
-            "mergedAt": "2026-10-09T15:35:41Z",
-            "closedAt": "2026-10-09T15:35:41Z",
-            "repository": {
-                "name": "npm-public-actions",
-                "nameWithOwner": "lonewolfyx-workflows/npm-public-actions",
-                "homepageUrl": null,
-                "description": "npm public ci",
-                "owner": {
-                    "login": "lonewolfyx-workflows",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-workflows/npm-public-actions"
-            }
         }
     ],
     "contributions": {
-        "total": 13509,
+        "total": 13488,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1258,7 +1258,7 @@
             },
             {
                 "date": "2026-01-14",
-                "count": 65
+                "count": 64
             },
             {
                 "date": "2026-01-15",
@@ -1322,7 +1322,7 @@
             },
             {
                 "date": "2026-01-30",
-                "count": 60
+                "count": 58
             },
             {
                 "date": "2026-01-31",
@@ -1342,7 +1342,7 @@
             },
             {
                 "date": "2026-02-04",
-                "count": 69
+                "count": 64
             },
             {
                 "date": "2026-02-05",
@@ -1350,11 +1350,11 @@
             },
             {
                 "date": "2026-02-06",
-                "count": 103
+                "count": 100
             },
             {
                 "date": "2026-02-07",
-                "count": 64
+                "count": 56
             },
             {
                 "date": "2026-02-08",
@@ -1366,7 +1366,7 @@
             },
             {
                 "date": "2026-02-10",
-                "count": 49
+                "count": 45
             },
             {
                 "date": "2026-02-11",
@@ -1730,7 +1730,7 @@
             },
             {
                 "date": "2026-05-12",
-                "count": 50
+                "count": 48
             },
             {
                 "date": "2026-05-13",
@@ -1906,7 +1906,7 @@
             },
             {
                 "date": "2026-06-25",
-                "count": 47
+                "count": 43
             },
             {
                 "date": "2026-06-26",
@@ -1954,7 +1954,7 @@
             },
             {
                 "date": "2026-07-07",
-                "count": 37
+                "count": 35
             },
             {
                 "date": "2026-07-08",
@@ -2134,7 +2134,7 @@
             },
             {
                 "date": "2026-08-21",
-                "count": 78
+                "count": 76
             },
             {
                 "date": "2026-08-22",
@@ -2290,7 +2290,7 @@
             },
             {
                 "date": "2026-09-29",
-                "count": 26
+                "count": 23
             },
             {
                 "date": "2026-09-30",
@@ -2342,7 +2342,7 @@
             },
             {
                 "date": "2026-10-12",
-                "count": 9
+                "count": 24
             },
             {
                 "date": "2026-10-13",

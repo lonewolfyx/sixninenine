@@ -6,44 +6,44 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 28,
+        "followers": 29,
         "following": 16
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2419741,
+            "size": 2448439,
             "repoCount": 6,
-            "progress": "86.21"
+            "progress": "86.35"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.58"
+            "progress": "6.51"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.55"
+            "progress": "2.52"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.10"
+            "progress": "2.08"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.98"
+            "progress": "1.96"
         },
         {
             "name": "Less",
@@ -57,7 +57,7 @@
             "color": "#89e051",
             "size": 2685,
             "repoCount": 4,
-            "progress": "0.10"
+            "progress": "0.09"
         },
         {
             "name": "Dockerfile",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59548,
+            "title": "feat: support allowClear.tabIndex in Input, TextArea and Mentions",
+            "url": "https://github.com/ant-design/ant-design/pull/59548",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 91,
+            "deletions": 6,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-12T11:50:27Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 207,
+            "title": "feat: support allowClear tabIndex",
+            "url": "https://github.com/react-component/input/pull/207",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 200,
+            "deletions": 56,
+            "totalCommentsCount": 5,
+            "createdAt": "2026-10-12T07:51:14Z",
+            "mergedAt": "2026-10-12T09:08:51Z",
+            "closedAt": "2026-10-12T09:08:51Z",
+            "repository": {
+                "name": "input",
+                "nameWithOwner": "react-component/input",
+                "homepageUrl": "https://react-component.github.io/input",
+                "description": "📦 ⌨️ Low-level React input primitives for building polished text fields and textareas.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/input"
+            }
+        },
+        {
             "number": 59538,
             "title": "fix(ColorPicker): restore compact InputNumber controls",
             "url": "https://github.com/ant-design/ant-design/pull/59538",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59496,
-            "title": "refactor: remove unused legacy collapse motion styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59496",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 9,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-08T07:05:45Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59492,
-            "title": "refactor(Progress): remove unreachable small size check",
-            "url": "https://github.com/ant-design/ant-design/pull/59492",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-08T00:54:57Z",
-            "mergedAt": "2026-10-08T05:59:49Z",
-            "closedAt": "2026-10-08T05:59:49Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5193,
+        "total": 5206,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1675,7 +1675,7 @@
             },
             {
                 "date": "2026-10-12",
-                "count": 6
+                "count": 19
             },
             {
                 "date": "2026-10-13",

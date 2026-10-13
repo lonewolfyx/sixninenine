@@ -627,6 +627,30 @@
     },
     "pullRequest": [
         {
+            "number": 19042,
+            "title": "fix(mobile): Browser address bar stays on one line on iOS",
+            "url": "https://github.com/pingdotgg/t3code/pull/19042",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-13T13:01:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "t3code",
+                "nameWithOwner": "pingdotgg/t3code",
+                "homepageUrl": "https://t3.codes",
+                "description": null,
+                "owner": {
+                    "login": "pingdotgg",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
+                },
+                "url": "https://github.com/pingdotgg/t3code"
+            }
+        },
+        {
             "number": 18175,
             "title": "fix(web): ask before Close with comment closes a pull request",
             "url": "https://github.com/pingdotgg/t3code/pull/18175",
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/pingdotgg/t3code"
             }
-        },
-        {
-            "number": 14705,
-            "title": "fix(web): a closed proactive diff stays closed when you return to a thread",
-            "url": "https://github.com/pingdotgg/t3code/pull/14705",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 118,
-            "deletions": 21,
-            "totalCommentsCount": 6,
-            "createdAt": "2026-10-02T02:51:46Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "t3code",
-                "nameWithOwner": "pingdotgg/t3code",
-                "homepageUrl": "https://t3.codes",
-                "description": null,
-                "owner": {
-                    "login": "pingdotgg",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
-                },
-                "url": "https://github.com/pingdotgg/t3code"
-            }
         }
     ],
     "contributions": {
-        "total": 1273,
+        "total": 1276,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2012,7 +2012,7 @@
             },
             {
                 "date": "2026-10-13",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-10-14",

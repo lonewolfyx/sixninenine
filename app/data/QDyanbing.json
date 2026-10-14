@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2448439,
+            "size": 2474983,
             "repoCount": 6,
-            "progress": "86.35"
+            "progress": "86.48"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.51"
+            "progress": "6.45"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.52"
+            "progress": "2.50"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.08"
+            "progress": "2.06"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.96"
+            "progress": "1.94"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.45"
+            "progress": "0.44"
         },
         {
             "name": "Shell",
@@ -294,17 +294,89 @@
     },
     "pullRequest": [
         {
+            "number": 59567,
+            "title": "feat: unify allowClear options for date and time pickers",
+            "url": "https://github.com/ant-design/ant-design/pull/59567",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 295,
+            "deletions": 57,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-10-14T07:29:41Z",
+            "mergedAt": "2026-10-14T08:56:59Z",
+            "closedAt": "2026-10-14T08:56:59Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59566,
+            "title": "feat: unify allowClear options for selection components",
+            "url": "https://github.com/ant-design/ant-design/pull/59566",
+            "state": "OPEN",
+            "changedFiles": 16,
+            "additions": 378,
+            "deletions": 69,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-10-14T07:29:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59565,
+            "title": "refactor: prepare shared allowClear configuration",
+            "url": "https://github.com/ant-design/ant-design/pull/59565",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 103,
+            "deletions": 7,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-14T07:29:10Z",
+            "mergedAt": "2026-10-14T08:55:52Z",
+            "closedAt": "2026-10-14T08:55:53Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59559,
             "title": "refactor(ConfigProvider): remove unreachable useSize fallback",
             "url": "https://github.com/ant-design/ant-design/pull/59559",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-10-13T09:50:25Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-14T09:59:20Z",
+            "closedAt": "2026-10-14T09:59:20Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -460,82 +532,10 @@
                 },
                 "url": "https://github.com/react-component/input-number"
             }
-        },
-        {
-            "number": 208,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/input/pull/208",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 161,
-            "deletions": 118,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T07:42:23Z",
-            "mergedAt": "2026-10-13T08:25:31Z",
-            "closedAt": "2026-10-13T08:25:31Z",
-            "repository": {
-                "name": "input",
-                "nameWithOwner": "react-component/input",
-                "homepageUrl": "https://react-component.github.io/input",
-                "description": "📦 ⌨️ Low-level React input primitives for building polished text fields and textareas.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input"
-            }
-        },
-        {
-            "number": 59555,
-            "title": "refactor(Descriptions): remove obsolete no-label styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59555",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 6,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-13T06:19:39Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 820,
-            "title": "feat: add shared useAllowClear hook",
-            "url": "https://github.com/react-component/util/pull/820",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 154,
-            "deletions": 0,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T03:19:06Z",
-            "mergedAt": "2026-10-13T06:20:26Z",
-            "closedAt": "2026-10-13T06:20:26Z",
-            "repository": {
-                "name": "util",
-                "nameWithOwner": "react-component/util",
-                "homepageUrl": "https://react-component.github.io/util",
-                "description": "🛠️ Shared React utilities for rc-component packages.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/util"
-            }
         }
     ],
     "contributions": {
-        "total": 5227,
+        "total": 5245,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1683,7 +1683,7 @@
             },
             {
                 "date": "2026-10-14",
-                "count": 0
+                "count": 18
             },
             {
                 "date": "2026-10-15",

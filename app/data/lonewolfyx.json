@@ -961,6 +961,54 @@
     },
     "pullRequest": [
         {
+            "number": 24,
+            "title": "refactor(eslint): extract rules workspace package",
+            "url": "https://github.com/trace-script/trace-script/pull/24",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 97,
+            "deletions": 33,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-14T14:36:26Z",
+            "mergedAt": "2026-10-14T15:17:55Z",
+            "closedAt": "2026-10-14T15:17:55Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 23,
+            "title": "build(turbo): simplify workspace task dependencies",
+            "url": "https://github.com/trace-script/trace-script/pull/23",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 8,
+            "deletions": 12,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-14T13:39:38Z",
+            "mergedAt": "2026-10-14T13:50:12Z",
+            "closedAt": "2026-10-14T13:50:12Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 2,
             "title": "feat(action): support custom npm publish tags",
             "url": "https://github.com/lonewolfyx-workflows/npm-public-actions/pull/2",
@@ -1151,58 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/create"
             }
-        },
-        {
-            "number": 73,
-            "title": "feat(github): select files to replace during initialization",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/73",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 65,
-            "deletions": 14,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-10T16:34:25Z",
-            "mergedAt": "2026-10-10T16:35:39Z",
-            "closedAt": "2026-10-10T16:35:39Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": null,
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 51,
-            "title": "chore(github): add contribution templates and workflows",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/51",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 238,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-10T14:11:49Z",
-            "mergedAt": "2026-10-10T14:12:34Z",
-            "closedAt": "2026-10-10T14:12:34Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 13550,
+        "total": 13563,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2350,7 +2350,7 @@
             },
             {
                 "date": "2026-10-14",
-                "count": 26
+                "count": 39
             },
             {
                 "date": "2026-10-15",

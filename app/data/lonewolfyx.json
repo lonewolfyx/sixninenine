@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "feat: add release workflow triggered on merged release PRs",
+            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 57,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-15T06:01:37Z",
+            "mergedAt": "2026-10-15T06:47:57Z",
+            "closedAt": "2026-10-15T06:47:57Z",
+            "repository": {
+                "name": "github-workflows",
+                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
+                "homepageUrl": null,
+                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
+                "owner": {
+                    "login": "lonewolfyx-workflows",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
+            }
+        },
+        {
             "number": 24,
             "title": "refactor(eslint): extract rules workspace package",
             "url": "https://github.com/trace-script/trace-script/pull/24",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/create"
             }
-        },
-        {
-            "number": 10,
-            "title": "refactor: separate CLI and library entry points",
-            "url": "https://github.com/lonewolfyx/create/pull/10",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 145,
-            "deletions": 139,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-10T16:51:59Z",
-            "mergedAt": "2026-10-10T16:52:57Z",
-            "closedAt": "2026-10-10T16:52:57Z",
-            "repository": {
-                "name": "create",
-                "nameWithOwner": "lonewolfyx/create",
-                "homepageUrl": null,
-                "description": "Command-line for creating projects from templates",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/create"
-            }
         }
     ],
     "contributions": {
-        "total": 13574,
+        "total": 13582,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2354,7 +2354,7 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 7
+                "count": 15
             },
             {
                 "date": "2026-10-16",

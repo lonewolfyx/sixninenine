@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2474983,
+            "size": 2501808,
             "repoCount": 6,
-            "progress": "86.48"
+            "progress": "86.60"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 184655,
             "repoCount": 10,
-            "progress": "6.45"
+            "progress": "6.39"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.50"
+            "progress": "2.48"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "2.06"
+            "progress": "2.04"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.94"
+            "progress": "1.92"
         },
         {
             "name": "Less",
@@ -294,12 +294,108 @@
     },
     "pullRequest": [
         {
+            "number": 59584,
+            "title": "test: align background color assertions with jsdom 30.1.3",
+            "url": "https://github.com/ant-design/ant-design/pull/59584",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 41,
+            "deletions": 31,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-10-15T11:57:47Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59581,
+            "title": "refactor: support custom variant options in useVariant",
+            "url": "https://github.com/ant-design/ant-design/pull/59581",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 142,
+            "deletions": 8,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-10-15T07:43:20Z",
+            "mergedAt": "2026-10-15T09:37:06Z",
+            "closedAt": "2026-10-15T09:37:07Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59578,
+            "title": "feat(Divider): support configuring variant via ConfigProvider",
+            "url": "https://github.com/ant-design/ant-design/pull/59578",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 153,
+            "deletions": 10,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-15T06:03:18Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59577,
+            "title": "feat(Steps): support configuring variant via ConfigProvider",
+            "url": "https://github.com/ant-design/ant-design/pull/59577",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 126,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-15T06:03:09Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59576,
             "title": "feat(Timeline): support configuring variant via ConfigProvider",
             "url": "https://github.com/ant-design/ant-design/pull/59576",
             "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 41,
+            "changedFiles": 6,
+            "additions": 121,
             "deletions": 6,
             "totalCommentsCount": 9,
             "createdAt": "2026-10-15T03:47:25Z",
@@ -436,106 +532,10 @@
                 },
                 "url": "https://github.com/react-component/cascader"
             }
-        },
-        {
-            "number": 690,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/tree-select/pull/690",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 57,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-10-13T09:04:42Z",
-            "mergedAt": "2026-10-13T09:19:04Z",
-            "closedAt": "2026-10-13T09:19:04Z",
-            "repository": {
-                "name": "tree-select",
-                "nameWithOwner": "react-component/tree-select",
-                "homepageUrl": "https://react-component.github.io/tree-select",
-                "description": "🌳 React TreeSelect component for choosing values from tree data, with search, checkable nodes, async loading, and virtual scrolling.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tree-select"
-            }
-        },
-        {
-            "number": 341,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/mentions/pull/341",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 112,
-            "deletions": 4,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T09:04:35Z",
-            "mergedAt": "2026-10-13T09:19:16Z",
-            "closedAt": "2026-10-13T09:19:16Z",
-            "repository": {
-                "name": "mentions",
-                "nameWithOwner": "react-component/mentions",
-                "homepageUrl": "https://react-component.github.io/mentions",
-                "description": "💬 React mentions textarea with searchable suggestions and keyboard navigation.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/mentions"
-            }
-        },
-        {
-            "number": 1021,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/picker/pull/1021",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 201,
-            "deletions": 29,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T07:42:50Z",
-            "mergedAt": "2026-10-13T08:25:35Z",
-            "closedAt": "2026-10-13T08:25:35Z",
-            "repository": {
-                "name": "picker",
-                "nameWithOwner": "react-component/picker",
-                "homepageUrl": "https://react-component.github.io/picker",
-                "description": "📅 React date, time, range, and panel picker primitives with pluggable date-library generate configs.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/picker"
-            }
-        },
-        {
-            "number": 1257,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/select/pull/1257",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 127,
-            "deletions": 19,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T07:42:40Z",
-            "mergedAt": "2026-10-13T08:25:34Z",
-            "closedAt": "2026-10-13T08:25:34Z",
-            "repository": {
-                "name": "select",
-                "nameWithOwner": "react-component/select",
-                "homepageUrl": "https://react-component.github.io/select",
-                "description": "🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/select"
-            }
         }
     ],
     "contributions": {
-        "total": 5246,
+        "total": 5264,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1687,7 +1687,7 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 1
+                "count": 19
             },
             {
                 "date": "2026-10-16",

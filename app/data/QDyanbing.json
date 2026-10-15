@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59576,
+            "title": "feat(Timeline): support configuring variant via ConfigProvider",
+            "url": "https://github.com/ant-design/ant-design/pull/59576",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 41,
+            "deletions": 6,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-15T03:47:25Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59567,
             "title": "feat: unify allowClear options for date and time pickers",
             "url": "https://github.com/ant-design/ant-design/pull/59567",
@@ -321,14 +345,14 @@
             "number": 59566,
             "title": "feat: unify allowClear options for selection components",
             "url": "https://github.com/ant-design/ant-design/pull/59566",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 16,
             "additions": 378,
             "deletions": 69,
             "totalCommentsCount": 10,
             "createdAt": "2026-10-14T07:29:30Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-15T03:04:38Z",
+            "closedAt": "2026-10-15T03:04:38Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/react-component/select"
             }
-        },
-        {
-            "number": 758,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/input-number/pull/758",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 68,
-            "deletions": 14,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-13T07:42:31Z",
-            "mergedAt": "2026-10-13T08:25:32Z",
-            "closedAt": "2026-10-13T08:25:32Z",
-            "repository": {
-                "name": "input-number",
-                "nameWithOwner": "react-component/input-number",
-                "homepageUrl": "https://react-component.github.io/input-number",
-                "description": "🔢 Accessible React number input with precision, formatting, keyboard, and wheel support.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/input-number"
-            }
         }
     ],
     "contributions": {
-        "total": 5245,
+        "total": 5246,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1687,7 +1687,7 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-16",

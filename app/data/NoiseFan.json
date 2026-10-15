@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 26,
+            "title": "feat: aggregation messages",
+            "url": "https://github.com/trace-script/trace-script/pull/26",
+            "state": "OPEN",
+            "changedFiles": 47,
+            "additions": 2356,
+            "deletions": 822,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-15T04:21:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 25,
             "title": "refactor(repo): split complex expressions into semantic steps",
             "url": "https://github.com/trace-script/trace-script/pull/25",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/trace-script/trace-script"
             }
-        },
-        {
-            "number": 13,
-            "title": "refactor: repo structure",
-            "url": "https://github.com/trace-script/trace-script/pull/13",
-            "state": "MERGED",
-            "changedFiles": 82,
-            "additions": 682,
-            "deletions": 791,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-05T17:03:53Z",
-            "mergedAt": "2026-10-06T03:49:07Z",
-            "closedAt": "2026-10-06T03:49:07Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 691,
+        "total": 692,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1424,7 +1424,7 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 1
+                "count": 2
             },
             {
                 "date": "2026-10-16",

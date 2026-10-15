@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 27,
+            "title": "feat(components): add virtualized agent work overview",
+            "url": "https://github.com/trace-script/trace-script/pull/27",
+            "state": "MERGED",
+            "changedFiles": 24,
+            "additions": 1402,
+            "deletions": 372,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-10-15T14:47:55Z",
+            "mergedAt": "2026-10-15T16:39:20Z",
+            "closedAt": "2026-10-15T16:39:20Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 3,
             "title": "feat: add release workflow triggered on merged release PRs",
             "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/3",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 11,
-            "title": "chore: add GitHub templates and update release workflow",
-            "url": "https://github.com/lonewolfyx/create/pull/11",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 137,
-            "deletions": 6,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-10T16:56:46Z",
-            "mergedAt": "2026-10-10T16:57:10Z",
-            "closedAt": "2026-10-10T16:57:10Z",
-            "repository": {
-                "name": "create",
-                "nameWithOwner": "lonewolfyx/create",
-                "homepageUrl": null,
-                "description": "Command-line for creating projects from templates",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/create"
-            }
         }
     ],
     "contributions": {
-        "total": 13582,
+        "total": 13587,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2354,11 +2354,11 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 15
+                "count": 19
             },
             {
                 "date": "2026-10-16",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-10-17",

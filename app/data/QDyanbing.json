@@ -294,17 +294,41 @@
     },
     "pullRequest": [
         {
+            "number": 59586,
+            "title": "chore: merge master into feature",
+            "url": "https://github.com/ant-design/ant-design/pull/59586",
+            "state": "MERGED",
+            "changedFiles": 22,
+            "additions": 194,
+            "deletions": 61,
+            "totalCommentsCount": 8,
+            "createdAt": "2026-10-15T12:33:31Z",
+            "mergedAt": "2026-10-15T12:51:47Z",
+            "closedAt": "2026-10-15T12:51:47Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59584,
             "title": "test: align background color assertions with jsdom 30.1.3",
             "url": "https://github.com/ant-design/ant-design/pull/59584",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 9,
             "additions": 41,
             "deletions": 31,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 9,
             "createdAt": "2026-10-15T11:57:47Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-15T12:31:01Z",
+            "closedAt": "2026-10-15T12:31:01Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 668,
-            "title": "feat: unify allowClear configuration",
-            "url": "https://github.com/react-component/cascader/pull/668",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 56,
-            "deletions": 2,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-10-13T09:04:49Z",
-            "mergedAt": "2026-10-13T09:18:52Z",
-            "closedAt": "2026-10-13T09:18:52Z",
-            "repository": {
-                "name": "cascader",
-                "nameWithOwner": "react-component/cascader",
-                "homepageUrl": "https://react-component.github.io/cascader",
-                "description": "🧭 React Cascader component for selecting values from hierarchical option trees, with search, multiple selection, async loading, and custom rendering.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/cascader"
-            }
         }
     ],
     "contributions": {
-        "total": 5264,
+        "total": 5266,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1687,7 +1687,7 @@
             },
             {
                 "date": "2026-10-15",
-                "count": 19
+                "count": 21
             },
             {
                 "date": "2026-10-16",

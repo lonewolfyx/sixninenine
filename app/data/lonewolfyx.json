@@ -961,17 +961,89 @@
     },
     "pullRequest": [
         {
+            "number": 33,
+            "title": "refactor(chrome-extension): migrate panel to Nuxt",
+            "url": "https://github.com/trace-script/trace-script/pull/33",
+            "state": "OPEN",
+            "changedFiles": 34,
+            "additions": 5322,
+            "deletions": 816,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-16T08:17:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 32,
+            "title": "docs(create-pr): align PR body template with repository template",
+            "url": "https://github.com/trace-script/trace-script/pull/32",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 50,
+            "deletions": 28,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-16T05:46:27Z",
+            "mergedAt": "2026-10-16T05:49:15Z",
+            "closedAt": "2026-10-16T05:49:15Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
+            "number": 31,
+            "title": "ci: remove redundant test workflow",
+            "url": "https://github.com/trace-script/trace-script/pull/31",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-16T04:53:42Z",
+            "mergedAt": "2026-10-16T05:17:59Z",
+            "closedAt": "2026-10-16T05:17:59Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 29,
             "title": "ci: add issue templates, funding, and release workflows",
             "url": "https://github.com/trace-script/trace-script/pull/29",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 14,
             "additions": 406,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-10-16T02:51:03Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-16T04:51:21Z",
+            "closedAt": "2026-10-16T04:51:21Z",
             "repository": {
                 "name": "trace-script",
                 "nameWithOwner": "trace-script/trace-script",
@@ -1127,82 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-workflows/github-workflows"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: add test yml",
-            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/1",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 34,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-11T16:41:25Z",
-            "mergedAt": "2026-10-11T16:41:37Z",
-            "closedAt": "2026-10-11T16:41:37Z",
-            "repository": {
-                "name": "github-workflows",
-                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
-                "homepageUrl": null,
-                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
-                "owner": {
-                    "login": "lonewolfyx-workflows",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
-            }
-        },
-        {
-            "number": 51,
-            "title": "fix(sync): remove data sync task for banned user pkc918",
-            "url": "https://github.com/lonewolfyx/sixninenine/pull/51",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 4,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-11T14:32:30Z",
-            "mergedAt": "2026-10-11T14:32:39Z",
-            "closedAt": "2026-10-11T14:32:39Z",
-            "repository": {
-                "name": "sixninenine",
-                "nameWithOwner": "lonewolfyx/sixninenine",
-                "homepageUrl": "https://sixninenine.vercel.app",
-                "description": null,
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/sixninenine"
-            }
-        },
-        {
-            "number": 52,
-            "title": "fix(core): expand organizations on following and followers tabs",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/52",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-11T14:24:18Z",
-            "mergedAt": "2026-10-11T14:25:00Z",
-            "closedAt": "2026-10-11T14:25:01Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 13598,
+        "total": 13609,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2358,7 +2358,7 @@
             },
             {
                 "date": "2026-10-16",
-                "count": 7
+                "count": 18
             },
             {
                 "date": "2026-10-17",

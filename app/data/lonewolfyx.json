@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 79,
+            "title": "refactor(package): pluralize package script runner",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/79",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 5,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-17T16:13:13Z",
+            "mergedAt": "2026-10-17T16:13:59Z",
+            "closedAt": "2026-10-17T16:13:59Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 78,
             "title": "docs: add bilingual VitePress documentation",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/78",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/trace-script/trace-script"
             }
-        },
-        {
-            "number": 32,
-            "title": "docs(create-pr): align PR body template with repository template",
-            "url": "https://github.com/trace-script/trace-script/pull/32",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 50,
-            "deletions": 28,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-16T05:46:27Z",
-            "mergedAt": "2026-10-16T05:49:15Z",
-            "closedAt": "2026-10-16T05:49:15Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 13655,
+        "total": 13663,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2362,11 +2362,11 @@
             },
             {
                 "date": "2026-10-17",
-                "count": 32
+                "count": 38
             },
             {
                 "date": "2026-10-18",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-19",

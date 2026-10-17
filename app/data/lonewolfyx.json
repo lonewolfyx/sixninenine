@@ -892,7 +892,7 @@
                 "websiteUrl": "https://lonewolfyx.vercel.app/projects",
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 9
+                    "totalCount": 8
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -960,6 +960,30 @@
         "totalCount": 17
     },
     "pullRequest": [
+        {
+            "number": 75,
+            "title": "feat(ni): add peer dependency install option",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/75",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 10,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-17T06:30:00Z",
+            "mergedAt": "2026-10-17T06:31:22Z",
+            "closedAt": "2026-10-17T06:31:22Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": null,
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
         {
             "number": 6,
             "title": "docs: add issue reproduction guide",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/trace-script/trace-script"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: add release workflow triggered on merged release PRs",
-            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 57,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-15T06:01:37Z",
-            "mergedAt": "2026-10-15T06:47:57Z",
-            "closedAt": "2026-10-15T06:47:57Z",
-            "repository": {
-                "name": "github-workflows",
-                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
-                "homepageUrl": null,
-                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
-                "owner": {
-                    "login": "lonewolfyx-workflows",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
-            }
         }
     ],
     "contributions": {
-        "total": 13636,
+        "total": 13643,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2362,7 +2362,7 @@
             },
             {
                 "date": "2026-10-17",
-                "count": 13
+                "count": 20
             },
             {
                 "date": "2026-10-18",

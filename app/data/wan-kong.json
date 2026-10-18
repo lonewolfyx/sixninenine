@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2300346,
+            "size": 2305362,
             "repoCount": 24,
-            "progress": "67.99"
+            "progress": "68.04"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 755592,
             "repoCount": 10,
-            "progress": "22.33"
+            "progress": "22.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 117687,
             "repoCount": 19,
-            "progress": "3.48"
+            "progress": "3.47"
         },
         {
             "name": "MDX",
@@ -93,6 +93,30 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 6,
+            "title": "release: v0.1.2",
+            "url": "https://github.com/wan-kong/guwendao-unlock/pull/6",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-18T02:30:11Z",
+            "mergedAt": "2026-10-18T02:30:24Z",
+            "closedAt": "2026-10-18T02:30:24Z",
+            "repository": {
+                "name": "guwendao-unlock",
+                "nameWithOwner": "wan-kong/guwendao-unlock",
+                "homepageUrl": "https://greasyfork.org/zh-CN/scripts/586065",
+                "description": "古文岛助手",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/guwendao-unlock"
+            }
+        },
         {
             "number": 6,
             "title": "feat: 监测 rate-limit-reset-credits 接口替代 usage 快照",
@@ -308,34 +332,10 @@
                 },
                 "url": "https://github.com/wan-kong/cnma"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat: initialize Vite project with TanStack Query and Agno SDK integr…",
-            "url": "https://github.com/wan-kong/cnma/pull/1",
-            "state": "MERGED",
-            "changedFiles": 136,
-            "additions": 41429,
-            "deletions": 36,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-07-13T01:32:43Z",
-            "mergedAt": "2026-07-13T01:32:53Z",
-            "closedAt": "2026-07-13T01:32:53Z",
-            "repository": {
-                "name": "cnma",
-                "nameWithOwner": "wan-kong/cnma",
-                "homepageUrl": "",
-                "description": "create a new app",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/cnma"
-            }
         }
     ],
     "contributions": {
-        "total": 470,
+        "total": 472,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1499,7 +1499,7 @@
             },
             {
                 "date": "2026-10-18",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-19",

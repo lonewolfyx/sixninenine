@@ -627,17 +627,41 @@
     },
     "pullRequest": [
         {
+            "number": 1,
+            "title": "Deploy as Cloudflare Worker and remove Vercel/Zeabur leftovers",
+            "url": "https://github.com/ilyaliao/my-pull-requests/pull/1",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 17,
+            "deletions": 73,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-18T19:42:18Z",
+            "mergedAt": "2026-10-18T20:05:35Z",
+            "closedAt": "2026-10-18T20:05:35Z",
+            "repository": {
+                "name": "my-pull-requests",
+                "nameWithOwner": "ilyaliao/my-pull-requests",
+                "homepageUrl": "https://prs.ilyal.me",
+                "description": "IlyaL Open Source Contributions <3",
+                "owner": {
+                    "login": "ilyaliao",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4"
+                },
+                "url": "https://github.com/ilyaliao/my-pull-requests"
+            }
+        },
+        {
             "number": 19042,
             "title": "fix(mobile): Browser address bar stays on one line on iOS",
             "url": "https://github.com/pingdotgg/t3code/pull/19042",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 0,
             "totalCommentsCount": 3,
             "createdAt": "2026-10-13T13:01:20Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-18T18:49:34Z",
+            "closedAt": "2026-10-18T18:49:35Z",
             "repository": {
                 "name": "t3code",
                 "nameWithOwner": "pingdotgg/t3code",
@@ -678,14 +702,14 @@
             "number": 17614,
             "title": "fix(mobile): Chinese input no longer breaks before a skill pill on iOS",
             "url": "https://github.com/pingdotgg/t3code/pull/17614",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 12,
             "deletions": 1,
             "totalCommentsCount": 8,
             "createdAt": "2026-10-09T21:35:06Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-18T19:24:59Z",
+            "closedAt": "2026-10-18T19:24:59Z",
             "repository": {
                 "name": "t3code",
                 "nameWithOwner": "pingdotgg/t3code",
@@ -754,7 +778,7 @@
             "changedFiles": 8,
             "additions": 72,
             "deletions": 5,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 5,
             "createdAt": "2026-10-07T22:42:40Z",
             "mergedAt": null,
             "closedAt": null,
@@ -776,9 +800,9 @@
             "url": "https://github.com/pingdotgg/t3code/pull/16522",
             "state": "OPEN",
             "changedFiles": 1,
-            "additions": 24,
+            "additions": 26,
             "deletions": 4,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 11,
             "createdAt": "2026-10-06T17:36:57Z",
             "mergedAt": null,
             "closedAt": null,
@@ -841,34 +865,10 @@
                 },
                 "url": "https://github.com/pingdotgg/t3code"
             }
-        },
-        {
-            "number": 14997,
-            "title": "feat(web): add an environment scope filter to the sidebar",
-            "url": "https://github.com/pingdotgg/t3code/pull/14997",
-            "state": "CLOSED",
-            "changedFiles": 17,
-            "additions": 1012,
-            "deletions": 211,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-10-03T03:43:13Z",
-            "mergedAt": null,
-            "closedAt": "2026-10-11T19:33:11Z",
-            "repository": {
-                "name": "t3code",
-                "nameWithOwner": "pingdotgg/t3code",
-                "homepageUrl": "https://t3.codes",
-                "description": null,
-                "owner": {
-                    "login": "pingdotgg",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/89191727?v=4"
-                },
-                "url": "https://github.com/pingdotgg/t3code"
-            }
         }
     ],
     "contributions": {
-        "total": 1289,
+        "total": 1292,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2036,7 +2036,7 @@
             },
             {
                 "date": "2026-10-19",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-10-20",

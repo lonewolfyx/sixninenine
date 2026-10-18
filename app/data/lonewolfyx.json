@@ -961,6 +961,54 @@
     },
     "pullRequest": [
         {
+            "number": 82,
+            "title": "feat(create): add create command",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/82",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 21,
+            "deletions": 16,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-18T15:52:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 81,
+            "title": "fix(docs): simplify hero terminal artwork",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/81",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 3,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-18T15:30:07Z",
+            "mergedAt": "2026-10-18T15:30:33Z",
+            "closedAt": "2026-10-18T15:30:33Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 80,
             "title": "feat(docs): redesign documentation interface",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/80",
@@ -1151,58 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-workflows/github-workflows"
             }
-        },
-        {
-            "number": 4,
-            "title": "ci: add PR template enforcement",
-            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/4",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 71,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-17T04:00:30Z",
-            "mergedAt": "2026-10-17T04:02:30Z",
-            "closedAt": "2026-10-17T04:02:30Z",
-            "repository": {
-                "name": "github-workflows",
-                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
-                "homepageUrl": null,
-                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
-                "owner": {
-                    "login": "lonewolfyx-workflows",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
-            }
-        },
-        {
-            "number": 34,
-            "title": "ci: enforce PR template sections",
-            "url": "https://github.com/trace-script/trace-script/pull/34",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 69,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-17T03:49:47Z",
-            "mergedAt": "2026-10-17T03:56:38Z",
-            "closedAt": "2026-10-17T03:56:38Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 13676,
+        "total": 13682,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2366,7 +2366,7 @@
             },
             {
                 "date": "2026-10-18",
-                "count": 13
+                "count": 19
             },
             {
                 "date": "2026-10-19",

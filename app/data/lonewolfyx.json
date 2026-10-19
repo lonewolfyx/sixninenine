@@ -702,7 +702,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 10
+                    "totalCount": 11
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 84,
+            "title": "fix(init): use lint-staged in generated hook",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/84",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-19T13:50:48Z",
+            "mergedAt": "2026-10-19T13:51:58Z",
+            "closedAt": "2026-10-19T13:51:58Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 83,
             "title": "feat(docs): add custom VitePress theme",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/83",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 6,
-            "title": "docs: add issue reproduction guide",
-            "url": "https://github.com/lonewolfyx-workflows/github-workflows/pull/6",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-17T04:21:39Z",
-            "mergedAt": "2026-10-17T04:26:13Z",
-            "closedAt": "2026-10-17T04:26:13Z",
-            "repository": {
-                "name": "github-workflows",
-                "nameWithOwner": "lonewolfyx-workflows/github-workflows",
-                "homepageUrl": null,
-                "description": "Personal collection of frequently used GitHub Actions workflows for quick copy-paste into new projects.",
-                "owner": {
-                    "login": "lonewolfyx-workflows",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/321422548?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-workflows/github-workflows"
-            }
         }
     ],
     "contributions": {
-        "total": 13705,
+        "total": 13721,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2370,7 +2370,7 @@
             },
             {
                 "date": "2026-10-19",
-                "count": 16
+                "count": 32
             },
             {
                 "date": "2026-10-20",

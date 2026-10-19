@@ -13,7 +13,7 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2558765,
+            "size": 2559303,
             "repoCount": 6,
             "progress": "86.78"
         },
@@ -43,7 +43,7 @@
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.89"
+            "progress": "1.88"
         },
         {
             "name": "Less",
@@ -294,6 +294,126 @@
     },
     "pullRequest": [
         {
+            "number": 59607,
+            "title": "refactor(Table): remove obsolete fixed column border styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59607",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 21,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-19T01:57:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59605,
+            "title": "refactor(Dropdown): remove obsolete wrap styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59605",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 18,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-19T01:43:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 11,
+            "title": "fix: preserve labeled Select values across pages",
+            "url": "https://github.com/QDyanbing/react-project-template/pull/11",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 63,
+            "deletions": 37,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-19T01:31:16Z",
+            "mergedAt": "2026-10-19T01:39:19Z",
+            "closedAt": "2026-10-19T01:39:19Z",
+            "repository": {
+                "name": "react-project-template",
+                "nameWithOwner": "QDyanbing/react-project-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/react-project-template"
+            }
+        },
+        {
+            "number": 10,
+            "title": "docs: require labelInValue for all Select components",
+            "url": "https://github.com/QDyanbing/react-project-template/pull/10",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-19T01:06:16Z",
+            "mergedAt": "2026-10-19T01:12:51Z",
+            "closedAt": "2026-10-19T01:12:51Z",
+            "repository": {
+                "name": "react-project-template",
+                "nameWithOwner": "QDyanbing/react-project-template",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "QDyanbing",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
+                },
+                "url": "https://github.com/QDyanbing/react-project-template"
+            }
+        },
+        {
+            "number": 59604,
+            "title": "refactor(Input): remove obsolete Cascader selectors",
+            "url": "https://github.com/ant-design/ant-design/pull/59604",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 17,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-19T00:46:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59593,
             "title": "feat(Cascader): support ConfigProvider allowClear",
             "url": "https://github.com/ant-design/ant-design/pull/59593",
@@ -412,130 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59588,
-            "title": "feat(Tag): support top-level ConfigProvider variant",
-            "url": "https://github.com/ant-design/ant-design/pull/59588",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 101,
-            "deletions": 6,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-16T00:05:46Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59587,
-            "title": "feat(Alert): support top-level ConfigProvider variant",
-            "url": "https://github.com/ant-design/ant-design/pull/59587",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 77,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-16T00:05:38Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59586,
-            "title": "chore: merge master into feature",
-            "url": "https://github.com/ant-design/ant-design/pull/59586",
-            "state": "MERGED",
-            "changedFiles": 22,
-            "additions": 194,
-            "deletions": 61,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-10-15T12:33:31Z",
-            "mergedAt": "2026-10-15T12:51:47Z",
-            "closedAt": "2026-10-15T12:51:47Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59584,
-            "title": "test: align background color assertions with jsdom 30.1.3",
-            "url": "https://github.com/ant-design/ant-design/pull/59584",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 41,
-            "deletions": 31,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-15T11:57:47Z",
-            "mergedAt": "2026-10-15T12:31:01Z",
-            "closedAt": "2026-10-15T12:31:01Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59581,
-            "title": "refactor: support custom variant options in useVariant",
-            "url": "https://github.com/ant-design/ant-design/pull/59581",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 142,
-            "deletions": 8,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-10-15T07:43:20Z",
-            "mergedAt": "2026-10-15T09:37:06Z",
-            "closedAt": "2026-10-15T09:37:07Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5304,
+        "total": 5311,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1703,7 +1703,7 @@
             },
             {
                 "date": "2026-10-19",
-                "count": 0
+                "count": 7
             },
             {
                 "date": "2026-10-20",

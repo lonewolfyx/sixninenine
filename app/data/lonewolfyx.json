@@ -961,6 +961,54 @@
     },
     "pullRequest": [
         {
+            "number": 86,
+            "title": "feat(cli): add interactive package script runner",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/86",
+            "state": "MERGED",
+            "changedFiles": 17,
+            "additions": 128,
+            "deletions": 64,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-20T11:36:42Z",
+            "mergedAt": "2026-10-20T11:37:44Z",
+            "closedAt": "2026-10-20T11:37:44Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 85,
+            "title": "refactor(create): use a project builder for scaffolding",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/85",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 61,
+            "deletions": 27,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-20T07:49:24Z",
+            "mergedAt": "2026-10-20T07:50:34Z",
+            "closedAt": "2026-10-20T07:50:34Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 2,
             "title": "docs(readme): add template usage details",
             "url": "https://github.com/lonewolfyx-template/starter/pull/2",
@@ -1036,14 +1084,14 @@
             "number": 82,
             "title": "feat(create): add create command",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/82",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 21,
-            "deletions": 16,
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 142,
+            "deletions": 21,
             "totalCommentsCount": 2,
             "createdAt": "2026-10-18T15:52:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-20T06:44:15Z",
+            "closedAt": "2026-10-20T06:44:15Z",
             "repository": {
                 "name": "pm",
                 "nameWithOwner": "lonewolfyx-collective/pm",
@@ -1151,58 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 77,
-            "title": "fix(package): include distributable files",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/77",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-17T12:46:34Z",
-            "mergedAt": "2026-10-17T12:47:03Z",
-            "closedAt": "2026-10-17T12:47:03Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 76,
-            "title": "feat(init): scaffold package configuration",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/76",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 206,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-17T12:25:03Z",
-            "mergedAt": "2026-10-17T12:29:34Z",
-            "closedAt": "2026-10-17T12:29:34Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13728,
+        "total": 13753,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2374,7 +2374,7 @@
             },
             {
                 "date": "2026-10-20",
-                "count": 6
+                "count": 31
             },
             {
                 "date": "2026-10-21",

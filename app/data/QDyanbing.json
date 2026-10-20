@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2583594,
+            "size": 2608510,
             "repoCount": 6,
-            "progress": "86.83"
+            "progress": "86.88"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 189573,
+            "size": 191658,
             "repoCount": 10,
-            "progress": "6.37"
+            "progress": "6.38"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.40"
+            "progress": "2.38"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.98"
+            "progress": "1.96"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.87"
+            "progress": "1.85"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.43"
+            "progress": "0.42"
         },
         {
             "name": "Shell",
@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59613,
+            "title": "fix(Card): reset Typography title margins",
+            "url": "https://github.com/ant-design/ant-design/pull/59613",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 27,
+            "deletions": 9,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-20T05:48:27Z",
+            "mergedAt": "2026-10-20T08:52:37Z",
+            "closedAt": "2026-10-20T08:52:37Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59610,
             "title": "fix(ColorPicker): restore format selector font size and spacing",
             "url": "https://github.com/ant-design/ant-design/pull/59610",
@@ -325,7 +349,7 @@
             "changedFiles": 2,
             "additions": 1,
             "deletions": 21,
-            "totalCommentsCount": 9,
+            "totalCommentsCount": 11,
             "createdAt": "2026-10-19T01:57:56Z",
             "mergedAt": null,
             "closedAt": null,
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59590,
-            "title": "docs: default to ready PRs in create-pr skill",
-            "url": "https://github.com/ant-design/ant-design/pull/59590",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-16T00:42:22Z",
-            "mergedAt": "2026-10-16T01:27:23Z",
-            "closedAt": "2026-10-16T01:27:23Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5324,
+        "total": 5339,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1707,7 +1707,7 @@
             },
             {
                 "date": "2026-10-20",
-                "count": 2
+                "count": 17
             },
             {
                 "date": "2026-10-21",

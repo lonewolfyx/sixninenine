@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "docs(readme): add template usage details",
+            "url": "https://github.com/lonewolfyx-template/starter/pull/2",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 84,
+            "deletions": 28,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-20T02:29:34Z",
+            "mergedAt": "2026-10-20T02:32:23Z",
+            "closedAt": "2026-10-20T02:32:23Z",
+            "repository": {
+                "name": "starter",
+                "nameWithOwner": "lonewolfyx-template/starter",
+                "homepageUrl": null,
+                "description": "Template centralized location",
+                "owner": {
+                    "login": "lonewolfyx-template",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-template/starter"
+            }
+        },
+        {
             "number": 84,
             "title": "fix(init): use lint-staged in generated hook",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/84",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 75,
-            "title": "feat(ni): add peer dependency install option",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/75",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-17T06:30:00Z",
-            "mergedAt": "2026-10-17T06:31:22Z",
-            "closedAt": "2026-10-17T06:31:22Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13721,
+        "total": 13728,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2370,11 +2370,11 @@
             },
             {
                 "date": "2026-10-19",
-                "count": 32
+                "count": 33
             },
             {
                 "date": "2026-10-20",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-10-21",

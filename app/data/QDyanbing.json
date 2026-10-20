@@ -294,6 +294,30 @@
     },
     "pullRequest": [
         {
+            "number": 59610,
+            "title": "fix(ColorPicker): restore format selector font size and spacing",
+            "url": "https://github.com/ant-design/ant-design/pull/59610",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 6,
+            "deletions": 12,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-20T02:03:59Z",
+            "mergedAt": "2026-10-20T02:32:53Z",
+            "closedAt": "2026-10-20T02:32:53Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59607,
             "title": "refactor(Table): remove obsolete fixed column border styles",
             "url": "https://github.com/ant-design/ant-design/pull/59607",
@@ -508,34 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59589,
-            "title": "feat(Button): support top-level ConfigProvider variant",
-            "url": "https://github.com/ant-design/ant-design/pull/59589",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 191,
-            "deletions": 12,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-16T00:05:54Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5322,
+        "total": 5324,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1707,7 +1707,7 @@
             },
             {
                 "date": "2026-10-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-21",

@@ -961,6 +961,54 @@
     },
     "pullRequest": [
         {
+            "number": 88,
+            "title": "feat(init)!: select target directories for template projects",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/88",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 177,
+            "deletions": 84,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-20T16:03:07Z",
+            "mergedAt": "2026-10-20T16:22:40Z",
+            "closedAt": "2026-10-20T16:22:40Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 87,
+            "title": "feat(cli): add lint and fix script commands",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/87",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 66,
+            "deletions": 20,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-20T15:15:03Z",
+            "mergedAt": "2026-10-20T15:16:15Z",
+            "closedAt": "2026-10-20T15:16:15Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 86,
             "title": "feat(cli): add interactive package script runner",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/86",
@@ -1151,58 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 79,
-            "title": "refactor(package): pluralize package script runner",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/79",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 5,
-            "deletions": 5,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-17T16:13:13Z",
-            "mergedAt": "2026-10-17T16:13:59Z",
-            "closedAt": "2026-10-17T16:13:59Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 78,
-            "title": "docs: add bilingual VitePress documentation",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/78",
-            "state": "MERGED",
-            "changedFiles": 34,
-            "additions": 2684,
-            "deletions": 32,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-17T15:36:40Z",
-            "mergedAt": "2026-10-17T15:39:06Z",
-            "closedAt": "2026-10-17T15:39:06Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13753,
+        "total": 13761,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2374,11 +2374,11 @@
             },
             {
                 "date": "2026-10-20",
-                "count": 31
+                "count": 37
             },
             {
                 "date": "2026-10-21",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-22",

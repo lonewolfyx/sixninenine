@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2643676,
+            "size": 2665662,
             "repoCount": 6,
-            "progress": "86.98"
+            "progress": "87.01"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 193456,
+            "size": 195655,
             "repoCount": 10,
-            "progress": "6.36"
+            "progress": "6.39"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.35"
+            "progress": "2.33"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.94"
+            "progress": "1.92"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.83"
+            "progress": "1.81"
         },
         {
             "name": "Less",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59632,
+            "title": "feat(Select): support ConfigProvider autoComplete",
+            "url": "https://github.com/ant-design/ant-design/pull/59632",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 38,
+            "deletions": 0,
+            "totalCommentsCount": 10,
+            "createdAt": "2026-10-22T09:13:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59627,
+            "title": "fix(Modal): restore confirmation content typography styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59627",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 31,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-22T07:17:07Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59624,
             "title": "refactor(DatePicker): remove legacy preset tag styles",
             "url": "https://github.com/ant-design/ant-design/pull/59624",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/QDyanbing/react-project-template"
             }
-        },
-        {
-            "number": 59604,
-            "title": "refactor(Input): remove obsolete Cascader selectors",
-            "url": "https://github.com/ant-design/ant-design/pull/59604",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 17,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-19T00:46:11Z",
-            "mergedAt": "2026-10-19T07:55:06Z",
-            "closedAt": "2026-10-19T07:55:06Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59593,
-            "title": "feat(Cascader): support ConfigProvider allowClear",
-            "url": "https://github.com/ant-design/ant-design/pull/59593",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 73,
-            "deletions": 12,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-16T01:35:12Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5356,
+        "total": 5370,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1715,7 +1715,7 @@
             },
             {
                 "date": "2026-10-22",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-10-23",

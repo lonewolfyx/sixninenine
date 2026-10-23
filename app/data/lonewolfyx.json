@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 57,
+            "title": "fix(release): restore final newline in package metadata",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/57",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-23T17:07:11Z",
+            "mergedAt": "2026-10-23T17:10:13Z",
+            "closedAt": "2026-10-23T17:10:13Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 56,
             "title": "fix(tampermonkey): restore organization loading on profiles",
             "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/56",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 81,
-            "title": "fix(docs): simplify hero terminal artwork",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/81",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 9,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-18T15:30:07Z",
-            "mergedAt": "2026-10-18T15:30:33Z",
-            "closedAt": "2026-10-18T15:30:33Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13819,
+        "total": 13827,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2386,11 +2386,11 @@
             },
             {
                 "date": "2026-10-23",
-                "count": 16
+                "count": 19
             },
             {
                 "date": "2026-10-24",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-10-25",

@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2665662,
+            "size": 2700786,
             "repoCount": 6,
-            "progress": "87.01"
+            "progress": "87.11"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 195655,
+            "size": 197376,
             "repoCount": 10,
-            "progress": "6.39"
+            "progress": "6.37"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71534,
             "repoCount": 2,
-            "progress": "2.33"
+            "progress": "2.31"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.92"
+            "progress": "1.90"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.81"
+            "progress": "1.79"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.42"
+            "progress": "0.41"
         },
         {
             "name": "Shell",
@@ -91,10 +91,10 @@
                             "name": "MK (fengmk2)",
                             "bio": "Developer of https://viteplus.dev, @eggjs, @koajs and @cnpm ",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/156269?v=4",
-                            "company": "@voidzero-dev",
+                            "company": "@cloudflare @voidzero-dev",
                             "createdAt": "2009-11-21T08:07:35Z",
                             "email": "fengmk2@gmail.com",
-                            "location": "Hangzhou, China",
+                            "location": "Singapore",
                             "twitterUsername": "fengmk2",
                             "url": "https://github.com/fengmk2",
                             "websiteUrl": "https://fengmk2.com",
@@ -294,6 +294,54 @@
     },
     "pullRequest": [
         {
+            "number": 59645,
+            "title": "refactor(Notification): remove obsolete hook-holder styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59645",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-23T08:38:18Z",
+            "mergedAt": "2026-10-23T09:24:50Z",
+            "closedAt": "2026-10-23T09:24:50Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59644,
+            "title": "refactor(Tooltip): remove obsolete content wrapper style",
+            "url": "https://github.com/ant-design/ant-design/pull/59644",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-23T08:29:38Z",
+            "mergedAt": "2026-10-23T09:24:57Z",
+            "closedAt": "2026-10-23T09:24:57Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59632,
             "title": "feat(Select): support ConfigProvider autoComplete",
             "url": "https://github.com/ant-design/ant-design/pull/59632",
@@ -321,14 +369,14 @@
             "number": 59627,
             "title": "fix(Modal): restore confirmation content typography styles",
             "url": "https://github.com/ant-design/ant-design/pull/59627",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 31,
             "deletions": 1,
             "totalCommentsCount": 9,
             "createdAt": "2026-10-22T07:17:07Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-23T08:05:18Z",
+            "closedAt": "2026-10-23T08:05:18Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 11,
-            "title": "fix: preserve labeled Select values across pages",
-            "url": "https://github.com/QDyanbing/react-project-template/pull/11",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 63,
-            "deletions": 37,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-19T01:31:16Z",
-            "mergedAt": "2026-10-19T01:39:19Z",
-            "closedAt": "2026-10-19T01:39:19Z",
-            "repository": {
-                "name": "react-project-template",
-                "nameWithOwner": "QDyanbing/react-project-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/react-project-template"
-            }
-        },
-        {
-            "number": 10,
-            "title": "docs: require labelInValue for all Select components",
-            "url": "https://github.com/QDyanbing/react-project-template/pull/10",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-19T01:06:16Z",
-            "mergedAt": "2026-10-19T01:12:51Z",
-            "closedAt": "2026-10-19T01:12:51Z",
-            "repository": {
-                "name": "react-project-template",
-                "nameWithOwner": "QDyanbing/react-project-template",
-                "homepageUrl": null,
-                "description": null,
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/react-project-template"
-            }
         }
     ],
     "contributions": {
-        "total": 5370,
+        "total": 5390,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1719,7 +1719,7 @@
             },
             {
                 "date": "2026-10-23",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-10-24",

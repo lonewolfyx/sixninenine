@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1825788,
+            "size": 1826417,
             "repoCount": 30,
-            "progress": "53.90"
+            "progress": "53.91"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 1433684,
             "repoCount": 15,
-            "progress": "42.33"
+            "progress": "42.32"
         },
         {
             "name": "CSS",
@@ -961,6 +961,30 @@
     },
     "pullRequest": [
         {
+            "number": 56,
+            "title": "fix(tampermonkey): restore organization loading on profiles",
+            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/56",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 44,
+            "deletions": 34,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-23T09:23:56Z",
+            "mergedAt": "2026-10-23T09:25:19Z",
+            "closedAt": "2026-10-23T09:25:19Z",
+            "repository": {
+                "name": "github-unlimited-orgs",
+                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
+                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
+                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
+                "owner": {
+                    "login": "lonewolfyx",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
+                },
+                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
+            }
+        },
+        {
             "number": 88,
             "title": "feat(init)!: select target directories for template projects",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/88",
@@ -1175,34 +1199,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 80,
-            "title": "feat(docs): redesign documentation interface",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/80",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 838,
-            "deletions": 109,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-18T04:16:08Z",
-            "mergedAt": "2026-10-18T04:17:11Z",
-            "closedAt": "2026-10-18T04:17:12Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13809,
+        "total": 13819,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2386,7 +2386,7 @@
             },
             {
                 "date": "2026-10-23",
-                "count": 6
+                "count": 16
             },
             {
                 "date": "2026-10-24",

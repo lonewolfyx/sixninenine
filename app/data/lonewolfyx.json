@@ -180,6 +180,113 @@
                 }
             },
             {
+                "name": "Doocs",
+                "createdAt": "2018-09-30T05:51:23Z",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/43716716?v=4",
+                "description": "Doocs Open Source Community.",
+                "email": "admin@doocs.org",
+                "location": "China",
+                "login": "doocs",
+                "url": "https://github.com/doocs",
+                "websiteUrl": "https://doocs.org",
+                "twitterUsername": null,
+                "repositories": {
+                    "totalCount": 18
+                },
+                "membersWithRole": {
+                    "nodes": [
+                        {
+                            "id": "MDQ6VXNlcjMzNTIxMQ==",
+                            "login": "seamile",
+                            "name": "Seamile",
+                            "bio": "Just a coder.",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/335211?u=b09a6054807c6da065b688abada6b7e87e41fe11&v=4",
+                            "company": null,
+                            "createdAt": "2010-07-18T00:47:28Z",
+                            "email": "lanhuermao@gmail.com",
+                            "location": null,
+                            "twitterUsername": null,
+                            "url": "https://github.com/seamile",
+                            "websiteUrl": null,
+                            "status": {
+                                "emoji": ":ant:",
+                                "message": "On my way"
+                            }
+                        },
+                        {
+                            "id": "MDQ6VXNlcjExODIzOTU=",
+                            "login": "Frederick-S",
+                            "name": "Xiaodan Mao",
+                            "bio": "",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/1182395?u=075ff343582418c71e051384650ef4db0b6609df&v=4",
+                            "company": null,
+                            "createdAt": "2011-11-09T02:41:39Z",
+                            "email": "mao_xiaodan@hotmail.com",
+                            "location": "Beijing, China",
+                            "twitterUsername": null,
+                            "url": "https://github.com/Frederick-S",
+                            "websiteUrl": "https://frederick-s.github.io",
+                            "status": {
+                                "emoji": ":dart:",
+                                "message": "Focusing"
+                            }
+                        },
+                        {
+                            "id": "MDQ6VXNlcjE2Njc3NjQ=",
+                            "login": "italks",
+                            "name": "italks",
+                            "bio": "",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/1667764?u=409ee4eddb99167d9c4c488c20dd4630394425ec&v=4",
+                            "company": null,
+                            "createdAt": "2012-04-22T11:37:41Z",
+                            "email": "",
+                            "location": "shijiazhuang",
+                            "twitterUsername": null,
+                            "url": "https://github.com/italks",
+                            "websiteUrl": null,
+                            "status": null
+                        },
+                        {
+                            "id": "MDQ6VXNlcjE5MzM5OTk=",
+                            "login": "cixtor",
+                            "name": "Yorman",
+                            "bio": "Over 10 years of industry experience building highly reliable, secure and scalable distributed systems.",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/1933999?u=a9e2fe6f391c6e9c864f19814d116d038412656b&v=4",
+                            "company": "@Microsoft & @MicrosoftResearch",
+                            "createdAt": "2012-07-06T20:35:13Z",
+                            "email": "",
+                            "location": "Vancouver, BC, Canada",
+                            "twitterUsername": "cixtor",
+                            "url": "https://github.com/cixtor",
+                            "websiteUrl": "https://cixtor.com",
+                            "status": {
+                                "emoji": ":green_circle:",
+                                "message": "Online"
+                            }
+                        },
+                        {
+                            "id": "MDQ6VXNlcjI1NzQwNjU=",
+                            "login": "watonyweng",
+                            "name": "Wáng Wěi Tāo",
+                            "bio": "我是一张豆腐皮儿，又逗又腐又很皮。\r\n我是一条土豆丝儿，又土又逗又屌丝。\r\n我是一盘小炒肉，又小又吵又多肉。\r\n我是一瓶二锅头，又二又乖又上头。\r\n",
+                            "avatarUrl": "https://avatars.githubusercontent.com/u/2574065?u=8d9026ee813d5e4a923e17ae7693c13a50485711&v=4",
+                            "company": "Unknown Company",
+                            "createdAt": "2012-10-16T16:02:17Z",
+                            "email": "softweitao@126.com",
+                            "location": "Beijing China",
+                            "twitterUsername": null,
+                            "url": "https://github.com/watonyweng",
+                            "websiteUrl": null,
+                            "status": {
+                                "emoji": ":octocat:",
+                                "message": "Focusing"
+                            }
+                        }
+                    ],
+                    "totalCount": 459
+                }
+            },
+            {
                 "name": "Home University | 家里蹲大学",
                 "createdAt": "2021-06-15T15:56:39Z",
                 "avatarUrl": "https://avatars.githubusercontent.com/u/85953864?v=4",
@@ -957,9 +1064,33 @@
                 }
             }
         ],
-        "totalCount": 17
+        "totalCount": 18
     },
     "pullRequest": [
+        {
+            "number": 91,
+            "title": "fix(ni): automatically approve pending pnpm builds",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/91",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 62,
+            "deletions": 5,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-25T04:58:40Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
         {
             "number": 90,
             "title": "feat(init): add project initialization completion message",
@@ -1175,34 +1306,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-template/starter"
             }
-        },
-        {
-            "number": 84,
-            "title": "fix(init): use lint-staged in generated hook",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/84",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-19T13:50:48Z",
-            "mergedAt": "2026-10-19T13:51:58Z",
-            "closedAt": "2026-10-19T13:51:58Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
         }
     ],
     "contributions": {
-        "total": 13855,
+        "total": 13863,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2390,11 +2497,11 @@
             },
             {
                 "date": "2026-10-24",
-                "count": 28
+                "count": 30
             },
             {
                 "date": "2026-10-25",
-                "count": 1
+                "count": 7
             },
             {
                 "date": "2026-10-26",

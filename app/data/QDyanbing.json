@@ -13,51 +13,51 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2730939,
+            "size": 2818709,
             "repoCount": 6,
-            "progress": "87.20"
+            "progress": "87.42"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 198566,
+            "size": 203230,
             "repoCount": 10,
-            "progress": "6.34"
+            "progress": "6.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 71606,
             "repoCount": 2,
-            "progress": "2.29"
+            "progress": "2.22"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.88"
+            "progress": "1.83"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.77"
+            "progress": "1.72"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.41"
+            "progress": "0.39"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 2685,
             "repoCount": 4,
-            "progress": "0.09"
+            "progress": "0.08"
         },
         {
             "name": "Dockerfile",
@@ -294,6 +294,102 @@
     },
     "pullRequest": [
         {
+            "number": 59672,
+            "title": "refactor(Skeleton): remove unused image circle styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59672",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 6,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-27T06:26:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59668,
+            "title": "refactor(Menu): remove obsolete popup and selected selectors",
+            "url": "https://github.com/ant-design/ant-design/pull/59668",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 5,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-27T02:35:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59663,
+            "title": "refactor(Form): remove unreachable optional mark style",
+            "url": "https://github.com/ant-design/ant-design/pull/59663",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-26T06:42:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59662,
+            "title": "refactor(Tabs): remove obsolete selectors",
+            "url": "https://github.com/ant-design/ant-design/pull/59662",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 10,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-10-26T06:13:44Z",
+            "mergedAt": "2026-10-26T07:47:24Z",
+            "closedAt": "2026-10-26T07:47:24Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59645,
             "title": "refactor(Notification): remove obsolete hook-holder styles",
             "url": "https://github.com/ant-design/ant-design/pull/59645",
@@ -436,106 +532,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59613,
-            "title": "fix(Card): reset Typography title margins",
-            "url": "https://github.com/ant-design/ant-design/pull/59613",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 27,
-            "deletions": 9,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-20T05:48:27Z",
-            "mergedAt": "2026-10-20T08:52:37Z",
-            "closedAt": "2026-10-20T08:52:37Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59610,
-            "title": "fix(ColorPicker): restore format selector font size and spacing",
-            "url": "https://github.com/ant-design/ant-design/pull/59610",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 12,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-20T02:03:59Z",
-            "mergedAt": "2026-10-20T02:32:53Z",
-            "closedAt": "2026-10-20T02:32:53Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59607,
-            "title": "refactor(Table): remove obsolete fixed column border styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59607",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 1,
-            "deletions": 21,
-            "totalCommentsCount": 11,
-            "createdAt": "2026-10-19T01:57:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59605,
-            "title": "refactor(Dropdown): remove obsolete wrap styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59605",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 18,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-19T01:43:42Z",
-            "mergedAt": "2026-10-19T07:55:22Z",
-            "closedAt": "2026-10-19T07:55:22Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5407,
+        "total": 5456,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1727,15 +1727,15 @@
             },
             {
                 "date": "2026-10-25",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-10-26",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-10-27",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-10-28",

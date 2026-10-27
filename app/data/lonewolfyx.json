@@ -6,7 +6,7 @@
         "url": "https://github.com/lonewolfyx",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4",
         "pronouns": "",
-        "followers": 101,
+        "followers": 102,
         "following": 95
     },
     "languages": [
@@ -1037,7 +1037,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 1
+                    "totalCount": 2
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -1068,17 +1068,161 @@
     },
     "pullRequest": [
         {
+            "number": 38,
+            "title": "fix: preserve shell PATH when launching Codex CLI",
+            "url": "https://github.com/codex-ecosystem/codex-agent-bar/pull/38",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 124,
+            "deletions": 37,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-27T11:06:22Z",
+            "mergedAt": "2026-10-27T11:19:28Z",
+            "closedAt": "2026-10-27T11:19:28Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "codex-ecosystem/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "codex-ecosystem",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335008009?v=4"
+                },
+                "url": "https://github.com/codex-ecosystem/codex-agent-bar"
+            }
+        },
+        {
+            "number": 37,
+            "title": "fix: resolve Codex CLI through the user's shell",
+            "url": "https://github.com/codex-ecosystem/codex-agent-bar/pull/37",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 224,
+            "deletions": 32,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-27T10:12:43Z",
+            "mergedAt": "2026-10-27T10:15:04Z",
+            "closedAt": "2026-10-27T10:15:04Z",
+            "repository": {
+                "name": "codex-agent-bar",
+                "nameWithOwner": "codex-ecosystem/codex-agent-bar",
+                "homepageUrl": "",
+                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
+                "owner": {
+                    "login": "codex-ecosystem",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335008009?v=4"
+                },
+                "url": "https://github.com/codex-ecosystem/codex-agent-bar"
+            }
+        },
+        {
+            "number": 95,
+            "title": "docs(cli): sync documentation with current commands",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/95",
+            "state": "MERGED",
+            "changedFiles": 26,
+            "additions": 263,
+            "deletions": 31,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-10-25T07:38:21Z",
+            "mergedAt": "2026-10-25T07:39:53Z",
+            "closedAt": "2026-10-25T07:39:53Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 94,
+            "title": "fix(clearn): show progress and completion for all cleanup",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/94",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-25T07:04:39Z",
+            "mergedAt": "2026-10-25T07:05:37Z",
+            "closedAt": "2026-10-25T07:05:37Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 93,
+            "title": "fix(cli): respect stdio settings when executing commands",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/93",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 23,
+            "deletions": 9,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-25T06:58:35Z",
+            "mergedAt": "2026-10-25T07:01:21Z",
+            "closedAt": "2026-10-25T07:01:21Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
+            "number": 92,
+            "title": "feat(clearn): add all option for directory cleanup",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/92",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 15,
+            "deletions": 3,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-25T06:35:11Z",
+            "mergedAt": "2026-10-25T06:37:51Z",
+            "closedAt": "2026-10-25T06:37:51Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 91,
             "title": "fix(ni): automatically approve pending pnpm builds",
             "url": "https://github.com/lonewolfyx-collective/pm/pull/91",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 62,
             "deletions": 5,
             "totalCommentsCount": 2,
             "createdAt": "2026-10-25T04:58:40Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-10-25T06:28:42Z",
+            "closedAt": "2026-10-25T06:28:42Z",
             "repository": {
                 "name": "pm",
                 "nameWithOwner": "lonewolfyx-collective/pm",
@@ -1162,154 +1306,10 @@
                 },
                 "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
             }
-        },
-        {
-            "number": 56,
-            "title": "fix(tampermonkey): restore organization loading on profiles",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/56",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 44,
-            "deletions": 34,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-23T09:23:56Z",
-            "mergedAt": "2026-10-23T09:25:19Z",
-            "closedAt": "2026-10-23T09:25:19Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
-        },
-        {
-            "number": 88,
-            "title": "feat(init)!: select target directories for template projects",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/88",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 177,
-            "deletions": 84,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-20T16:03:07Z",
-            "mergedAt": "2026-10-20T16:22:40Z",
-            "closedAt": "2026-10-20T16:22:40Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 87,
-            "title": "feat(cli): add lint and fix script commands",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/87",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 66,
-            "deletions": 20,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-20T15:15:03Z",
-            "mergedAt": "2026-10-20T15:16:15Z",
-            "closedAt": "2026-10-20T15:16:15Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 86,
-            "title": "feat(cli): add interactive package script runner",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/86",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 128,
-            "deletions": 64,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-20T11:36:42Z",
-            "mergedAt": "2026-10-20T11:37:44Z",
-            "closedAt": "2026-10-20T11:37:44Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 85,
-            "title": "refactor(create): use a project builder for scaffolding",
-            "url": "https://github.com/lonewolfyx-collective/pm/pull/85",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 61,
-            "deletions": 27,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-20T07:49:24Z",
-            "mergedAt": "2026-10-20T07:50:34Z",
-            "closedAt": "2026-10-20T07:50:34Z",
-            "repository": {
-                "name": "pm",
-                "nameWithOwner": "lonewolfyx-collective/pm",
-                "homepageUrl": "https://pkg-manage.vercel.app",
-                "description": "🔥 Powerful package manager CLI",
-                "owner": {
-                    "login": "lonewolfyx-collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-collective/pm"
-            }
-        },
-        {
-            "number": 2,
-            "title": "docs(readme): add template usage details",
-            "url": "https://github.com/lonewolfyx-template/starter/pull/2",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 84,
-            "deletions": 28,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-20T02:29:34Z",
-            "mergedAt": "2026-10-20T02:32:23Z",
-            "closedAt": "2026-10-20T02:32:23Z",
-            "repository": {
-                "name": "starter",
-                "nameWithOwner": "lonewolfyx-template/starter",
-                "homepageUrl": null,
-                "description": "Template centralized location",
-                "owner": {
-                    "login": "lonewolfyx-template",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/225893608?v=4"
-                },
-                "url": "https://github.com/lonewolfyx-template/starter"
-            }
         }
     ],
     "contributions": {
-        "total": 13863,
+        "total": 13919,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2501,15 +2501,15 @@
             },
             {
                 "date": "2026-10-25",
-                "count": 7
+                "count": 30
             },
             {
                 "date": "2026-10-26",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-10-27",
-                "count": 0
+                "count": 19
             },
             {
                 "date": "2026-10-28",

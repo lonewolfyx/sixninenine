@@ -1068,6 +1068,30 @@
     },
     "pullRequest": [
         {
+            "number": 96,
+            "title": "fix(clearn): remove directories starting with dist",
+            "url": "https://github.com/lonewolfyx-collective/pm/pull/96",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 7,
+            "deletions": 4,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-10-27T14:20:33Z",
+            "mergedAt": "2026-10-27T14:22:39Z",
+            "closedAt": "2026-10-27T14:22:39Z",
+            "repository": {
+                "name": "pm",
+                "nameWithOwner": "lonewolfyx-collective/pm",
+                "homepageUrl": "https://pkg-manage.vercel.app",
+                "description": "🔥 Powerful package manager CLI",
+                "owner": {
+                    "login": "lonewolfyx-collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/323563806?v=4"
+                },
+                "url": "https://github.com/lonewolfyx-collective/pm"
+            }
+        },
+        {
             "number": 38,
             "title": "fix: preserve shell PATH when launching Codex CLI",
             "url": "https://github.com/codex-ecosystem/codex-agent-bar/pull/38",
@@ -1282,34 +1306,10 @@
                 },
                 "url": "https://github.com/lonewolfyx-collective/pm"
             }
-        },
-        {
-            "number": 57,
-            "title": "fix(release): restore final newline in package metadata",
-            "url": "https://github.com/lonewolfyx/github-unlimited-orgs/pull/57",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-10-23T17:07:11Z",
-            "mergedAt": "2026-10-23T17:10:13Z",
-            "closedAt": "2026-10-23T17:10:13Z",
-            "repository": {
-                "name": "github-unlimited-orgs",
-                "nameWithOwner": "lonewolfyx/github-unlimited-orgs",
-                "homepageUrl": "https://github-unlimited-orgs.vercel.app",
-                "description": ":octocat: Show all GitHub organizations for any user — API + browser extension + Tampermonkey script",
-                "owner": {
-                    "login": "lonewolfyx",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8273068?u=6aafe5dc15a2829f2773a9fa77832cd9a5747013&v=4"
-                },
-                "url": "https://github.com/lonewolfyx/github-unlimited-orgs"
-            }
         }
     ],
     "contributions": {
-        "total": 13919,
+        "total": 13935,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2509,7 +2509,7 @@
             },
             {
                 "date": "2026-10-27",
-                "count": 19
+                "count": 35
             },
             {
                 "date": "2026-10-28",

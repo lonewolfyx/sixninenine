@@ -31,6 +31,54 @@
     },
     "pullRequest": [
         {
+            "number": 2,
+            "title": "feat(repo): aggregate trace messages into call records and trace summaries",
+            "url": "https://github.com/Fan-s-Collective/trace-script/pull/2",
+            "state": "CLOSED",
+            "changedFiles": 116,
+            "additions": 10127,
+            "deletions": 2330,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-28T14:43:52Z",
+            "mergedAt": null,
+            "closedAt": "2026-10-28T14:44:47Z",
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "Fan-s-Collective/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "Fan-s-Collective",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/242322023?v=4"
+                },
+                "url": "https://github.com/Fan-s-Collective/trace-script"
+            }
+        },
+        {
+            "number": 35,
+            "title": "feat(repo): aggregate trace messages into call records and trace summaries",
+            "url": "https://github.com/trace-script/trace-script/pull/35",
+            "state": "OPEN",
+            "changedFiles": 63,
+            "additions": 3057,
+            "deletions": 799,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-10-28T14:37:39Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "trace-script",
+                "nameWithOwner": "trace-script/trace-script",
+                "homepageUrl": "",
+                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
+                "owner": {
+                    "login": "trace-script",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
+                },
+                "url": "https://github.com/trace-script/trace-script"
+            }
+        },
+        {
             "number": 36,
             "title": "feat: launch Codex CLI with the user's shell environment",
             "url": "https://github.com/codex-ecosystem/codex-agent-bar/pull/36",
@@ -221,58 +269,10 @@
                 },
                 "url": "https://github.com/trace-script/trace-script"
             }
-        },
-        {
-            "number": 21,
-            "title": "feat(sdk): consume @trace-script/sdk end-to-end with a rebuilt DevTools panel",
-            "url": "https://github.com/trace-script/trace-script/pull/21",
-            "state": "MERGED",
-            "changedFiles": 120,
-            "additions": 3769,
-            "deletions": 6074,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-08T04:59:06Z",
-            "mergedAt": "2026-10-14T06:20:00Z",
-            "closedAt": "2026-10-14T06:20:00Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 20,
-            "title": "refactor(chrome-extensions): consolidate DevTools foundation tooling",
-            "url": "https://github.com/trace-script/trace-script/pull/20",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 10,
-            "deletions": 58,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-08T04:54:31Z",
-            "mergedAt": "2026-10-08T05:44:03Z",
-            "closedAt": "2026-10-08T05:44:03Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 718,
+        "total": 720,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1476,7 +1476,7 @@
             },
             {
                 "date": "2026-10-28",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-10-29",

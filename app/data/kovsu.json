@@ -599,17 +599,65 @@
     },
     "pullRequest": [
         {
+            "number": 23413,
+            "title": "refactor(agent-sessions): move Sessions into a feature folder",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23413",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 1328,
+            "deletions": 1003,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-02T13:01:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23404,
+            "title": "docs(resource-list): drop owned group menus from the conversation list Spec",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23404",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 25,
+            "deletions": 37,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-02T09:52:08Z",
+            "mergedAt": "2026-11-02T11:36:27Z",
+            "closedAt": "2026-11-02T11:36:27Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 23391,
             "title": "fix(file-editor): keep the caret inside the active line highlight",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/23391",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 4,
             "deletions": 2,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-02T05:52:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T06:45:10Z",
+            "closedAt": "2026-11-02T06:45:10Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -626,14 +674,14 @@
             "number": 23390,
             "title": "refactor(artifact-pane): remove the test-only wrapper",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/23390",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 17,
             "additions": 422,
             "deletions": 741,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-02T05:40:12Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T07:39:42Z",
+            "closedAt": "2026-11-02T07:39:42Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -650,14 +698,14 @@
             "number": 20417,
             "title": "Fix unstable comments before flow `component` and `hook` bodies",
             "url": "https://github.com/prettier/prettier/pull/20417",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 273,
             "deletions": 0,
             "totalCommentsCount": 2,
             "createdAt": "2026-11-02T05:32:57Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T07:36:25Z",
+            "closedAt": "2026-11-02T07:36:25Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -674,14 +722,14 @@
             "number": 20416,
             "title": "Fix duplicated comments in flow `record` declarations",
             "url": "https://github.com/prettier/prettier/pull/20416",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 138,
             "deletions": 0,
-            "totalCommentsCount": 2,
+            "totalCommentsCount": 3,
             "createdAt": "2026-11-02T05:19:51Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T09:05:19Z",
+            "closedAt": "2026-11-02T09:05:19Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -698,14 +746,14 @@
             "number": 23389,
             "title": "perf(agent-sessions): re-render only the changed session row",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/23389",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 10,
             "additions": 457,
             "deletions": 97,
             "totalCommentsCount": 2,
             "createdAt": "2026-11-02T04:42:11Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T07:47:15Z",
+            "closedAt": "2026-11-02T07:47:15Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 23355,
-            "title": "refactor(assistant-mutations): keep one mutation hook for assistants",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23355",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 54,
-            "deletions": 53,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-01T16:01:19Z",
-            "mergedAt": "2026-11-01T17:23:53Z",
-            "closedAt": "2026-11-01T17:23:54Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23353,
-            "title": "refactor(renderer): remove residual v1 types chain",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23353",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 5,
-            "deletions": 545,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-01T15:24:57Z",
-            "mergedAt": "2026-11-01T17:24:17Z",
-            "closedAt": "2026-11-01T17:24:17Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 926,
+        "total": 934,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2064,7 +2064,7 @@
             },
             {
                 "date": "2026-11-02",
-                "count": 15
+                "count": 23
             },
             {
                 "date": "2026-11-03",

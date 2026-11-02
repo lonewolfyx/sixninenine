@@ -6,58 +6,65 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 30,
+        "followers": 31,
         "following": 16
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2946528,
-            "repoCount": 6,
-            "progress": "87.72"
+            "size": 2958933,
+            "repoCount": 7,
+            "progress": "85.78"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 209872,
-            "repoCount": 10,
-            "progress": "6.25"
+            "size": 260683,
+            "repoCount": 11,
+            "progress": "7.56"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 71606,
-            "repoCount": 2,
-            "progress": "2.13"
+            "size": 83500,
+            "repoCount": 3,
+            "progress": "2.42"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.76"
+            "progress": "1.71"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.66"
+            "progress": "1.61"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.38"
+            "progress": "0.37"
         },
         {
             "name": "Shell",
             "color": "#89e051",
-            "size": 2685,
-            "repoCount": 4,
-            "progress": "0.08"
+            "size": 11033,
+            "repoCount": 5,
+            "progress": "0.32"
+        },
+        {
+            "name": "Astro",
+            "color": "#ff5a03",
+            "size": 7067,
+            "repoCount": 1,
+            "progress": "0.20"
         },
         {
             "name": "Dockerfile",
@@ -294,17 +301,65 @@
     },
     "pullRequest": [
         {
+            "number": 59767,
+            "title": "demo(AutoComplete): fix category search popup styles",
+            "url": "https://github.com/ant-design/ant-design/pull/59767",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 13,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-02T06:27:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59766,
+            "title": "refactor(Space): remove unused align layout rule",
+            "url": "https://github.com/ant-design/ant-design/pull/59766",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-02T03:16:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59760,
             "title": "feat(Form): support logical label alignment",
             "url": "https://github.com/ant-design/ant-design/pull/59760",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 12,
             "additions": 167,
-            "deletions": 18,
-            "totalCommentsCount": 9,
+            "deletions": 25,
+            "totalCommentsCount": 10,
             "createdAt": "2026-11-01T07:08:21Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-02T02:50:54Z",
+            "closedAt": "2026-11-02T02:50:55Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -484,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59668,
-            "title": "refactor(Menu): remove obsolete popup and selected selectors",
-            "url": "https://github.com/ant-design/ant-design/pull/59668",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 5,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-27T02:35:16Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59663,
-            "title": "refactor(Form): remove unreachable optional mark style",
-            "url": "https://github.com/ant-design/ant-design/pull/59663",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-26T06:42:37Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5533,
+        "total": 5541,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1759,7 +1766,7 @@
             },
             {
                 "date": "2026-11-02",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-11-03",

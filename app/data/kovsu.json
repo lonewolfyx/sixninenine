@@ -599,14 +599,86 @@
     },
     "pullRequest": [
         {
+            "number": 23433,
+            "title": "chore(patches): remove orphaned yarn-era patch files",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23433",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 75,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-03T05:05:54Z",
+            "mergedAt": "2026-11-03T06:38:23Z",
+            "closedAt": "2026-11-03T06:38:23Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 20429,
+            "title": "Don't print extra semicolon after `prettier-ignore`d class property",
+            "url": "https://github.com/prettier/prettier/pull/20429",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 262,
+            "deletions": 1,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-11-03T04:31:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 20428,
+            "title": "Align `SequenceExpression` in `YieldExpression` and `UnaryExpression` with `ReturnStatement`",
+            "url": "https://github.com/prettier/prettier/pull/20428",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 108,
+            "deletions": 6,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-03T04:30:43Z",
+            "mergedAt": "2026-11-03T04:56:34Z",
+            "closedAt": "2026-11-03T04:56:34Z",
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
             "number": 23413,
             "title": "refactor(agent-sessions): move Sessions into a feature folder",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/23413",
             "state": "OPEN",
-            "changedFiles": 27,
-            "additions": 1328,
-            "deletions": 1003,
-            "totalCommentsCount": 0,
+            "changedFiles": 24,
+            "additions": 1325,
+            "deletions": 1000,
+            "totalCommentsCount": 7,
             "createdAt": "2026-11-02T13:01:22Z",
             "mergedAt": null,
             "closedAt": null,
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 23358,
-            "title": "docs(artifact-pane): propose removing the test-only wrapper",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23358",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 85,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-01T16:39:21Z",
-            "mergedAt": "2026-11-01T17:24:46Z",
-            "closedAt": "2026-11-01T17:24:46Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23357,
-            "title": "refactor(resource-list): keep list helpers in one module",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23357",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 29,
-            "deletions": 233,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-01T16:01:30Z",
-            "mergedAt": "2026-11-01T17:23:05Z",
-            "closedAt": "2026-11-01T17:23:05Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23356,
-            "title": "refactor(renderer-helpers): remove duplicated notes and health-check helpers",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23356",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 14,
-            "deletions": 43,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-01T16:01:24Z",
-            "mergedAt": "2026-11-01T17:23:21Z",
-            "closedAt": "2026-11-01T17:23:21Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 934,
+        "total": 939,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2068,7 +2068,7 @@
             },
             {
                 "date": "2026-11-03",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-11-04",

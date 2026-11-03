@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 5149,
+            "title": "fix(site): keep sponsor tiers within content width",
+            "url": "https://github.com/lucide-icons/lucide/pull/5149",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-03T06:50:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "lucide",
+                "nameWithOwner": "lucide-icons/lucide",
+                "homepageUrl": "https://lucide.dev",
+                "description": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. ",
+                "owner": {
+                    "login": "lucide-icons",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/66879934?v=4"
+                },
+                "url": "https://github.com/lucide-icons/lucide"
+            }
+        },
+        {
             "number": 59376,
             "title": "feat: re-export the CSS-in-JS runtime from antd",
             "url": "https://github.com/ant-design/ant-design/pull/59376",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 840,
-            "title": "fix(yml): fix eslint errors",
-            "url": "https://github.com/antdv-next/antdv-next/pull/840",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-09-08T01:27:01Z",
-            "mergedAt": "2026-09-08T01:46:45Z",
-            "closedAt": "2026-09-08T01:46:45Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 606,
+        "total": 608,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1788,7 +1788,7 @@
             },
             {
                 "date": "2026-11-03",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-11-04",

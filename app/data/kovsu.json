@@ -599,6 +599,222 @@
     },
     "pullRequest": [
         {
+            "number": 23658,
+            "title": "refactor(agent-session-context): drop discarded ancestry read in reserveBranchTx",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23658",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T13:36:38Z",
+            "mergedAt": "2026-11-05T13:44:15Z",
+            "closedAt": "2026-11-05T13:44:15Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23656,
+            "title": "refactor(agent-session-message): read the native path in one query",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23656",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 9,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T13:33:02Z",
+            "mergedAt": "2026-11-05T13:45:53Z",
+            "closedAt": "2026-11-05T13:45:53Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23653,
+            "title": "perf(agent-session-message): read the edit path once per snapshot",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23653",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 42,
+            "deletions": 14,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T13:24:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23652,
+            "title": "perf(child-thread-projection): index alias reverse lookup once per history load",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23652",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 8,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T13:13:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23651,
+            "title": "perf(child-thread-projection): avoid full-row read and quadratic scans in archive reorder",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23651",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 11,
+            "deletions": 4,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T13:10:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23642,
+            "title": "perf(agent-session-message): project only token columns from context rows",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23642",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 2,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-05T10:30:28Z",
+            "mergedAt": "2026-11-05T15:40:17Z",
+            "closedAt": "2026-11-05T15:40:17Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23641,
+            "title": "refactor(agent-session-context): remove test-only context helpers",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23641",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 51,
+            "deletions": 106,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T10:20:57Z",
+            "mergedAt": "2026-11-05T10:50:08Z",
+            "closedAt": "2026-11-05T10:50:08Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23631,
+            "title": "fix(pi-durable): report interrupted subagents as stopped",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23631",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 27,
+            "deletions": 13,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-05T09:19:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 23630,
+            "title": "perf(ai-stream): project topic messages per flushed batch",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/23630",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 57,
+            "deletions": 11,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-05T09:11:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 142,
             "title": "fix(cli): match check --locale exactly for missing translations",
             "url": "https://github.com/x18n-dev/x18n/pull/142",
@@ -621,226 +837,10 @@
                 },
                 "url": "https://github.com/x18n-dev/x18n"
             }
-        },
-        {
-            "number": 138,
-            "title": "fix(lsp): edit nothing when a command names an unknown project",
-            "url": "https://github.com/x18n-dev/x18n/pull/138",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 22,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-05T05:33:29Z",
-            "mergedAt": "2026-11-05T06:44:43Z",
-            "closedAt": "2026-11-05T06:44:43Z",
-            "repository": {
-                "name": "x18n",
-                "nameWithOwner": "x18n-dev/x18n",
-                "homepageUrl": "https://x18n.dev",
-                "description": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
-                "owner": {
-                    "login": "x18n-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/345587341?v=4"
-                },
-                "url": "https://github.com/x18n-dev/x18n"
-            }
-        },
-        {
-            "number": 23589,
-            "title": "refactor(topics): move Topics into a feature folder",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23589",
-            "state": "OPEN",
-            "changedFiles": 17,
-            "additions": 716,
-            "deletions": 683,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-05T03:42:19Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23536,
-            "title": "perf(main-dependencies): bundle the agent SDKs, drop stale packaging rules, fix the Tesseract core",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23536",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 163,
-            "deletions": 237,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-11-04T05:02:28Z",
-            "mergedAt": "2026-11-04T08:45:37Z",
-            "closedAt": "2026-11-04T08:45:37Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23533,
-            "title": "perf(main-dependencies): bundle media and system packages into the main build",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23533",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 20,
-            "deletions": 22,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-04T04:20:35Z",
-            "mergedAt": "2026-11-04T08:33:22Z",
-            "closedAt": "2026-11-04T08:33:22Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23530,
-            "title": "perf(main-dependencies): bundle channel and remote-access packages into the main build",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23530",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 20,
-            "deletions": 20,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-04T04:03:49Z",
-            "mergedAt": "2026-11-04T08:32:40Z",
-            "closedAt": "2026-11-04T08:32:40Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 126,
-            "title": "fix(ui): reject MCP page sizes that do not advance the cursor",
-            "url": "https://github.com/x18n-dev/x18n/pull/126",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 27,
-            "deletions": 15,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-04T04:00:48Z",
-            "mergedAt": "2026-11-04T04:59:03Z",
-            "closedAt": "2026-11-04T04:59:03Z",
-            "repository": {
-                "name": "x18n",
-                "nameWithOwner": "x18n-dev/x18n",
-                "homepageUrl": "https://x18n.dev",
-                "description": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
-                "owner": {
-                    "login": "x18n-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/345587341?v=4"
-                },
-                "url": "https://github.com/x18n-dev/x18n"
-            }
-        },
-        {
-            "number": 125,
-            "title": "fix(node): invalidate the git history cache on key separators and version",
-            "url": "https://github.com/x18n-dev/x18n/pull/125",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-04T03:33:09Z",
-            "mergedAt": "2026-11-04T04:59:18Z",
-            "closedAt": "2026-11-04T04:59:18Z",
-            "repository": {
-                "name": "x18n",
-                "nameWithOwner": "x18n-dev/x18n",
-                "homepageUrl": "https://x18n.dev",
-                "description": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
-                "owner": {
-                    "login": "x18n-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/345587341?v=4"
-                },
-                "url": "https://github.com/x18n-dev/x18n"
-            }
-        },
-        {
-            "number": 23527,
-            "title": "perf(main-dependencies): bundle document-parsing packages into the main build",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23527",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 75,
-            "deletions": 46,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-04T03:29:29Z",
-            "mergedAt": "2026-11-04T03:45:18Z",
-            "closedAt": "2026-11-04T03:45:18Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 124,
-            "title": "fix(core): invalidate the scan cache on extract options and version",
-            "url": "https://github.com/x18n-dev/x18n/pull/124",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-04T03:27:57Z",
-            "mergedAt": "2026-11-04T04:59:31Z",
-            "closedAt": "2026-11-04T04:59:31Z",
-            "repository": {
-                "name": "x18n",
-                "nameWithOwner": "x18n-dev/x18n",
-                "homepageUrl": "https://x18n.dev",
-                "description": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
-                "owner": {
-                    "login": "x18n-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/345587341?v=4"
-                },
-                "url": "https://github.com/x18n-dev/x18n"
-            }
         }
     ],
     "contributions": {
-        "total": 971,
+        "total": 985,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2076,7 +2076,7 @@
             },
             {
                 "date": "2026-11-05",
-                "count": 5
+                "count": 19
             },
             {
                 "date": "2026-11-06",

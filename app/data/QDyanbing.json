@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3027498,
+            "size": 3063452,
             "repoCount": 7,
-            "progress": "85.94"
+            "progress": "85.83"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 265596,
+            "size": 276127,
             "repoCount": 11,
-            "progress": "7.54"
+            "progress": "7.74"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 83500,
             "repoCount": 3,
-            "progress": "2.37"
+            "progress": "2.34"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.67"
+            "progress": "1.65"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.58"
+            "progress": "1.56"
         },
         {
             "name": "Less",
@@ -301,6 +301,54 @@
     },
     "pullRequest": [
         {
+            "number": 59797,
+            "title": "refactor(Watermark): remove unused animation frame ref",
+            "url": "https://github.com/ant-design/ant-design/pull/59797",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-05T00:56:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59796,
+            "title": "refactor(Affix): remove redundant measurement status",
+            "url": "https://github.com/ant-design/ant-design/pull/59796",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 18,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-05T00:47:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59788,
             "title": "refactor(Steps): remove unused horizontal-alternate selector",
             "url": "https://github.com/ant-design/ant-design/pull/59788",
@@ -491,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59720,
-            "title": "docs(Tag): document closable configuration",
-            "url": "https://github.com/ant-design/ant-design/pull/59720",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 8,
-            "deletions": 6,
-            "totalCommentsCount": 8,
-            "createdAt": "2026-10-28T07:29:43Z",
-            "mergedAt": "2026-10-28T07:56:14Z",
-            "closedAt": "2026-10-28T07:56:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59716,
-            "title": "refactor(QRCode): remove unused icon styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59716",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 5,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-28T05:41:22Z",
-            "mergedAt": "2026-10-29T03:18:29Z",
-            "closedAt": "2026-10-29T03:18:29Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5610,
+        "total": 5629,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1774,11 +1774,11 @@
             },
             {
                 "date": "2026-11-04",
-                "count": 20
+                "count": 19
             },
             {
                 "date": "2026-11-05",
-                "count": 0
+                "count": 20
             },
             {
                 "date": "2026-11-06",

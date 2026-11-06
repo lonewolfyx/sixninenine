@@ -13,14 +13,14 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3063452,
+            "size": 3101149,
             "repoCount": 7,
-            "progress": "85.83"
+            "progress": "85.89"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 276127,
+            "size": 279619,
             "repoCount": 11,
             "progress": "7.74"
         },
@@ -29,28 +29,28 @@
             "color": "#663399",
             "size": 83500,
             "repoCount": 3,
-            "progress": "2.34"
+            "progress": "2.31"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.65"
+            "progress": "1.63"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.56"
+            "progress": "1.54"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 12722,
             "repoCount": 2,
-            "progress": "0.36"
+            "progress": "0.35"
         },
         {
             "name": "Shell",
@@ -301,6 +301,30 @@
     },
     "pullRequest": [
         {
+            "number": 59803,
+            "title": "refactor(Select): remove unused clear icon logic from useIcons",
+            "url": "https://github.com/ant-design/ant-design/pull/59803",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 0,
+            "deletions": 24,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-06T00:51:50Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59797,
             "title": "refactor(Watermark): remove unused animation frame ref",
             "url": "https://github.com/ant-design/ant-design/pull/59797",
@@ -515,34 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59726,
-            "title": "fix(Card): preserve icon spacing in action link buttons",
-            "url": "https://github.com/ant-design/ant-design/pull/59726",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 254,
-            "deletions": 9,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-29T00:59:22Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5629,
+        "total": 5645,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1782,7 +1782,7 @@
             },
             {
                 "date": "2026-11-06",
-                "count": 0
+                "count": 16
             },
             {
                 "date": "2026-11-07",

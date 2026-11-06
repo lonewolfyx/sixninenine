@@ -13,58 +13,79 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 996921,
-            "repoCount": 8,
-            "progress": "58.50"
+            "size": 1059516,
+            "repoCount": 9,
+            "progress": "48.33"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "35.93"
+            "progress": "27.92"
+        },
+        {
+            "name": "Go",
+            "color": "#00ADD8",
+            "size": 324840,
+            "repoCount": 1,
+            "progress": "14.82"
+        },
+        {
+            "name": "Svelte",
+            "color": "#ff3e00",
+            "size": 68362,
+            "repoCount": 1,
+            "progress": "3.12"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 37334,
-            "repoCount": 6,
-            "progress": "2.19"
+            "size": 62292,
+            "repoCount": 7,
+            "progress": "2.84"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 30662,
-            "repoCount": 4,
-            "progress": "1.80"
+            "size": 31807,
+            "repoCount": 5,
+            "progress": "1.45"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "1.11"
+            "progress": "0.86"
+        },
+        {
+            "name": "PowerShell",
+            "color": "#012456",
+            "size": 6517,
+            "repoCount": 1,
+            "progress": "0.30"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 3901,
             "repoCount": 2,
-            "progress": "0.23"
+            "progress": "0.18"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 3751,
             "repoCount": 1,
-            "progress": "0.22"
+            "progress": "0.17"
         },
         {
             "name": "Ruby",
             "color": "#701516",
             "size": 310,
             "repoCount": 1,
-            "progress": "0.02"
+            "progress": "0.01"
         }
     ],
     "organizations": {
@@ -72,6 +93,126 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 4,
+            "title": "feat(settings): add translation source cleanup options",
+            "url": "https://github.com/doyuli/sotto/pull/4",
+            "state": "OPEN",
+            "changedFiles": 8,
+            "additions": 367,
+            "deletions": 8,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-06T17:19:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 3,
+            "title": "feat(settings): redesign settings surfaces and fix DeepL source language mapping",
+            "url": "https://github.com/doyuli/sotto/pull/3",
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 1008,
+            "deletions": 632,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-06T16:18:28Z",
+            "mergedAt": "2026-11-06T17:00:08Z",
+            "closedAt": "2026-11-06T17:00:08Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 1382,
+            "title": "docs(website): add Sotto to the showcase",
+            "url": "https://github.com/egoist/mygo/pull/1382",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 9,
+            "deletions": 0,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-06T15:49:33Z",
+            "mergedAt": "2026-11-06T16:27:38Z",
+            "closedAt": "2026-11-06T16:27:38Z",
+            "repository": {
+                "name": "mygo",
+                "nameWithOwner": "egoist/mygo",
+                "homepageUrl": "https://mygo.egoist.dev",
+                "description": "Develop desktop apps with native UI or web frontend in Go",
+                "owner": {
+                    "login": "egoist",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?u=c9a8fee657b629ea1b9a09df4c958f0ed8fac9b1&v=4"
+                },
+                "url": "https://github.com/egoist/mygo"
+            }
+        },
+        {
+            "number": 2,
+            "title": "refactor(frontend): migrate desktop pages to Svelte 5",
+            "url": "https://github.com/doyuli/sotto/pull/2",
+            "state": "MERGED",
+            "changedFiles": 47,
+            "additions": 3356,
+            "deletions": 2718,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-06T13:43:28Z",
+            "mergedAt": "2026-11-06T13:54:40Z",
+            "closedAt": "2026-11-06T13:54:40Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 1,
+            "title": "feat(settings): add drag-and-drop service reordering",
+            "url": "https://github.com/doyuli/sotto/pull/1",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 667,
+            "deletions": 88,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-06T09:34:41Z",
+            "mergedAt": "2026-11-06T10:15:15Z",
+            "closedAt": "2026-11-06T10:15:15Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 4,
             "title": "feat: add sources component",
@@ -191,130 +332,10 @@
                 },
                 "url": "https://github.com/nuxt/devtools"
             }
-        },
-        {
-            "number": 10,
-            "title": "feat: support deep freeze in lazy-render",
-            "url": "https://github.com/Alfred-Skyblue/vuedefer/pull/10",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 66,
-            "deletions": 20,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-01-21T08:57:02Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "vuedefer",
-                "nameWithOwner": "Alfred-Skyblue/vuedefer",
-                "homepageUrl": "https://vuedefer.pages.dev",
-                "description": "Vue lazy render component with viewport based mounting and update freezing.",
-                "owner": {
-                    "login": "Alfred-Skyblue",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4"
-                },
-                "url": "https://github.com/Alfred-Skyblue/vuedefer"
-            }
-        },
-        {
-            "number": 25,
-            "title": "docs: fix typo attribute from 'auto-focus' to 'autofocus'",
-            "url": "https://github.com/wobsoriano/vue-input-otp/pull/25",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-01-05T02:39:28Z",
-            "mergedAt": "2026-08-13T06:46:50Z",
-            "closedAt": "2026-08-13T06:46:50Z",
-            "repository": {
-                "name": "vue-input-otp",
-                "nameWithOwner": "wobsoriano/vue-input-otp",
-                "homepageUrl": "https://vue-input-otp.vercel.app",
-                "description": "One time passcode Input. Accessible & unstyled.",
-                "owner": {
-                    "login": "wobsoriano",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/13049130?u=6d72104182e7c9ed25934815313fb69107332111&v=4"
-                },
-                "url": "https://github.com/wobsoriano/vue-input-otp"
-            }
-        },
-        {
-            "number": 4939,
-            "title": "perf(twoslash): optimize twoslash cache",
-            "url": "https://github.com/vueuse/vueuse/pull/4939",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2025-08-05T07:00:59Z",
-            "mergedAt": "2025-08-05T07:46:20Z",
-            "closedAt": "2025-08-05T07:46:20Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4934,
-            "title": "feat(useIntersectionObserver): make `rootMargin` reactive",
-            "url": "https://github.com/vueuse/vueuse/pull/4934",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 40,
-            "deletions": 6,
-            "totalCommentsCount": 2,
-            "createdAt": "2025-07-31T09:50:10Z",
-            "mergedAt": "2025-12-10T03:28:49Z",
-            "closedAt": "2025-12-10T03:28:50Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
-        },
-        {
-            "number": 4931,
-            "title": "feat(computedAsync): add demo",
-            "url": "https://github.com/vueuse/vueuse/pull/4931",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 52,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2025-07-31T06:40:58Z",
-            "mergedAt": "2025-07-31T07:50:17Z",
-            "closedAt": "2025-07-31T07:50:17Z",
-            "repository": {
-                "name": "vueuse",
-                "nameWithOwner": "vueuse/vueuse",
-                "homepageUrl": "https://vueuse.org",
-                "description": "Collection of essential Vue Composition Utilities for Vue 3",
-                "owner": {
-                    "login": "vueuse",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/77578415?v=4"
-                },
-                "url": "https://github.com/vueuse/vueuse"
-            }
         }
     ],
     "contributions": {
-        "total": 542,
+        "total": 561,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1554,11 +1575,11 @@
             },
             {
                 "date": "2026-11-06",
-                "count": 22
+                "count": 37
             },
             {
                 "date": "2026-11-07",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-08",

@@ -13,72 +13,72 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1069208,
+            "size": 1070688,
             "repoCount": 9,
-            "progress": "47.04"
+            "progress": "45.12"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "26.93"
+            "progress": "25.80"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 389669,
+            "size": 487993,
             "repoCount": 1,
-            "progress": "17.14"
+            "progress": "20.56"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
-            "size": 72732,
+            "size": 73117,
             "repoCount": 1,
-            "progress": "3.20"
+            "progress": "3.08"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 63914,
+            "size": 64561,
             "repoCount": 7,
-            "progress": "2.81"
+            "progress": "2.72"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 31807,
             "repoCount": 5,
-            "progress": "1.40"
+            "progress": "1.34"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.83"
+            "progress": "0.80"
         },
         {
             "name": "PowerShell",
             "color": "#012456",
-            "size": 6517,
+            "size": 5893,
             "repoCount": 1,
-            "progress": "0.29"
+            "progress": "0.25"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 3901,
             "repoCount": 2,
-            "progress": "0.17"
+            "progress": "0.16"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 3751,
             "repoCount": 1,
-            "progress": "0.17"
+            "progress": "0.16"
         },
         {
             "name": "Ruby",
@@ -94,17 +94,41 @@
     },
     "pullRequest": [
         {
+            "number": 11,
+            "title": "fix(release): keep Release and updater notes in sync",
+            "url": "https://github.com/doyuli/sotto/pull/11",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 48,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-07T14:35:10Z",
+            "mergedAt": "2026-11-07T15:12:50Z",
+            "closedAt": "2026-11-07T15:12:50Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 10,
             "title": "feat(ocr): upgrade to PP-OCRv6 with bounded recognition pipeline",
             "url": "https://github.com/doyuli/sotto/pull/10",
-            "state": "OPEN",
-            "changedFiles": 47,
-            "additions": 22926,
-            "deletions": 7454,
+            "state": "MERGED",
+            "changedFiles": 54,
+            "additions": 23204,
+            "deletions": 7460,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-07T09:36:10Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-07T14:06:48Z",
+            "closedAt": "2026-11-07T14:06:48Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -308,34 +332,10 @@
                 },
                 "url": "https://github.com/egoist/mygo"
             }
-        },
-        {
-            "number": 2,
-            "title": "refactor(frontend): migrate desktop pages to Svelte 5",
-            "url": "https://github.com/doyuli/sotto/pull/2",
-            "state": "MERGED",
-            "changedFiles": 47,
-            "additions": 3356,
-            "deletions": 2718,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-06T13:43:28Z",
-            "mergedAt": "2026-11-06T13:54:40Z",
-            "closedAt": "2026-11-06T13:54:40Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 573,
+        "total": 577,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1579,7 +1579,7 @@
             },
             {
                 "date": "2026-11-07",
-                "count": 16
+                "count": 20
             },
             {
                 "date": "2026-11-08",

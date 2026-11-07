@@ -13,51 +13,51 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1063601,
+            "size": 1069208,
             "repoCount": 9,
-            "progress": "47.63"
+            "progress": "47.04"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "27.42"
+            "progress": "26.93"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 357651,
+            "size": 389669,
             "repoCount": 1,
-            "progress": "16.02"
+            "progress": "17.14"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
-            "size": 70397,
+            "size": 72732,
             "repoCount": 1,
-            "progress": "3.15"
+            "progress": "3.20"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63914,
             "repoCount": 7,
-            "progress": "2.86"
+            "progress": "2.81"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 31807,
             "repoCount": 5,
-            "progress": "1.42"
+            "progress": "1.40"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.85"
+            "progress": "0.83"
         },
         {
             "name": "PowerShell",
@@ -93,6 +93,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 10,
+            "title": "feat(ocr): upgrade to PP-OCRv6 with bounded recognition pipeline",
+            "url": "https://github.com/doyuli/sotto/pull/10",
+            "state": "OPEN",
+            "changedFiles": 47,
+            "additions": 22926,
+            "deletions": 7454,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-07T09:36:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat(translate): stream Bilibili and OpenAI translations",
+            "url": "https://github.com/doyuli/sotto/pull/9",
+            "state": "MERGED",
+            "changedFiles": 23,
+            "additions": 1234,
+            "deletions": 121,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-07T06:38:01Z",
+            "mergedAt": "2026-11-07T07:35:55Z",
+            "closedAt": "2026-11-07T07:35:56Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 8,
             "title": "fix(bubble): improve edge placement and long-text scrolling",
@@ -284,58 +332,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 1,
-            "title": "feat(settings): add drag-and-drop service reordering",
-            "url": "https://github.com/doyuli/sotto/pull/1",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 667,
-            "deletions": 88,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-06T09:34:41Z",
-            "mergedAt": "2026-11-06T10:15:15Z",
-            "closedAt": "2026-11-06T10:15:15Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 4,
-            "title": "feat: add sources component",
-            "url": "https://github.com/antdv-next/x/pull/4",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 885,
-            "deletions": 3,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-03-19T13:50:05Z",
-            "mergedAt": "2026-03-19T14:16:07Z",
-            "closedAt": "2026-03-19T14:16:07Z",
-            "repository": {
-                "name": "x",
-                "nameWithOwner": "antdv-next/x",
-                "homepageUrl": "https://x.antdv-next.com",
-                "description": "Antdv Next X",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/x"
-            }
         }
     ],
     "contributions": {
-        "total": 570,
+        "total": 573,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1579,7 +1579,7 @@
             },
             {
                 "date": "2026-11-07",
-                "count": 13
+                "count": 16
             },
             {
                 "date": "2026-11-08",

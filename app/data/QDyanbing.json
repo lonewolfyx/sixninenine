@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3181182,
+            "size": 3209131,
             "repoCount": 7,
-            "progress": "86.11"
+            "progress": "86.15"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 283548,
+            "size": 286372,
             "repoCount": 11,
-            "progress": "7.67"
+            "progress": "7.69"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 83500,
             "repoCount": 3,
-            "progress": "2.26"
+            "progress": "2.24"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.60"
+            "progress": "1.58"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55591,
             "repoCount": 4,
-            "progress": "1.50"
+            "progress": "1.49"
         },
         {
             "name": "Less",
@@ -301,6 +301,54 @@
     },
     "pullRequest": [
         {
+            "number": 59820,
+            "title": "refactor(Menu): remove redundant span check in MenuItem",
+            "url": "https://github.com/ant-design/ant-design/pull/59820",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-09T01:07:24Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59819,
+            "title": "refactor(Progress): remove obsolete inner style for inline circles",
+            "url": "https://github.com/ant-design/ant-design/pull/59819",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 3,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-09T00:51:59Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59803,
             "title": "refactor(Select): remove unused clear icon logic from useIcons",
             "url": "https://github.com/ant-design/ant-design/pull/59803",
@@ -491,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59728,
-            "title": "docs: keep PRs targeting master for unrelated conflicts",
-            "url": "https://github.com/ant-design/ant-design/pull/59728",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-29T01:35:06Z",
-            "mergedAt": "2026-10-29T02:49:54Z",
-            "closedAt": "2026-10-29T02:49:54Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59727,
-            "title": "refactor(Carousel): remove unreachable dragging styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59727",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 8,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-10-29T01:27:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5675,
+        "total": 5693,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1794,7 +1794,7 @@
             },
             {
                 "date": "2026-11-09",
-                "count": 0
+                "count": 18
             },
             {
                 "date": "2026-11-10",

@@ -13,23 +13,23 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 2306260,
+            "size": 2311964,
             "repoCount": 25,
-            "progress": "60.03"
+            "progress": "60.02"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 755592,
             "repoCount": 10,
-            "progress": "19.67"
+            "progress": "19.62"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
             "size": 497457,
             "repoCount": 2,
-            "progress": "12.95"
+            "progress": "12.92"
         },
         {
             "name": "CSS",
@@ -41,9 +41,9 @@
         {
             "name": "MDX",
             "color": "#fcb32c",
-            "size": 67416,
+            "size": 71758,
             "repoCount": 2,
-            "progress": "1.75"
+            "progress": "1.86"
         },
         {
             "name": "JavaScript",
@@ -57,14 +57,14 @@
             "color": "#c6538c",
             "size": 29828,
             "repoCount": 2,
-            "progress": "0.78"
+            "progress": "0.77"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 20576,
             "repoCount": 3,
-            "progress": "0.54"
+            "progress": "0.53"
         },
         {
             "name": "HTML",
@@ -93,6 +93,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 11,
+            "title": "feat: move blog back link into nav header",
+            "url": "https://github.com/wan-kong/wankong.top/pull/11",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 51,
+            "deletions": 35,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-09T08:24:34Z",
+            "mergedAt": "2026-11-09T08:24:39Z",
+            "closedAt": "2026-11-09T08:24:39Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "晚空/wankong - my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
+        {
+            "number": 10,
+            "title": "fix: correct GithubRelease default release URL",
+            "url": "https://github.com/wan-kong/wankong.top/pull/10",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 8,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-09T08:17:15Z",
+            "mergedAt": "2026-11-09T08:17:20Z",
+            "closedAt": "2026-11-09T08:17:20Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "晚空/wankong - my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
+        {
+            "number": 9,
+            "title": "feat: add frpc desktop app post and GithubRelease component",
+            "url": "https://github.com/wan-kong/wankong.top/pull/9",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 304,
+            "deletions": 2,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-09T08:15:32Z",
+            "mergedAt": "2026-11-09T08:15:37Z",
+            "closedAt": "2026-11-09T08:15:37Z",
+            "repository": {
+                "name": "wankong.top",
+                "nameWithOwner": "wan-kong/wankong.top",
+                "homepageUrl": "https://wankong.top/",
+                "description": "晚空/wankong - my profile website",
+                "owner": {
+                    "login": "wan-kong",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
+                },
+                "url": "https://github.com/wan-kong/wankong.top"
+            }
+        },
         {
             "number": 6,
             "title": "release: v0.1.2",
@@ -260,82 +332,10 @@
                 },
                 "url": "https://github.com/wan-kong/cnma"
             }
-        },
-        {
-            "number": 4,
-            "title": "fix: fix the catalog and dist path",
-            "url": "https://github.com/wan-kong/cnma/pull/4",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-15T00:54:46Z",
-            "mergedAt": "2026-07-15T00:54:54Z",
-            "closedAt": "2026-07-15T00:54:54Z",
-            "repository": {
-                "name": "cnma",
-                "nameWithOwner": "wan-kong/cnma",
-                "homepageUrl": "",
-                "description": "create a new app",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/cnma"
-            }
-        },
-        {
-            "number": 3,
-            "title": "Refine npm publish step and update workflow permissions",
-            "url": "https://github.com/wan-kong/cnma/pull/3",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 7,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-07-13T03:01:27Z",
-            "mergedAt": "2026-07-13T03:01:34Z",
-            "closedAt": "2026-07-13T03:01:34Z",
-            "repository": {
-                "name": "cnma",
-                "nameWithOwner": "wan-kong/cnma",
-                "homepageUrl": "",
-                "description": "create a new app",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/cnma"
-            }
-        },
-        {
-            "number": 2,
-            "title": "refactor: remove \"use client\" directive from multiple components",
-            "url": "https://github.com/wan-kong/cnma/pull/2",
-            "state": "MERGED",
-            "changedFiles": 61,
-            "additions": 4137,
-            "deletions": 259,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-07-13T02:25:52Z",
-            "mergedAt": "2026-07-13T02:25:59Z",
-            "closedAt": "2026-07-13T02:25:59Z",
-            "repository": {
-                "name": "cnma",
-                "nameWithOwner": "wan-kong/cnma",
-                "homepageUrl": "",
-                "description": "create a new app",
-                "owner": {
-                    "login": "wan-kong",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/49053562?u=951721a69a20095916e30d0ebfb2bfd763050887&v=4"
-                },
-                "url": "https://github.com/wan-kong/cnma"
-            }
         }
     ],
     "contributions": {
-        "total": 531,
+        "total": 544,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1587,7 +1587,7 @@
             },
             {
                 "date": "2026-11-09",
-                "count": 15
+                "count": 28
             },
             {
                 "date": "2026-11-10",

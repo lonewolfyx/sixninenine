@@ -13,65 +13,65 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1084462,
+            "size": 1106878,
             "repoCount": 9,
-            "progress": "44.53"
+            "progress": "43.59"
+        },
+        {
+            "name": "Go",
+            "color": "#00ADD8",
+            "size": 618762,
+            "repoCount": 1,
+            "progress": "24.37"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "25.14"
-        },
-        {
-            "name": "Go",
-            "color": "#00ADD8",
-            "size": 535713,
-            "repoCount": 1,
-            "progress": "22.00"
+            "progress": "24.11"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
-            "size": 73857,
+            "size": 73553,
             "repoCount": 1,
-            "progress": "3.03"
+            "progress": "2.90"
         },
         {
             "name": "CSS",
             "color": "#663399",
-            "size": 64612,
+            "size": 63522,
             "repoCount": 7,
-            "progress": "2.65"
+            "progress": "2.50"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 31807,
+            "size": 31427,
             "repoCount": 5,
-            "progress": "1.31"
+            "progress": "1.24"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.78"
+            "progress": "0.75"
         },
         {
             "name": "PowerShell",
             "color": "#012456",
             "size": 5893,
             "repoCount": 1,
-            "progress": "0.24"
+            "progress": "0.23"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 3901,
             "repoCount": 2,
-            "progress": "0.16"
+            "progress": "0.15"
         },
         {
             "name": "Shell",
@@ -94,17 +94,65 @@
     },
     "pullRequest": [
         {
+            "number": 23,
+            "title": "fix(bubble): stabilize presentation and cancel dismissed work",
+            "url": "https://github.com/doyuli/sotto/pull/23",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 1497,
+            "deletions": 98,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-09T10:16:05Z",
+            "mergedAt": "2026-11-09T15:45:01Z",
+            "closedAt": "2026-11-09T15:45:01Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 22,
+            "title": "perf(snip): replace screenshot WebViews with native overlays",
+            "url": "https://github.com/doyuli/sotto/pull/22",
+            "state": "MERGED",
+            "changedFiles": 25,
+            "additions": 978,
+            "deletions": 483,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-09T07:58:22Z",
+            "mergedAt": "2026-11-09T09:07:19Z",
+            "closedAt": "2026-11-09T09:07:19Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 21,
             "title": "perf(ocr): release idle sessions and system workers",
             "url": "https://github.com/doyuli/sotto/pull/21",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 19,
             "additions": 1122,
             "deletions": 46,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-09T05:09:34Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-09T07:20:32Z",
+            "closedAt": "2026-11-09T07:20:32Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -284,58 +332,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 13,
-            "title": "fix(capture): correct GDI cleanup order and pixel synchronization",
-            "url": "https://github.com/doyuli/sotto/pull/13",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T04:41:12Z",
-            "mergedAt": "2026-11-08T04:56:14Z",
-            "closedAt": "2026-11-08T04:56:14Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 12,
-            "title": "fix(ocr): prefer PPOCR within its supported language scope",
-            "url": "https://github.com/doyuli/sotto/pull/12",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 169,
-            "deletions": 11,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T02:25:55Z",
-            "mergedAt": "2026-11-08T03:27:26Z",
-            "closedAt": "2026-11-08T03:27:26Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 597,
+        "total": 602,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1587,7 +1587,7 @@
             },
             {
                 "date": "2026-11-09",
-                "count": 3
+                "count": 8
             },
             {
                 "date": "2026-11-10",

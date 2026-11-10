@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 2568,
+            "title": "fix(editor): anchor color picker and complete color controls",
+            "url": "https://github.com/l0ng-ai/openidea/pull/2568",
+            "state": "MERGED",
+            "changedFiles": 16,
+            "additions": 684,
+            "deletions": 109,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-10T17:13:56Z",
+            "mergedAt": "2026-11-10T17:40:07Z",
+            "closedAt": "2026-11-10T17:40:07Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
             "number": 59828,
             "title": "fix(DatePicker): center time panel cells and prevent scrollbar clipping",
             "url": "https://github.com/ant-design/ant-design/pull/59828",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next"
             }
-        },
-        {
-            "number": 19,
-            "title": "fix: align InputTag Heatmap and Cron with component conventions",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/19",
-            "state": "MERGED",
-            "changedFiles": 92,
-            "additions": 882,
-            "deletions": 446,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-12T15:00:50Z",
-            "mergedAt": "2026-09-12T15:09:22Z",
-            "closedAt": "2026-09-12T15:09:22Z",
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 614,
+        "total": 617,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1820,7 +1820,7 @@
             },
             {
                 "date": "2026-11-11",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-11-12",

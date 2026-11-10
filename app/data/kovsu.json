@@ -599,17 +599,89 @@
     },
     "pullRequest": [
         {
+            "number": 24103,
+            "title": "fix(agent-session): pin message tree queries to the parent index",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24103",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 33,
+            "deletions": 3,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-10T06:50:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24101,
+            "title": "refactor(temporary-chat): move temporary topic routes from DataApi to IpcApi",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24101",
+            "state": "OPEN",
+            "changedFiles": 15,
+            "additions": 61,
+            "deletions": 398,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-10T06:30:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24094,
+            "title": "fix(agent-session): chunk session id lists below the SQLite variable limit",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24094",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 254,
+            "deletions": 126,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-10T05:21:09Z",
+            "mergedAt": "2026-11-10T05:56:15Z",
+            "closedAt": "2026-11-10T05:56:15Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24026,
             "title": "fix(pi-runtime): extract the goal verdict from fenced or prefixed model text",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24026",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 39,
             "deletions": 1,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 2,
             "createdAt": "2026-11-09T11:26:16Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-10T06:25:13Z",
+            "closedAt": "2026-11-10T06:25:13Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -626,14 +698,14 @@
             "number": 24025,
             "title": "fix(pi-durable): flush pending child output before saving a continuation",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24025",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 75,
             "deletions": 0,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-09T11:25:55Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-10T06:25:40Z",
+            "closedAt": "2026-11-10T06:25:40Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 23974,
-            "title": "fix(agent-session): release session when a pending connect fails during close",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23974",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 15,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-09T05:43:01Z",
-            "mergedAt": "2026-11-09T05:49:29Z",
-            "closedAt": "2026-11-09T05:49:29Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23893,
-            "title": "chore(deps): drop unused workspace package dependencies",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23893",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 5,
-            "deletions": 58,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-08T14:41:12Z",
-            "mergedAt": "2026-11-08T15:12:58Z",
-            "closedAt": "2026-11-08T15:12:58Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 23743,
-            "title": "fix(main-dependencies): ship ai and zod once and drop packaging leftovers",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/23743",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 82,
-            "deletions": 167,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-06T14:25:41Z",
-            "mergedAt": "2026-11-06T17:44:22Z",
-            "closedAt": "2026-11-06T17:44:22Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1020,
+        "total": 1026,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2096,7 +2096,7 @@
             },
             {
                 "date": "2026-11-10",
-                "count": 0
+                "count": 6
             },
             {
                 "date": "2026-11-11",

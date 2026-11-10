@@ -15,49 +15,49 @@
             "color": "#3178c6",
             "size": 1106878,
             "repoCount": 9,
-            "progress": "43.59"
+            "progress": "43.31"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 618762,
+            "size": 635064,
             "repoCount": 1,
-            "progress": "24.37"
+            "progress": "24.85"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "24.11"
+            "progress": "23.96"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
             "size": 73553,
             "repoCount": 1,
-            "progress": "2.90"
+            "progress": "2.88"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63522,
             "repoCount": 7,
-            "progress": "2.50"
+            "progress": "2.49"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 31427,
             "repoCount": 5,
-            "progress": "1.24"
+            "progress": "1.23"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.75"
+            "progress": "0.74"
         },
         {
             "name": "PowerShell",
@@ -93,6 +93,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 26,
+            "title": "fix(selection): preserve clipboard images during selection fallback",
+            "url": "https://github.com/doyuli/sotto/pull/26",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 588,
+            "deletions": 78,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-10T07:28:41Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 25,
+            "title": "fix(bubble): preserve language popups and hide on external focus",
+            "url": "https://github.com/doyuli/sotto/pull/25",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 313,
+            "deletions": 66,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-10T07:01:05Z",
+            "mergedAt": "2026-11-10T07:02:36Z",
+            "closedAt": "2026-11-10T07:02:36Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 24,
+            "title": "fix(translate): translate short inputs without conversational replies",
+            "url": "https://github.com/doyuli/sotto/pull/24",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 201,
+            "deletions": 26,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-10T04:13:53Z",
+            "mergedAt": "2026-11-10T04:14:55Z",
+            "closedAt": "2026-11-10T04:14:55Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 23,
             "title": "fix(bubble): stabilize presentation and cancel dismissed work",
@@ -260,82 +332,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 16,
-            "title": "docs: acknowledge Mygo in English and Chinese READMEs",
-            "url": "https://github.com/doyuli/sotto/pull/16",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T08:03:41Z",
-            "mergedAt": "2026-11-08T08:04:11Z",
-            "closedAt": "2026-11-08T08:04:11Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 15,
-            "title": "feat(translate): add SiliconFlow and Zhipu services",
-            "url": "https://github.com/doyuli/sotto/pull/15",
-            "state": "MERGED",
-            "changedFiles": 19,
-            "additions": 437,
-            "deletions": 38,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T05:37:59Z",
-            "mergedAt": "2026-11-08T07:59:00Z",
-            "closedAt": "2026-11-08T07:59:00Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 14,
-            "title": "docs(pr): clarify pull request template guidance",
-            "url": "https://github.com/doyuli/sotto/pull/14",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T04:53:12Z",
-            "mergedAt": "2026-11-08T04:54:25Z",
-            "closedAt": "2026-11-08T04:54:25Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 602,
+        "total": 607,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1591,7 +1591,7 @@
             },
             {
                 "date": "2026-11-10",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-11-11",

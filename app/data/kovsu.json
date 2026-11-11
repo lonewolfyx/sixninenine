@@ -599,17 +599,113 @@
     },
     "pullRequest": [
         {
+            "number": 24162,
+            "title": "fix(window-manager): clear per-window state when pooled windows return to the pool",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24162",
+            "state": "OPEN",
+            "changedFiles": 14,
+            "additions": 271,
+            "deletions": 28,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-11T04:40:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24158,
+            "title": "refactor(ipc): remove dead legacy IPC channels",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24158",
+            "state": "MERGED",
+            "changedFiles": 8,
+            "additions": 4,
+            "deletions": 166,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-11T03:48:01Z",
+            "mergedAt": "2026-11-11T05:07:01Z",
+            "closedAt": "2026-11-11T05:07:01Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24157,
+            "title": "refactor(file-storage): remove unregistered legacy FileStorage methods",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24157",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 7,
+            "deletions": 415,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-11T03:47:38Z",
+            "mergedAt": "2026-11-11T05:07:26Z",
+            "closedAt": "2026-11-11T05:07:26Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24153,
+            "title": "refactor(remote-access): drop cross-phase IpcApiService dependency",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24153",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-11T02:31:16Z",
+            "mergedAt": "2026-11-11T05:08:46Z",
+            "closedAt": "2026-11-11T05:08:46Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24147,
             "title": "feat(mac-installer): give the DMG window a custom background and layout",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24147",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 19,
             "deletions": 0,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 2,
             "createdAt": "2026-11-10T16:45:02Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-11T05:06:41Z",
+            "closedAt": "2026-11-11T05:06:41Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -654,7 +750,7 @@
             "changedFiles": 3,
             "additions": 58,
             "deletions": 18,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-10T15:37:59Z",
             "mergedAt": null,
             "closedAt": null,
@@ -722,110 +818,14 @@
             "number": 24101,
             "title": "refactor(temporary-chat): move temporary topic routes from DataApi to IpcApi",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24101",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 15,
             "additions": 61,
             "deletions": 398,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-10T06:30:23Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24094,
-            "title": "fix(agent-session): chunk session id lists below the SQLite variable limit",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24094",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 254,
-            "deletions": 126,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-10T05:21:09Z",
-            "mergedAt": "2026-11-10T05:56:15Z",
-            "closedAt": "2026-11-10T05:56:15Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24026,
-            "title": "fix(pi-runtime): extract the goal verdict from fenced or prefixed model text",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24026",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 39,
-            "deletions": 1,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-09T11:26:16Z",
-            "mergedAt": "2026-11-10T06:25:13Z",
-            "closedAt": "2026-11-10T06:25:13Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24025,
-            "title": "fix(pi-durable): flush pending child output before saving a continuation",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24025",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 75,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-09T11:25:55Z",
-            "mergedAt": "2026-11-10T06:25:40Z",
-            "closedAt": "2026-11-10T06:25:40Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24014,
-            "title": "fix(grok-cli): resolve version file through path registry",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24014",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 17,
-            "deletions": 14,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-09T09:54:32Z",
-            "mergedAt": "2026-11-09T10:02:06Z",
-            "closedAt": "2026-11-09T10:02:06Z",
+            "mergedAt": "2026-11-11T06:12:22Z",
+            "closedAt": "2026-11-11T06:12:22Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -840,7 +840,7 @@
         }
     ],
     "contributions": {
-        "total": 1032,
+        "total": 1041,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2100,7 +2100,7 @@
             },
             {
                 "date": "2026-11-11",
-                "count": 2
+                "count": 11
             },
             {
                 "date": "2026-11-12",

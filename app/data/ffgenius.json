@@ -319,17 +319,89 @@
     },
     "pullRequest": [
         {
+            "number": 2703,
+            "title": "fix(editor): use JSX comments for expression children",
+            "url": "https://github.com/l0ng-ai/openidea/pull/2703",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 42,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-11T09:50:44Z",
+            "mergedAt": "2026-11-11T12:53:54Z",
+            "closedAt": "2026-11-11T12:53:54Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
+            "number": 2682,
+            "title": "fix(editor): keep tab actions at the pane edge",
+            "url": "https://github.com/l0ng-ai/openidea/pull/2682",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-11T08:21:58Z",
+            "mergedAt": "2026-11-11T09:35:17Z",
+            "closedAt": "2026-11-11T09:35:17Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
+            "number": 1,
+            "title": "fix(editor): keep tab actions at the pane edge",
+            "url": "https://github.com/ffgenius/openidea/pull/1",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-11T08:17:00Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-11T08:22:29Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "ffgenius/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4"
+                },
+                "url": "https://github.com/ffgenius/openidea"
+            }
+        },
+        {
             "number": 112,
             "title": "feat(plugins): add ffgenius One Dark Pro theme",
             "url": "https://github.com/l0ng-ai/openidea-plugins/pull/112",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 10,
             "deletions": 0,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-11T04:02:59Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-11T11:21:11Z",
+            "closedAt": "2026-11-11T11:21:11Z",
             "repository": {
                 "name": "openidea-plugins",
                 "nameWithOwner": "l0ng-ai/openidea-plugins",
@@ -485,82 +557,10 @@
                 },
                 "url": "https://github.com/antdv-next/antdv-next-pro"
             }
-        },
-        {
-            "number": 891,
-            "title": "fix(docs): remove invalid YAML frontmatter in Masonry en-US doc",
-            "url": "https://github.com/antdv-next/antdv-next/pull/891",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-16T01:58:38Z",
-            "mergedAt": "2026-09-16T06:26:40Z",
-            "closedAt": "2026-09-16T06:26:40Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 886,
-            "title": "fix: port ant-design 6.6.4 fixes (ColorPicker/Splitter/Table/Transfer)",
-            "url": "https://github.com/antdv-next/antdv-next/pull/886",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 277,
-            "deletions": 23,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-15T02:57:07Z",
-            "mergedAt": "2026-09-17T07:02:57Z",
-            "closedAt": "2026-09-17T07:02:57Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
-        },
-        {
-            "number": 877,
-            "title": "docs: normalize component version markers",
-            "url": "https://github.com/antdv-next/antdv-next/pull/877",
-            "state": "MERGED",
-            "changedFiles": 45,
-            "additions": 158,
-            "deletions": 164,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-09-14T07:08:48Z",
-            "mergedAt": "2026-09-16T01:26:49Z",
-            "closedAt": "2026-09-16T01:26:49Z",
-            "repository": {
-                "name": "antdv-next",
-                "nameWithOwner": "antdv-next/antdv-next",
-                "homepageUrl": "https://www.antdv-next.com",
-                "description": "Ant Design for Vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next"
-            }
         }
     ],
     "contributions": {
-        "total": 623,
+        "total": 629,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1820,7 +1820,7 @@
             },
             {
                 "date": "2026-11-11",
-                "count": 9
+                "count": 15
             },
             {
                 "date": "2026-11-12",

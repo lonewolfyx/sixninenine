@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 1106878,
+            "size": 1109021,
             "repoCount": 9,
-            "progress": "43.05"
+            "progress": "43.02"
         },
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 651022,
+            "size": 654422,
             "repoCount": 1,
-            "progress": "25.32"
+            "progress": "25.38"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "23.81"
+            "progress": "23.75"
         },
         {
             "name": "Svelte",
             "color": "#ff3e00",
-            "size": 73553,
+            "size": 74604,
             "repoCount": 1,
-            "progress": "2.86"
+            "progress": "2.89"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 63522,
             "repoCount": 7,
-            "progress": "2.47"
+            "progress": "2.46"
         },
         {
             "name": "HTML",
@@ -93,6 +93,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 28,
+            "title": "fix(ocr): release the Windows worker sooner when idle",
+            "url": "https://github.com/doyuli/sotto/pull/28",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 93,
+            "deletions": 68,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-11T08:46:41Z",
+            "mergedAt": "2026-11-11T08:58:11Z",
+            "closedAt": "2026-11-11T08:58:11Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 27,
+            "title": "fix(bubble): reuse one WebView across translation entries",
+            "url": "https://github.com/doyuli/sotto/pull/27",
+            "state": "MERGED",
+            "changedFiles": 12,
+            "additions": 348,
+            "deletions": 250,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-11T08:36:21Z",
+            "mergedAt": "2026-11-11T08:38:38Z",
+            "closedAt": "2026-11-11T08:38:38Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 26,
             "title": "fix(selection): preserve clipboard images during selection fallback",
@@ -284,58 +332,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 18,
-            "title": "fix(translate): clarify chat request error messages",
-            "url": "https://github.com/doyuli/sotto/pull/18",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 239,
-            "deletions": 24,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T14:32:14Z",
-            "mergedAt": "2026-11-08T14:43:42Z",
-            "closedAt": "2026-11-08T14:43:42Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 17,
-            "title": "feat(translate): support custom SiliconFlow and Zhipu models",
-            "url": "https://github.com/doyuli/sotto/pull/17",
-            "state": "MERGED",
-            "changedFiles": 19,
-            "additions": 603,
-            "deletions": 88,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-08T10:27:35Z",
-            "mergedAt": "2026-11-08T14:22:40Z",
-            "closedAt": "2026-11-08T14:22:40Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 609,
+        "total": 613,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1595,7 +1595,7 @@
             },
             {
                 "date": "2026-11-11",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-12",

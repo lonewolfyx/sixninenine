@@ -7,29 +7,29 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
         "followers": 30,
-        "following": 16
+        "following": 17
     },
     "languages": [
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3370887,
+            "size": 3366812,
             "repoCount": 8,
-            "progress": "85.27"
+            "progress": "85.30"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 343482,
+            "size": 344155,
             "repoCount": 12,
-            "progress": "8.69"
+            "progress": "8.72"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 83500,
             "repoCount": 3,
-            "progress": "2.11"
+            "progress": "2.12"
         },
         {
             "name": "Swift",
@@ -41,16 +41,16 @@
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 55889,
+            "size": 55812,
             "repoCount": 5,
             "progress": "1.41"
         },
         {
             "name": "Less",
             "color": "#1d365d",
-            "size": 20731,
+            "size": 18079,
             "repoCount": 3,
-            "progress": "0.52"
+            "progress": "0.46"
         },
         {
             "name": "Shell",
@@ -198,7 +198,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 27
+                    "totalCount": 28
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -300,6 +300,54 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 59844,
+            "title": "refactor(ConfigProvider): remove unreachable CSS variable key warning",
+            "url": "https://github.com/ant-design/ant-design/pull/59844",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 14,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-12T06:51:58Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59839,
+            "title": "perf: avoid creating the default close icon twice in useClosable",
+            "url": "https://github.com/ant-design/ant-design/pull/59839",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-12T00:38:16Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 1,
             "title": "Implement questionnaire management and response collection",
@@ -491,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59788,
-            "title": "refactor(Steps): remove unused horizontal-alternate selector",
-            "url": "https://github.com/ant-design/ant-design/pull/59788",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-04T01:19:55Z",
-            "mergedAt": "2026-11-10T03:28:13Z",
-            "closedAt": "2026-11-10T03:28:13Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59767,
-            "title": "demo(AutoComplete): fix category search popup styles",
-            "url": "https://github.com/ant-design/ant-design/pull/59767",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 4,
-            "deletions": 14,
-            "totalCommentsCount": 10,
-            "createdAt": "2026-11-02T06:27:32Z",
-            "mergedAt": "2026-11-03T02:20:36Z",
-            "closedAt": "2026-11-03T02:20:36Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5731,
+        "total": 5746,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1802,11 +1802,11 @@
             },
             {
                 "date": "2026-11-11",
-                "count": 14
+                "count": 15
             },
             {
                 "date": "2026-11-12",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-11-13",

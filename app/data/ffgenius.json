@@ -6,7 +6,7 @@
         "url": "https://github.com/ffgenius",
         "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4",
         "pronouns": "he/him",
-        "followers": 44,
+        "followers": 45,
         "following": 82
     },
     "languages": [
@@ -216,7 +216,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 27
+                    "totalCount": 28
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -318,6 +318,54 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 2882,
+            "title": "fix(terminal): clear PowerShell scrollback from explicit signal",
+            "url": "https://github.com/l0ng-ai/openidea/pull/2882",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 136,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-12T03:30:24Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
+            "number": 2,
+            "title": "fix(terminal): clear scrollback after full-screen erase",
+            "url": "https://github.com/ffgenius/openidea/pull/2",
+            "state": "CLOSED",
+            "changedFiles": 2,
+            "additions": 95,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-12T03:28:13Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-12T03:30:42Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "ffgenius/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "ffgenius",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4"
+                },
+                "url": "https://github.com/ffgenius/openidea"
+            }
+        },
         {
             "number": 2703,
             "title": "fix(editor): use JSX comments for expression children",
@@ -442,14 +490,14 @@
             "number": 59828,
             "title": "fix(DatePicker): center time panel cells and prevent scrollbar clipping",
             "url": "https://github.com/ant-design/ant-design/pull/59828",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 14,
             "deletions": 5,
-            "totalCommentsCount": 8,
+            "totalCommentsCount": 9,
             "createdAt": "2026-11-10T02:08:38Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-12T03:30:02Z",
+            "closedAt": "2026-11-12T03:30:02Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -509,58 +557,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 103,
-            "title": "chore(sync): port 5 upstream rc-* changes (slider, virtual-list, tabs)",
-            "url": "https://github.com/antdv-next/vue-components/pull/103",
-            "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 745,
-            "deletions": 33,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-09-17T11:55:16Z",
-            "mergedAt": "2026-09-20T07:05:56Z",
-            "closedAt": "2026-09-20T07:05:56Z",
-            "repository": {
-                "name": "vue-components",
-                "nameWithOwner": "antdv-next/vue-components",
-                "homepageUrl": null,
-                "description": "this is a headless componet for vue",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/vue-components"
-            }
-        },
-        {
-            "number": 21,
-            "title": "feat(pro): introduce comment component",
-            "url": "https://github.com/antdv-next/antdv-next-pro/pull/21",
-            "state": "OPEN",
-            "changedFiles": 34,
-            "additions": 2465,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-09-17T08:48:52Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "antdv-next-pro",
-                "nameWithOwner": "antdv-next/antdv-next-pro",
-                "homepageUrl": "https://pro.antdv-next.com",
-                "description": "Antdv Next Pro Extra mode",
-                "owner": {
-                    "login": "antdv-next",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/178967077?v=4"
-                },
-                "url": "https://github.com/antdv-next/antdv-next-pro"
-            }
         }
     ],
     "contributions": {
-        "total": 629,
+        "total": 632,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1824,7 +1824,7 @@
             },
             {
                 "date": "2026-11-12",
-                "count": 0
+                "count": 3
             },
             {
                 "date": "2026-11-13",

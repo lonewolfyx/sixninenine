@@ -87,6 +87,30 @@
     },
     "pullRequest": [
         {
+            "number": 33,
+            "title": "fix(tooling): restore TypeScript configuration",
+            "url": "https://github.com/doyuli/sotto/pull/33",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 15,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-13T06:20:58Z",
+            "mergedAt": "2026-11-13T06:21:51Z",
+            "closedAt": "2026-11-13T06:21:51Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 32,
             "title": "perf(ocr): avoid output copies and reject oversized captures",
             "url": "https://github.com/doyuli/sotto/pull/32",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 23,
-            "title": "fix(bubble): stabilize presentation and cancel dismissed work",
-            "url": "https://github.com/doyuli/sotto/pull/23",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 1497,
-            "deletions": 98,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-09T10:16:05Z",
-            "mergedAt": "2026-11-09T15:45:01Z",
-            "closedAt": "2026-11-09T15:45:01Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 621,
+        "total": 623,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1596,7 +1596,7 @@
             },
             {
                 "date": "2026-11-13",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-11-14",

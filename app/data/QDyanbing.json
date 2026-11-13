@@ -13,44 +13,44 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3366812,
+            "size": 3403569,
             "repoCount": 8,
-            "progress": "85.30"
+            "progress": "85.35"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 344155,
+            "size": 348160,
             "repoCount": 12,
-            "progress": "8.72"
+            "progress": "8.73"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 83500,
             "repoCount": 3,
-            "progress": "2.12"
+            "progress": "2.09"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.49"
+            "progress": "1.48"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55812,
             "repoCount": 5,
-            "progress": "1.41"
+            "progress": "1.40"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 18079,
             "repoCount": 3,
-            "progress": "0.46"
+            "progress": "0.45"
         },
         {
             "name": "Shell",
@@ -250,7 +250,7 @@
                             "location": null,
                             "twitterUsername": null,
                             "url": "https://github.com/dogledogle",
-                            "websiteUrl": "hidogle.top",
+                            "websiteUrl": null,
                             "status": {
                                 "emoji": ":mag_right:",
                                 "message": "Job hunting"
@@ -278,7 +278,7 @@
                             "id": "MDQ6VXNlcjUxMTg4Njc2",
                             "login": "darkingtail",
                             "name": null,
-                            "bio": "💫 KISS. Open‑source enthusiast.",
+                            "bio": "💫 Open‑source enthusiast.",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/51188676?u=eea82c04262ce0d6679352984e0bba97289110e2&v=4",
                             "company": null,
                             "createdAt": "2019-05-30T06:16:28Z",
@@ -300,6 +300,30 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 59854,
+            "title": "fix(Tabs): prevent drag lag on card tabs",
+            "url": "https://github.com/ant-design/ant-design/pull/59854",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 4,
+            "deletions": 23,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-13T02:02:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
         {
             "number": 59844,
             "title": "refactor(ConfigProvider): remove unreachable CSS variable key warning",
@@ -515,34 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59796,
-            "title": "refactor(Affix): remove redundant measurement status",
-            "url": "https://github.com/ant-design/ant-design/pull/59796",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 18,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-05T00:47:19Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5747,
+        "total": 5763,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1810,7 +1810,7 @@
             },
             {
                 "date": "2026-11-13",
-                "count": 0
+                "count": 16
             },
             {
                 "date": "2026-11-14",

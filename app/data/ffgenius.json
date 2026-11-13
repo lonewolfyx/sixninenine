@@ -268,7 +268,7 @@
                             "location": null,
                             "twitterUsername": null,
                             "url": "https://github.com/dogledogle",
-                            "websiteUrl": "hidogle.top",
+                            "websiteUrl": null,
                             "status": {
                                 "emoji": ":mag_right:",
                                 "message": "Job hunting"
@@ -296,7 +296,7 @@
                             "id": "MDQ6VXNlcjUxMTg4Njc2",
                             "login": "darkingtail",
                             "name": null,
-                            "bio": "💫 KISS. Open‑source enthusiast.",
+                            "bio": "💫 Open‑source enthusiast.",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/51188676?u=eea82c04262ce0d6679352984e0bba97289110e2&v=4",
                             "company": null,
                             "createdAt": "2019-05-30T06:16:28Z",
@@ -318,6 +318,30 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 3040,
+            "title": "fix(vcs): position commit history above message input",
+            "url": "https://github.com/l0ng-ai/openidea/pull/3040",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 54,
+            "deletions": 10,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-13T02:24:12Z",
+            "mergedAt": "2026-11-13T02:54:04Z",
+            "closedAt": "2026-11-13T02:54:04Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
         {
             "number": 2882,
             "title": "fix(terminal): clear PowerShell scrollback from explicit signal",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/lucide-icons/lucide"
             }
-        },
-        {
-            "number": 59376,
-            "title": "feat: re-export the CSS-in-JS runtime from antd",
-            "url": "https://github.com/ant-design/ant-design/pull/59376",
-            "state": "OPEN",
-            "changedFiles": 19,
-            "additions": 112,
-            "deletions": 75,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-09-24T03:40:56Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 633,
+        "total": 637,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1828,7 +1828,7 @@
             },
             {
                 "date": "2026-11-13",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-14",

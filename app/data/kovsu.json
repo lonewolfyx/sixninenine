@@ -241,7 +241,7 @@
                             "name": "Flo Edelmann",
                             "bio": "",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/202916?u=d0ce6ba6eae6c77e95a3198ef8de56a9905953d4&v=4",
-                            "company": null,
+                            "company": "SFC Energy AG",
                             "createdAt": "2010-02-13T07:44:44Z",
                             "email": "git@flo-edelmann.de",
                             "location": "Munich, Germany",
@@ -599,6 +599,78 @@
     },
     "pullRequest": [
         {
+            "number": 20515,
+            "title": "Update `postcss-selector-parser`",
+            "url": "https://github.com/prettier/prettier/pull/20515",
+            "state": "OPEN",
+            "changedFiles": 12,
+            "additions": 150,
+            "deletions": 52,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-13T17:50:20Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 24417,
+            "title": "chore(deps): drop mime-types in favor of mime",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24417",
+            "state": "MERGED",
+            "changedFiles": 4,
+            "additions": 4,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-13T09:20:37Z",
+            "mergedAt": "2026-11-13T09:27:11Z",
+            "closedAt": "2026-11-13T09:27:11Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24415,
+            "title": "refactor(renderer-utils): consolidate byte-size formatting into formatFileSize",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24415",
+            "state": "MERGED",
+            "changedFiles": 16,
+            "additions": 52,
+            "deletions": 130,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-13T09:09:11Z",
+            "mergedAt": "2026-11-13T10:07:26Z",
+            "closedAt": "2026-11-13T10:07:26Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24311,
             "title": "refactor(renderer-boundary): keep hooks from importing components",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24311",
@@ -676,7 +748,7 @@
             "url": "https://github.com/flint-fyi/flint/pull/3927",
             "state": "OPEN",
             "changedFiles": 3,
-            "additions": 264,
+            "additions": 253,
             "deletions": 30,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-12T04:50:37Z",
@@ -726,7 +798,7 @@
             "changedFiles": 8,
             "additions": 533,
             "deletions": 18,
-            "totalCommentsCount": 4,
+            "totalCommentsCount": 6,
             "createdAt": "2026-11-12T03:52:09Z",
             "mergedAt": null,
             "closedAt": null,
@@ -765,82 +837,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 24162,
-            "title": "fix(window-manager): clear per-window state when pooled windows return to the pool",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24162",
-            "state": "OPEN",
-            "changedFiles": 15,
-            "additions": 272,
-            "deletions": 28,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-11-11T04:40:17Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24158,
-            "title": "refactor(ipc): remove dead legacy IPC channels",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24158",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 4,
-            "deletions": 166,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-11T03:48:01Z",
-            "mergedAt": "2026-11-11T05:07:01Z",
-            "closedAt": "2026-11-11T05:07:01Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24157,
-            "title": "refactor(file-storage): remove unregistered legacy FileStorage methods",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24157",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 7,
-            "deletions": 415,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-11T03:47:38Z",
-            "mergedAt": "2026-11-11T05:07:26Z",
-            "closedAt": "2026-11-11T05:07:26Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1053,
+        "total": 1058,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2108,11 +2108,11 @@
             },
             {
                 "date": "2026-11-13",
-                "count": 1
+                "count": 5
             },
             {
                 "date": "2026-11-14",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-15",

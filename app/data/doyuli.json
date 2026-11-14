@@ -11,67 +11,67 @@
     },
     "languages": [
         {
-            "name": "TypeScript",
-            "color": "#3178c6",
-            "size": 1002595,
-            "repoCount": 9,
-            "progress": "38.81"
-        },
-        {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 867505,
+            "size": 1051733,
             "repoCount": 1,
-            "progress": "33.58"
+            "progress": "38.00"
+        },
+        {
+            "name": "TypeScript",
+            "color": "#3178c6",
+            "size": 1002782,
+            "repoCount": 9,
+            "progress": "36.23"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "23.70"
+            "progress": "22.12"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 37334,
             "repoCount": 6,
-            "progress": "1.45"
+            "progress": "1.35"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "1.19"
+            "progress": "1.11"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.73"
+            "progress": "0.68"
         },
         {
             "name": "PowerShell",
             "color": "#012456",
-            "size": 5893,
+            "size": 6121,
             "repoCount": 1,
-            "progress": "0.23"
+            "progress": "0.22"
         },
         {
             "name": "SCSS",
             "color": "#c6538c",
             "size": 3901,
             "repoCount": 2,
-            "progress": "0.15"
+            "progress": "0.14"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 3751,
             "repoCount": 1,
-            "progress": "0.15"
+            "progress": "0.14"
         },
         {
             "name": "Ruby",
@@ -87,17 +87,17 @@
     },
     "pullRequest": [
         {
-            "number": 33,
-            "title": "fix(tooling): restore TypeScript configuration",
-            "url": "https://github.com/doyuli/sotto/pull/33",
+            "number": 44,
+            "title": "refactor(bubble): keep translation results in the native view",
+            "url": "https://github.com/doyuli/sotto/pull/44",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 15,
-            "deletions": 0,
+            "changedFiles": 10,
+            "additions": 176,
+            "deletions": 247,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-13T06:20:58Z",
-            "mergedAt": "2026-11-13T06:21:51Z",
-            "closedAt": "2026-11-13T06:21:51Z",
+            "createdAt": "2026-11-14T16:25:52Z",
+            "mergedAt": "2026-11-14T16:29:46Z",
+            "closedAt": "2026-11-14T16:29:46Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -111,17 +111,17 @@
             }
         },
         {
-            "number": 32,
-            "title": "perf(ocr): avoid output copies and reject oversized captures",
-            "url": "https://github.com/doyuli/sotto/pull/32",
+            "number": 43,
+            "title": "refactor: remove unused paths and reuse DeepL quota queries",
+            "url": "https://github.com/doyuli/sotto/pull/43",
             "state": "MERGED",
-            "changedFiles": 15,
-            "additions": 630,
-            "deletions": 132,
+            "changedFiles": 19,
+            "additions": 311,
+            "deletions": 182,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-12T14:52:41Z",
-            "mergedAt": "2026-11-12T15:28:38Z",
-            "closedAt": "2026-11-12T15:28:38Z",
+            "createdAt": "2026-11-14T16:16:41Z",
+            "mergedAt": "2026-11-14T16:19:46Z",
+            "closedAt": "2026-11-14T16:19:46Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -135,17 +135,17 @@
             }
         },
         {
-            "number": 31,
-            "title": "feat(settings): migrate settings window to native UI",
-            "url": "https://github.com/doyuli/sotto/pull/31",
+            "number": 42,
+            "title": "test(macos): await native probe completion before quitting",
+            "url": "https://github.com/doyuli/sotto/pull/42",
             "state": "MERGED",
-            "changedFiles": 38,
-            "additions": 3504,
-            "deletions": 4101,
+            "changedFiles": 2,
+            "additions": 16,
+            "deletions": 4,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-12T13:35:45Z",
-            "mergedAt": "2026-11-12T13:58:17Z",
-            "closedAt": "2026-11-12T13:58:18Z",
+            "createdAt": "2026-11-14T15:35:17Z",
+            "mergedAt": "2026-11-14T15:41:03Z",
+            "closedAt": "2026-11-14T15:41:03Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -159,17 +159,17 @@
             }
         },
         {
-            "number": 30,
-            "title": "feat(bubble): migrate translation bubbles to native UI",
-            "url": "https://github.com/doyuli/sotto/pull/30",
+            "number": 41,
+            "title": "fix(release): support macOS distribution without Developer ID",
+            "url": "https://github.com/doyuli/sotto/pull/41",
             "state": "MERGED",
-            "changedFiles": 36,
-            "additions": 3885,
-            "deletions": 3018,
+            "changedFiles": 8,
+            "additions": 20,
+            "deletions": 54,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-12T09:32:51Z",
-            "mergedAt": "2026-11-12T09:35:58Z",
-            "closedAt": "2026-11-12T09:35:58Z",
+            "createdAt": "2026-11-14T14:46:12Z",
+            "mergedAt": "2026-11-14T15:52:19Z",
+            "closedAt": "2026-11-14T15:52:19Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -183,17 +183,41 @@
             }
         },
         {
-            "number": 29,
-            "title": "fix(ocr): limit system fallback to failures and empty text",
-            "url": "https://github.com/doyuli/sotto/pull/29",
+            "number": 40,
+            "title": "chore(perf): record dual-platform memory and package baselines",
+            "url": "https://github.com/doyuli/sotto/pull/40",
+            "state": "CLOSED",
+            "changedFiles": 17,
+            "additions": 955,
+            "deletions": 133,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-14T14:33:08Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-14T15:06:36Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 39,
+            "title": "fix(ocr): cancel active ONNX Runtime inference safely",
+            "url": "https://github.com/doyuli/sotto/pull/39",
             "state": "MERGED",
             "changedFiles": 5,
-            "additions": 94,
-            "deletions": 148,
+            "additions": 126,
+            "deletions": 7,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-12T09:28:24Z",
-            "mergedAt": "2026-11-12T09:31:19Z",
-            "closedAt": "2026-11-12T09:31:20Z",
+            "createdAt": "2026-11-14T14:24:47Z",
+            "mergedAt": "2026-11-14T15:49:11Z",
+            "closedAt": "2026-11-14T15:49:11Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -207,17 +231,17 @@
             }
         },
         {
-            "number": 28,
-            "title": "fix(ocr): release the Windows worker sooner when idle",
-            "url": "https://github.com/doyuli/sotto/pull/28",
+            "number": 38,
+            "title": "perf(macos): remove PNG transfers and yield pasteboard snapshots",
+            "url": "https://github.com/doyuli/sotto/pull/38",
             "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 93,
-            "deletions": 68,
+            "changedFiles": 8,
+            "additions": 478,
+            "deletions": 124,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-11T08:46:41Z",
-            "mergedAt": "2026-11-11T08:58:11Z",
-            "closedAt": "2026-11-11T08:58:11Z",
+            "createdAt": "2026-11-14T14:21:39Z",
+            "mergedAt": "2026-11-14T15:46:03Z",
+            "closedAt": "2026-11-14T15:46:03Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -231,17 +255,17 @@
             }
         },
         {
-            "number": 27,
-            "title": "fix(bubble): reuse one WebView across translation entries",
-            "url": "https://github.com/doyuli/sotto/pull/27",
+            "number": 37,
+            "title": "perf: bound translation jobs and reclaim idle desktop resources",
+            "url": "https://github.com/doyuli/sotto/pull/37",
             "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 348,
-            "deletions": 250,
+            "changedFiles": 17,
+            "additions": 456,
+            "deletions": 108,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-11T08:36:21Z",
-            "mergedAt": "2026-11-11T08:38:38Z",
-            "closedAt": "2026-11-11T08:38:38Z",
+            "createdAt": "2026-11-14T14:14:35Z",
+            "mergedAt": "2026-11-14T15:43:30Z",
+            "closedAt": "2026-11-14T15:43:30Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -255,17 +279,17 @@
             }
         },
         {
-            "number": 26,
-            "title": "fix(selection): preserve clipboard images during selection fallback",
-            "url": "https://github.com/doyuli/sotto/pull/26",
+            "number": 36,
+            "title": "fix: require dual-platform releases and preserve credential preferences",
+            "url": "https://github.com/doyuli/sotto/pull/36",
             "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 588,
-            "deletions": 78,
+            "changedFiles": 16,
+            "additions": 312,
+            "deletions": 87,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-10T07:28:41Z",
-            "mergedAt": "2026-11-10T08:14:03Z",
-            "closedAt": "2026-11-10T08:14:03Z",
+            "createdAt": "2026-11-14T14:07:35Z",
+            "mergedAt": "2026-11-14T15:21:09Z",
+            "closedAt": "2026-11-14T15:21:09Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -279,41 +303,17 @@
             }
         },
         {
-            "number": 25,
-            "title": "fix(bubble): preserve language popups and hide on external focus",
-            "url": "https://github.com/doyuli/sotto/pull/25",
+            "number": 35,
+            "title": "docs: document platform architecture and completed desktop acceptance",
+            "url": "https://github.com/doyuli/sotto/pull/35",
             "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 313,
-            "deletions": 66,
+            "changedFiles": 13,
+            "additions": 391,
+            "deletions": 61,
             "totalCommentsCount": 0,
-            "createdAt": "2026-11-10T07:01:05Z",
-            "mergedAt": "2026-11-10T07:02:36Z",
-            "closedAt": "2026-11-10T07:02:36Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "Sotto 是一款专注于流畅与克制的 Windows 桌面翻译工具 ｜ A lightweight, unobtrusive desktop translator built for Windows users and developers.",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 24,
-            "title": "fix(translate): translate short inputs without conversational replies",
-            "url": "https://github.com/doyuli/sotto/pull/24",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 201,
-            "deletions": 26,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-10T04:13:53Z",
-            "mergedAt": "2026-11-10T04:14:55Z",
-            "closedAt": "2026-11-10T04:14:55Z",
+            "createdAt": "2026-11-14T13:46:46Z",
+            "mergedAt": "2026-11-14T13:48:16Z",
+            "closedAt": "2026-11-14T13:48:16Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -328,7 +328,7 @@
         }
     ],
     "contributions": {
-        "total": 625,
+        "total": 646,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1600,11 +1600,11 @@
             },
             {
                 "date": "2026-11-14",
-                "count": 0
+                "count": 17
             },
             {
                 "date": "2026-11-15",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-16",

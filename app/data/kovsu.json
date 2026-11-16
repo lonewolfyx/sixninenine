@@ -599,12 +599,36 @@
     },
     "pullRequest": [
         {
+            "number": 24639,
+            "title": "fix(tool-approval): stop auto-approving acceptEdits Bash by first command word",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24639",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 102,
+            "deletions": 72,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-16T06:49:45Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 20515,
             "title": "Update `postcss-selector-parser` to v7",
             "url": "https://github.com/prettier/prettier/pull/20515",
             "state": "OPEN",
             "changedFiles": 12,
-            "additions": 150,
+            "additions": 154,
             "deletions": 52,
             "totalCommentsCount": 4,
             "createdAt": "2026-11-13T17:50:20Z",
@@ -813,34 +837,10 @@
                 },
                 "url": "https://github.com/flint-fyi/flint"
             }
-        },
-        {
-            "number": 790,
-            "title": "Mark ignored file tree entries from the Rust ignore rules",
-            "url": "https://github.com/athasdev/athas/pull/790",
-            "state": "OPEN",
-            "changedFiles": 37,
-            "additions": 1333,
-            "deletions": 1097,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-12T03:12:46Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
         }
     ],
     "contributions": {
-        "total": 1060,
+        "total": 1061,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2120,7 +2120,7 @@
             },
             {
                 "date": "2026-11-16",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-17",

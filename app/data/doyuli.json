@@ -87,6 +87,30 @@
     },
     "pullRequest": [
         {
+            "number": 48,
+            "title": "ci: skip checks for documentation-only changes",
+            "url": "https://github.com/doyuli/sotto/pull/48",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 28,
+            "deletions": 6,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-16T01:43:40Z",
+            "mergedAt": "2026-11-16T01:45:21Z",
+            "closedAt": "2026-11-16T01:45:21Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 1,
             "title": "docs: update the Sotto showcase entry",
             "url": "https://github.com/egoist/mygo-showcase/pull/1",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 39,
-            "title": "fix(ocr): cancel active ONNX Runtime inference safely",
-            "url": "https://github.com/doyuli/sotto/pull/39",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 126,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T14:24:47Z",
-            "mergedAt": "2026-11-14T15:49:11Z",
-            "closedAt": "2026-11-14T15:49:11Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 656,
+        "total": 658,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1608,7 +1608,7 @@
             },
             {
                 "date": "2026-11-16",
-                "count": 1
+                "count": 3
             },
             {
                 "date": "2026-11-17",

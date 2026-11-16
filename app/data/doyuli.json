@@ -13,37 +13,37 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1061709,
+            "size": 1087930,
             "repoCount": 1,
-            "progress": "38.22"
+            "progress": "38.80"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1002782,
             "repoCount": 9,
-            "progress": "36.10"
+            "progress": "35.76"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "22.04"
+            "progress": "21.83"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 37334,
             "repoCount": 6,
-            "progress": "1.34"
+            "progress": "1.33"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "1.10"
+            "progress": "1.09"
         },
         {
             "name": "JavaScript",
@@ -71,7 +71,7 @@
             "color": "#89e051",
             "size": 3751,
             "repoCount": 1,
-            "progress": "0.14"
+            "progress": "0.13"
         },
         {
             "name": "Ruby",
@@ -86,6 +86,78 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 51,
+            "title": "fix(settings): unify translation service saves",
+            "url": "https://github.com/doyuli/sotto/pull/51",
+            "state": "MERGED",
+            "changedFiles": 11,
+            "additions": 1169,
+            "deletions": 682,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-16T10:25:32Z",
+            "mergedAt": "2026-11-16T14:12:22Z",
+            "closedAt": "2026-11-16T14:12:22Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 50,
+            "title": "fix(settings): reorder translation shortcuts",
+            "url": "https://github.com/doyuli/sotto/pull/50",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-16T08:25:36Z",
+            "mergedAt": "2026-11-16T08:28:10Z",
+            "closedAt": "2026-11-16T08:28:10Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 49,
+            "title": "fix(screenshot): freeze the desktop before selection",
+            "url": "https://github.com/doyuli/sotto/pull/49",
+            "state": "MERGED",
+            "changedFiles": 43,
+            "additions": 896,
+            "deletions": 695,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-16T08:18:47Z",
+            "mergedAt": "2026-11-16T09:13:20Z",
+            "closedAt": "2026-11-16T09:13:20Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 48,
             "title": "ci: skip checks for documentation-only changes",
@@ -253,82 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 42,
-            "title": "test(macos): await native probe completion before quitting",
-            "url": "https://github.com/doyuli/sotto/pull/42",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 16,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T15:35:17Z",
-            "mergedAt": "2026-11-14T15:41:03Z",
-            "closedAt": "2026-11-14T15:41:03Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 41,
-            "title": "fix(release): support macOS distribution without Developer ID",
-            "url": "https://github.com/doyuli/sotto/pull/41",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 20,
-            "deletions": 54,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T14:46:12Z",
-            "mergedAt": "2026-11-14T15:52:19Z",
-            "closedAt": "2026-11-14T15:52:19Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 40,
-            "title": "chore(perf): record dual-platform memory and package baselines",
-            "url": "https://github.com/doyuli/sotto/pull/40",
-            "state": "CLOSED",
-            "changedFiles": 17,
-            "additions": 955,
-            "deletions": 133,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T14:33:08Z",
-            "mergedAt": null,
-            "closedAt": "2026-11-14T15:06:36Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 658,
+        "total": 664,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1608,7 +1608,7 @@
             },
             {
                 "date": "2026-11-16",
-                "count": 3
+                "count": 9
             },
             {
                 "date": "2026-11-17",

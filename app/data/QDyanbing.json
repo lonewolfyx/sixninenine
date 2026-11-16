@@ -301,6 +301,54 @@
     },
     "pullRequest": [
         {
+            "number": 59877,
+            "title": "fix(Slider): add the missing startPoint type for single sliders",
+            "url": "https://github.com/ant-design/ant-design/pull/59877",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 11,
+            "deletions": 0,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-16T11:46:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59873,
+            "title": "fix(ConfigProvider): return the Space.Compact size from useConfig",
+            "url": "https://github.com/ant-design/ant-design/pull/59873",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 32,
+            "deletions": 22,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-16T07:13:34Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59854,
             "title": "fix(Tabs): prevent drag lag on card tabs",
             "url": "https://github.com/ant-design/ant-design/pull/59854",
@@ -328,14 +376,14 @@
             "number": 59844,
             "title": "refactor(ConfigProvider): remove unreachable CSS variable key warning",
             "url": "https://github.com/ant-design/ant-design/pull/59844",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 0,
             "deletions": 14,
             "totalCommentsCount": 9,
             "createdAt": "2026-11-12T06:51:58Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-16T09:08:16Z",
+            "closedAt": "2026-11-16T09:08:16Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -400,14 +448,14 @@
             "number": 59832,
             "title": "refactor(Form): remove unreachable debounce branch in validation status",
             "url": "https://github.com/ant-design/ant-design/pull/59832",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 8,
             "deletions": 8,
             "totalCommentsCount": 9,
             "createdAt": "2026-11-10T06:09:50Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-16T09:00:51Z",
+            "closedAt": "2026-11-16T09:00:51Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -491,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59803,
-            "title": "refactor(Select): remove unused clear icon logic from useIcons",
-            "url": "https://github.com/ant-design/ant-design/pull/59803",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 0,
-            "deletions": 24,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-06T00:51:50Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59797,
-            "title": "refactor(Watermark): remove unused animation frame ref",
-            "url": "https://github.com/ant-design/ant-design/pull/59797",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-05T00:56:53Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5810,
+        "total": 5816,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1822,7 +1822,7 @@
             },
             {
                 "date": "2026-11-16",
-                "count": 18
+                "count": 24
             },
             {
                 "date": "2026-11-17",

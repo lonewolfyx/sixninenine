@@ -13,7 +13,7 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1087930,
+            "size": 1088017,
             "repoCount": 1,
             "progress": "38.80"
         },
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 53,
+            "title": "feat: add simple translation mode",
+            "url": "https://github.com/doyuli/sotto/pull/53",
+            "state": "OPEN",
+            "changedFiles": 28,
+            "additions": 1542,
+            "deletions": 94,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-17T05:17:08Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 52,
+            "title": "build: upgrade MyGo to v0.9.2",
+            "url": "https://github.com/doyuli/sotto/pull/52",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 99,
+            "deletions": 76,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-17T02:39:50Z",
+            "mergedAt": "2026-11-17T04:39:31Z",
+            "closedAt": "2026-11-17T04:39:31Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 51,
             "title": "fix(settings): unify translation service saves",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 44,
-            "title": "refactor(bubble): keep translation results in the native view",
-            "url": "https://github.com/doyuli/sotto/pull/44",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 176,
-            "deletions": 247,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T16:25:52Z",
-            "mergedAt": "2026-11-14T16:29:46Z",
-            "closedAt": "2026-11-14T16:29:46Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 43,
-            "title": "refactor: remove unused paths and reuse DeepL quota queries",
-            "url": "https://github.com/doyuli/sotto/pull/43",
-            "state": "MERGED",
-            "changedFiles": 19,
-            "additions": 311,
-            "deletions": 182,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-14T16:16:41Z",
-            "mergedAt": "2026-11-14T16:19:46Z",
-            "closedAt": "2026-11-14T16:19:46Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 664,
+        "total": 668,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1612,7 +1612,7 @@
             },
             {
                 "date": "2026-11-17",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-18",

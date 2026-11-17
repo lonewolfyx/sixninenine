@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 3945,
+            "title": "fix(editor): hide final import when folding import runs",
+            "url": "https://github.com/l0ng-ai/openidea/pull/3945",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 83,
+            "deletions": 9,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-17T07:53:56Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
             "number": 3040,
             "title": "fix(vcs): position commit history above message input",
             "url": "https://github.com/l0ng-ai/openidea/pull/3040",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 5149,
-            "title": "fix(site): keep sponsor tiers within content width",
-            "url": "https://github.com/lucide-icons/lucide/pull/5149",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 5,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-03T06:50:12Z",
-            "mergedAt": "2026-11-03T08:41:32Z",
-            "closedAt": "2026-11-03T08:41:32Z",
-            "repository": {
-                "name": "lucide",
-                "nameWithOwner": "lucide-icons/lucide",
-                "homepageUrl": "https://lucide.dev",
-                "description": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. ",
-                "owner": {
-                    "login": "lucide-icons",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66879934?v=4"
-                },
-                "url": "https://github.com/lucide-icons/lucide"
-            }
         }
     ],
     "contributions": {
-        "total": 638,
+        "total": 639,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1844,7 +1844,7 @@
             },
             {
                 "date": "2026-11-17",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-18",

@@ -13,16 +13,16 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 317168,
+            "size": 317851,
             "repoCount": 4,
-            "progress": "99.58"
+            "progress": "99.62"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 1338,
-            "repoCount": 3,
-            "progress": "0.42"
+            "size": 1201,
+            "repoCount": 2,
+            "progress": "0.38"
         }
     ],
     "organizations": {
@@ -30,6 +30,102 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 6,
+            "title": "fix: avoid duplicate builds during publish",
+            "url": "https://github.com/NoiseFan/eslint-plugin/pull/6",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-17T15:21:31Z",
+            "mergedAt": "2026-11-17T15:23:37Z",
+            "closedAt": "2026-11-17T15:23:37Z",
+            "repository": {
+                "name": "eslint-plugin",
+                "nameWithOwner": "NoiseFan/eslint-plugin",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin"
+            }
+        },
+        {
+            "number": 5,
+            "title": "feat(types): generate rule option types during build",
+            "url": "https://github.com/NoiseFan/eslint-plugin/pull/5",
+            "state": "MERGED",
+            "changedFiles": 7,
+            "additions": 75,
+            "deletions": 7,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-17T14:10:30Z",
+            "mergedAt": "2026-11-17T14:28:06Z",
+            "closedAt": "2026-11-17T14:28:07Z",
+            "repository": {
+                "name": "eslint-plugin",
+                "nameWithOwner": "NoiseFan/eslint-plugin",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin"
+            }
+        },
+        {
+            "number": 4,
+            "title": "chore(lint): self-consume the plugin in its own eslint config",
+            "url": "https://github.com/NoiseFan/eslint-plugin/pull/4",
+            "state": "MERGED",
+            "changedFiles": 6,
+            "additions": 12,
+            "deletions": 3,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-17T14:02:16Z",
+            "mergedAt": "2026-11-17T14:08:19Z",
+            "closedAt": "2026-11-17T14:08:19Z",
+            "repository": {
+                "name": "eslint-plugin",
+                "nameWithOwner": "NoiseFan/eslint-plugin",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin"
+            }
+        },
+        {
+            "number": 3,
+            "title": "docs: add badges and center the README header",
+            "url": "https://github.com/NoiseFan/eslint-plugin/pull/3",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 9,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-17T13:52:28Z",
+            "mergedAt": "2026-11-17T14:14:14Z",
+            "closedAt": "2026-11-17T14:14:14Z",
+            "repository": {
+                "name": "eslint-plugin",
+                "nameWithOwner": "NoiseFan/eslint-plugin",
+                "homepageUrl": null,
+                "description": null,
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/eslint-plugin"
+            }
+        },
         {
             "number": 2,
             "title": "refactor: consolidate publishing into the release script",
@@ -173,106 +269,10 @@
                 },
                 "url": "https://github.com/codex-ecosystem/codex-agent-bar"
             }
-        },
-        {
-            "number": 35,
-            "title": "ci(release): automate Homebrew cask publishing",
-            "url": "https://github.com/codex-ecosystem/codex-agent-bar/pull/35",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 772,
-            "deletions": 114,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-27T06:38:09Z",
-            "mergedAt": "2026-10-27T06:43:44Z",
-            "closedAt": "2026-10-27T06:43:44Z",
-            "repository": {
-                "name": "codex-agent-bar",
-                "nameWithOwner": "codex-ecosystem/codex-agent-bar",
-                "homepageUrl": "",
-                "description": "a lightweight macOS menu bar app for monitoring your Codex quota at a glance",
-                "owner": {
-                    "login": "codex-ecosystem",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335008009?v=4"
-                },
-                "url": "https://github.com/codex-ecosystem/codex-agent-bar"
-            }
-        },
-        {
-            "number": 1039,
-            "title": "docs(cn): update /guide",
-            "url": "https://github.com/vitest-dev/docs-cn/pull/1039",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 58,
-            "deletions": 68,
-            "totalCommentsCount": 4,
-            "createdAt": "2026-10-25T03:16:31Z",
-            "mergedAt": "2026-11-09T23:43:21Z",
-            "closedAt": "2026-11-09T23:43:21Z",
-            "repository": {
-                "name": "docs-cn",
-                "nameWithOwner": "vitest-dev/docs-cn",
-                "homepageUrl": "https://cn.vitest.dev",
-                "description": "Vitest 中文文档",
-                "owner": {
-                    "login": "vitest-dev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/95747107?v=4"
-                },
-                "url": "https://github.com/vitest-dev/docs-cn"
-            }
-        },
-        {
-            "number": 1,
-            "title": "ci: adopt @antfu/ni in autofix workflow and enable autofix-ci",
-            "url": "https://github.com/Fan-s-Collective/trace-script/pull/1",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 4,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-10-16T03:22:18Z",
-            "mergedAt": null,
-            "closedAt": "2026-10-16T03:23:13Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "Fan-s-Collective/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "Fan-s-Collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/242322023?v=4"
-                },
-                "url": "https://github.com/Fan-s-Collective/trace-script"
-            }
-        },
-        {
-            "number": 30,
-            "title": "ci: adopt @antfu/ni in autofix workflow and enable autofix-ci",
-            "url": "https://github.com/trace-script/trace-script/pull/30",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 6,
-            "deletions": 4,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-16T03:20:25Z",
-            "mergedAt": "2026-10-16T03:26:33Z",
-            "closedAt": "2026-10-16T03:26:33Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 783,
+        "total": 794,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1556,7 +1556,7 @@
             },
             {
                 "date": "2026-11-17",
-                "count": 8
+                "count": 19
             },
             {
                 "date": "2026-11-18",

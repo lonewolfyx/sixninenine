@@ -13,37 +13,37 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3507342,
+            "size": 3534465,
             "repoCount": 8,
-            "progress": "85.56"
+            "progress": "85.66"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 355452,
             "repoCount": 12,
-            "progress": "8.67"
+            "progress": "8.61"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 83655,
             "repoCount": 3,
-            "progress": "2.04"
+            "progress": "2.03"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.44"
+            "progress": "1.43"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 55812,
             "repoCount": 5,
-            "progress": "1.36"
+            "progress": "1.35"
         },
         {
             "name": "Less",
@@ -301,6 +301,54 @@
     },
     "pullRequest": [
         {
+            "number": 59905,
+            "title": "refactor(Mentions): remove unused internal ref",
+            "url": "https://github.com/ant-design/ant-design/pull/59905",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 4,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-18T09:10:19Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59904,
+            "title": "refactor(ColorPicker): remove unused alpha parameter",
+            "url": "https://github.com/ant-design/ant-design/pull/59904",
+            "state": "CLOSED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 3,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-18T08:26:29Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-18T08:45:04Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59900,
             "title": "refactor(Table): remove unused pagination callback info",
             "url": "https://github.com/ant-design/ant-design/pull/59900",
@@ -491,58 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 1,
-            "title": "Implement questionnaire management and response collection",
-            "url": "https://github.com/QDyanbing/agent-craft-lab/pull/1",
-            "state": "MERGED",
-            "changedFiles": 159,
-            "additions": 11115,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-10T06:30:44Z",
-            "mergedAt": "2026-11-10T06:31:08Z",
-            "closedAt": "2026-11-10T06:31:08Z",
-            "repository": {
-                "name": "agent-craft-lab",
-                "nameWithOwner": "QDyanbing/agent-craft-lab",
-                "homepageUrl": null,
-                "description": "Learning and building AI agents from scratch.",
-                "owner": {
-                    "login": "QDyanbing",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4"
-                },
-                "url": "https://github.com/QDyanbing/agent-craft-lab"
-            }
-        },
-        {
-            "number": 59832,
-            "title": "refactor(Form): remove unreachable debounce branch in validation status",
-            "url": "https://github.com/ant-design/ant-design/pull/59832",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 8,
-            "deletions": 8,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-10T06:09:50Z",
-            "mergedAt": "2026-11-16T09:00:51Z",
-            "closedAt": "2026-11-16T09:00:51Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5831,
+        "total": 5845,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1830,7 +1830,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 4
+                "count": 18
             },
             {
                 "date": "2026-11-19",

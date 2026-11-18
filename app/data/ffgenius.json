@@ -319,17 +319,41 @@
     },
     "pullRequest": [
         {
+            "number": 4170,
+            "title": "fix: collapse multiline imports after keyword",
+            "url": "https://github.com/l0ng-ai/openidea/pull/4170",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 29,
+            "deletions": 4,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-18T08:19:42Z",
+            "mergedAt": "2026-11-18T09:08:23Z",
+            "closedAt": "2026-11-18T09:08:23Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
             "number": 4145,
             "title": "fix(lsp): include workspace folder in ESLint configuration",
             "url": "https://github.com/l0ng-ai/openidea/pull/4145",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 37,
             "deletions": 0,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-18T06:52:53Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-18T08:11:19Z",
+            "closedAt": "2026-11-18T08:11:19Z",
             "repository": {
                 "name": "openidea",
                 "nameWithOwner": "l0ng-ai/openidea",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/ffgenius/openidea"
             }
-        },
-        {
-            "number": 112,
-            "title": "feat(plugins): add ffgenius One Dark Pro theme",
-            "url": "https://github.com/l0ng-ai/openidea-plugins/pull/112",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 10,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-11T04:02:59Z",
-            "mergedAt": "2026-11-11T11:21:11Z",
-            "closedAt": "2026-11-11T11:21:11Z",
-            "repository": {
-                "name": "openidea-plugins",
-                "nameWithOwner": "l0ng-ai/openidea-plugins",
-                "homepageUrl": null,
-                "description": "Registry of community plugins for OpenIDEA",
-                "owner": {
-                    "login": "l0ng-ai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
-                },
-                "url": "https://github.com/l0ng-ai/openidea-plugins"
-            }
         }
     ],
     "contributions": {
-        "total": 649,
+        "total": 652,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1848,7 +1848,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 8
+                "count": 11
             },
             {
                 "date": "2026-11-19",

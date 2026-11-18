@@ -13,51 +13,51 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1088017,
+            "size": 1152093,
             "repoCount": 1,
-            "progress": "38.80"
+            "progress": "40.17"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1002782,
             "repoCount": 9,
-            "progress": "35.76"
+            "progress": "34.96"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "21.83"
+            "progress": "21.35"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 37334,
             "repoCount": 6,
-            "progress": "1.33"
+            "progress": "1.30"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "1.09"
+            "progress": "1.07"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.68"
+            "progress": "0.66"
         },
         {
             "name": "PowerShell",
             "color": "#012456",
             "size": 6121,
             "repoCount": 1,
-            "progress": "0.22"
+            "progress": "0.21"
         },
         {
             "name": "SCSS",
@@ -87,17 +87,41 @@
     },
     "pullRequest": [
         {
+            "number": 54,
+            "title": "fix(bubble): stabilize streaming resize",
+            "url": "https://github.com/doyuli/sotto/pull/54",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 246,
+            "deletions": 220,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-18T09:06:10Z",
+            "mergedAt": "2026-11-18T10:22:35Z",
+            "closedAt": "2026-11-18T10:22:35Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 53,
-            "title": "feat: add simple translation mode",
+            "title": "feat: add Minimal Translation Mode",
             "url": "https://github.com/doyuli/sotto/pull/53",
-            "state": "OPEN",
-            "changedFiles": 33,
-            "additions": 1861,
+            "state": "MERGED",
+            "changedFiles": 34,
+            "additions": 2018,
             "deletions": 110,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-17T05:17:08Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-18T10:25:12Z",
+            "closedAt": "2026-11-18T10:25:12Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 45,
-            "title": "fix(bubble): smooth anchored height changes",
-            "url": "https://github.com/doyuli/sotto/pull/45",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 386,
-            "deletions": 74,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-15T10:31:12Z",
-            "mergedAt": "2026-11-15T13:48:53Z",
-            "closedAt": "2026-11-15T13:48:53Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 668,
+        "total": 672,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1616,7 +1616,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-19",

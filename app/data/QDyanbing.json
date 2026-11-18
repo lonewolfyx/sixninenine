@@ -6,7 +6,7 @@
         "url": "https://github.com/QDyanbing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66234749?u=180e13f748a8218eaf6cb0d5aba420bf1c267072&v=4",
         "pronouns": "",
-        "followers": 30,
+        "followers": 31,
         "following": 17
     },
     "languages": [
@@ -301,6 +301,30 @@
     },
     "pullRequest": [
         {
+            "number": 59900,
+            "title": "refactor(Table): remove unused pagination callback info",
+            "url": "https://github.com/ant-design/ant-design/pull/59900",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 2,
+            "deletions": 6,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-18T00:38:38Z",
+            "mergedAt": "2026-11-18T02:18:45Z",
+            "closedAt": "2026-11-18T02:18:45Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59893,
             "title": "perf(Descriptions): avoid an extra pass when calculating rows",
             "url": "https://github.com/ant-design/ant-design/pull/59893",
@@ -352,14 +376,14 @@
             "number": 59877,
             "title": "fix(Slider): add the missing startPoint type for single sliders",
             "url": "https://github.com/ant-design/ant-design/pull/59877",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 11,
             "deletions": 0,
             "totalCommentsCount": 9,
             "createdAt": "2026-11-16T11:46:34Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-18T06:46:32Z",
+            "closedAt": "2026-11-18T06:46:32Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -515,34 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59827,
-            "title": "refactor(Modal): remove unused mask descendant style",
-            "url": "https://github.com/ant-design/ant-design/pull/59827",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-10T01:54:43Z",
-            "mergedAt": "2026-11-10T09:17:50Z",
-            "closedAt": "2026-11-10T09:17:50Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5827,
+        "total": 5831,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1830,7 +1830,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-19",

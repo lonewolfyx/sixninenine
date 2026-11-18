@@ -319,6 +319,54 @@
     },
     "pullRequest": [
         {
+            "number": 4145,
+            "title": "fix(lsp): include workspace folder in ESLint configuration",
+            "url": "https://github.com/l0ng-ai/openidea/pull/4145",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 37,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-18T06:52:53Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
+            "number": 4098,
+            "title": "fix(editor): fold imports inside Vue script blocks",
+            "url": "https://github.com/l0ng-ai/openidea/pull/4098",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 55,
+            "deletions": 5,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-18T02:42:30Z",
+            "mergedAt": "2026-11-18T03:08:46Z",
+            "closedAt": "2026-11-18T03:08:46Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
             "number": 3945,
             "title": "fix(editor): hide final import when folding import runs",
             "url": "https://github.com/l0ng-ai/openidea/pull/3945",
@@ -509,58 +557,10 @@
                 },
                 "url": "https://github.com/l0ng-ai/openidea-plugins"
             }
-        },
-        {
-            "number": 2568,
-            "title": "fix(editor): anchor color picker and complete color controls",
-            "url": "https://github.com/l0ng-ai/openidea/pull/2568",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 684,
-            "deletions": 109,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-10T17:13:56Z",
-            "mergedAt": "2026-11-10T17:40:07Z",
-            "closedAt": "2026-11-10T17:40:07Z",
-            "repository": {
-                "name": "openidea",
-                "nameWithOwner": "l0ng-ai/openidea",
-                "homepageUrl": "https://openidea.sh",
-                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-                "owner": {
-                    "login": "l0ng-ai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
-                },
-                "url": "https://github.com/l0ng-ai/openidea"
-            }
-        },
-        {
-            "number": 59828,
-            "title": "fix(DatePicker): center time panel cells and prevent scrollbar clipping",
-            "url": "https://github.com/ant-design/ant-design/pull/59828",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 14,
-            "deletions": 5,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-10T02:08:38Z",
-            "mergedAt": "2026-11-12T03:30:02Z",
-            "closedAt": "2026-11-12T03:30:02Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 641,
+        "total": 649,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1848,7 +1848,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 0
+                "count": 8
             },
             {
                 "date": "2026-11-19",

@@ -7,7 +7,7 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/82451257?u=b8e244185dafdb61a7bcaed5f36241dd1b75805b&v=4",
         "pronouns": "",
         "followers": 86,
-        "following": 27
+        "following": 28
     },
     "languages": [
         {
@@ -599,6 +599,102 @@
     },
     "pullRequest": [
         {
+            "number": 24812,
+            "title": "fix(knowledge): validate source URLs with the shared http(s) check",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24812",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 17,
+            "deletions": 22,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-18T05:07:06Z",
+            "mergedAt": "2026-11-18T05:18:38Z",
+            "closedAt": "2026-11-18T05:18:38Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 3999,
+            "title": "fix(core): reuse lint session invalidation for cached lint runs",
+            "url": "https://github.com/flint-fyi/flint/pull/3999",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 149,
+            "deletions": 43,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-18T05:05:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 24811,
+            "title": "fix(selection-agent): stop a stale session from resizing a reused window",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24811",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 24,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-18T04:52:21Z",
+            "mergedAt": "2026-11-18T05:43:57Z",
+            "closedAt": "2026-11-18T05:43:57Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24810,
+            "title": "chore(deps): drop redundant @types/uuid",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24810",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 0,
+            "deletions": 9,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-18T04:41:25Z",
+            "mergedAt": "2026-11-18T04:50:02Z",
+            "closedAt": "2026-11-18T04:50:02Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24680,
             "title": "fix(heartbeat-editor): stop polling heartbeat status while the dialog is closed",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24680",
@@ -741,106 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 24648,
-            "title": "fix(agent-session): read the deleted message once with only the needed columns",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24648",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 16,
-            "deletions": 10,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-16T10:01:18Z",
-            "mergedAt": "2026-11-16T11:28:27Z",
-            "closedAt": "2026-11-16T11:28:27Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24647,
-            "title": "fix(doctor): load only the incident's preceding messages",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24647",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 40,
-            "deletions": 12,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-16T10:01:15Z",
-            "mergedAt": "2026-11-17T06:55:07Z",
-            "closedAt": "2026-11-17T06:55:07Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24639,
-            "title": "fix(tool-approval): stop auto-approving acceptEdits Bash by first command word",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24639",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 102,
-            "deletions": 72,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-16T06:49:45Z",
-            "mergedAt": "2026-11-16T07:46:38Z",
-            "closedAt": "2026-11-16T07:46:38Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 20515,
-            "title": "Update `postcss-selector-parser` to v7",
-            "url": "https://github.com/prettier/prettier/pull/20515",
-            "state": "OPEN",
-            "changedFiles": 12,
-            "additions": 154,
-            "deletions": 52,
-            "totalCommentsCount": 5,
-            "createdAt": "2026-11-13T17:50:20Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 1079,
+        "total": 1089,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2128,7 +2128,7 @@
             },
             {
                 "date": "2026-11-18",
-                "count": 1
+                "count": 11
             },
             {
                 "date": "2026-11-19",

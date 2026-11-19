@@ -13,23 +13,23 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1174800,
+            "size": 1186058,
             "repoCount": 1,
-            "progress": "40.64"
+            "progress": "40.87"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1002782,
             "repoCount": 9,
-            "progress": "34.69"
+            "progress": "34.55"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "21.18"
+            "progress": "21.10"
         },
         {
             "name": "CSS",
@@ -50,7 +50,7 @@
             "color": "#f1e05a",
             "size": 18957,
             "repoCount": 8,
-            "progress": "0.66"
+            "progress": "0.65"
         },
         {
             "name": "PowerShell",
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 58,
+            "title": "docs: add community acknowledgment to README",
+            "url": "https://github.com/doyuli/sotto/pull/58",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 2,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T10:09:06Z",
+            "mergedAt": "2026-11-19T10:12:35Z",
+            "closedAt": "2026-11-19T10:12:35Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 57,
+            "title": "feat: add a shortcut for minimal translation mode",
+            "url": "https://github.com/doyuli/sotto/pull/57",
+            "state": "MERGED",
+            "changedFiles": 18,
+            "additions": 442,
+            "deletions": 111,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T08:42:38Z",
+            "mergedAt": "2026-11-19T13:04:31Z",
+            "closedAt": "2026-11-19T13:04:31Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 56,
             "title": "fix: improve user-facing error messages",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 48,
-            "title": "ci: skip checks for documentation-only changes",
-            "url": "https://github.com/doyuli/sotto/pull/48",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 28,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-16T01:43:40Z",
-            "mergedAt": "2026-11-16T01:45:21Z",
-            "closedAt": "2026-11-16T01:45:21Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 1,
-            "title": "docs: update the Sotto showcase entry",
-            "url": "https://github.com/egoist/mygo-showcase/pull/1",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-15T15:52:05Z",
-            "mergedAt": "2026-11-15T16:21:20Z",
-            "closedAt": "2026-11-15T16:21:20Z",
-            "repository": {
-                "name": "mygo-showcase",
-                "nameWithOwner": "egoist/mygo-showcase",
-                "homepageUrl": "https://mygo.run/showcase",
-                "description": "Apps built with MyGo, shown at mygo.run/showcase",
-                "owner": {
-                    "login": "egoist",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?u=c9a8fee657b629ea1b9a09df4c958f0ed8fac9b1&v=4"
-                },
-                "url": "https://github.com/egoist/mygo-showcase"
-            }
         }
     ],
     "contributions": {
-        "total": 676,
+        "total": 680,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1620,7 +1620,7 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 4
+                "count": 8
             },
             {
                 "date": "2026-11-20",

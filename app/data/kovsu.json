@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 20557,
+            "title": "Fix missing semicolon after `prettier-ignore`d class property",
+            "url": "https://github.com/prettier/prettier/pull/20557",
+            "state": "OPEN",
+            "changedFiles": 11,
+            "additions": 345,
+            "deletions": 20,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-19T08:47:37Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 24908,
+            "title": "fix(tooltip): keep tooltips closed when a menu restores focus after a pointer pick",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24908",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 192,
+            "deletions": 2,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T08:42:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24899,
             "title": "chore(sortable): remove @dnd-kit/core, sortable and utilities",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24899",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 24830,
-            "title": "fix(api-gateway): report overflow token counts in Claude Code's format",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24830",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 86,
-            "deletions": 5,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-18T09:47:38Z",
-            "mergedAt": "2026-11-18T09:53:47Z",
-            "closedAt": "2026-11-18T09:53:47Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24812,
-            "title": "fix(knowledge): validate source URLs with the shared http(s) check",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24812",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 17,
-            "deletions": 22,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-18T05:07:06Z",
-            "mergedAt": "2026-11-18T05:18:38Z",
-            "closedAt": "2026-11-18T05:18:38Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1107,
+        "total": 1109,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2124,7 +2124,7 @@
             },
             {
                 "date": "2026-11-17",
-                "count": 11
+                "count": 10
             },
             {
                 "date": "2026-11-18",
@@ -2132,7 +2132,7 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 16
+                "count": 19
             },
             {
                 "date": "2026-11-20",

@@ -31,17 +31,89 @@
     },
     "pullRequest": [
         {
+            "number": 3,
+            "title": "feat: annotate region screenshots in place and hand off to the editor",
+            "url": "https://github.com/NoiseFan/Plonk/pull/3",
+            "state": "OPEN",
+            "changedFiles": 26,
+            "additions": 600,
+            "deletions": 183,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T13:23:54Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Plonk",
+                "nameWithOwner": "NoiseFan/Plonk",
+                "homepageUrl": "https://ostapondo.github.io/Plonk/",
+                "description": "A native, local macOS toolbox for screenshots, OCR, measuring, keep-awake, pointer tools, shortcuts, windows, workspaces, voice and MCP.",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/Plonk"
+            }
+        },
+        {
+            "number": 2,
+            "title": "feat: region screenshot capture with on-screen quick actions",
+            "url": "https://github.com/NoiseFan/Plonk/pull/2",
+            "state": "OPEN",
+            "changedFiles": 27,
+            "additions": 811,
+            "deletions": 40,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T13:10:10Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Plonk",
+                "nameWithOwner": "NoiseFan/Plonk",
+                "homepageUrl": "https://ostapondo.github.io/Plonk/",
+                "description": "A native, local macOS toolbox for screenshots, OCR, measuring, keep-awake, pointer tools, shortcuts, windows, workspaces, voice and MCP.",
+                "owner": {
+                    "login": "NoiseFan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
+                },
+                "url": "https://github.com/NoiseFan/Plonk"
+            }
+        },
+        {
+            "number": 142,
+            "title": "Feat/control",
+            "url": "https://github.com/ostapondo/Plonk/pull/142",
+            "state": "CLOSED",
+            "changedFiles": 62,
+            "additions": 2771,
+            "deletions": 262,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-19T09:54:24Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-19T12:53:41Z",
+            "repository": {
+                "name": "Plonk",
+                "nameWithOwner": "ostapondo/Plonk",
+                "homepageUrl": "https://ostapondo.github.io/Plonk/",
+                "description": "A native, local macOS toolbox for screenshots, OCR, measuring, keep-awake, pointer tools, shortcuts, windows, workspaces, voice and MCP.",
+                "owner": {
+                    "login": "ostapondo",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/33957189?u=85591cdd63bc6dc0411b2950adb66729dcc05389&v=4"
+                },
+                "url": "https://github.com/ostapondo/Plonk"
+            }
+        },
+        {
             "number": 1,
             "title": "feat: localize the app for Simplified Chinese",
             "url": "https://github.com/NoiseFan/Plonk/pull/1",
-            "state": "OPEN",
-            "changedFiles": 20,
-            "additions": 964,
+            "state": "MERGED",
+            "changedFiles": 21,
+            "additions": 968,
             "deletions": 64,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-19T07:35:28Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-19T08:12:29Z",
+            "closedAt": "2026-11-19T08:12:29Z",
             "repository": {
                 "name": "Plonk",
                 "nameWithOwner": "NoiseFan/Plonk",
@@ -197,82 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/eslint-plugin"
             }
-        },
-        {
-            "number": 36,
-            "title": "feat(chrome-extension): persist trace events to session storage",
-            "url": "https://github.com/trace-script/trace-script/pull/36",
-            "state": "MERGED",
-            "changedFiles": 12,
-            "additions": 438,
-            "deletions": 63,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-04T13:51:13Z",
-            "mergedAt": "2026-11-04T13:58:27Z",
-            "closedAt": "2026-11-04T13:58:27Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
-        },
-        {
-            "number": 2,
-            "title": "feat(repo): aggregate trace messages into call records and trace summaries",
-            "url": "https://github.com/Fan-s-Collective/trace-script/pull/2",
-            "state": "CLOSED",
-            "changedFiles": 116,
-            "additions": 10127,
-            "deletions": 2330,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-28T14:43:52Z",
-            "mergedAt": null,
-            "closedAt": "2026-10-28T14:44:47Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "Fan-s-Collective/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "Fan-s-Collective",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/242322023?v=4"
-                },
-                "url": "https://github.com/Fan-s-Collective/trace-script"
-            }
-        },
-        {
-            "number": 35,
-            "title": "feat(repo): aggregate trace messages into call records and trace summaries",
-            "url": "https://github.com/trace-script/trace-script/pull/35",
-            "state": "MERGED",
-            "changedFiles": 68,
-            "additions": 3404,
-            "deletions": 886,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-10-28T14:37:39Z",
-            "mergedAt": "2026-10-28T23:34:38Z",
-            "closedAt": "2026-10-28T23:34:39Z",
-            "repository": {
-                "name": "trace-script",
-                "nameWithOwner": "trace-script/trace-script",
-                "homepageUrl": "",
-                "description": "Visualize Agent event streams right in your browser extension. Trace every call with the same intuitive clarity as the Network panel.",
-                "owner": {
-                    "login": "trace-script",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/335618650?v=4"
-                },
-                "url": "https://github.com/trace-script/trace-script"
-            }
         }
     ],
     "contributions": {
-        "total": 797,
+        "total": 800,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1564,7 +1564,7 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 2
+                "count": 5
             },
             {
                 "date": "2026-11-20",

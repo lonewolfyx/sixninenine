@@ -13,14 +13,14 @@
         {
             "name": "TypeScript",
             "color": "#3178c6",
-            "size": 3534465,
+            "size": 3568999,
             "repoCount": 8,
-            "progress": "85.66"
+            "progress": "85.69"
         },
         {
             "name": "JavaScript",
             "color": "#f1e05a",
-            "size": 355452,
+            "size": 358439,
             "repoCount": 12,
             "progress": "8.61"
         },
@@ -29,35 +29,35 @@
             "color": "#663399",
             "size": 83655,
             "repoCount": 3,
-            "progress": "2.03"
+            "progress": "2.01"
         },
         {
             "name": "Swift",
             "color": "#F05138",
             "size": 58961,
             "repoCount": 1,
-            "progress": "1.43"
+            "progress": "1.42"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
-            "size": 55812,
+            "size": 56947,
             "repoCount": 5,
-            "progress": "1.35"
+            "progress": "1.37"
         },
         {
             "name": "Less",
             "color": "#1d365d",
             "size": 18079,
             "repoCount": 3,
-            "progress": "0.44"
+            "progress": "0.43"
         },
         {
             "name": "Shell",
             "color": "#89e051",
             "size": 11033,
             "repoCount": 5,
-            "progress": "0.27"
+            "progress": "0.26"
         },
         {
             "name": "Astro",
@@ -301,6 +301,30 @@
     },
     "pullRequest": [
         {
+            "number": 59914,
+            "title": "refactor(Slider): remove redundant tooltip RAF cancellation",
+            "url": "https://github.com/ant-design/ant-design/pull/59914",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 0,
+            "deletions": 2,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-19T09:02:19Z",
+            "mergedAt": "2026-11-19T16:17:15Z",
+            "closedAt": "2026-11-19T16:17:15Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59911,
             "title": "refactor(Radio): remove unused internal ref",
             "url": "https://github.com/ant-design/ant-design/pull/59911",
@@ -515,34 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59844,
-            "title": "refactor(ConfigProvider): remove unreachable CSS variable key warning",
-            "url": "https://github.com/ant-design/ant-design/pull/59844",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 14,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-12T06:51:58Z",
-            "mergedAt": "2026-11-16T09:08:16Z",
-            "closedAt": "2026-11-16T09:08:16Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5846,
+        "total": 5863,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1834,11 +1834,11 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 1
+                "count": 17
             },
             {
                 "date": "2026-11-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-21",

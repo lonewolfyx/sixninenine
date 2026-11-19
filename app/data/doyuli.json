@@ -13,37 +13,37 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1152093,
+            "size": 1174800,
             "repoCount": 1,
-            "progress": "40.17"
+            "progress": "40.64"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1002782,
             "repoCount": 9,
-            "progress": "34.96"
+            "progress": "34.69"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "21.35"
+            "progress": "21.18"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 37334,
             "repoCount": 6,
-            "progress": "1.30"
+            "progress": "1.29"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "1.07"
+            "progress": "1.06"
         },
         {
             "name": "JavaScript",
@@ -64,7 +64,7 @@
             "color": "#c6538c",
             "size": 3901,
             "repoCount": 2,
-            "progress": "0.14"
+            "progress": "0.13"
         },
         {
             "name": "Shell",
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 56,
+            "title": "fix: improve user-facing error messages",
+            "url": "https://github.com/doyuli/sotto/pull/56",
+            "state": "MERGED",
+            "changedFiles": 35,
+            "additions": 668,
+            "deletions": 95,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T02:57:09Z",
+            "mergedAt": "2026-11-19T04:58:11Z",
+            "closedAt": "2026-11-19T04:58:11Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 55,
+            "title": "ci: skip platform checks for draft pull requests",
+            "url": "https://github.com/doyuli/sotto/pull/55",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 3,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-19T01:30:23Z",
+            "mergedAt": "2026-11-19T01:36:36Z",
+            "closedAt": "2026-11-19T01:36:36Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 54,
             "title": "fix(bubble): stabilize streaming resize",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/egoist/mygo-showcase"
             }
-        },
-        {
-            "number": 47,
-            "title": "docs: refresh bilingual READMEs and screenshots",
-            "url": "https://github.com/doyuli/sotto/pull/47",
-            "state": "MERGED",
-            "changedFiles": 8,
-            "additions": 166,
-            "deletions": 124,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-15T15:43:04Z",
-            "mergedAt": "2026-11-15T15:45:19Z",
-            "closedAt": "2026-11-15T15:45:19Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 46,
-            "title": "fix(settings): remove the credential protection notice",
-            "url": "https://github.com/doyuli/sotto/pull/46",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 3,
-            "deletions": 45,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-15T14:05:50Z",
-            "mergedAt": "2026-11-15T14:09:21Z",
-            "closedAt": "2026-11-15T14:09:21Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 672,
+        "total": 676,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -344,11 +344,11 @@
             },
             {
                 "date": "2026-01-04",
-                "count": 5
+                "count": 6
             },
             {
                 "date": "2026-01-05",
-                "count": 13
+                "count": 12
             },
             {
                 "date": "2026-01-06",
@@ -500,11 +500,11 @@
             },
             {
                 "date": "2026-02-12",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-02-13",
-                "count": 2
+                "count": 0
             },
             {
                 "date": "2026-02-14",
@@ -1256,11 +1256,11 @@
             },
             {
                 "date": "2026-08-20",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-08-21",
-                "count": 10
+                "count": 9
             },
             {
                 "date": "2026-08-22",
@@ -1268,11 +1268,11 @@
             },
             {
                 "date": "2026-08-23",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-08-24",
-                "count": 14
+                "count": 13
             },
             {
                 "date": "2026-08-25",
@@ -1564,11 +1564,11 @@
             },
             {
                 "date": "2026-11-05",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-06",
-                "count": 37
+                "count": 36
             },
             {
                 "date": "2026-11-07",
@@ -1620,7 +1620,7 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-20",

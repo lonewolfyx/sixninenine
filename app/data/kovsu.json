@@ -599,17 +599,65 @@
     },
     "pullRequest": [
         {
+            "number": 24968,
+            "title": "refactor(file-utils): remove dead main-process file stubs",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24968",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 0,
+            "deletions": 69,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-20T06:14:21Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 24966,
+            "title": "refactor(model-utils): drop renderer pass-through model predicates",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/24966",
+            "state": "MERGED",
+            "changedFiles": 16,
+            "additions": 45,
+            "deletions": 392,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-20T05:58:20Z",
+            "mergedAt": "2026-11-20T06:07:59Z",
+            "closedAt": "2026-11-20T06:07:59Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 20557,
             "title": "Fix missing semicolon after `prettier-ignore`d class property",
             "url": "https://github.com/prettier/prettier/pull/20557",
-            "state": "OPEN",
-            "changedFiles": 11,
-            "additions": 345,
-            "deletions": 20,
-            "totalCommentsCount": 9,
+            "state": "MERGED",
+            "changedFiles": 14,
+            "additions": 576,
+            "deletions": 24,
+            "totalCommentsCount": 12,
             "createdAt": "2026-11-19T08:47:37Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-20T01:09:09Z",
+            "closedAt": "2026-11-20T01:09:09Z",
             "repository": {
                 "name": "prettier",
                 "nameWithOwner": "prettier/prettier",
@@ -626,14 +674,14 @@
             "number": 24908,
             "title": "fix(tooltip): keep tooltips closed when a menu restores focus after a pointer pick",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24908",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 192,
             "deletions": 2,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-19T08:42:55Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-20T05:13:26Z",
+            "closedAt": "2026-11-20T05:13:26Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 24867,
-            "title": "chore(deps): remove unused root and ui dependencies",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24867",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 1,
-            "deletions": 285,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-18T18:43:11Z",
-            "mergedAt": "2026-11-18T20:13:08Z",
-            "closedAt": "2026-11-18T20:13:08Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24866,
-            "title": "chore(deps): replace nanoid with crypto.randomUUID",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24866",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 4,
-            "deletions": 12,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-18T18:33:27Z",
-            "mergedAt": "2026-11-18T20:13:37Z",
-            "closedAt": "2026-11-18T20:13:37Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1109,
+        "total": 1114,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2136,7 +2136,7 @@
             },
             {
                 "date": "2026-11-20",
-                "count": 0
+                "count": 5
             },
             {
                 "date": "2026-11-21",

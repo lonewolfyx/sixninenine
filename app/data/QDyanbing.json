@@ -301,6 +301,102 @@
     },
     "pullRequest": [
         {
+            "number": 420,
+            "title": "fix: support data attributes in closable",
+            "url": "https://github.com/react-component/notification/pull/420",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 142,
+            "deletions": 3,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-20T01:38:05Z",
+            "mergedAt": "2026-11-20T02:24:01Z",
+            "closedAt": "2026-11-20T02:24:01Z",
+            "repository": {
+                "name": "notification",
+                "nameWithOwner": "react-component/notification",
+                "homepageUrl": "https://react-component.github.io/notification",
+                "description": "🔔 Hook-based React notification primitives for stacked, animated, and accessible notices.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/notification"
+            }
+        },
+        {
+            "number": 591,
+            "title": "fix: support data attributes in closable",
+            "url": "https://github.com/react-component/dialog/pull/591",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 20,
+            "deletions": 5,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-20T01:37:56Z",
+            "mergedAt": "2026-11-20T02:46:50Z",
+            "closedAt": "2026-11-20T02:46:50Z",
+            "repository": {
+                "name": "dialog",
+                "nameWithOwner": "react-component/dialog",
+                "homepageUrl": "https://react-component.github.io/dialog",
+                "description": "💬 A composable dialog component for React.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/dialog"
+            }
+        },
+        {
+            "number": 116,
+            "title": "fix: forward closable data attributes",
+            "url": "https://github.com/react-component/tour/pull/116",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 81,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-20T01:37:54Z",
+            "mergedAt": "2026-11-20T02:51:12Z",
+            "closedAt": "2026-11-20T02:51:12Z",
+            "repository": {
+                "name": "tour",
+                "nameWithOwner": "react-component/tour",
+                "homepageUrl": "https://react-component.github.io/tour",
+                "description": "🧭 Guided React tours with masks, target tracking, keyboard navigation, and custom panels.",
+                "owner": {
+                    "login": "react-component",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
+                },
+                "url": "https://github.com/react-component/tour"
+            }
+        },
+        {
+            "number": 59918,
+            "title": "refactor(Space): remove ineffective Compact memoization",
+            "url": "https://github.com/ant-design/ant-design/pull/59918",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 17,
+            "deletions": 25,
+            "totalCommentsCount": 9,
+            "createdAt": "2026-11-20T00:39:43Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59914,
             "title": "refactor(Slider): remove redundant tooltip RAF cancellation",
             "url": "https://github.com/ant-design/ant-design/pull/59914",
@@ -352,14 +448,14 @@
             "number": 59905,
             "title": "refactor(Mentions): remove unused internal ref",
             "url": "https://github.com/ant-design/ant-design/pull/59905",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 1,
             "deletions": 4,
             "totalCommentsCount": 9,
             "createdAt": "2026-11-18T09:10:19Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-20T07:40:13Z",
+            "closedAt": "2026-11-20T07:40:13Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -443,106 +539,10 @@
                 },
                 "url": "https://github.com/ant-design/ant-design"
             }
-        },
-        {
-            "number": 59886,
-            "title": "fix(Button): prevent unintended transitions on layout changes",
-            "url": "https://github.com/ant-design/ant-design/pull/59886",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 4,
-            "deletions": 1,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-17T02:50:24Z",
-            "mergedAt": "2026-11-17T06:58:45Z",
-            "closedAt": "2026-11-17T06:58:45Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59877,
-            "title": "fix(Slider): add the missing startPoint type for single sliders",
-            "url": "https://github.com/ant-design/ant-design/pull/59877",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 11,
-            "deletions": 0,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-16T11:46:34Z",
-            "mergedAt": "2026-11-18T06:46:32Z",
-            "closedAt": "2026-11-18T06:46:32Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59873,
-            "title": "fix(ConfigProvider): return the Space.Compact size from useConfig",
-            "url": "https://github.com/ant-design/ant-design/pull/59873",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 32,
-            "deletions": 22,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-16T07:13:34Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59854,
-            "title": "fix(Tabs): prevent drag lag on card tabs",
-            "url": "https://github.com/ant-design/ant-design/pull/59854",
-            "state": "OPEN",
-            "changedFiles": 3,
-            "additions": 4,
-            "deletions": 23,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-13T02:02:31Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
         }
     ],
     "contributions": {
-        "total": 5863,
+        "total": 5875,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1834,11 +1834,11 @@
             },
             {
                 "date": "2026-11-19",
-                "count": 17
+                "count": 21
             },
             {
                 "date": "2026-11-20",
-                "count": 1
+                "count": 9
             },
             {
                 "date": "2026-11-21",

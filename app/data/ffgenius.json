@@ -6,7 +6,7 @@
         "url": "https://github.com/ffgenius",
         "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4",
         "pronouns": "he/him",
-        "followers": 45,
+        "followers": 46,
         "following": 82
     },
     "languages": [
@@ -319,6 +319,30 @@
     },
     "pullRequest": [
         {
+            "number": 4669,
+            "title": "fix(vcs): enlarge deleted line marker hit area",
+            "url": "https://github.com/l0ng-ai/openidea/pull/4669",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 55,
+            "deletions": 9,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-20T03:07:04Z",
+            "mergedAt": "2026-11-20T03:23:38Z",
+            "closedAt": "2026-11-20T03:23:38Z",
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
+        {
             "number": 272,
             "title": "chore: update One Dark Pro to 0.0.3",
             "url": "https://github.com/l0ng-ai/openidea-plugins/pull/272",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/l0ng-ai/openidea"
             }
-        },
-        {
-            "number": 2,
-            "title": "fix(terminal): clear scrollback after full-screen erase",
-            "url": "https://github.com/ffgenius/openidea/pull/2",
-            "state": "CLOSED",
-            "changedFiles": 2,
-            "additions": 95,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-12T03:28:13Z",
-            "mergedAt": null,
-            "closedAt": "2026-11-12T03:30:42Z",
-            "repository": {
-                "name": "openidea",
-                "nameWithOwner": "ffgenius/openidea",
-                "homepageUrl": "https://openidea.sh",
-                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-                "owner": {
-                    "login": "ffgenius",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/106022674?u=b628d2017650bb954da6a20413092c1b7ece7a5a&v=4"
-                },
-                "url": "https://github.com/ffgenius/openidea"
-            }
         }
     ],
     "contributions": {
-        "total": 661,
+        "total": 663,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1856,7 +1856,7 @@
             },
             {
                 "date": "2026-11-20",
-                "count": 0
+                "count": 2
             },
             {
                 "date": "2026-11-21",

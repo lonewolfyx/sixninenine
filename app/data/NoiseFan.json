@@ -31,6 +31,30 @@
     },
     "pullRequest": [
         {
+            "number": 157,
+            "title": "feat: configure annotation color and width in screenshot Quick Actions",
+            "url": "https://github.com/ostapondo/Plonk/pull/157",
+            "state": "OPEN",
+            "changedFiles": 71,
+            "additions": 3501,
+            "deletions": 103,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-21T10:33:28Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "Plonk",
+                "nameWithOwner": "ostapondo/Plonk",
+                "homepageUrl": "https://ostapondo.github.io/Plonk/",
+                "description": "A native, local macOS toolbox for screenshots, OCR, measuring, keep-awake, pointer tools, shortcuts, windows, workspaces, voice and MCP.",
+                "owner": {
+                    "login": "ostapondo",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/33957189?u=85591cdd63bc6dc0411b2950adb66729dcc05389&v=4"
+                },
+                "url": "https://github.com/ostapondo/Plonk"
+            }
+        },
+        {
             "number": 156,
             "title": "feat: edit and lock screenshot selection dimensions",
             "url": "https://github.com/ostapondo/Plonk/pull/156",
@@ -245,34 +269,10 @@
                 },
                 "url": "https://github.com/NoiseFan/Plonk"
             }
-        },
-        {
-            "number": 3,
-            "title": "feat: annotate region screenshots in place and hand off to the editor",
-            "url": "https://github.com/NoiseFan/Plonk/pull/3",
-            "state": "OPEN",
-            "changedFiles": 26,
-            "additions": 600,
-            "deletions": 183,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-19T13:23:54Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "Plonk",
-                "nameWithOwner": "NoiseFan/Plonk",
-                "homepageUrl": "https://ostapondo.github.io/Plonk/",
-                "description": "A native, local macOS toolbox for screenshots, OCR, measuring, keep-awake, pointer tools, shortcuts, windows, workspaces, voice and MCP.",
-                "owner": {
-                    "login": "NoiseFan",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/59094614?u=99aebdaeb7c239561180954554566b2aadd1cf54&v=4"
-                },
-                "url": "https://github.com/NoiseFan/Plonk"
-            }
         }
     ],
     "contributions": {
-        "total": 810,
+        "total": 812,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1572,11 +1572,11 @@
             },
             {
                 "date": "2026-11-21",
-                "count": 2
+                "count": 3
             },
             {
                 "date": "2026-11-22",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-23",

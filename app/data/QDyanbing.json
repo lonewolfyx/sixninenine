@@ -301,185 +301,17 @@
     },
     "pullRequest": [
         {
-            "number": 420,
-            "title": "fix: support data attributes in closable",
-            "url": "https://github.com/react-component/notification/pull/420",
-            "state": "MERGED",
+            "number": 59963,
+            "title": "fix: keep Table headers aligned when scrolling horizontally",
+            "url": "https://github.com/ant-design/ant-design/pull/59963",
+            "state": "OPEN",
             "changedFiles": 2,
-            "additions": 142,
-            "deletions": 3,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-20T01:38:05Z",
-            "mergedAt": "2026-11-20T02:24:01Z",
-            "closedAt": "2026-11-20T02:24:01Z",
-            "repository": {
-                "name": "notification",
-                "nameWithOwner": "react-component/notification",
-                "homepageUrl": "https://react-component.github.io/notification",
-                "description": "🔔 Hook-based React notification primitives for stacked, animated, and accessible notices.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/notification"
-            }
-        },
-        {
-            "number": 591,
-            "title": "fix: support data attributes in closable",
-            "url": "https://github.com/react-component/dialog/pull/591",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 20,
-            "deletions": 5,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-20T01:37:56Z",
-            "mergedAt": "2026-11-20T02:46:50Z",
-            "closedAt": "2026-11-20T02:46:50Z",
-            "repository": {
-                "name": "dialog",
-                "nameWithOwner": "react-component/dialog",
-                "homepageUrl": "https://react-component.github.io/dialog",
-                "description": "💬 A composable dialog component for React.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/dialog"
-            }
-        },
-        {
-            "number": 116,
-            "title": "fix: forward closable data attributes",
-            "url": "https://github.com/react-component/tour/pull/116",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 81,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-20T01:37:54Z",
-            "mergedAt": "2026-11-20T02:51:12Z",
-            "closedAt": "2026-11-20T02:51:12Z",
-            "repository": {
-                "name": "tour",
-                "nameWithOwner": "react-component/tour",
-                "homepageUrl": "https://react-component.github.io/tour",
-                "description": "🧭 Guided React tours with masks, target tracking, keyboard navigation, and custom panels.",
-                "owner": {
-                    "login": "react-component",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/9441414?v=4"
-                },
-                "url": "https://github.com/react-component/tour"
-            }
-        },
-        {
-            "number": 59918,
-            "title": "refactor(Space): remove ineffective Compact memoization",
-            "url": "https://github.com/ant-design/ant-design/pull/59918",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 17,
-            "deletions": 25,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-20T00:39:43Z",
-            "mergedAt": "2026-11-20T07:53:16Z",
-            "closedAt": "2026-11-20T07:53:16Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59914,
-            "title": "refactor(Slider): remove redundant tooltip RAF cancellation",
-            "url": "https://github.com/ant-design/ant-design/pull/59914",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 0,
-            "deletions": 2,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-19T09:02:19Z",
-            "mergedAt": "2026-11-19T16:17:15Z",
-            "closedAt": "2026-11-19T16:17:15Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59911,
-            "title": "refactor(Radio): remove unused internal ref",
-            "url": "https://github.com/ant-design/ant-design/pull/59911",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-19T02:12:16Z",
-            "mergedAt": "2026-11-20T07:51:18Z",
-            "closedAt": "2026-11-20T07:51:18Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59905,
-            "title": "refactor(Mentions): remove unused internal ref",
-            "url": "https://github.com/ant-design/ant-design/pull/59905",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 4,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-18T09:10:19Z",
-            "mergedAt": "2026-11-20T07:40:13Z",
-            "closedAt": "2026-11-20T07:40:13Z",
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59904,
-            "title": "refactor(ColorPicker): remove unused alpha parameter",
-            "url": "https://github.com/ant-design/ant-design/pull/59904",
-            "state": "CLOSED",
-            "changedFiles": 1,
-            "additions": 3,
-            "deletions": 3,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-18T08:26:29Z",
+            "additions": 8,
+            "deletions": 0,
+            "totalCommentsCount": 6,
+            "createdAt": "2026-11-23T07:54:44Z",
             "mergedAt": null,
-            "closedAt": "2026-11-18T08:45:04Z",
+            "closedAt": null,
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -493,17 +325,65 @@
             }
         },
         {
-            "number": 59900,
-            "title": "refactor(Table): remove unused pagination callback info",
-            "url": "https://github.com/ant-design/ant-design/pull/59900",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 2,
+            "number": 59959,
+            "title": "feat(Splitter): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59959",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 143,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:36:05Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59958,
+            "title": "feat(Collapse): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59958",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 157,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:55Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59957,
+            "title": "feat(Tabs): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59957",
+            "state": "OPEN",
+            "changedFiles": 6,
+            "additions": 275,
             "deletions": 6,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-18T00:38:38Z",
-            "mergedAt": "2026-11-18T02:18:45Z",
-            "closedAt": "2026-11-18T02:18:45Z",
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:46Z",
+            "mergedAt": null,
+            "closedAt": null,
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -517,17 +397,137 @@
             }
         },
         {
-            "number": 59893,
-            "title": "perf(Descriptions): avoid an extra pass when calculating rows",
-            "url": "https://github.com/ant-design/ant-design/pull/59893",
+            "number": 59956,
+            "title": "feat(ColorPicker): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59956",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 138,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59955,
+            "title": "feat(Popconfirm): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59955",
             "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 24,
-            "deletions": 26,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-17T06:11:35Z",
-            "mergedAt": "2026-11-20T08:46:15Z",
-            "closedAt": "2026-11-20T08:46:15Z",
+            "changedFiles": 5,
+            "additions": 144,
+            "deletions": 2,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:27Z",
+            "mergedAt": "2026-11-23T02:18:08Z",
+            "closedAt": "2026-11-23T02:18:08Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59954,
+            "title": "feat(Popover): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59954",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 188,
+            "deletions": 3,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:18Z",
+            "mergedAt": "2026-11-23T02:17:14Z",
+            "closedAt": "2026-11-23T02:17:14Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59953,
+            "title": "feat(Tooltip): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59953",
+            "state": "MERGED",
+            "changedFiles": 5,
+            "additions": 223,
+            "deletions": 3,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:35:08Z",
+            "mergedAt": "2026-11-23T02:15:37Z",
+            "closedAt": "2026-11-23T02:15:37Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59952,
+            "title": "feat(Dropdown): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59952",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 169,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:34:57Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
+            "number": 59951,
+            "title": "feat(Drawer): support ConfigProvider destroyOnHidden",
+            "url": "https://github.com/ant-design/ant-design/pull/59951",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 159,
+            "deletions": 4,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-23T01:34:47Z",
+            "mergedAt": null,
+            "closedAt": null,
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -542,7 +542,7 @@
         }
     ],
     "contributions": {
-        "total": 5913,
+        "total": 5928,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1846,11 +1846,11 @@
             },
             {
                 "date": "2026-11-22",
-                "count": 15
+                "count": 16
             },
             {
                 "date": "2026-11-23",
-                "count": 0
+                "count": 14
             },
             {
                 "date": "2026-11-24",

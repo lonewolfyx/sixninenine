@@ -198,7 +198,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 29
+                    "totalCount": 30
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -301,6 +301,30 @@
     },
     "pullRequest": [
         {
+            "number": 59977,
+            "title": "fix: preserve zero-valued Steps icons",
+            "url": "https://github.com/ant-design/ant-design/pull/59977",
+            "state": "MERGED",
+            "changedFiles": 3,
+            "additions": 14,
+            "deletions": 2,
+            "totalCommentsCount": 7,
+            "createdAt": "2026-11-24T08:55:36Z",
+            "mergedAt": "2026-11-24T09:14:22Z",
+            "closedAt": "2026-11-24T09:14:22Z",
+            "repository": {
+                "name": "ant-design",
+                "nameWithOwner": "ant-design/ant-design",
+                "homepageUrl": "https://ant.design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "owner": {
+                    "login": "ant-design",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
+                },
+                "url": "https://github.com/ant-design/ant-design"
+            }
+        },
+        {
             "number": 59963,
             "title": "fix: keep Table headers aligned when scrolling horizontally",
             "url": "https://github.com/ant-design/ant-design/pull/59963",
@@ -328,14 +352,14 @@
             "number": 59959,
             "title": "feat(Splitter): support ConfigProvider destroyOnHidden",
             "url": "https://github.com/ant-design/ant-design/pull/59959",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 143,
             "deletions": 4,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-23T01:36:05Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-24T03:32:56Z",
+            "closedAt": "2026-11-24T03:32:56Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -352,14 +376,14 @@
             "number": 59958,
             "title": "feat(Collapse): support ConfigProvider destroyOnHidden",
             "url": "https://github.com/ant-design/ant-design/pull/59958",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 157,
             "deletions": 4,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-23T01:35:55Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-24T03:33:42Z",
+            "closedAt": "2026-11-24T03:33:42Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -376,14 +400,14 @@
             "number": 59957,
             "title": "feat(Tabs): support ConfigProvider destroyOnHidden",
             "url": "https://github.com/ant-design/ant-design/pull/59957",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 6,
             "additions": 275,
             "deletions": 6,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-23T01:35:46Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-24T03:34:06Z",
+            "closedAt": "2026-11-24T03:34:06Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -400,14 +424,14 @@
             "number": 59956,
             "title": "feat(ColorPicker): support ConfigProvider destroyOnHidden",
             "url": "https://github.com/ant-design/ant-design/pull/59956",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 138,
             "deletions": 4,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-23T01:35:36Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-24T03:34:47Z",
+            "closedAt": "2026-11-24T03:34:47Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -496,38 +520,14 @@
             "number": 59952,
             "title": "feat(Dropdown): support ConfigProvider destroyOnHidden",
             "url": "https://github.com/ant-design/ant-design/pull/59952",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 169,
             "deletions": 4,
             "totalCommentsCount": 7,
             "createdAt": "2026-11-23T01:34:57Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "ant-design",
-                "nameWithOwner": "ant-design/ant-design",
-                "homepageUrl": "https://ant.design",
-                "description": "An enterprise-class UI design language and React UI library",
-                "owner": {
-                    "login": "ant-design",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4"
-                },
-                "url": "https://github.com/ant-design/ant-design"
-            }
-        },
-        {
-            "number": 59951,
-            "title": "feat(Drawer): support ConfigProvider destroyOnHidden",
-            "url": "https://github.com/ant-design/ant-design/pull/59951",
-            "state": "OPEN",
-            "changedFiles": 5,
-            "additions": 159,
-            "deletions": 4,
-            "totalCommentsCount": 7,
-            "createdAt": "2026-11-23T01:34:47Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-24T03:36:06Z",
+            "closedAt": "2026-11-24T03:36:06Z",
             "repository": {
                 "name": "ant-design",
                 "nameWithOwner": "ant-design/ant-design",
@@ -542,7 +542,7 @@
         }
     ],
     "contributions": {
-        "total": 5931,
+        "total": 5942,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1854,7 +1854,7 @@
             },
             {
                 "date": "2026-11-24",
-                "count": 0
+                "count": 11
             },
             {
                 "date": "2026-11-25",

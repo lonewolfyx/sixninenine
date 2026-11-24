@@ -216,7 +216,7 @@
                 "websiteUrl": null,
                 "twitterUsername": null,
                 "repositories": {
-                    "totalCount": 29
+                    "totalCount": 30
                 },
                 "membersWithRole": {
                     "nodes": [
@@ -318,6 +318,30 @@
         "totalCount": 2
     },
     "pullRequest": [
+        {
+            "number": 5620,
+            "title": "fix(editor): parse JSX in JavaScript files",
+            "url": "https://github.com/l0ng-ai/openidea/pull/5620",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 77,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T10:03:12Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "openidea",
+                "nameWithOwner": "l0ng-ai/openidea",
+                "homepageUrl": "https://openidea.sh",
+                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+                "owner": {
+                    "login": "l0ng-ai",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
+                },
+                "url": "https://github.com/l0ng-ai/openidea"
+            }
+        },
         {
             "number": 4669,
             "title": "fix(vcs): enlarge deleted line marker hit area",
@@ -533,34 +557,10 @@
                 },
                 "url": "https://github.com/l0ng-ai/openidea"
             }
-        },
-        {
-            "number": 2882,
-            "title": "fix(terminal): clear PowerShell scrollback from explicit signal",
-            "url": "https://github.com/l0ng-ai/openidea/pull/2882",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 152,
-            "deletions": 1,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-12T03:30:24Z",
-            "mergedAt": "2026-11-12T15:07:45Z",
-            "closedAt": "2026-11-12T15:07:45Z",
-            "repository": {
-                "name": "openidea",
-                "nameWithOwner": "l0ng-ai/openidea",
-                "homepageUrl": "https://openidea.sh",
-                "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-                "owner": {
-                    "login": "l0ng-ai",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/24760907?u=e3b20ae3fbdd1b369d53d06ed9c8de701e78b278&v=4"
-                },
-                "url": "https://github.com/l0ng-ai/openidea"
-            }
         }
     ],
     "contributions": {
-        "total": 664,
+        "total": 668,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1872,7 +1872,7 @@
             },
             {
                 "date": "2026-11-24",
-                "count": 0
+                "count": 4
             },
             {
                 "date": "2026-11-25",

@@ -599,6 +599,198 @@
     },
     "pullRequest": [
         {
+            "number": 25273,
+            "title": "feat(chat): show where the recent-messages limit cuts Home chat history",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25273",
+            "state": "OPEN",
+            "changedFiles": 41,
+            "additions": 324,
+            "deletions": 29,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T06:03:17Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25272,
+            "title": "fix(resource-catalog): import containsSupportedVariables from shared promptVariables",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25272",
+            "state": "MERGED",
+            "changedFiles": 1,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T05:58:36Z",
+            "mergedAt": "2026-11-24T06:00:59Z",
+            "closedAt": "2026-11-24T06:00:59Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 4064,
+            "title": "fix(core): reuse lint session invalidation for cached lint runs",
+            "url": "https://github.com/flint-fyi/flint/pull/4064",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 149,
+            "deletions": 43,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-11-24T05:04:11Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "flint",
+                "nameWithOwner": "flint-fyi/flint",
+                "homepageUrl": "https://flint.fyi",
+                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+                "owner": {
+                    "login": "flint-fyi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
+                },
+                "url": "https://github.com/flint-fyi/flint"
+            }
+        },
+        {
+            "number": 801,
+            "title": "Dialogs: Cancel has a fill of its own, and the focus ring waits for the keyboard",
+            "url": "https://github.com/athasdev/athas/pull/801",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 34,
+            "deletions": 14,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T03:51:31Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 800,
+            "title": "Welcome: the header and buttons hold still, and only the choices scroll",
+            "url": "https://github.com/athasdev/athas/pull/800",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 11,
+            "deletions": 7,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T03:14:03Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 25257,
+            "title": "fix(prompt-variables): share one prompt variable engine across main and renderer",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25257",
+            "state": "MERGED",
+            "changedFiles": 9,
+            "additions": 199,
+            "deletions": 309,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T02:55:04Z",
+            "mergedAt": "2026-11-24T05:19:50Z",
+            "closedAt": "2026-11-24T05:19:50Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25256,
+            "title": "refactor(agent-session): share topic id helpers between main and renderer",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25256",
+            "state": "MERGED",
+            "changedFiles": 55,
+            "additions": 77,
+            "deletions": 70,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T02:55:01Z",
+            "mergedAt": "2026-11-24T03:13:08Z",
+            "closedAt": "2026-11-24T03:13:08Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25255,
+            "title": "refactor(renderer-utils): drop renderer copies of shared helpers",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25255",
+            "state": "MERGED",
+            "changedFiles": 37,
+            "additions": 113,
+            "deletions": 204,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-24T02:54:58Z",
+            "mergedAt": "2026-11-24T03:12:50Z",
+            "closedAt": "2026-11-24T03:12:50Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 24968,
             "title": "refactor(file-utils): remove dead main-process file stubs",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/24968",
@@ -645,202 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 20557,
-            "title": "Fix missing semicolon after `prettier-ignore`d class property",
-            "url": "https://github.com/prettier/prettier/pull/20557",
-            "state": "MERGED",
-            "changedFiles": 14,
-            "additions": 576,
-            "deletions": 24,
-            "totalCommentsCount": 12,
-            "createdAt": "2026-11-19T08:47:37Z",
-            "mergedAt": "2026-11-20T01:09:09Z",
-            "closedAt": "2026-11-20T01:09:09Z",
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
-        },
-        {
-            "number": 24908,
-            "title": "fix(tooltip): keep tooltips closed when a menu restores focus after a pointer pick",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24908",
-            "state": "MERGED",
-            "changedFiles": 6,
-            "additions": 192,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-19T08:42:55Z",
-            "mergedAt": "2026-11-20T05:13:26Z",
-            "closedAt": "2026-11-20T05:13:26Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24899,
-            "title": "chore(sortable): remove @dnd-kit/core, sortable and utilities",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24899",
-            "state": "MERGED",
-            "changedFiles": 13,
-            "additions": 6,
-            "deletions": 189,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-19T05:14:31Z",
-            "mergedAt": "2026-11-19T07:07:48Z",
-            "closedAt": "2026-11-19T07:07:48Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24898,
-            "title": "refactor(virtual-list): move grouped drag reordering to @dnd-kit/react",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24898",
-            "state": "MERGED",
-            "changedFiles": 10,
-            "additions": 796,
-            "deletions": 1305,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-19T05:14:17Z",
-            "mergedAt": "2026-11-19T07:07:47Z",
-            "closedAt": "2026-11-19T07:07:47Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24897,
-            "title": "refactor(knowledge-base): move navigator drag ordering to @dnd-kit/react",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24897",
-            "state": "MERGED",
-            "changedFiles": 17,
-            "additions": 402,
-            "deletions": 226,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-19T05:13:53Z",
-            "mergedAt": "2026-11-19T07:07:46Z",
-            "closedAt": "2026-11-19T07:07:46Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24896,
-            "title": "refactor(sortable): share the drag sensors, blur cancel and long-press release through DragDropRoot",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24896",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 214,
-            "deletions": 78,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-19T05:13:33Z",
-            "mergedAt": "2026-11-19T07:07:45Z",
-            "closedAt": "2026-11-19T07:07:45Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24895,
-            "title": "refactor(sortable): drop the unused useDndState hook and take arrayMove from @dnd-kit/helpers",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24895",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 6,
-            "deletions": 35,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-19T05:13:18Z",
-            "mergedAt": "2026-11-19T07:07:43Z",
-            "closedAt": "2026-11-19T07:07:43Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24894,
-            "title": "docs(sortable): propose moving the grouped drag lists to @dnd-kit/react",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24894",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 219,
-            "deletions": 0,
-            "totalCommentsCount": 1,
-            "createdAt": "2026-11-19T05:12:52Z",
-            "mergedAt": "2026-11-19T07:07:42Z",
-            "closedAt": "2026-11-19T07:07:42Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1115,
+        "total": 1128,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2152,7 +2152,7 @@
             },
             {
                 "date": "2026-11-24",
-                "count": 0
+                "count": 13
             },
             {
                 "date": "2026-11-25",

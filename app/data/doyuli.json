@@ -13,23 +13,23 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1237606,
+            "size": 1244534,
             "repoCount": 1,
-            "progress": "41.83"
+            "progress": "41.96"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1007964,
             "repoCount": 9,
-            "progress": "34.07"
+            "progress": "33.99"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "20.69"
+            "progress": "20.64"
         },
         {
             "name": "CSS",
@@ -43,7 +43,7 @@
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "1.04"
+            "progress": "1.03"
         },
         {
             "name": "JavaScript",
@@ -87,17 +87,41 @@
     },
     "pullRequest": [
         {
+            "number": 70,
+            "title": "feat(tray): streamline translation controls and settings",
+            "url": "https://github.com/doyuli/sotto/pull/70",
+            "state": "MERGED",
+            "changedFiles": 13,
+            "additions": 216,
+            "deletions": 53,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-23T10:05:09Z",
+            "mergedAt": "2026-11-23T13:57:21Z",
+            "closedAt": "2026-11-23T13:57:21Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 68,
             "title": "fix(ocr): keep overlapping fragments on the same line",
             "url": "https://github.com/doyuli/sotto/pull/68",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 24,
             "deletions": 2,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-23T05:13:01Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-23T10:06:32Z",
+            "closedAt": "2026-11-23T10:06:32Z",
             "repository": {
                 "name": "sotto",
                 "nameWithOwner": "doyuli/sotto",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 59,
-            "title": "feat(translate): add offline English dictionary",
-            "url": "https://github.com/doyuli/sotto/pull/59",
-            "state": "MERGED",
-            "changedFiles": 18,
-            "additions": 592,
-            "deletions": 220,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-20T08:44:13Z",
-            "mergedAt": "2026-11-20T13:33:46Z",
-            "closedAt": "2026-11-20T13:33:46Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 700,
+        "total": 704,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1636,7 +1636,7 @@
             },
             {
                 "date": "2026-11-23",
-                "count": 15
+                "count": 19
             },
             {
                 "date": "2026-11-24",

@@ -87,6 +87,30 @@
     },
     "pullRequest": [
         {
+            "number": 72,
+            "title": "feat(history): add searchable local translation history",
+            "url": "https://github.com/doyuli/sotto/pull/72",
+            "state": "OPEN",
+            "changedFiles": 42,
+            "additions": 6023,
+            "deletions": 95,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-25T07:06:15Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
             "number": 71,
             "title": "feat(tray): make translation mode switching silent",
             "url": "https://github.com/doyuli/sotto/pull/71",
@@ -301,34 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 61,
-            "title": "feat(settings): prioritize configured translation services",
-            "url": "https://github.com/doyuli/sotto/pull/61",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 309,
-            "deletions": 171,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-22T16:33:31Z",
-            "mergedAt": "2026-11-22T16:36:24Z",
-            "closedAt": "2026-11-22T16:36:24Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 706,
+        "total": 707,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1644,7 +1644,7 @@
             },
             {
                 "date": "2026-11-25",
-                "count": 0
+                "count": 1
             },
             {
                 "date": "2026-11-26",

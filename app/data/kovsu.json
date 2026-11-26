@@ -599,17 +599,113 @@
     },
     "pullRequest": [
         {
+            "number": 20622,
+            "title": "Preserve spaces between url modifiers in `url()`",
+            "url": "https://github.com/prettier/prettier/pull/20622",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 66,
+            "deletions": 1,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-26T14:26:42Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "prettier",
+                "nameWithOwner": "prettier/prettier",
+                "homepageUrl": "https://prettier.io",
+                "description": "Prettier is an opinionated code formatter.",
+                "owner": {
+                    "login": "prettier",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
+                },
+                "url": "https://github.com/prettier/prettier"
+            }
+        },
+        {
+            "number": 25513,
+            "title": "feat(builtin-agent): scrub provider credentials from built-in agent subprocesses",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25513",
+            "state": "CLOSED",
+            "changedFiles": 4,
+            "additions": 196,
+            "deletions": 1,
+            "totalCommentsCount": 1,
+            "createdAt": "2026-11-26T14:25:49Z",
+            "mergedAt": null,
+            "closedAt": "2026-11-26T14:44:03Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25512,
+            "title": "docs(agent-sandbox): specify a base shell sandbox policy for Cherry Support",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25512",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 221,
+            "deletions": 0,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-26T14:16:51Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25488,
+            "title": "fix(builtin-agent): resolve the feedback submission guard through the command parser",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25488",
+            "state": "MERGED",
+            "changedFiles": 10,
+            "additions": 312,
+            "deletions": 50,
+            "totalCommentsCount": 4,
+            "createdAt": "2026-11-26T10:16:27Z",
+            "mergedAt": "2026-11-26T13:35:05Z",
+            "closedAt": "2026-11-26T13:35:05Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 25461,
             "title": "fix(mcp-memory): keep the knowledge graph on disk only",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/25461",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 5,
             "additions": 291,
             "deletions": 200,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 4,
             "createdAt": "2026-11-26T06:50:30Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-26T09:01:29Z",
+            "closedAt": "2026-11-26T09:01:29Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -626,14 +722,14 @@
             "number": 816,
             "title": "Command palette: scrolls smoothly, one line per command",
             "url": "https://github.com/athasdev/athas/pull/816",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 128,
             "deletions": 76,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-26T06:47:29Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-26T10:40:11Z",
+            "closedAt": "2026-11-26T10:40:11Z",
             "repository": {
                 "name": "athas",
                 "nameWithOwner": "athasdev/athas",
@@ -650,14 +746,14 @@
             "number": 815,
             "title": "Editor: the gutter is laid out as VS Code's, and the text starts at the line's highlight",
             "url": "https://github.com/athasdev/athas/pull/815",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 2,
             "additions": 26,
             "deletions": 17,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-26T06:47:26Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-26T10:40:06Z",
+            "closedAt": "2026-11-26T10:40:06Z",
             "repository": {
                 "name": "athas",
                 "nameWithOwner": "athasdev/athas",
@@ -674,14 +770,14 @@
             "number": 814,
             "title": "Workbench: the panes sit flush against their dividers",
             "url": "https://github.com/athasdev/athas/pull/814",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 3,
             "additions": 38,
             "deletions": 34,
             "totalCommentsCount": 0,
             "createdAt": "2026-11-26T06:47:23Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-26T10:40:00Z",
+            "closedAt": "2026-11-26T10:40:00Z",
             "repository": {
                 "name": "athas",
                 "nameWithOwner": "athasdev/athas",
@@ -741,106 +837,10 @@
                 },
                 "url": "https://github.com/CherryHQ/cherry-studio"
             }
-        },
-        {
-            "number": 25272,
-            "title": "fix(resource-catalog): import containsSupportedVariables from shared promptVariables",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/25272",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 1,
-            "deletions": 1,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T05:58:36Z",
-            "mergedAt": "2026-11-24T06:00:59Z",
-            "closedAt": "2026-11-24T06:00:59Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 4064,
-            "title": "fix(core): reuse lint session invalidation for cached lint runs",
-            "url": "https://github.com/flint-fyi/flint/pull/4064",
-            "state": "MERGED",
-            "changedFiles": 5,
-            "additions": 149,
-            "deletions": 43,
-            "totalCommentsCount": 9,
-            "createdAt": "2026-11-24T05:04:11Z",
-            "mergedAt": "2026-11-25T14:24:43Z",
-            "closedAt": "2026-11-25T14:24:43Z",
-            "repository": {
-                "name": "flint",
-                "nameWithOwner": "flint-fyi/flint",
-                "homepageUrl": "https://flint.fyi",
-                "description": "[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-                "owner": {
-                    "login": "flint-fyi",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/251913679?v=4"
-                },
-                "url": "https://github.com/flint-fyi/flint"
-            }
-        },
-        {
-            "number": 801,
-            "title": "Dialogs: Cancel has a fill of its own, and the focus ring waits for the keyboard",
-            "url": "https://github.com/athasdev/athas/pull/801",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 34,
-            "deletions": 14,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T03:51:31Z",
-            "mergedAt": "2026-11-25T16:28:05Z",
-            "closedAt": "2026-11-25T16:28:05Z",
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 800,
-            "title": "Welcome: the header and buttons hold still, and only the choices scroll",
-            "url": "https://github.com/athasdev/athas/pull/800",
-            "state": "MERGED",
-            "changedFiles": 1,
-            "additions": 11,
-            "deletions": 7,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T03:14:03Z",
-            "mergedAt": "2026-11-25T16:02:48Z",
-            "closedAt": "2026-11-25T16:02:49Z",
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
         }
     ],
     "contributions": {
-        "total": 1139,
+        "total": 1149,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2152,7 +2152,7 @@
             },
             {
                 "date": "2026-11-24",
-                "count": 13
+                "count": 12
             },
             {
                 "date": "2026-11-25",
@@ -2160,7 +2160,7 @@
             },
             {
                 "date": "2026-11-26",
-                "count": 8
+                "count": 19
             },
             {
                 "date": "2026-11-27",

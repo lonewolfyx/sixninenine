@@ -13,37 +13,37 @@
         {
             "name": "Go",
             "color": "#00ADD8",
-            "size": 1461000,
+            "size": 1450985,
             "repoCount": 1,
-            "progress": "45.91"
+            "progress": "45.74"
         },
         {
             "name": "TypeScript",
             "color": "#3178c6",
             "size": 1007990,
             "repoCount": 9,
-            "progress": "31.68"
+            "progress": "31.78"
         },
         {
             "name": "Vue",
             "color": "#41b883",
             "size": 612216,
             "repoCount": 7,
-            "progress": "19.24"
+            "progress": "19.30"
         },
         {
             "name": "CSS",
             "color": "#663399",
             "size": 37334,
             "repoCount": 6,
-            "progress": "1.17"
+            "progress": "1.18"
         },
         {
             "name": "HTML",
             "color": "#e34c26",
             "size": 30662,
             "repoCount": 4,
-            "progress": "0.96"
+            "progress": "0.97"
         },
         {
             "name": "JavaScript",
@@ -86,6 +86,54 @@
         "totalCount": 0
     },
     "pullRequest": [
+        {
+            "number": 78,
+            "title": "style(tray): increase Windows outline fill opacity to 85%",
+            "url": "https://github.com/doyuli/sotto/pull/78",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 1,
+            "deletions": 1,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T15:09:25Z",
+            "mergedAt": "2026-11-26T15:12:03Z",
+            "closedAt": "2026-11-26T15:12:03Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
+        {
+            "number": 77,
+            "title": "fix(selection): translate stable selections when clipboard restoration is unavailable",
+            "url": "https://github.com/doyuli/sotto/pull/77",
+            "state": "MERGED",
+            "changedFiles": 35,
+            "additions": 667,
+            "deletions": 868,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T14:57:22Z",
+            "mergedAt": "2026-11-26T15:06:43Z",
+            "closedAt": "2026-11-26T15:06:43Z",
+            "repository": {
+                "name": "sotto",
+                "nameWithOwner": "doyuli/sotto",
+                "homepageUrl": "",
+                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
+                "owner": {
+                    "login": "doyuli",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
+                },
+                "url": "https://github.com/doyuli/sotto"
+            }
+        },
         {
             "number": 76,
             "title": "chore: license Sotto under GPL-3.0-only",
@@ -277,58 +325,10 @@
                 },
                 "url": "https://github.com/doyuli/sotto"
             }
-        },
-        {
-            "number": 66,
-            "title": "perf(ocr): avoid per-pixel allocations when sampling RGBA screenshots",
-            "url": "https://github.com/doyuli/sotto/pull/66",
-            "state": "MERGED",
-            "changedFiles": 2,
-            "additions": 45,
-            "deletions": 3,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-23T01:59:07Z",
-            "mergedAt": "2026-11-23T04:08:00Z",
-            "closedAt": "2026-11-23T04:08:01Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
-        },
-        {
-            "number": 65,
-            "title": "fix: preserve automatic translation direction and login preferences",
-            "url": "https://github.com/doyuli/sotto/pull/65",
-            "state": "MERGED",
-            "changedFiles": 7,
-            "additions": 214,
-            "deletions": 56,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-23T01:45:24Z",
-            "mergedAt": "2026-11-23T01:49:24Z",
-            "closedAt": "2026-11-23T01:49:24Z",
-            "repository": {
-                "name": "sotto",
-                "nameWithOwner": "doyuli/sotto",
-                "homepageUrl": "",
-                "description": "A lightweight, unobtrusive desktop translator for Windows and macOS  - 专注于流畅与克制的跨平台桌面翻译工具",
-                "owner": {
-                    "login": "doyuli",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/88418949?v=4"
-                },
-                "url": "https://github.com/doyuli/sotto"
-            }
         }
     ],
     "contributions": {
-        "total": 716,
+        "total": 720,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -1648,7 +1648,7 @@
             },
             {
                 "date": "2026-11-26",
-                "count": 4
+                "count": 8
             },
             {
                 "date": "2026-11-27",

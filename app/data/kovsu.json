@@ -599,6 +599,126 @@
     },
     "pullRequest": [
         {
+            "number": 25461,
+            "title": "fix(mcp-memory): keep the knowledge graph on disk only",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25461",
+            "state": "OPEN",
+            "changedFiles": 5,
+            "additions": 291,
+            "deletions": 200,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T06:50:30Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 816,
+            "title": "Command palette: scrolls smoothly, one line per command",
+            "url": "https://github.com/athasdev/athas/pull/816",
+            "state": "OPEN",
+            "changedFiles": 4,
+            "additions": 128,
+            "deletions": 76,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T06:47:29Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 815,
+            "title": "Editor: the gutter is laid out as VS Code's, and the text starts at the line's highlight",
+            "url": "https://github.com/athasdev/athas/pull/815",
+            "state": "OPEN",
+            "changedFiles": 2,
+            "additions": 26,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T06:47:26Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 814,
+            "title": "Workbench: the panes sit flush against their dividers",
+            "url": "https://github.com/athasdev/athas/pull/814",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 38,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T06:47:23Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 25453,
+            "title": "fix(cron): parse every durations strictly instead of guessing",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25453",
+            "state": "MERGED",
+            "changedFiles": 2,
+            "additions": 42,
+            "deletions": 29,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-26T06:15:38Z",
+            "mergedAt": "2026-11-26T06:42:40Z",
+            "closedAt": "2026-11-26T06:42:40Z",
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 25273,
             "title": "feat(chat): show where the recent-messages limit cuts Home chat history",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/25273",
@@ -717,130 +837,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 25257,
-            "title": "fix(prompt-variables): share one prompt variable engine across main and renderer",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/25257",
-            "state": "MERGED",
-            "changedFiles": 9,
-            "additions": 199,
-            "deletions": 309,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T02:55:04Z",
-            "mergedAt": "2026-11-24T05:19:50Z",
-            "closedAt": "2026-11-24T05:19:50Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 25256,
-            "title": "refactor(agent-session): share topic id helpers between main and renderer",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/25256",
-            "state": "MERGED",
-            "changedFiles": 55,
-            "additions": 77,
-            "deletions": 70,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T02:55:01Z",
-            "mergedAt": "2026-11-24T03:13:08Z",
-            "closedAt": "2026-11-24T03:13:08Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 25255,
-            "title": "refactor(renderer-utils): drop renderer copies of shared helpers",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/25255",
-            "state": "MERGED",
-            "changedFiles": 37,
-            "additions": 113,
-            "deletions": 204,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-24T02:54:58Z",
-            "mergedAt": "2026-11-24T03:12:50Z",
-            "closedAt": "2026-11-24T03:12:50Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24968,
-            "title": "refactor(file-utils): remove dead main-process file stubs",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24968",
-            "state": "MERGED",
-            "changedFiles": 4,
-            "additions": 0,
-            "deletions": 69,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-20T06:14:21Z",
-            "mergedAt": "2026-11-20T08:33:31Z",
-            "closedAt": "2026-11-20T08:33:31Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 24966,
-            "title": "refactor(model-utils): drop renderer pass-through model predicates",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/24966",
-            "state": "MERGED",
-            "changedFiles": 16,
-            "additions": 45,
-            "deletions": 392,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-20T05:58:20Z",
-            "mergedAt": "2026-11-20T06:07:59Z",
-            "closedAt": "2026-11-20T06:07:59Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
         }
     ],
     "contributions": {
-        "total": 1133,
+        "total": 1139,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2160,7 +2160,7 @@
             },
             {
                 "date": "2026-11-26",
-                "count": 2
+                "count": 8
             },
             {
                 "date": "2026-11-27",

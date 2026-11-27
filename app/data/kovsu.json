@@ -599,6 +599,54 @@
     },
     "pullRequest": [
         {
+            "number": 25609,
+            "title": "docs(agent-sandbox): add failure-time escape guidance after the first AC8 run",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25609",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 34,
+            "deletions": 10,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-27T12:26:22Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25595,
+            "title": "feat(agent-sandbox): sandbox Cherry Support's Bash on macOS",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25595",
+            "state": "OPEN",
+            "changedFiles": 35,
+            "additions": 900,
+            "deletions": 34,
+            "totalCommentsCount": 3,
+            "createdAt": "2026-11-27T09:06:49Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
             "number": 825,
             "title": "Editor: words like the one at the caret light up only after you move it",
             "url": "https://github.com/athasdev/athas/pull/825",
@@ -789,58 +837,10 @@
                 },
                 "url": "https://github.com/athasdev/athas"
             }
-        },
-        {
-            "number": 25559,
-            "title": "feat(agent-sandbox): add the base sandbox policy and its Claude Code translation",
-            "url": "https://github.com/CherryHQ/cherry-studio/pull/25559",
-            "state": "MERGED",
-            "changedFiles": 3,
-            "additions": 184,
-            "deletions": 0,
-            "totalCommentsCount": 2,
-            "createdAt": "2026-11-27T02:44:50Z",
-            "mergedAt": "2026-11-27T06:06:06Z",
-            "closedAt": "2026-11-27T06:06:06Z",
-            "repository": {
-                "name": "cherry-studio",
-                "nameWithOwner": "CherryHQ/cherry-studio",
-                "homepageUrl": "https://cherryai.com",
-                "description": "Your AI workspace for models, agents, and productivity.",
-                "owner": {
-                    "login": "CherryHQ",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
-                },
-                "url": "https://github.com/CherryHQ/cherry-studio"
-            }
-        },
-        {
-            "number": 20622,
-            "title": "Preserve spaces between url modifiers in `url()`",
-            "url": "https://github.com/prettier/prettier/pull/20622",
-            "state": "OPEN",
-            "changedFiles": 4,
-            "additions": 66,
-            "deletions": 1,
-            "totalCommentsCount": 3,
-            "createdAt": "2026-11-26T14:26:42Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "prettier",
-                "nameWithOwner": "prettier/prettier",
-                "homepageUrl": "https://prettier.io",
-                "description": "Prettier is an opinionated code formatter.",
-                "owner": {
-                    "login": "prettier",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/25822731?v=4"
-                },
-                "url": "https://github.com/prettier/prettier"
-            }
         }
     ],
     "contributions": {
-        "total": 1160,
+        "total": 1162,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2164,7 +2164,7 @@
             },
             {
                 "date": "2026-11-27",
-                "count": 11
+                "count": 13
             },
             {
                 "date": "2026-11-28",

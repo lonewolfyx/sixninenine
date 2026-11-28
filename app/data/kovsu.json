@@ -576,7 +576,7 @@
                             "id": "MDQ6VXNlcjg4NTU3NjM5",
                             "login": "lishaduck",
                             "name": "Eli",
-                            "bio": "∃!Earthling; Programmer; Nerd.\r\n∩{TypeScript, Flutter, Svelte, Elm, Python, Zsh, POSIX};\\n\r\n∪{Zig, Java, Nix, Tailwind CSS, Preact};\\r\\n\r\n∖{React}\\r",
+                            "bio": "∃!Earthling; Programmer; Nerd.\r\n∩{TypeScript, Flutter, Svelte, Elm, Python, Zsh, POSIX};\\n\r\n∪{Zig, Java, Nix, Tailwind, Preact};\\r\\n",
                             "avatarUrl": "https://avatars.githubusercontent.com/u/88557639?u=cc8da19e923e55dc296b1f13b56e483d90bc68e6&v=4",
                             "company": "CS Major @RHIT",
                             "createdAt": "2021-08-06T18:50:54Z",
@@ -598,6 +598,150 @@
         "totalCount": 7
     },
     "pullRequest": [
+        {
+            "number": 831,
+            "title": "Editor popovers wrap and fit the window; code boxes scroll sideways",
+            "url": "https://github.com/athasdev/athas/pull/831",
+            "state": "OPEN",
+            "changedFiles": 7,
+            "additions": 45,
+            "deletions": 23,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-28T06:59:36Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 830,
+            "title": "Quick open: the hint row fits, without repeating the picker's keys",
+            "url": "https://github.com/athasdev/athas/pull/830",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 5,
+            "deletions": 16,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-28T06:40:01Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 829,
+            "title": "Markdown preview: opening and closing a block leaves no blank lines behind",
+            "url": "https://github.com/athasdev/athas/pull/829",
+            "state": "OPEN",
+            "changedFiles": 1,
+            "additions": 103,
+            "deletions": 17,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-28T06:34:33Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "athas",
+                "nameWithOwner": "athasdev/athas",
+                "homepageUrl": "https://athas.dev",
+                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
+                "owner": {
+                    "login": "athasdev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
+                },
+                "url": "https://github.com/athasdev/athas"
+            }
+        },
+        {
+            "number": 25703,
+            "title": "feat(agent-sandbox): enable the shell sandbox wherever the Claude Code CLI reports it",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25703",
+            "state": "OPEN",
+            "changedFiles": 9,
+            "additions": 391,
+            "deletions": 48,
+            "totalCommentsCount": 2,
+            "createdAt": "2026-11-28T05:56:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25702,
+            "title": "docs(agent-sandbox): specify sandbox availability on Linux and WSL2",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25702",
+            "state": "OPEN",
+            "changedFiles": 3,
+            "additions": 155,
+            "deletions": 0,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-28T05:47:32Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
+        {
+            "number": 25696,
+            "title": "feat(agent-sandbox): sandbox Cherry Support's Bash on macOS",
+            "url": "https://github.com/CherryHQ/cherry-studio/pull/25696",
+            "state": "OPEN",
+            "changedFiles": 35,
+            "additions": 900,
+            "deletions": 34,
+            "totalCommentsCount": 0,
+            "createdAt": "2026-11-28T05:37:38Z",
+            "mergedAt": null,
+            "closedAt": null,
+            "repository": {
+                "name": "cherry-studio",
+                "nameWithOwner": "CherryHQ/cherry-studio",
+                "homepageUrl": "https://cherryai.com",
+                "description": "Your AI workspace for models, agents, and productivity.",
+                "owner": {
+                    "login": "CherryHQ",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/187777663?v=4"
+                },
+                "url": "https://github.com/CherryHQ/cherry-studio"
+            }
+        },
         {
             "number": 25609,
             "title": "docs(agent-sandbox): add failure-time escape guidance after the first AC8 run",
@@ -626,14 +770,14 @@
             "number": 25595,
             "title": "feat(agent-sandbox): sandbox Cherry Support's Bash on macOS",
             "url": "https://github.com/CherryHQ/cherry-studio/pull/25595",
-            "state": "OPEN",
+            "state": "CLOSED",
             "changedFiles": 35,
             "additions": 900,
             "deletions": 34,
-            "totalCommentsCount": 3,
+            "totalCommentsCount": 4,
             "createdAt": "2026-11-27T09:06:49Z",
             "mergedAt": null,
-            "closedAt": null,
+            "closedAt": "2026-11-28T05:37:59Z",
             "repository": {
                 "name": "cherry-studio",
                 "nameWithOwner": "CherryHQ/cherry-studio",
@@ -650,14 +794,14 @@
             "number": 825,
             "title": "Editor: words like the one at the caret light up only after you move it",
             "url": "https://github.com/athasdev/athas/pull/825",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 4,
             "additions": 11,
             "deletions": 2,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-27T04:12:57Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-27T22:15:10Z",
+            "closedAt": "2026-11-27T22:15:10Z",
             "repository": {
                 "name": "athas",
                 "nameWithOwner": "athasdev/athas",
@@ -674,158 +818,14 @@
             "number": 824,
             "title": "Tabs: the close button keeps clear of the title, and its hover shows on the tab in front",
             "url": "https://github.com/athasdev/athas/pull/824",
-            "state": "OPEN",
+            "state": "MERGED",
             "changedFiles": 1,
             "additions": 6,
             "deletions": 4,
-            "totalCommentsCount": 0,
+            "totalCommentsCount": 1,
             "createdAt": "2026-11-27T04:12:54Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 823,
-            "title": "Editor: the scrollbar thumb hugs the right edge and clears the rounded corner",
-            "url": "https://github.com/athasdev/athas/pull/823",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 13,
-            "deletions": 8,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:54Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 822,
-            "title": "Sidebar: lists run from the header's rule to the bottom, and scroll thumbs hug the edge",
-            "url": "https://github.com/athasdev/athas/pull/822",
-            "state": "OPEN",
-            "changedFiles": 6,
-            "additions": 41,
-            "deletions": 25,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:51Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 821,
-            "title": "Workbench: the panes' dividers reach the frame's border",
-            "url": "https://github.com/athasdev/athas/pull/821",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 2,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:48Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 820,
-            "title": "Toasts and dialogs: the editor's text cursor no longer shows through",
-            "url": "https://github.com/athasdev/athas/pull/820",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 2,
-            "deletions": 0,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:46Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 819,
-            "title": "File tree: every click on a folder opens or closes it",
-            "url": "https://github.com/athasdev/athas/pull/819",
-            "state": "OPEN",
-            "changedFiles": 1,
-            "additions": 10,
-            "deletions": 6,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:42Z",
-            "mergedAt": null,
-            "closedAt": null,
-            "repository": {
-                "name": "athas",
-                "nameWithOwner": "athasdev/athas",
-                "homepageUrl": "https://athas.dev",
-                "description": "A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents, vim keybindings.",
-                "owner": {
-                    "login": "athasdev",
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/217342284?v=4"
-                },
-                "url": "https://github.com/athasdev/athas"
-            }
-        },
-        {
-            "number": 818,
-            "title": "Tabs: a dragged tab keeps its icon, shows where it lands, and can go last",
-            "url": "https://github.com/athasdev/athas/pull/818",
-            "state": "OPEN",
-            "changedFiles": 2,
-            "additions": 83,
-            "deletions": 37,
-            "totalCommentsCount": 0,
-            "createdAt": "2026-11-27T03:52:39Z",
-            "mergedAt": null,
-            "closedAt": null,
+            "mergedAt": "2026-11-27T22:15:28Z",
+            "closedAt": "2026-11-27T22:15:28Z",
             "repository": {
                 "name": "athas",
                 "nameWithOwner": "athasdev/athas",
@@ -840,7 +840,7 @@
         }
     ],
     "contributions": {
-        "total": 1162,
+        "total": 1177,
         "contributions": [
             {
                 "date": "2026-01-01",
@@ -2168,7 +2168,7 @@
             },
             {
                 "date": "2026-11-28",
-                "count": 0
+                "count": 15
             },
             {
                 "date": "2026-11-29",
